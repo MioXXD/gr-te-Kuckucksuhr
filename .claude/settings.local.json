@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(C:UsersdamiaMiniconda3python.exe -c \"from PIL import Image; print\\(''ok''\\)\")",
+      "Bash(python -c \"from PIL import Image; print\\(''ok''\\)\")",
+      "Bash(python3 -c \"from PIL import Image; print\\(''ok''\\)\")",
+      "Bash(python -:*)"
+    ]
+  }
+}
