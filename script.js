@@ -317,3 +317,76 @@ function init3DTilt() {
   observer.observe(document.body, { childList: true, subtree: true });
   document.querySelectorAll('.prod-card').forEach(function(c){ c.setAttribute('data-tilt','1'); });
 }
+
+/* ══════════════════════════════════════════
+   IMPRESSIONEN SLIDESHOW
+══════════════════════════════════════════ */
+(function () {
+  var viewport = document.getElementById('slideshowViewport');
+  var track    = document.getElementById('slideshowTrack');
+  var prevBtn  = document.getElementById('slidePrev');
+  var nextBtn  = document.getElementById('slideNext');
+  var dotsWrap = document.getElementById('slideDots');
+  if (!track) return;
+
+  var items = Array.from(track.querySelectorAll('.slide-item'));
+  var dots  = dotsWrap ? Array.from(dotsWrap.querySelectorAll('.dot')) : [];
+  var total = items.length;
+  var current = 0;
+
+  function getOffset(index) {
+    var vw = viewport.offsetWidth;
+    var itemW = items[0].offsetWidth;
+    var gap = 20;
+    var center = vw / 2 - itemW / 2;
+    return center - index * (itemW + gap);
+  }
+
+  function goTo(n) {
+    current = (n + total) % total;
+    track.style.transform = 'translateX(' + getOffset(current) + 'px)';
+    items.forEach(function (item, i) {
+      item.classList.toggle('active', i === current);
+    });
+    dots.forEach(function (dot, i) {
+      dot.classList.toggle('active', i === current);
+    });
+  }
+
+  /* Buttons */
+  prevBtn.addEventListener('click', function () { goTo(current - 1); });
+  nextBtn.addEventListener('click', function () { goTo(current + 1); });
+
+  /* Dot clicks */
+  dots.forEach(function (dot, i) {
+    dot.addEventListener('click', function () { goTo(i); });
+  });
+
+  /* Keyboard */
+  document.addEventListener('keydown', function (e) {
+    var impressSection = document.getElementById('impressionen');
+    if (!impressSection || !impressSection.classList.contains('active')) return;
+    if (e.key === 'ArrowLeft')  goTo(current - 1);
+    if (e.key === 'ArrowRight') goTo(current + 1);
+  });
+
+  /* Touch / swipe */
+  var touchStartX = 0;
+  var touchStartY = 0;
+  viewport.addEventListener('touchstart', function (e) {
+    touchStartX = e.touches[0].clientX;
+    touchStartY = e.touches[0].clientY;
+  }, { passive: true });
+  viewport.addEventListener('touchend', function (e) {
+    var dx = touchStartX - e.changedTouches[0].clientX;
+    var dy = touchStartY - e.changedTouches[0].clientY;
+    if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+      if (dx > 0) goTo(current + 1);
+      else        goTo(current - 1);
+    }
+  }, { passive: true });
+
+  /* Init + recalc on resize */
+  goTo(0);
+  window.addEventListener('resize', function () { goTo(current); });
+}());

@@ -237,13 +237,39 @@
         </div>
         <div class="gallery-sec">
           <h3>Galerie</h3>
-          <div class="gallery-grid">
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
-            <div class="gallery-card glass" data-aos><span>Bild folgt in Kürze</span></div>
+          <div class="slideshow-wrap">
+            <button class="slide-btn slide-prev" id="slidePrev" aria-label="Zurück">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+            </button>
+            <div class="slideshow-viewport" id="slideshowViewport">
+              <div class="slideshow-track" id="slideshowTrack">
+                <div class="slide-item active"><img src="impression1.jpg" alt="Impression 1"></div>
+                <div class="slide-item"><img src="impression2.jpg" alt="Impression 2"></div>
+                <div class="slide-item"><img src="impression3.jpg" alt="Impression 3"></div>
+                <div class="slide-item"><img src="impression4.jpg" alt="Impression 4"></div>
+                <div class="slide-item"><img src="impression5.jpg" alt="Impression 5"></div>
+                <div class="slide-item"><img src="impression6.jpg" alt="Impression 6"></div>
+                <div class="slide-item"><img src="impression7.jpg" alt="Impression 7"></div>
+                <div class="slide-item"><img src="impression8.jpg" alt="Impression 8"></div>
+                <div class="slide-item"><img src="impression9.jpg" alt="Impression 9"></div>
+                <div class="slide-item"><img src="impression10.jpg" alt="Impression 10"></div>
+              </div>
+            </div>
+            <button class="slide-btn slide-next" id="slideNext" aria-label="Weiter">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+            </button>
+          </div>
+          <div class="slide-dots" id="slideDots">
+            <span class="dot active"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
           </div>
         </div>
       </div>

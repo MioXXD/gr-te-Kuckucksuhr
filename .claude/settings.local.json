@@ -8,7 +8,9 @@
       "Bash(C:UsersdamiaMiniconda3python.exe -c \"from PIL import Image; print\\(''ok''\\)\")",
       "Bash(python -c \"from PIL import Image; print\\(''ok''\\)\")",
       "Bash(python3 -c \"from PIL import Image; print\\(''ok''\\)\")",
-      "Bash(python -:*)"
+      "Bash(python -:*)",
+      "Bash(pip show:*)",
+      "Bash(py --version)"
     ]
   }
 }
