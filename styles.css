@@ -459,14 +459,18 @@ svg path, svg line, svg polygon, svg circle, svg ellipse, svg rect { transition:
 }
 .slideshow-viewport {
   flex: 1;
-  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
   border-radius: var(--r-md);
 }
+.slideshow-viewport::-webkit-scrollbar { display: none; }
 .slideshow-track {
   display: flex;
   gap: 20px;
-  transition: transform 0.5s var(--ease);
-  will-change: transform;
+  /* padding allows first and last item to be centered */
+  padding-inline: calc(50% - 16%);
 }
 .slide-item {
   flex-shrink: 0;

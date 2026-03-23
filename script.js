@@ -327,30 +327,23 @@ function init3DTilt() {
   var prevBtn  = document.getElementById('slidePrev');
   var nextBtn  = document.getElementById('slideNext');
   var dotsWrap = document.getElementById('slideDots');
-  if (!track) return;
+  if (!viewport || !track) return;
 
   var items = Array.from(track.querySelectorAll('.slide-item'));
   var dots  = dotsWrap ? Array.from(dotsWrap.querySelectorAll('.dot')) : [];
   var total = items.length;
   var current = 0;
 
-  function getOffset(index) {
-    var vw = viewport.offsetWidth;
-    var itemW = items[0].offsetWidth;
-    var gap = 20;
-    var center = vw / 2 - itemW / 2;
-    return center - index * (itemW + gap);
-  }
-
   function goTo(n) {
     current = (n + total) % total;
-    track.style.transform = 'translateX(' + getOffset(current) + 'px)';
-    items.forEach(function (item, i) {
-      item.classList.toggle('active', i === current);
-    });
-    dots.forEach(function (dot, i) {
-      dot.classList.toggle('active', i === current);
-    });
+
+    /* Center the active item inside the viewport via scrollLeft */
+    var item = items[current];
+    var scrollTarget = item.offsetLeft - (viewport.offsetWidth / 2) + (item.offsetWidth / 2);
+    viewport.scrollTo({ left: scrollTarget, behavior: 'smooth' });
+
+    items.forEach(function (el, i) { el.classList.toggle('active', i === current); });
+    dots.forEach(function (dot, i) { dot.classList.toggle('active', i === current); });
   }
 
   /* Buttons */
@@ -364,8 +357,8 @@ function init3DTilt() {
 
   /* Keyboard */
   document.addEventListener('keydown', function (e) {
-    var impressSection = document.getElementById('impressionen');
-    if (!impressSection || !impressSection.classList.contains('active')) return;
+    var sec = document.getElementById('impressionen');
+    if (!sec || !sec.classList.contains('active')) return;
     if (e.key === 'ArrowLeft')  goTo(current - 1);
     if (e.key === 'ArrowRight') goTo(current + 1);
   });
@@ -381,24 +374,21 @@ function init3DTilt() {
     var dx = touchStartX - e.changedTouches[0].clientX;
     var dy = touchStartY - e.changedTouches[0].clientY;
     if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
-      if (dx > 0) goTo(current + 1);
-      else        goTo(current - 1);
+      goTo(dx > 0 ? current + 1 : current - 1);
     }
   }, { passive: true });
 
-  /* Init + recalc on resize */
-  window.addEventListener('resize', function () { goTo(current); });
-
-  /* Recalc whenever the impressionen section becomes visible */
-  var impressSection = document.getElementById('impressionen');
-  if (impressSection) {
+  /* Whenever impressionen becomes visible, jump to current slide */
+  var sec = document.getElementById('impressionen');
+  if (sec) {
     new MutationObserver(function () {
-      if (impressSection.classList.contains('active')) {
-        requestAnimationFrame(function () { goTo(current); });
+      if (sec.classList.contains('active')) {
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () { goTo(current); });
+        });
       }
-    }).observe(impressSection, { attributes: true, attributeFilter: ['class'] });
+    }).observe(sec, { attributes: true, attributeFilter: ['class'] });
   }
 
-  /* Fallback: init on load in case section is already active */
-  window.addEventListener('load', function () { goTo(current); });
+  window.addEventListener('resize', function () { goTo(current); });
 }());
