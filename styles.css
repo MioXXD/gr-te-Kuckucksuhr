@@ -474,7 +474,7 @@ svg path, svg line, svg polygon, svg circle, svg ellipse, svg rect { transition:
 }
 .slide-item {
   flex-shrink: 0;
-  width: 32%;
+  width: 60%;
   aspect-ratio: 4/3;
   border-radius: var(--r-md);
   overflow: hidden;
@@ -703,7 +703,7 @@ footer a:hover { color: var(--gold); opacity: 1; }
 
   .prod-grid { grid-template-columns: repeat(2,1fr); gap: 16px; }
   .craft-grid { grid-template-columns: 1fr 1fr; }
-  .slide-item { width: 48%; }
+  .slide-item { width: 75%; }
   .stats-row { grid-template-columns: repeat(2,1fr); }
   .footer-grid { grid-template-columns: 1fr; gap: 32px; }
   .footer-bottom { flex-direction: column; text-align: center; }
@@ -714,7 +714,7 @@ footer a:hover { color: var(--gold); opacity: 1; }
   .container { padding: 0 18px; }
   .prod-grid { grid-template-columns: 1fr; }
   .craft-grid { grid-template-columns: 1fr; }
-  .slide-item { width: 65%; }
+  .slide-item { width: 88%; }
   .slide-btn { width: 36px; height: 36px; }
   .stats-row { grid-template-columns: 1fr 1fr; gap: 12px; }
   .hero-btns { flex-direction: column; width: 100%; }
