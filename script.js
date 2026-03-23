@@ -387,6 +387,18 @@ function init3DTilt() {
   }, { passive: true });
 
   /* Init + recalc on resize */
-  goTo(0);
   window.addEventListener('resize', function () { goTo(current); });
+
+  /* Recalc whenever the impressionen section becomes visible */
+  var impressSection = document.getElementById('impressionen');
+  if (impressSection) {
+    new MutationObserver(function () {
+      if (impressSection.classList.contains('active')) {
+        requestAnimationFrame(function () { goTo(current); });
+      }
+    }).observe(impressSection, { attributes: true, attributeFilter: ['class'] });
+  }
+
+  /* Fallback: init on load in case section is already active */
+  window.addEventListener('load', function () { goTo(current); });
 }());
