@@ -1,0 +1,328 @@
+- generic [active] [ref=e1]:
+  - link "Zum Inhalt springen" [ref=e2] [cursor=pointer]:
+    - /url: "#hauptinhalt"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Juwelier Roza — Startseite" [ref=e5] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=e6]:
+          - text: Juwelier
+          - emphasis [ref=e7]: Roza
+        - generic [ref=e8]: Oromark · seit 2004
+      - navigation "Hauptnavigation" [ref=e9]:
+        - link "Werkstatt" [ref=e10] [cursor=pointer]:
+          - /url: "#werkstatt"
+        - link "Kollektion" [ref=e11] [cursor=pointer]:
+          - /url: "#kollektionen"
+        - link "Goldhandel" [ref=e12] [cursor=pointer]:
+          - /url: "#goldhandel"
+        - link "Service" [ref=e13] [cursor=pointer]:
+          - /url: "#service"
+        - link "Besuch" [ref=e14] [cursor=pointer]:
+          - /url: "#besuch"
+      - 'link "Jetzt anrufen: 0611 73419779" [ref=e15] [cursor=pointer]':
+        - /url: tel:+496117341977
+        - generic [ref=e17]: 0611 73419779
+  - main [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: § I
+        - generic [ref=e24]: Juwelier · Goldmanufaktur · Goldhandel
+      - generic [ref=e25]:
+        - img [ref=e27]:
+          - generic [ref=e30]: R
+          - generic [ref=e31]: 22 KARAT · SEIT 2004
+        - heading "Gold, das bleibt." [level=1] [ref=e32]:
+          - generic [ref=e34]: Gold,
+          - generic [ref=e36]: das bleibt.
+        - paragraph [ref=e37]: 22 Karat · Handarbeit · Wiesbaden · seit 2004
+      - generic [ref=e38]:
+        - generic:
+          - img:
+            - generic: 22 KARAT · ROZA · WIESBADEN · HANDARBEIT · SEIT 2004 ·
+            - generic:
+              - generic: "22"
+              - generic: K
+              - generic: GOLD
+        - paragraph [ref=e39]:
+          - text: In der Wellritzstraße 29, im Herzen Wiesbadens, führt
+          - strong [ref=e40]: Herr Erol
+          - text: seit über zwanzig Jahren eine Goldmanufaktur, wie es sie kaum noch gibt. Jedes Stück wird hier gezeichnet, gefeilt und poliert — mit Respekt vor dem Material, dem Anlass, dem Menschen.
+        - link "Weiter zur Werkstatt" [ref=e41] [cursor=pointer]:
+          - /url: "#werkstatt"
+          - generic [ref=e42]: Weiter zur Werkstatt
+          - img [ref=e43]
+    - region "Werte" [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48]: 22 Karat
+          - generic [ref=e49]: ·
+          - generic [ref=e50]: Eigene Werkstatt
+          - generic [ref=e51]: ·
+          - generic [ref=e52]: Handarbeit
+          - generic [ref=e53]: ·
+          - generic [ref=e54]: Goldhandel
+          - generic [ref=e55]: ·
+          - generic [ref=e56]: Trauringe
+          - generic [ref=e57]: ·
+          - generic [ref=e58]: Reparatur & Anpassung
+          - generic [ref=e59]: ·
+          - generic [ref=e60]: Seit 2004 in Wiesbaden
+          - generic [ref=e61]: ·
+        - generic [ref=e62]:
+          - generic [ref=e63]: 22 Karat
+          - generic [ref=e64]: ·
+          - generic [ref=e65]: Eigene Werkstatt
+          - generic [ref=e66]: ·
+          - generic [ref=e67]: Handarbeit
+          - generic [ref=e68]: ·
+          - generic [ref=e69]: Goldhandel
+          - generic [ref=e70]: ·
+          - generic [ref=e71]: Trauringe
+          - generic [ref=e72]: ·
+          - generic [ref=e73]: Reparatur & Anpassung
+          - generic [ref=e74]: ·
+          - generic [ref=e75]: Seit 2004 in Wiesbaden
+          - generic [ref=e76]: ·
+    - generic [ref=e78]:
+      - complementary [ref=e79]:
+        - generic [ref=e80]: § II
+        - generic [ref=e81]: Die Werkstatt
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Der Mann an der Werkbank
+        - heading "Eine Werkstatt, die den Rohstoff kennt." [level=2] [ref=e84]:
+          - text: Eine Werkstatt,
+          - emphasis [ref=e85]: die den Rohstoff kennt.
+        - paragraph [ref=e86]: Herr Erol kam vor über zwei Jahrzehnten nach Wiesbaden — mit dem Handwerk der anatolischen Goldschmiede im Blut und dem Anspruch, in Deutschland etwas aufzubauen, das länger hält als er selbst.
+        - paragraph [ref=e87]: "Seither entsteht in der Wellritzstraße jedes Stück zwischen zwei Händen. 22-Karat-Gold wird hier nicht verpackt, sondern verarbeitet: geschmiedet, gefeilt, graviert, poliert. Kunden kommen für einen Ring, eine Kette, einen Armreif — und bleiben, weil sie spüren, dass hier noch jemand das ganze Gewerk versteht."
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - term [ref=e90]: Gegründet
+            - definition [ref=e91]: "2004"
+          - generic [ref=e92]:
+            - term [ref=e93]: Werkbank
+            - definition [ref=e94]: Eigene Manufaktur · Wiesbaden
+          - generic [ref=e95]:
+            - term [ref=e96]: Schwerpunkt
+            - definition [ref=e97]: 22K Gold · Trauringe · Goldbarren
+      - figure "In der Werkstatt · Wellritzstraße 29" [ref=e98]:
+        - img "Innenraum der Manufaktur Juwelier Roza mit Gold-Vitrinen in Wiesbaden" [ref=e99]
+        - generic [ref=e100]: In der Werkstatt · Wellritzstraße 29
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - complementary [ref=e103]:
+          - generic [ref=e104]: § III
+          - generic [ref=e105]: Kollektion
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: Was in der Vitrine liegt
+          - heading "Stücke, die ein Leben begleiten." [level=2] [ref=e108]:
+            - text: Stücke, die
+            - emphasis [ref=e109]: ein Leben
+            - text: begleiten.
+      - generic [ref=e110]:
+        - article [ref=e111]:
+          - generic [ref=e112]: "01"
+          - heading "Eheringe" [level=3] [ref=e113]:
+            - emphasis [ref=e114]: Eheringe
+          - paragraph [ref=e115]: Jeder Ring entsteht nach Maß. Klassische Bandringe, geflochtene Varianten oder individuelle Gravuren — das Paar sitzt am Tag der Anprobe, nicht erst danach.
+          - list [ref=e116]:
+            - listitem [ref=e117]: 22K & 18K Gold
+            - listitem [ref=e118]: Weißgold · Roségold
+            - listitem [ref=e119]: Gravur & Innenbotschaft
+        - article [ref=e120]:
+          - generic [ref=e121]: "02"
+          - heading "Armreife" [level=3] [ref=e122]:
+            - emphasis [ref=e123]: Armreife
+          - paragraph [ref=e124]: Der klassische 22-Karat-Armreif — glatt, gedreht, geflochten oder mit floraler Gravur. Gewichte nach Wunsch, Kontrolle mit Punze und Zertifikat.
+          - list [ref=e125]:
+            - listitem [ref=e126]: Handgeschmiedet
+            - listitem [ref=e127]: Punzierung & Zertifikat
+            - listitem [ref=e128]: Umfangsanpassung vor Ort
+        - article [ref=e129]:
+          - generic [ref=e130]: "03"
+          - heading "Ketten" [level=3] [ref=e131]:
+            - emphasis [ref=e132]: Ketten
+          - paragraph [ref=e133]: Ankerketten, Königsketten, feine Colliers. Jede Länge, jede Stärke, zur Anprobe bereit. Verschlüsse werden vor Ort auf Sitz und Haltbarkeit geprüft.
+          - list [ref=e134]:
+            - listitem [ref=e135]: Anker · König · Panzer
+            - listitem [ref=e136]: 40 cm – 90 cm
+            - listitem [ref=e137]: Reparatur & Verlängerung
+        - article [ref=e138]:
+          - generic [ref=e139]: "04"
+          - heading "Ohrringe & Anhänger" [level=3] [ref=e140]:
+            - emphasis [ref=e141]: Ohrringe & Anhänger
+          - paragraph [ref=e142]: Dezente Creolen, klassische Stecker, persönliche Anhänger mit Initialen, Daten oder Motiven aus der eigenen Geschichte.
+          - list [ref=e143]:
+            - listitem [ref=e144]: Creolen & Stecker
+            - listitem [ref=e145]: Initial- & Motiv-Anhänger
+            - listitem [ref=e146]: Gravur auf Wunsch
+        - article [ref=e147]:
+          - generic [ref=e148]: "05"
+          - heading "Herrenschmuck" [level=3] [ref=e149]:
+            - emphasis [ref=e150]: Herrenschmuck
+          - paragraph [ref=e151]: Reduziert, kraftvoll, ehrlich. Siegelringe, schwere Ketten, Armbänder — Stücke, die im Alltag getragen werden, nicht im Etui liegen.
+          - list [ref=e152]:
+            - listitem [ref=e153]: Siegelringe
+            - listitem [ref=e154]: Massive Ketten & Bracelets
+            - listitem [ref=e155]: Anpassung & Gravur
+        - article [ref=e156]:
+          - generic [ref=e157]: "06"
+          - heading "Sonderanfertigung" [level=3] [ref=e158]:
+            - emphasis [ref=e159]: Sonderanfertigung
+          - paragraph [ref=e160]: Sie bringen die Idee, wir zeichnen und fertigen. Altgold kann eingeschmolzen und in das neue Stück überführt werden — persönliche Geschichte, sichtbar.
+          - list [ref=e161]:
+            - listitem [ref=e162]: Entwurfsgespräch
+            - listitem [ref=e163]: Altgold-Einschmelzung
+            - listitem [ref=e164]: Umarbeitung & Restauration
+    - generic [ref=e166]:
+      - complementary [ref=e167]:
+        - generic [ref=e168]: § IV
+        - generic [ref=e169]: Goldhandel
+      - generic [ref=e170]:
+        - paragraph [ref=e171]: Nicht nur Schmuck
+        - heading "Gold als Wertanlage." [level=2] [ref=e172]:
+          - text: Gold als
+          - emphasis [ref=e173]: Wertanlage.
+        - paragraph [ref=e174]:
+          - text: Neben dem Handwerk ist
+          - strong [ref=e175]: Juwelier Roza
+          - text: seit vielen Jahren auch vertrauensvolle Anlaufstelle für
+          - strong [ref=e176]: Goldbarren
+          - text: und
+          - strong [ref=e177]: Anlagegold
+          - text: "— mit fairem Tageskurs, lückenloser Dokumentation und dem selben Prinzip, das für den Schmuck gilt: Ehrlichkeit zuerst."
+        - generic [ref=e178]:
+          - generic [ref=e179]: 1g · 5g · 10g · 20g
+          - generic [ref=e180]: 50g · 100g · 250g · 1 kg
+          - generic [ref=e181]: LBMA-zertifiziert
+          - generic [ref=e182]: Ankauf & Verkauf
+        - paragraph [ref=e183]: Persönliche Beratung vor Ort. Preise orientiert am aktuellen Londoner Fixing. Termine bitte telefonisch vereinbaren — größere Mengen mit Vorlauf.
+      - img [ref=e185]:
+        - generic [ref=e186]:
+          - generic [ref=e190]: ROZA · ORO
+          - generic [ref=e191]: "999.9"
+          - generic [ref=e192]: FEINGOLD
+          - generic [ref=e193]: 100g · CERTIFIED
+    - generic [ref=e195]:
+      - complementary [ref=e196]:
+        - generic [ref=e197]: § V
+        - generic [ref=e198]: Handwerks-Service
+      - generic [ref=e199]:
+        - paragraph [ref=e200]: Was wir am offenen Schraubstock tun
+        - heading "Reparatur, Umarbeitung, Pflege." [level=2] [ref=e201]:
+          - text: Reparatur, Umarbeitung,
+          - emphasis [ref=e202]: Pflege.
+      - list [ref=e203]:
+        - listitem [ref=e204]:
+          - generic [ref=e205]: I
+          - heading "Ringgrößen-Anpassung" [level=3] [ref=e206]
+          - paragraph [ref=e207]: Innerhalb weniger Tage. Bei einfachen Ringen oft noch am selben Tag.
+        - listitem [ref=e208]:
+          - generic [ref=e209]: II
+          - heading "Kettenreparatur & Verschlüsse" [level=3] [ref=e210]
+          - paragraph [ref=e211]: Gerissene Glieder, defekte Karabiner, neue Ösen — fachgerecht gelötet, nicht geklebt.
+        - listitem [ref=e212]:
+          - generic [ref=e213]: III
+          - heading "Umarbeitung von Altgold" [level=3] [ref=e214]
+          - paragraph [ref=e215]: Geerbtes, ungetragenes oder verändertes Gold wird eingeschmolzen und zu etwas Neuem.
+        - listitem [ref=e216]:
+          - generic [ref=e217]: IV
+          - heading "Gravur & Punzierung" [level=3] [ref=e218]
+          - paragraph [ref=e219]: Namen, Daten, Motive — innen oder außen, von Hand gesetzt oder maschinell gestochen.
+        - listitem [ref=e220]:
+          - generic [ref=e221]: V
+          - heading "Reinigung & Politur" [level=3] [ref=e222]
+          - paragraph [ref=e223]: Matte Oberflächen wieder zum Leuchten bringen. Kurze Wartezeit, faire Pauschalpreise.
+        - listitem [ref=e224]:
+          - generic [ref=e225]: VI
+          - heading "Bewertung & Ankauf" [level=3] [ref=e226]
+          - paragraph [ref=e227]: Transparente Tageskurs-Bewertung von Gold, Ankauf zu fairen Konditionen.
+    - generic [ref=e228]:
+      - complementary [ref=e229]:
+        - generic [ref=e230]: § VI
+        - generic [ref=e231]: Lebensmomente
+      - generic [ref=e232]:
+        - paragraph [ref=e233]: Wofür man zu uns kommt
+        - heading "Das erste Ja. Die erste Taufe. Das erste eigene Stück." [level=2] [ref=e234]:
+          - text: Das erste
+          - emphasis [ref=e235]: Ja.
+          - generic [ref=e236]: ·
+          - text: Die erste
+          - emphasis [ref=e237]: Taufe.
+          - generic [ref=e238]: ·
+          - text: Das erste
+          - emphasis [ref=e239]: eigene
+          - text: Stück.
+        - paragraph [ref=e240]: "Gold wird selten ohne Anlass gekauft. Es markiert Anfänge — eine Ehe, ein Kind, einen Sieg, ein Jubiläum. Wir begleiten diese Momente seit zwei Jahrzehnten und wissen: das Stück soll zur Person passen, nicht umgekehrt."
+        - figure "Die Vitrine · 22-Karat-Kollektion" [ref=e241]:
+          - img "Goldschmuck in den Vitrinen bei Juwelier Roza Wiesbaden" [ref=e242]
+          - generic [ref=e243]: Die Vitrine · 22-Karat-Kollektion
+    - generic [ref=e244]:
+      - complementary [ref=e245]:
+        - generic [ref=e246]: § VII
+        - generic [ref=e247]: Ihr Besuch
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - paragraph [ref=e250]: Im Herzen Wiesbadens
+          - heading "Kommen Sie vorbei." [level=2] [ref=e251]:
+            - text: Kommen Sie
+            - emphasis [ref=e252]: vorbei.
+          - paragraph [ref=e253]: Die Wellritzstraße liegt zwischen Bahnhof und Innenstadt. Parkhäuser in zwei Minuten Fußweg, Straßenbahn direkt um die Ecke.
+          - generic [ref=e254]:
+            - generic [ref=e255]:
+              - term [ref=e256]: Adresse
+              - definition [ref=e257]:
+                - text: Wellritzstraße 29
+                - text: 65183 Wiesbaden
+            - generic [ref=e258]:
+              - term [ref=e259]: Telefon
+              - definition [ref=e260]:
+                - link "0611 73419779" [ref=e261] [cursor=pointer]:
+                  - /url: tel:+496117341977
+            - generic [ref=e262]:
+              - term [ref=e263]: Öffnungszeiten
+              - definition [ref=e264]:
+                - text: Mo – Sa · 10:00 – 18:00
+                - text: Sonntag geschlossen
+            - generic [ref=e265]:
+              - term [ref=e266]: Online
+              - definition [ref=e267]:
+                - link "oromark.de" [ref=e268] [cursor=pointer]:
+                  - /url: https://www.oromark.de
+          - generic [ref=e269]:
+            - link "Termin anrufen" [ref=e270] [cursor=pointer]:
+              - /url: tel:+496117341977
+            - link "Route auf Google Maps" [ref=e271] [cursor=pointer]:
+              - /url: https://www.google.com/maps/place/Juwelier+Roza/@50.0827766,8.2331005,17z
+        - figure "Wellritzstraße 29 · 65183 Wiesbaden" [ref=e272]:
+          - img "Fassade von Juwelier Roza in der Wellritzstraße 29 Wiesbaden" [ref=e273]
+          - generic [ref=e274]: Wellritzstraße 29 · 65183 Wiesbaden
+    - blockquote [ref=e276]:
+      - paragraph [ref=e277]:
+        - emphasis [ref=e278]: „Herr Erol ist ein ehrlicher Geschäftsmann.
+        - text: Ich kann ihn jedem empfehlen."
+      - generic [ref=e279]: — Kundenstimme · Google Rezension · 5 Sterne
+  - contentinfo [ref=e280]:
+    - generic [ref=e281]:
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - text: Juwelier
+          - emphasis [ref=e284]: Roza
+        - text: Oromark · Goldmanufaktur seit 2004
+      - generic [ref=e285]:
+        - paragraph [ref=e286]: Wellritzstraße 29 · 65183 Wiesbaden
+        - paragraph [ref=e287]:
+          - link "0611 73419779" [ref=e288] [cursor=pointer]:
+            - /url: tel:+496117341977
+          - text: ·
+          - link "oromark.de" [ref=e289] [cursor=pointer]:
+            - /url: https://www.oromark.de
+        - paragraph [ref=e290]: Mo – Sa · 10:00 – 18:00
+      - generic [ref=e291]:
+        - paragraph [ref=e292]: © 2026 Juwelier Roza · Oromark. Alle Rechte vorbehalten.
+        - paragraph [ref=e293]:
+          - link "Impressum" [ref=e294] [cursor=pointer]:
+            - /url: "#"
+          - text: ·
+          - link "Datenschutz" [ref=e295] [cursor=pointer]:
+            - /url: "#"

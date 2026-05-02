@@ -1,0 +1,244 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: quartz crystal product
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 2938":
+                - /url: /de/s/fotos/quartz-crystal-product
+                - img
+                - text: Fotos
+                - generic: "2938"
+            - listitem [ref=e48]:
+              - link "Grafiken 17" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/quartz-crystal-product
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "17"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Quartz crystal product" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "kristall" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Edelstein" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "Kristalle" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/kristalle
+              - link "grau" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/grau
+              - link "Makro" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/makro
+              - link "Natur" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/natur
+              - link "Edelsteine" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/edelsteine
+              - link "Fel" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/fel
+              - link "lila" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/lila
+              - link "braun" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/braun
+              - link "Stein" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/stein
+              - link "klar" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/klar
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e105]:
+                    - /url: /de/fotos/eine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-QCbTf09TCOg
+                    - img "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-QCbTf09TCOg
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A02e9b94e-d735-42f0-bafa-e287c183114a&phrase=quartz+crystal+product&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - link "Stein- und Kristallperlen im Korb" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/stone-and-crystal-beads-in-basket-gm1332122160-415059979?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Ac2d51b0d-e74c-474f-88aa-c5039b04c51f
+                    - img "Stein- und Kristallperlen im Korb" [ref=e118]
+                  - link "Ein Fünf-Dollar-Schein wird dezent von klaren kristallkristallen Baumzweigen eingerahmt." [ref=e119] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/a-five-dollar-bill-is-subtly-framed-by-clear-crystal-tree-branches-gm2267435139-680054197?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Aeb688a2b-2916-41ea-9ad3-3d63b8603507
+                    - img "Ein Fünf-Dollar-Schein wird dezent von klaren kristallkristallen Baumzweigen eingerahmt." [ref=e120]
+                  - link "Kristallverkauf" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/crystal-selling-gm1389646636-446872846?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A752e37fa-ed13-4c65-9bfc-4ac70f424bb3
+                    - img "Kristallverkauf" [ref=e122]
+                  - link "Kristallverkauf" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/crystal-selling-gm1444455417-483153212?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A61613410-3657-4488-81ec-d21c84a7e03a
+                    - img "Kristallverkauf" [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A02e9b94e-d735-42f0-bafa-e287c183114a&phrase=quartz+crystal+product&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e126]:
+                - generic [ref=e128]:
+                  - link "eine Gruppe von Kristallblöcken, die nebeneinander sitzen" [ref=e129]:
+                    - /url: /de/fotos/eine-gruppe-von-kristallblocken-die-nebeneinander-sitzen-pBo7pxlUKBU
+                    - img "eine Gruppe von Kristallblöcken, die nebeneinander sitzen" [ref=e130]
+                  - link [ref=e131] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-von-kristallblocken-die-nebeneinander-sitzen-pBo7pxlUKBU
+                    - img [ref=e132]
+              - figure [ref=e134]:
+                - link "Eine Gruppe von Eistüten" [ref=e137]:
+                  - /url: /de/fotos/eine-gruppe-von-eistuten-tpnGlDRMKz0
+                  - img "Eine Gruppe von Eistüten" [ref=e138]
+              - figure [ref=e139]:
+                - generic [ref=e141]:
+                  - link "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e142]:
+                    - /url: /de/fotos/eine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e143]
+                  - link [ref=e144] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img [ref=e145]
+              - figure [ref=e147]:
+                - link "Nahaufnahme eines Kristalls" [ref=e150]:
+                  - /url: /de/fotos/nahaufnahme-eines-kristalls-VpyjmpsT0jk
+                  - img "Nahaufnahme eines Kristalls" [ref=e151]
+              - figure [ref=e152]:
+                - link "Nahaufnahme eines Kristalls" [ref=e155]:
+                  - /url: /de/fotos/nahaufnahme-eines-kristalls-I0CCBIPHTSE
+                  - img "Nahaufnahme eines Kristalls" [ref=e156]
+              - figure [ref=e157]:
+                - link "Nahaufnahme einer klaren Quarzkristallspitze" [ref=e160]:
+                  - /url: /de/fotos/nahaufnahme-einer-klaren-quarzkristallspitze-tol356bKQtg
+                  - img "Nahaufnahme einer klaren Quarzkristallspitze" [ref=e161]
+            - generic [ref=e162]:
+              - figure [ref=e163]:
+                - link "Weiße Keramikvase mit weißer Flüssigkeit" [ref=e166]:
+                  - /url: /de/fotos/weisse-keramikvase-mit-weisser-flussigkeit-a5IdO33zCnM
+                  - img "Weiße Keramikvase mit weißer Flüssigkeit" [ref=e167]
+              - figure [ref=e168]:
+                - link "Ein Cluster von Kristallen, die auf einem Tisch sitzen" [ref=e171]:
+                  - /url: /de/fotos/ein-cluster-von-kristallen-die-auf-einem-tisch-sitzen-SxwG6PLOc44
+                  - img "Ein Cluster von Kristallen, die auf einem Tisch sitzen" [ref=e172]
+              - figure [ref=e173]:
+                - link "ein weißer Kristall mit schwarzem Hintergrund" [ref=e176]:
+                  - /url: /de/fotos/ein-weisser-kristall-mit-schwarzem-hintergrund-mDI8ocaE_qU
+                  - img "ein weißer Kristall mit schwarzem Hintergrund" [ref=e177]
+              - figure [ref=e178]:
+                - link "Nahaufnahme einer Blume mit blauem Hintergrund" [ref=e181]:
+                  - /url: /de/fotos/nahaufnahme-einer-blume-mit-blauem-hintergrund-ZlKR4TgCxPo
+                  - img "Nahaufnahme einer Blume mit blauem Hintergrund" [ref=e182]
+              - figure [ref=e183]:
+                - generic [ref=e185]:
+                  - link "Eine Nahaufnahme von einigen Eiskristallen auf einem rosa Tuch" [ref=e186]:
+                    - /url: /de/fotos/eine-nahaufnahme-von-einigen-eiskristallen-auf-einem-rosa-tuch-NgCpBZ3BQ8I
+                    - img "Eine Nahaufnahme von einigen Eiskristallen auf einem rosa Tuch" [ref=e187]
+                  - link [ref=e188] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-nahaufnahme-von-einigen-eiskristallen-auf-einem-rosa-tuch-NgCpBZ3BQ8I
+                    - img [ref=e189]
+              - figure [ref=e191]:
+                - link "Ein klarer Kristall mit violettem Quarz im Hintergrund." [ref=e194]:
+                  - /url: /de/fotos/ein-klarer-kristall-mit-violettem-quarz-im-hintergrund-XaooZj_D8Do
+                  - img "Ein klarer Kristall mit violettem Quarz im Hintergrund." [ref=e195]
+              - figure [ref=e196]:
+                - generic [ref=e198]:
+                  - link "Eleganz weißer Marmortextur Hintergrund" [ref=e199]:
+                    - /url: /de/fotos/eleganz-weisser-marmortextur-hintergrund-yYKj09SOhss
+                    - img "Eleganz weißer Marmortextur Hintergrund" [ref=e200]
+                  - link [ref=e201] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feleganz-weisser-marmortextur-hintergrund-yYKj09SOhss
+                    - img [ref=e202]
+              - figure [ref=e204]:
+                - link "Klare Kristalle" [ref=e207]:
+                  - /url: /de/fotos/klare-kristalle-k65_6C4hu2E
+                  - img "Klare Kristalle" [ref=e208]
+            - generic [ref=e209]:
+              - contentinfo [ref=e214]:
+                - generic [ref=e220]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e222]:
+                - link "weißes und braunes Holzkreuz" [ref=e225]:
+                  - /url: /de/fotos/weisses-und-braunes-holzkreuz-Yzsf-3X3jac
+                  - img "weißes und braunes Holzkreuz" [ref=e226]
+              - figure [ref=e227]:
+                - link "Nahaufnahme von klarem Kristall" [ref=e230]:
+                  - /url: /de/fotos/nahaufnahme-von-klarem-kristall-SSoCY-Xi3iY
+                  - img "Nahaufnahme von klarem Kristall" [ref=e231]
+              - figure [ref=e232]:
+                - link "klarer Kristall" [ref=e235]:
+                  - /url: /de/fotos/klarer-kristall--XvhrIC1Mhc
+                  - img "klarer Kristall" [ref=e236]
+              - figure [ref=e237]:
+                - link "Nahaufnahme eines klaren Quarzkristalls auf schwarzer Oberfläche" [ref=e240]:
+                  - /url: /de/fotos/nahaufnahme-eines-klaren-quarzkristalls-auf-schwarzer-oberflache-0TrNsT84NAM
+                  - img "Nahaufnahme eines klaren Quarzkristalls auf schwarzer Oberfläche" [ref=e241]
+              - figure [ref=e242]:
+                - link "Eine Nahaufnahme eines Essens auf einem Tisch" [ref=e245]:
+                  - /url: /de/fotos/eine-nahaufnahme-eines-essens-auf-einem-tisch-AJp-SC76MRY
+                  - img "Eine Nahaufnahme eines Essens auf einem Tisch" [ref=e246]
+          - generic [ref=e249]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e250]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e251]: "| Jetzt Rabatt sichern"
+            - generic [ref=e253]:
+              - link "Klares Quarz-Kristallperlenarmband auf rustikalem Geweih-Schmuckdisplay" [ref=e254] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/clear-quartz-crystal-bead-bracelet-on-rustic-antler-jewelry-display-gm2266047587-678714103?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A94fa7e90-5744-49c4-99ac-cbb11d0e33fc
+                - img "Klares Quarz-Kristallperlenarmband auf rustikalem Geweih-Schmuckdisplay" [ref=e255]
+              - link "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle auf rosa Platte mit Blumenranunkel." [ref=e256] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/gemstones-for-esoteric-spiritual-practice-reiki-therapy-concept-feng-shui-healing-gm2256614651-669759435?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Aafd54b4d-0ea1-4060-bed1-b09cb51c7fcc
+                - img "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle auf rosa Platte mit Blumenranunkel." [ref=e257]
+              - link "Kristallverkauf" [ref=e258] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/crystal-selling-gm1391067812-447810822?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Ac6cb3e9b-ed2c-4960-a14d-5e50471df1af
+                - img "Kristallverkauf" [ref=e259]
+              - link "Lila Amethyst Quarz Mode Halskette Anhänger, Edelstein Kristall New Age" [ref=e260] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/purple-amethyst-quartz-fashion-necklace-pendant-gemstone-crystal-new-age-gm623596174-109418901?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A686873e5-7b45-4f54-b6a3-a170577a2a5b
+                - img "Lila Amethyst Quarz Mode Halskette Anhänger, Edelstein Kristall New Age" [ref=e261]
+              - link "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle und Bergkristallpendel mit weißen Blumen auf dem Tisch." [ref=e262] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/gemstones-for-esoteric-spiritual-practice-reiki-therapy-concept-feng-shui-healing-gm2256614688-669759439?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A6a441fe9-781b-453c-85f4-f51175db666a
+                - img "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle und Bergkristallpendel mit weißen Blumen auf dem Tisch." [ref=e263]
+              - link "Madagaskar Mineral Polychrome Jaspis Edelstein Heilung Kristall emotionale Energie Heilung" [ref=e264] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/madagascar-mineral-polychrome-jasper-gemstone-healing-crystal-emotional-energy-healing-gm623119806-109196559?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae136a7f0-8f27-4039-b9ae-8e38e860b19c
+                - img "Madagaskar Mineral Polychrome Jaspis Edelstein Heilung Kristall emotionale Energie Heilung" [ref=e265]
+              - link "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle auf rosa Platte." [ref=e266] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/gemstones-for-esoteric-spiritual-practice-reiki-therapy-concept-feng-shui-healing-gm2256614417-669759210?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3A02ccee32-421f-4d09-bb3e-f01625bc0411
+                - img "Edelsteine für esoterische spirituelle Praxis. Konzept der Reiki-Therapie. Feng Shui, Heilkristallritual, Hexerei, Chakra entspannen, Lithotherapie. Kristalle auf rosa Platte." [ref=e267]
+              - generic [ref=e268]:
+                - link "Kristallquarz-Edelsteine auf einem klaren weißen Hintergrund" [ref=e269] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/crystal-quartz-gemstones-on-a-clean-white-background-gm2254240729-667565076?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Af541fba2-0f9c-4c14-afcb-6b3f11e5263a
+                  - img "Kristallquarz-Edelsteine auf einem klaren weißen Hintergrund" [ref=e270]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e271] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fquartz-crystal-product&utm_term=quartz+crystal+product%3A%3Aaffiliate-layout-optim%3Acontrol%3Afda7ae2b-9d33-4b71-8378-869a273839f8&phrase=quartz+crystal+product&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e275] [cursor=pointer]
+          - generic [ref=e276]:
+            - link [ref=e277] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e278]
+            - paragraph [ref=e280]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

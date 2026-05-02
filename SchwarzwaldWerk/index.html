@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SchwarzwaldWerk | Kuckucksuhren, Holzkunst & Reparatur</title>
+  <meta name="description" content="SchwarzwaldWerk ist eine Werkstatt fuer Kuckucksuhren, Holzfiguren, Spieluhren und Reparaturen in Freiburg.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header" data-header>
+    <a class="brand" href="#start" aria-label="SchwarzwaldWerk Startseite">
+      <span class="brand-mark">SW</span>
+      <span>
+        <strong>SchwarzwaldWerk</strong>
+        <small>Uhren & Holzkunst</small>
+      </span>
+    </a>
+
+    <nav class="desktop-nav" aria-label="Hauptnavigation">
+      <a href="#sortiment">Sortiment</a>
+      <a href="#service">Service</a>
+      <a href="#werkstatt">Werkstatt</a>
+      <a href="#besuch">Besuch</a>
+    </nav>
+
+    <a class="header-action" href="#anfrage">Anfrage</a>
+    <button class="nav-toggle" type="button" data-nav-toggle aria-label="Navigation oeffnen" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <nav class="mobile-nav" data-mobile-nav aria-label="Mobile Navigation">
+    <a href="#sortiment">Sortiment</a>
+    <a href="#service">Service</a>
+    <a href="#werkstatt">Werkstatt</a>
+    <a href="#besuch">Besuch</a>
+    <a href="#anfrage">Anfrage senden</a>
+  </nav>
+
+  <main id="start">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-media" aria-hidden="true"></div>
+      <div class="hero-overlay"></div>
+      <div class="hero-inner">
+        <p class="eyebrow">Freiburg · seit 1987</p>
+        <h1 id="hero-title">Uhren,<br>Holzkunst<br>und Reparatur.</h1>
+        <p class="hero-copy">
+          SchwarzwaldWerk verkauft ausgesuchte Uhren, restauriert Erbstuecke und begleitet Sie vom ersten Klangtest bis zur sicheren Montage.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#sortiment">Sortiment ansehen</a>
+          <a class="button button-secondary" href="#anfrage">Reparatur anfragen</a>
+        </div>
+        <dl class="hero-facts" aria-label="Kennzahlen">
+          <div><dt>38</dt><dd>Jahre Werkstatt</dd></div>
+          <div><dt>420+</dt><dd>Reparaturen/Jahr</dd></div>
+          <div><dt>3</dt><dd>Generationen</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="intro-band" aria-label="Kurzprofil">
+      <p>Keine Massenware. Jede Uhr wird vor dem Verkauf eingestellt, geprueft und erklaert.</p>
+      <a href="#besuch">Termin im Laden planen</a>
+    </section>
+
+    <section id="sortiment" class="section">
+      <div class="section-head">
+        <span class="section-kicker">Sortiment</span>
+        <h2>Stuecke, die man nicht nebenbei kauft.</h2>
+        <p>Uhren, Figuren und kleine Objekte mit Herkunft, Klang und handwerklicher Sorgfalt.</p>
+      </div>
+
+      <div class="filters" role="tablist" aria-label="Sortiment filtern">
+        <button class="filter active" type="button" data-filter="all" role="tab" aria-selected="true">Alle</button>
+        <button class="filter" type="button" data-filter="uhren" role="tab" aria-selected="false">Uhren</button>
+        <button class="filter" type="button" data-filter="figuren" role="tab" aria-selected="false">Figuren</button>
+        <button class="filter" type="button" data-filter="geschenke" role="tab" aria-selected="false">Geschenke</button>
+      </div>
+
+      <div class="product-grid">
+        <article class="product-card" data-category="uhren">
+          <img src="../Kuckucksuhr1.png" alt="Verzierte Kuckucksuhr mit Schwarzwaldhaus">
+          <div>
+            <p class="product-type">8-Tage-Werk</p>
+            <h3>Hausuhr Tannenhang</h3>
+            <p>Handbemaltes Gehaeuse, Musiklaufwerk, Nachtabschaltung und Pendelabnahme fuer sicheren Versand.</p>
+          </div>
+        </article>
+        <article class="product-card" data-category="figuren">
+          <img src="../NussKnacker1.png" alt="Traditioneller Nussknacker aus Holz">
+          <div>
+            <p class="product-type">Erzgebirge</p>
+            <h3>Nussknacker Waldmeister</h3>
+            <p>Massivholzfigur mit sauberer Bemalung, als Geschenk oder Sammlerstueck.</p>
+          </div>
+        </article>
+        <article class="product-card" data-category="figuren">
+          <img src="../Räuchermänchen1.png" alt="Raeuchermaennchen als Jaegerfigur">
+          <div>
+            <p class="product-type">Raeucherfigur</p>
+            <h3>Jaeger mit Fuchs</h3>
+            <p>Feines Detailstueck fuer Raeucherkerzen, geprueft auf Stand und Rauchzug.</p>
+          </div>
+        </article>
+        <article class="product-card" data-category="geschenke">
+          <img src="../Spieluhr.png" alt="Gruene Spieluhr mit Baum und Figuren">
+          <div>
+            <p class="product-type">Spielwerk</p>
+            <h3>Musikdose Waldlichtung</h3>
+            <p>Sanfter Klang, mechanischer Lauf und ein Format, das auch in kleine Raeume passt.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="service" class="section service-section">
+      <div class="service-copy">
+        <span class="section-kicker">Service</span>
+        <h2>Reparieren, einstellen, erhalten.</h2>
+        <p>
+          Viele Uhren brauchen keine neue Mechanik, sondern eine ruhige Diagnose. Wir pruefen Werk, Blasebalg, Kette, Gong und Gehaeuse und sagen offen, was sich lohnt.
+        </p>
+      </div>
+
+      <div class="service-list" aria-label="Leistungen">
+        <div class="service-item">
+          <span>01</span>
+          <h3>Erstpruefung</h3>
+          <p>Kurzer Check im Laden oder per Foto, bevor Kosten entstehen.</p>
+        </div>
+        <div class="service-item">
+          <span>02</span>
+          <h3>Werkstattarbeit</h3>
+          <p>Reinigung, Regulierung, Austausch verschlissener Teile und Klangtest.</p>
+        </div>
+        <div class="service-item">
+          <span>03</span>
+          <h3>Montage</h3>
+          <p>Auf Wunsch haengen wir die Uhr vor Ort auf und stellen den Lauf ein.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="werkstatt" class="workshop">
+      <div class="workshop-image">
+        <img src="../Bg.png" alt="Historische Kuckucksuhr an einer Fassade">
+      </div>
+      <div class="workshop-panel">
+        <span class="section-kicker">Werkstatt</span>
+        <h2>Ein Laden, in dem man den Unterschied hoert.</h2>
+        <p>
+          Wir nehmen uns Zeit fuer Auswahl und Reparatur. Sie koennen Werke ansehen, Kuckucksrufe vergleichen und die Uhr im Raum wirken lassen.
+        </p>
+        <ul>
+          <li>Beratung fuer Wandgroesse und Klang</li>
+          <li>Versandfertige Verpackung fuer Geschenke</li>
+          <li>Reparaturannahme Dienstag bis Samstag</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="besuch" class="section visit-section">
+      <div class="visit-info">
+        <span class="section-kicker">Besuch</span>
+        <h2>Vorbeikommen, anhoeren, mitnehmen.</h2>
+        <p>SchwarzwaldWerk liegt in der Freiburger Altstadt. Fuer Reparaturen bitte Fotos der Uhr oder das komplette Werk mitbringen.</p>
+      </div>
+      <div class="visit-details">
+        <div>
+          <strong>Adresse</strong>
+          <p>Gerberau 18<br>79098 Freiburg</p>
+        </div>
+        <div>
+          <strong>Oeffnungszeiten</strong>
+          <p>Di-Fr 10-18 Uhr<br>Sa 10-15 Uhr</p>
+        </div>
+        <div>
+          <strong>Kontakt</strong>
+          <p><a href="tel:+49761123456">0761 123456</a><br><a href="mailto:werkstatt@schwarzwaldwerk.de">werkstatt@schwarzwaldwerk.de</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section id="anfrage" class="contact-section" aria-labelledby="contact-title">
+      <div>
+        <span class="section-kicker">Anfrage</span>
+        <h2 id="contact-title">Welche Uhr duerfen wir uns ansehen?</h2>
+        <p>Das Formular oeffnet eine vorbereitete E-Mail. Fuer eine echte Website kann es spaeter an ein Backend angeschlossen werden.</p>
+      </div>
+      <form class="contact-form" data-contact-form>
+        <label>
+          Name
+          <input name="name" type="text" autocomplete="name" required>
+        </label>
+        <label>
+          E-Mail
+          <input name="email" type="email" autocomplete="email" required>
+        </label>
+        <label>
+          Thema
+          <select name="topic">
+            <option>Reparatur</option>
+            <option>Kaufberatung</option>
+            <option>Geschenk</option>
+            <option>Montage</option>
+          </select>
+        </label>
+        <label>
+          Nachricht
+          <textarea name="message" rows="5" required></textarea>
+        </label>
+        <button class="button button-primary" type="submit">E-Mail vorbereiten</button>
+        <p class="form-note" data-form-note aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p><strong>SchwarzwaldWerk</strong> · Kuckucksuhren, Holzkunst und Reparatur</p>
+    <a href="#start">Nach oben</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fnatural-gemstones-collection
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: natural gemstones collection
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 2782":
+                - /url: /de/s/fotos/natural-gemstones-collection
+                - img
+                - text: Fotos
+                - generic: "2782"
+            - listitem [ref=e48]:
+              - link "Grafiken 15" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/natural-gemstones-collection
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "15"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Natural gemstones collection" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "kristall" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Edelstein" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "Schmuck" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+              - link "Zubehör" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Stein" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/stein
+              - link "Sammlung" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/sammlung
+              - link "Quarz" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/quarz
+              - link "Mineral" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/mineral
+              - link "Steine" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/steine
+              - link "bunt" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/bunt
+              - link "Mineralstoffe" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/mineralstoffe
+              - link "mineralische Probe" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/mineralische-probe
+    - generic:
+      - region "Notifications"

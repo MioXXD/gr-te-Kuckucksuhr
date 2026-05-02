@@ -1,0 +1,236 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e8]
+    - search [ref=e14]:
+      - generic [ref=e15]:
+        - combobox [ref=e17]: Juwelier Roza
+        - button "Suchen" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: 
+        - button "Schließen" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]: 
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - button "Menü" [ref=e29] [cursor=pointer]:
+              - generic [ref=e31]: 
+          - listitem [ref=e32]:
+            - button "Gespeichert" [ref=e33] [cursor=pointer]:
+              - generic [ref=e35]: 
+              - generic [ref=e37]: Gespeichert
+          - listitem [ref=e38]:
+            - button "Zuletzt verwendet" [disabled] [ref=e39]:
+              - generic [ref=e41]: 
+              - generic [ref=e43]: Zuletzt verwendet
+          - listitem [ref=e45]:
+            - button "App herunterladen" [ref=e46] [cursor=pointer]:
+              - generic [ref=e48]: 
+              - generic [ref=e50]: App herunterladen
+        - main "Juwelier Roza" [ref=e55]:
+          - generic [ref=e56]:
+            - 'button "Foto von: Juwelier Roza" [active] [ref=e58] [cursor=pointer]':
+              - img [ref=e59]
+            - button "Fotos ansehen" [ref=e60] [cursor=pointer]:
+              - generic [ref=e61]: 
+              - generic [ref=e62]: Fotos ansehen
+          - generic [ref=e65]:
+            - heading "Juwelier Roza" [level=1] [ref=e67]: Juwelier Roza
+            - generic [ref=e69]:
+              - generic [ref=e70]:
+                - generic [ref=e71]:
+                  - generic [ref=e72]:
+                    - text: 5,0
+                    - img "5,0 Sterne" [ref=e73]
+                  - img "1 Rezension" [ref=e81]: (1)
+                - button "Weitere Informationen zur gesetzlichen Offenlegung bei öffentlichen Rezensionen auf Google Maps" [ref=e87]:
+                  - generic [ref=e91]: 
+              - generic [ref=e92]:
+                - button "Juweliergeschäft" [ref=e95]
+                - text: ·
+                - img "Rollstuhlgerechter Eingang" [ref=e96]: 
+          - tablist [ref=e99]:
+            - tab "Übersicht über Juwelier Roza" [selected] [ref=e100]:
+              - generic [ref=e102]: Übersicht
+            - tab "Rezensionen zu „Juwelier Roza“" [ref=e104]:
+              - generic [ref=e106]: Rezensionen
+            - tab "Juwelier Roza" [ref=e108]:
+              - generic [ref=e110]: Info
+          - region "Aktionen für „Juwelier Roza“" [ref=e112]:
+            - button "Routenplaner" [ref=e114] [cursor=pointer]:
+              - generic [ref=e116]: 
+              - generic [ref=e117]: Routenplaner
+            - button "Speichern" [ref=e119] [cursor=pointer]:
+              - generic [ref=e121]: 
+              - generic [ref=e122]: Speichern
+            - button "In der Nähe" [ref=e124] [cursor=pointer]:
+              - generic [ref=e126]: 
+              - generic [ref=e127]: In der Nähe
+            - button "An Smartphone senden" [ref=e129] [cursor=pointer]:
+              - generic [ref=e131]: 
+              - generic [ref=e132]: An Smartphone senden
+            - button "Teilen" [ref=e134] [cursor=pointer]:
+              - generic [ref=e136]: 
+              - generic [ref=e137]: Teilen
+          - region "Informationen zu Juwelier Roza" [ref=e139]:
+            - button "Einkaufen im Geschäft möglich" [ref=e140] [cursor=pointer]:
+              - generic [ref=e142]:
+                - group "Einkaufen im Geschäft möglich" [ref=e145]:
+                  - text: ·
+                  - generic [ref=e146]: 
+                  - generic [ref=e147]: Einkaufen im Geschäft
+                - generic [ref=e148]: 
+          - region "Informationen zu „Juwelier Roza“" [ref=e151]:
+            - generic [ref=e152]:
+              - 'button "Adresse: Wellritzstraße 29, 65183 Wiesbaden" [ref=e153] [cursor=pointer]':
+                - generic [ref=e154]:
+                  - generic [ref=e156]: 
+                  - generic [ref=e158]: Wellritzstraße 29, 65183 Wiesbaden
+              - button "Adresse kopieren" [ref=e161] [cursor=pointer]:
+                - generic [ref=e163]: 
+            - button "Öffnungszeiten Geöffnet · Schließt um 18:00 Öffnungszeiten für die Woche anzeigen Vor 5 Wochen durch dieses Unternehmen aktualisiert" [ref=e165] [cursor=pointer]:
+              - img "Öffnungszeiten" [ref=e166]: 
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - generic [ref=e170]: Geöffnet · Schließt um 18:00
+                  - img "Öffnungszeiten für die Woche anzeigen" [ref=e171]: 
+                - generic [ref=e172]: Vor 5 Wochen durch dieses Unternehmen aktualisiert
+            - generic [ref=e173]:
+              - 'link "Website: oromark.de" [ref=e174] [cursor=pointer]':
+                - /url: https://www.oromark.de/
+                - generic [ref=e175]:
+                  - generic [ref=e177]: 
+                  - generic [ref=e179]: oromark.de
+              - generic [ref=e180]:
+                - link "Website öffnen" [ref=e182] [cursor=pointer]:
+                  - /url: https://www.oromark.de/
+                  - generic [ref=e184]: 
+                - button "URL der Website kopieren" [ref=e186] [cursor=pointer]:
+                  - generic [ref=e188]: 
+            - generic [ref=e189]:
+              - 'button "Telefon: 0611 73419779" [ref=e190] [cursor=pointer]':
+                - generic [ref=e191]:
+                  - generic [ref=e193]: 
+                  - generic [ref=e195]: 0611 73419779
+              - generic [ref=e196]:
+                - button "Telefonnummer kopieren" [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200]: 
+                - link "Telefonnummer anrufen" [ref=e202] [cursor=pointer]:
+                  - /url: tel:061173419779
+                  - generic [ref=e204]: 
+            - generic [ref=e205]:
+              - 'button "Plus Code: 36MM+46 Wiesbaden" [ref=e206] [cursor=pointer]':
+                - generic [ref=e207]:
+                  - generic [ref=e209]: 
+                  - generic [ref=e211]: 36MM+46 Wiesbaden
+              - generic [ref=e212]:
+                - button "Plus Code kopieren" [ref=e214] [cursor=pointer]:
+                  - generic [ref=e216]: 
+                - button "Weitere Informationen zu Plus Codes" [ref=e218] [cursor=pointer]:
+                  - generic [ref=e220]: 
+          - button "Änderung vorschlagen" [ref=e224] [cursor=pointer]:
+            - generic [ref=e225]:
+              - generic [ref=e226]: 
+              - generic [ref=e227]: Änderung vorschlagen
+          - generic [ref=e230]:
+            - heading "Fotos und Videos" [level=2] [ref=e232]
+            - region "Fotos von Juwelier Roza" [ref=e233]:
+              - generic [ref=e236]:
+                - generic [ref=e237] [cursor=pointer]:
+                  - button "Alle" [ref=e238]
+                  - generic:
+                    - generic: Alle
+                - generic [ref=e239] [cursor=pointer]:
+                  - button "Neueste·vor 5 Tagen" [ref=e240]
+                  - generic:
+                    - generic: Neueste
+                    - generic: vor 5 Tagen
+                - generic [ref=e241] [cursor=pointer]:
+                  - button "Innenansichten" [ref=e242]
+                  - generic:
+                    - generic: Innenansichten
+                - generic [ref=e243] [cursor=pointer]:
+                  - button "Vom Inhaber" [ref=e244]
+                  - generic:
+                    - generic: Vom Inhaber
+                - generic [ref=e245] [cursor=pointer]:
+                  - button "Street View & 360°-Fotos" [ref=e246]
+                  - generic:
+                    - generic: Street View & 360°-Fotos
+          - button "Fotos und Videos hinzufügen" [ref=e251] [cursor=pointer]:
+            - generic [ref=e252]:
+              - generic [ref=e253]: 
+              - generic [ref=e254]: Fotos und Videos hinzufügen
+          - heading "Rezensionen" [level=2] [ref=e258]
+          - generic [ref=e260] [cursor=pointer]:
+            - table [ref=e262]:
+              - rowgroup [ref=e263]:
+                - img "5 Sterne,1 Rezension" [ref=e264]: "5"
+                - img "4 Sterne,0 Rezensionen" [ref=e267]: "4"
+                - img "3 Sterne,0 Rezensionen" [ref=e270]: "3"
+                - img "2 Sterne,0 Rezensionen" [ref=e273]: "2"
+                - img "1 Sterne,0 Rezensionen" [ref=e276]: "1"
+            - generic [ref=e279]:
+              - generic [ref=e280]: 5,0
+              - img "5,0 Sterne" [ref=e281]
+              - button "1 Rezension" [ref=e287]:
+                - generic [ref=e289]: 1 Rezension
+          - generic [ref=e291]:
+            - generic [ref=e292]: Rezensionen werden nicht überprüft
+            - button "Weitere Informationen zur gesetzlichen Offenlegung bei öffentlichen Rezensionen auf Google Maps" [ref=e296]:
+              - generic [ref=e300]: 
+          - button "Rezension schreiben" [ref=e304] [cursor=pointer]:
+            - generic [ref=e305]:
+              - generic [ref=e306]: 
+              - generic [ref=e307]: Rezension schreiben
+          - generic [ref=e310]:
+            - generic [ref=e312]:
+              - heading "Rezensionen" [level=2] [ref=e315]
+              - button "In Rezensionen suchen" [ref=e318] [cursor=pointer]:
+                - generic [ref=e320]: 
+            - button "Rezensionen sortieren" [ref=e322] [cursor=pointer]:
+              - generic [ref=e323]:
+                - generic [ref=e324]: 
+                - generic [ref=e325]: Sortieren
+          - generic "ah bir jetlag olsam" [ref=e326]:
+            - generic [ref=e328]:
+              - button "Foto von ah bir jetlag olsam" [ref=e329]
+              - generic [ref=e331]:
+                - button "ah bir jetlag olsam Local Guide · 32 Rezensionen · 10 Fotos" [ref=e333]:
+                  - generic [ref=e334]: ah bir jetlag olsam
+                  - generic [ref=e335]: Local Guide · 32 Rezensionen · 10 Fotos
+                - button "Aktionen für die Rezension von ah bir jetlag olsam" [ref=e336] [cursor=pointer]:
+                  - generic [ref=e338]: 
+              - generic [ref=e339]:
+                - generic [ref=e340]:
+                  - img "5 Sterne" [ref=e341]:
+                    - generic [ref=e342]: 
+                    - generic [ref=e343]: 
+                    - generic [ref=e344]: 
+                    - generic [ref=e345]: 
+                    - generic [ref=e346]: 
+                  - generic [ref=e347]: vor 2 Wochen
+                  - generic [ref=e348]: Neu
+                - generic [ref=e350]: Ich kann ihn jedem empfehlen. Herr Erol ist ein ehrlicher Geschäftsmann.
+                - switch "Übersetzt von Google ・ Original ansehen (Türkisch)" [checked] [ref=e352] [cursor=pointer]:
+                  - generic [ref=e353]: Übersetzt von Google ・
+                  - text: Original ansehen (Türkisch)
+                - generic [ref=e354]:
+                  - button "Gefällt mir" [ref=e355]:
+                    - generic [ref=e356] [cursor=pointer]:
+                      - generic [ref=e357]: 
+                      - generic [ref=e359]: Gefällt mir
+                  - button "Rezension von ah bir jetlag olsam teilen." [ref=e360]:
+                    - generic [ref=e361] [cursor=pointer]:
+                      - generic [ref=e362]: 
+                      - generic [ref=e363]: Teilen
+          - heading "Webergebnisse" [level=2] [ref=e367]
+          - region [ref=e370]
+          - link "Erläuterungen zu diesen Daten" [ref=e409] [cursor=pointer]:
+            - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=de
+            - generic [ref=e411]: Erläuterungen zu diesen Daten
+          - heading "Die Möglichkeiten von Google Maps voll ausschöpfen Anmelden" [level=2] [ref=e415]:
+            - generic [ref=e416]: Die Möglichkeiten von Google Maps voll ausschöpfen
+            - button "Anmelden" [ref=e419] [cursor=pointer]:
+              - generic [ref=e421]: Anmelden
+      - button "Seitenleiste ausblenden" [ref=e423] [cursor=pointer]:
+        - generic [ref=e424]: 

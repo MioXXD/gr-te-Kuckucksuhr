@@ -1,0 +1,41 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]: Default
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e9]: 9:41
+        - generic [ref=e10]: ⌁ ●
+      - generic [ref=e11]:
+        - generic [ref=e14]: Mobile First
+        - heading [level=4] [ref=e15]: Schnell. Schön. Einfach.
+        - button [ref=e16] [cursor=pointer]: Jetzt entdecken
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - strong [ref=e19]: 1.2s
+          - generic [ref=e20]: LCP
+        - generic [ref=e21]:
+          - strong [ref=e22]: "96"
+          - generic [ref=e23]: Score
+        - generic [ref=e24]:
+          - strong [ref=e25]: "0"
+          - generic [ref=e26]: CLS
+  - generic [ref=e29]:
+    - generic [ref=e30]: Hover (forced)
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e35]: 9:41
+        - generic [ref=e36]: ⌁ ●
+      - generic [ref=e37]:
+        - generic [ref=e40]: Mobile First
+        - heading [level=4] [ref=e41]: Schnell. Schön. Einfach.
+        - button [ref=e42] [cursor=pointer]: Jetzt entdecken
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - strong [ref=e45]: 1.2s
+          - generic [ref=e46]: LCP
+        - generic [ref=e47]:
+          - strong [ref=e48]: "96"
+          - generic [ref=e49]: Score
+        - generic [ref=e50]:
+          - strong [ref=e51]: "0"
+          - generic [ref=e52]: CLS

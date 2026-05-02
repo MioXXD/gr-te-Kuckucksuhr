@@ -1,0 +1,251 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: raw rough gemstones natural
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 2010":
+                - /url: /de/s/fotos/raw-rough-gemstones-natural
+                - img
+                - text: Fotos
+                - generic: "2010"
+            - listitem [ref=e48]:
+              - link "Grafiken 5" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/raw-rough-gemstones-natural
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "5"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Raw rough gemstones natural" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "kristall" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Edelstein" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "Mineral" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/mineral
+              - link "Stein" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/stein
+              - link "Edelsteine" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/edelsteine
+              - link "grau" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/grau
+              - link "Kristalle" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/kristalle
+              - link "Fel" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/fel
+              - link "Quarz" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/quarz
+              - link "Zubehör" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Natur" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/natur
+              - link "Schmuck" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "Ein Haufen Steine, die übereinander sitzen" [ref=e105]:
+                    - /url: /de/fotos/ein-haufen-steine-die-ubereinander-sitzen-IQ5e91VG-kw
+                    - img "Ein Haufen Steine, die übereinander sitzen" [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-haufen-steine-die-ubereinander-sitzen-IQ5e91VG-kw
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Abca8e52d-641b-4dc8-b371-41b4a28d8f47&phrase=raw+rough+gemstones+natural&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - link "Frische Datteln in marokkanischen Marktkisten" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fresh-dates-in-moroccan-market-crates-gm2249373404-663149620?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A16f5d0fb-e375-4bc6-9fa8-bf4b67022dd8
+                    - img "Frische Datteln in marokkanischen Marktkisten" [ref=e118]
+                  - link "Rohdiamant, Edelstein in Minen. Konzept des Abbaus und der Gewinnung seltener Erregung." [ref=e119] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/rough-diamond-precious-stone-in-mines-concept-of-mining-and-extraction-of-rare-ores-gm1298909289-391687582?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A325411f4-9384-414c-b108-6120890faccc
+                    - img "Rohdiamant, Edelstein in Minen. Konzept des Abbaus und der Gewinnung seltener Erregung." [ref=e120]
+                  - link "Rohe violetter Amethyst Rock mit Kristall Amethyst" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/raw-violet-amethyst-rock-with-crystal-ametist-gm2213917280-630765153?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Ac1a30b76-ad42-4cb1-86c3-6f4ffed29237
+                    - img "Rohe violetter Amethyst Rock mit Kristall Amethyst" [ref=e122]
+                  - link "Ostsee amber" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/baltic-sea-amber-gm499651110-80351857?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Aaaf04f3f-20f9-4f9c-a9bf-b63870a22f34
+                    - img "Ostsee amber" [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Abca8e52d-641b-4dc8-b371-41b4a28d8f47&phrase=raw+rough+gemstones+natural&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e126]:
+                - link "blauer und brauner Stein auf brauner Holzkiste" [ref=e129]:
+                  - /url: /de/fotos/blauer-und-brauner-stein-auf-brauner-holzkiste-rInF38aahfk
+                  - img "blauer und brauner Stein auf brauner Holzkiste" [ref=e130]
+              - figure [ref=e131]:
+                - link "Kristalle in verschiedenen Farben ruhen auf weißem Stoff." [ref=e134]:
+                  - /url: /de/fotos/kristalle-in-verschiedenen-farben-ruhen-auf-weissem-stoff-221DtcN4K78
+                  - img "Kristalle in verschiedenen Farben ruhen auf weißem Stoff." [ref=e135]
+              - figure [ref=e136]:
+                - link "Eine Gruppe von Steinen sitzt auf einem Holztisch" [ref=e139]:
+                  - /url: /de/fotos/eine-gruppe-von-steinen-sitzt-auf-einem-holztisch-RalwrsVgo7A
+                  - img "Eine Gruppe von Steinen sitzt auf einem Holztisch" [ref=e140]
+              - figure [ref=e141]:
+                - link "Ein Haufen verschiedenfarbiger Steine in einer Glasvitrine" [ref=e144]:
+                  - /url: /de/fotos/ein-haufen-verschiedenfarbiger-steine-in-einer-glasvitrine-HYCds8kp0Bk
+                  - img "Ein Haufen verschiedenfarbiger Steine in einer Glasvitrine" [ref=e145]
+              - figure [ref=e146]:
+                - link "Bunte Mineralformationen mit unterschiedlichen Texturen" [ref=e149]:
+                  - /url: /de/fotos/bunte-mineralformationen-mit-unterschiedlichen-texturen-b-bv45qf8AU
+                  - img "Bunte Mineralformationen mit unterschiedlichen Texturen" [ref=e150]
+            - generic [ref=e151]:
+              - figure [ref=e152]:
+                - link "verschiedenfarbige Steinpartie" [ref=e155]:
+                  - /url: /de/fotos/verschiedenfarbige-steinpartie-g95sf8-fEQg
+                  - img "verschiedenfarbige Steinpartie" [ref=e156]
+              - figure [ref=e157]:
+                - link "Ein Haufen verschiedenfarbiger Steine auf einem Tisch" [ref=e160]:
+                  - /url: /de/fotos/ein-haufen-verschiedenfarbiger-steine-auf-einem-tisch-IKrc9YmbGp4
+                  - img "Ein Haufen verschiedenfarbiger Steine auf einem Tisch" [ref=e161]
+              - figure [ref=e162]:
+                - generic [ref=e164]:
+                  - link "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e165]:
+                    - /url: /de/fotos/eine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-QCbTf09TCOg
+                    - img "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e166]
+                  - link [ref=e167] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-QCbTf09TCOg
+                    - img [ref=e168]
+              - figure [ref=e170]:
+                - link "ein Holztisch mit vielen verschiedenfarbigen Steinen" [ref=e173]:
+                  - /url: /de/fotos/ein-holztisch-mit-vielen-verschiedenfarbigen-steinen-NRypC1sFgSY
+                  - img "ein Holztisch mit vielen verschiedenfarbigen Steinen" [ref=e174]
+              - figure [ref=e175]:
+                - link "Eine Gruppe roter Steine sitzt auf einem Tisch" [ref=e178]:
+                  - /url: /de/fotos/eine-gruppe-roter-steine-sitzt-auf-einem-tisch-k-aVSbvJ-LI
+                  - img "Eine Gruppe roter Steine sitzt auf einem Tisch" [ref=e179]
+              - figure [ref=e180]:
+                - link "Ein Haufen Steine, die auf einem Tisch liegen" [ref=e183]:
+                  - /url: /de/fotos/ein-haufen-steine-die-auf-einem-tisch-liegen-Tp8a7myS0ac
+                  - img "Ein Haufen Steine, die auf einem Tisch liegen" [ref=e184]
+              - figure [ref=e185]:
+                - link "drei braune Steine auf weißer Fläche" [ref=e188]:
+                  - /url: /de/fotos/drei-braune-steine-auf-weisser-flache-Xh7ggkXooaA
+                  - img "drei braune Steine auf weißer Fläche" [ref=e189]
+              - figure [ref=e190]:
+                - generic [ref=e192]:
+                  - link "Drei Eisstücke sitzen auf einem Tisch" [ref=e193]:
+                    - /url: /de/fotos/drei-eisstucke-sitzen-auf-einem-tisch-_msDfuDzy_w
+                    - img "Drei Eisstücke sitzen auf einem Tisch" [ref=e194]
+                  - link [ref=e195] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fdrei-eisstucke-sitzen-auf-einem-tisch-_msDfuDzy_w
+                    - img [ref=e196]
+            - generic [ref=e198]:
+              - link "The best in on-brand content creation Learn More" [ref=e201] [cursor=pointer]:
+                - /url: https://e-10457.adzerk.net/r?e=eyJ2IjoiMS4xNCIsImF2Ijo4MjM1NTIsImF0Ijo1LCJidCI6MCwiY20iOjk0ODU5NTcsImNoIjo0NTE2MywiY2siOnt9LCJjciI6MzY0NTY5NzQyLCJkaSI6IjFkYTAzYmMzNGZjMjQ0NjU5MWJmODAzYzBmODllNGMyIiwiZGoiOjAsImlpIjoiODAxM2RhMzhkZTcwNDg1MGJkNzJmODMxNGUxNmNlOWUiLCJkbSI6MywiZmMiOjUzOTcwNzg0NiwiZmwiOjU1ODQ4Njg0LCJpcCI6Ijg5LjI0NC44My4zNyIsIm53IjoxMDQ1NywicGMiOjAsIm9wIjowLCJtcCI6MCwiZWMiOjAsImdtIjowLCJlcCI6bnVsbCwicHIiOjIwODI4MywicnQiOjEsInJzIjo1MDAsInNhIjoiOTYiLCJzYiI6ImktMDM0MGFmMGMyMGFlY2Q1ZmMiLCJzcCI6MjEyMzI3Niwic3QiOjExMjE5NTQsInVrIjoiOWU2MjAxYjktYzc2Ny00ZDVlLTliODItODE4NmZkOGVjODNiIiwiem4iOjI0MTM0OCwiem0iOlsyNDEzNDhdLCJ0cyI6MTc3NzY3NTc0MTk3MywicG4iOiJzZWFyY2gtaW4tZmVlZCIsImdyIjp0cnVlLCJnYyI6dHJ1ZSwiZ0MiOnRydWUsImdpIjp0cnVlLCJncyI6InJlcSIsInR6IjoiQW1lcmljYS9OZXdfWW9yayIsInVyIjoiaHR0cHM6Ly91bnNwbGFzaC5jb20vc3R1ZGlvIn0&s=zNeZDSg7sJnYa-IKsbBanBUNvZI
+                - generic [ref=e202]:
+                  - img [ref=e204]
+                  - contentinfo [ref=e205]:
+                    - generic [ref=e206]:
+                      - img [ref=e208]
+                      - generic [ref=e212]: The best in on-brand content creation
+                    - generic [ref=e213]: Learn More
+              - figure [ref=e214]:
+                - link "Eine Nahaufnahme eines Haufens roter Felsen" [ref=e217]:
+                  - /url: /de/fotos/eine-nahaufnahme-eines-haufens-roter-felsen-gUd2oTqij_8
+                  - img "Eine Nahaufnahme eines Haufens roter Felsen" [ref=e218]
+              - figure [ref=e219]:
+                - link "Bunte Kristalle, die in einer Reihe angeordnet sind." [ref=e222]:
+                  - /url: /de/fotos/bunte-kristalle-die-in-einer-reihe-angeordnet-sind-to62lwqrbdk
+                  - img "Bunte Kristalle, die in einer Reihe angeordnet sind." [ref=e223]
+              - figure [ref=e224]:
+                - generic [ref=e226]:
+                  - link "Ein Haufen Steine, die übereinander sitzen" [ref=e227]:
+                    - /url: /de/fotos/ein-haufen-steine-die-ubereinander-sitzen-17q_DWsAYO4
+                    - img "Ein Haufen Steine, die übereinander sitzen" [ref=e228]
+                  - link [ref=e229] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-haufen-steine-die-ubereinander-sitzen-17q_DWsAYO4
+                    - img [ref=e230]
+              - figure [ref=e232]:
+                - generic [ref=e234]:
+                  - link "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e235]:
+                    - /url: /de/fotos/eine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e236]
+                  - link [ref=e237] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img [ref=e238]
+              - figure [ref=e240]:
+                - link "Verschiedene bunte Kristalle sitzen in einer Holzschale." [ref=e243]:
+                  - /url: /de/fotos/verschiedene-bunte-kristalle-sitzen-in-einer-holzschale-DK7kUaZ_LFs
+                  - img "Verschiedene bunte Kristalle sitzen in einer Holzschale." [ref=e244]
+              - figure [ref=e245]:
+                - link "Eine Gruppe von Felsen, die auf einer schwarzen Oberfläche sitzen" [ref=e248]:
+                  - /url: /de/fotos/eine-gruppe-von-felsen-die-auf-einer-schwarzen-oberflache-sitzen-yv9b5Cu8vM8
+                  - img "Eine Gruppe von Felsen, die auf einer schwarzen Oberfläche sitzen" [ref=e249]
+          - generic [ref=e252]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e253]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e254]: "| Jetzt Rabatt sichern"
+            - generic [ref=e256]:
+              - link "Makrobild von rohen Juwelen" [ref=e257] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/macro-image-of-raw-jewels-gm624494794-109778391?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Ad26bb151-20fe-45eb-910a-96ec48394049
+                - img "Makrobild von rohen Juwelen" [ref=e258]
+              - link "Aquamarine und rohen Kristall Perlen" [ref=e259] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/aquamarines-and-raw-crystal-gems-gm909163636-250422159?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A3aac2b11-b753-4469-9d70-315b3b3c23ae
+                - img "Aquamarine und rohen Kristall Perlen" [ref=e260]
+              - link "Roter Kristall-Edelstein-Stein leuchtet" [ref=e261] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/red-crystal-gem-stone-glowing-gm1487449181-512926474?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A3dedd1be-159e-45d8-9b40-0c8897ddc760
+                - img "Roter Kristall-Edelstein-Stein leuchtet" [ref=e262]
+              - link "Salzmineral" [ref=e263] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/salt-mineral-gm625080412-109995965?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A0226dd37-80c5-451a-a328-f243a4ff7bc1
+                - img "Salzmineral" [ref=e264]
+              - link "Saphirblau" [ref=e265] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/uncut-blue-sapphire-against-white-background-gm460405959-31617094?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3A81fffd79-f37b-4506-93ee-265f277ae7e8
+                - img "Saphirblau" [ref=e266]
+              - link "Original aus Granit" [ref=e267] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/original-granite-gm172726910-5945267?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Afda25659-11b2-4951-b819-87999c269cf5
+                - img "Original aus Granit" [ref=e268]
+              - link "Goldener Baryt auf dunklem Hintergrund" [ref=e269] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/golden-baryte-on-dark-background-gm2245914234-659902072?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Ab6c1473a-6af2-437a-b9f4-35015322fab2
+                - img "Goldener Baryt auf dunklem Hintergrund" [ref=e270]
+              - generic [ref=e271]:
+                - link "Roher polychromer Jaspis-Edelstein auf weißem Hintergrund" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/raw-polychrome-jasper-gemstone-on-white-background-gm2271730746-684177794?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Aafdff94b-6773-47a8-a6fa-18aee05c7262
+                  - img "Roher polychromer Jaspis-Edelstein auf weißem Hintergrund" [ref=e273]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e274] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-rough-gemstones-natural&utm_term=raw+rough+gemstones+natural%3A%3Aaffiliate-layout-optim%3Acontrol%3Aeb15f228-2336-46ca-b5f3-261c819dc120&phrase=raw+rough+gemstones+natural&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e278] [cursor=pointer]
+          - generic [ref=e279]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e281]
+            - paragraph [ref=e283]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

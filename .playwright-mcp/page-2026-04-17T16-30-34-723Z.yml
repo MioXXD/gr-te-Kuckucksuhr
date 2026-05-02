@@ -1,0 +1,235 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "🍃 Bake & Brew" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e5]: 🍃
+        - text: Bake & Brew
+      - navigation [ref=e6]:
+        - link "Über Uns" [ref=e7] [cursor=pointer]:
+          - /url: "#story"
+        - link "Menü" [ref=e8] [cursor=pointer]:
+          - /url: "#menu"
+        - link "Erfahrungen" [ref=e9] [cursor=pointer]:
+          - /url: "#erfahrungen"
+        - link "Besuch" [ref=e10] [cursor=pointer]:
+          - /url: "#besuch"
+      - link "Besuchen" [ref=e11] [cursor=pointer]:
+        - /url: "#besuch"
+  - generic:
+    - navigation:
+      - link "Über Uns":
+        - /url: "#story"
+      - link "Menü":
+        - /url: "#menu"
+      - link "Erfahrungen":
+        - /url: "#erfahrungen"
+      - link "Besuchen":
+        - /url: "#besuch"
+  - generic [ref=e12]:
+    - img
+    - img
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: Wiesbaden · seit 2024
+        - heading "Wo jeder Schluck sich anfühlt wie ein Ritual." [level=1] [ref=e16]:
+          - text: Wo jeder
+          - text: Schluck sich
+          - text: anfühlt wie
+          - text: ein Ritual.
+        - paragraph [ref=e17]: Ceremonial-Grade Matcha, organische Acai Bowls und Specialty Coffee — täglich frisch zubereitet in einer ruhigen, ästhetischen Atmosphäre.
+        - generic [ref=e18]:
+          - link "Menü entdecken" [ref=e19] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Uns finden →" [ref=e20] [cursor=pointer]:
+            - /url: "#besuch"
+      - generic [ref=e21]:
+        - img "Matcha Latte Art" [ref=e23]
+        - img "Acai Bowl" [ref=e25]
+        - generic [ref=e28]:
+          - strong [ref=e29]: Geöffnet ab 8:00
+          - text: Mo – So
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - strong [ref=e32]: 4.9 ★
+        - text: Google Bewertungen
+      - generic [ref=e34]:
+        - strong [ref=e35]: 10.000+
+        - text: zufriedene Gäste
+      - generic [ref=e37]:
+        - strong [ref=e38]: Täglich
+        - text: frisch zubereitet
+  - generic [ref=e40]:
+    - generic [ref=e41]: Ceremonial Matcha
+    - generic [ref=e42]: ·
+    - generic [ref=e43]: Organic Acai Bowls
+    - generic [ref=e44]: ·
+    - generic [ref=e45]: Specialty Coffee
+    - generic [ref=e46]: ·
+    - generic [ref=e47]: Täglich Frisch
+    - generic [ref=e48]: ·
+    - generic [ref=e49]: Wiesbaden
+    - generic [ref=e50]: ·
+    - generic [ref=e51]: Ceremonial Matcha
+    - generic [ref=e52]: ·
+    - generic [ref=e53]: Organic Acai Bowls
+    - generic [ref=e54]: ·
+    - generic [ref=e55]: Specialty Coffee
+    - generic [ref=e56]: ·
+    - generic [ref=e57]: Täglich Frisch
+    - generic [ref=e58]: ·
+    - generic [ref=e59]: Wiesbaden
+    - generic [ref=e60]: ·
+  - generic [ref=e61]:
+    - img
+    - generic [ref=e62]:
+      - img "Matcha Zubereitung" [ref=e65]
+      - generic [ref=e66]:
+        - generic [ref=e67]: Unsere Philosophie
+        - heading "Nicht einfach nur ein Café. Ein Ort zum Durchatmen." [level=2] [ref=e68]:
+          - text: Nicht einfach nur
+          - text: ein Café.
+          - generic [ref=e69]:
+            - text: Ein Ort zum
+            - text: Durchatmen.
+        - paragraph [ref=e70]: Wir haben Bake & Brew gegründet, weil wir glauben, dass Qualität und Ruhe zusammengehören. Unser Matcha kommt direkt aus Uji, Japan — ceremonial grade, nie industriell. Unsere Acai Bowls werden mit zertifiziert organischen Früchten zubereitet. Und unser Kaffee wird lokal in kleinen Chargen geröstet.
+        - paragraph [ref=e71]: "Das Ergebnis: ein Ort, der sich anfühlt wie eine Pause vom Alltag."
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - strong [ref=e74]: 100%
+            - text: Organic
+          - generic [ref=e75]:
+            - strong [ref=e76]: Uji
+            - text: Japan
+          - generic [ref=e77]:
+            - strong [ref=e78]: "0"
+            - text: Zusatzstoffe
+  - blockquote [ref=e81]:
+    - paragraph [ref=e82]: "\"Der beste Matcha in Wiesbaden — die Qualität schmeckt man sofort. Und die Atmosphäre ist einfach wunderschön.\""
+    - text: — Sophie M., Google Review
+  - generic [ref=e83]:
+    - img
+    - img
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - generic [ref=e86]: Das Menü
+        - heading "Unsere Highlights." [level=2] [ref=e87]:
+          - text: Unsere
+          - text: Highlights.
+      - generic [ref=e88]:
+        - article [ref=e89]:
+          - generic [ref=e90]:
+            - img "Ceremonial Matcha Latte" [ref=e91]
+            - generic [ref=e92]: Bestseller
+          - heading "Ceremonial Matcha Latte" [level=3] [ref=e93]
+          - paragraph [ref=e94]: Premium stone-ground Matcha, Hafermilch, sanfte Süße
+        - article [ref=e95]:
+          - generic [ref=e96]:
+            - img "Acai Power Bowl" [ref=e97]
+            - generic [ref=e98]: Beliebt
+          - heading "Acai Power Bowl" [level=3] [ref=e99]
+          - paragraph [ref=e100]: Bio-Acai, Granola, Banane, Beeren, Honig
+        - article [ref=e101]:
+          - generic [ref=e102]:
+            - img "Matcha Ceremony" [ref=e103]
+            - generic [ref=e104]: Neu
+          - heading "Matcha Ceremony" [level=3] [ref=e105]
+          - paragraph [ref=e106]: Traditionelle Zubereitung mit Bambusbesen, am Tisch serviert
+        - article [ref=e107]:
+          - img "Iced Matcha Latte" [ref=e109]
+          - heading "Iced Matcha Latte" [level=3] [ref=e110]
+          - paragraph [ref=e111]: Erfrischender Ceremonial Matcha über Eis mit Hafermilch
+      - link "Vollständiges Menü vor Ort" [ref=e113] [cursor=pointer]:
+        - /url: "#besuch"
+  - generic [ref=e115]:
+    - generic [ref=e116]:
+      - generic [ref=e117]: Zutaten
+      - heading "Woher unser Matcha kommt." [level=2] [ref=e118]:
+        - text: Woher unser
+        - text: Matcha kommt.
+      - paragraph [ref=e119]: Unser Ceremonial-Grade Matcha wird in den Teegärten von Uji, Japan, angebaut — einer Region mit über 800 Jahren Teekultur. Die Blätter werden von Hand geerntet, gedämpft und auf Granitstein zu feinstem Pulver gemahlen.
+      - paragraph [ref=e120]: "Das Ergebnis: ein Matcha, der reich an Antioxidantien, L-Theanin und natürlicher Energie ist — ohne den Crash von Kaffee."
+    - generic [ref=e121]:
+      - img "Matcha Pulver"
+  - generic [ref=e123]:
+    - generic [ref=e124]:
+      - generic [ref=e125]: Erfahrungen
+      - heading "Was unsere Gäste sagen." [level=2] [ref=e126]:
+        - text: Was unsere
+        - text: Gäste sagen.
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - generic [ref=e129]: ★★★★★
+        - paragraph [ref=e130]: "\"Die Acai Bowls sind Kunst. Frisch, farbenfroh und absolut köstlich. Das Interior Design ist atemberaubend — mein Lieblingscafé in der Stadt.\""
+        - strong [ref=e131]: Lena K.
+        - generic [ref=e132]: Google Review
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - generic [ref=e135]: ★★★★★
+          - paragraph [ref=e136]: "\"Perfekte Mischung aus Matcha-Expertise und Specialty Coffee. Das Team versteht sein Handwerk.\""
+          - strong [ref=e137]: Tim B.
+        - generic [ref=e138]:
+          - generic [ref=e139]: ★★★★★
+          - paragraph [ref=e140]: "\"Ein Ort zum Durchatmen. Der Matcha Latte ist der beste, den ich je getrunken habe.\""
+          - strong [ref=e141]: Marie S.
+  - generic [ref=e142]:
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - generic [ref=e145]: Besuchen
+        - heading "Komm vorbei. Wir freuen uns auf dich." [level=2] [ref=e146]:
+          - text: Komm vorbei.
+          - generic [ref=e147]:
+            - text: Wir freuen
+            - text: uns auf dich.
+        - paragraph [ref=e148]: Schreib uns eine Nachricht oder komm einfach vorbei. Wir antworten auf jede Nachricht — meistens innerhalb von 24 Stunden.
+        - generic [ref=e149]:
+          - generic [ref=e150]:
+            - strong [ref=e151]: Adresse
+            - generic [ref=e152]:
+              - text: Marktstraße 12
+              - text: 65183 Wiesbaden
+          - generic [ref=e153]:
+            - strong [ref=e154]: Öffnungszeiten
+            - generic [ref=e155]:
+              - text: "Mo–Fr: 8:00–19:00"
+              - text: "Sa–So: 9:00–18:00"
+          - generic [ref=e156]:
+            - strong [ref=e157]: Kontakt
+            - link "+49 611 123 456" [ref=e158] [cursor=pointer]:
+              - /url: tel:+49611123456
+            - link "hello@bakeandbrew.de" [ref=e159] [cursor=pointer]:
+              - /url: mailto:hello@bakeandbrew.de
+      - generic [ref=e161]:
+        - textbox "Dein Name" [ref=e162]
+        - textbox "E-Mail Adresse" [ref=e163]
+        - textbox "Deine Nachricht..." [ref=e164]
+        - button "Nachricht senden" [ref=e165] [cursor=pointer]
+    - iframe [ref=e167]
+  - contentinfo [ref=e168]:
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - generic [ref=e171]: Bake & Brew
+        - paragraph [ref=e172]:
+          - text: Matcha · Bowls · Coffee
+          - text: Wiesbaden, seit 2024
+      - generic [ref=e173]:
+        - generic [ref=e174]:
+          - link "Über Uns" [ref=e175] [cursor=pointer]:
+            - /url: "#story"
+          - link "Menü" [ref=e176] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Erfahrungen" [ref=e177] [cursor=pointer]:
+            - /url: "#erfahrungen"
+          - link "Kontakt" [ref=e178] [cursor=pointer]:
+            - /url: "#besuch"
+        - generic [ref=e179]:
+          - link "Impressum" [ref=e180] [cursor=pointer]:
+            - /url: impressum.html
+          - link "Datenschutz" [ref=e181] [cursor=pointer]:
+            - /url: datenschutz.html
+        - generic [ref=e182]:
+          - link "Instagram" [ref=e183] [cursor=pointer]:
+            - /url: "#"
+          - link "TikTok" [ref=e184] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=e185]: © 2025 Bake & Brew Wiesbaden. Alle Rechte vorbehalten.

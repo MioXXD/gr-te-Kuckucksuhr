@@ -1,0 +1,190 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: gold ring black background
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 13":
+                - /url: /de/s/fotos/gold-ring-black-background
+                - img
+                - text: Fotos
+                - generic: "13"
+            - listitem [ref=e48]:
+              - link "Grafiken 1" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/gold-ring-black-background
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "1"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Gold ring black background" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "Goldring" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/goldring
+              - link "Gold" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/gold
+              - link "Ring" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/ring
+              - link "Elektronik" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/elektronik
+              - link "Minimalist" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/minimalist
+              - link "Zubehör" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Luxu" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/luxu
+              - link "Muster" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/muster
+              - link "Ästhetisch" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/%C3%A4sthetisch
+              - link "Schatten" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/schatten
+              - link "Linse" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/linse
+              - link "Kamera" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/kamera
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - link "ein goldener Ring auf grünem Hintergrund" [ref=e105]:
+                  - /url: /de/fotos/ein-goldener-ring-auf-grunem-hintergrund-ihajR7c5Yls
+                  - img "ein goldener Ring auf grünem Hintergrund" [ref=e106]
+              - generic [ref=e107]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e108]:
+                  - generic [ref=e109]: Gesponserte Bilder
+                  - link [ref=e110] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=gold+ring+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e111]
+                - generic [ref=e113]:
+                  - link "Drei weiße gold diamond Ringe auf schwarzem Hintergrund" [ref=e114] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/three-white-gold-diamond-rings-on-black-background-gm108222426-7891859?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Drei weiße gold diamond Ringe auf schwarzem Hintergrund" [ref=e115]
+                  - link "Schrott-gold" [ref=e116] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/scrap-gold-gm468847612-60139234?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Schrott-gold" [ref=e117]
+                  - link "Diamond Eternity" [ref=e118] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/close-up-view-of-gold-ring-with-diamonds-gm157305924-5339051?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Diamond Eternity" [ref=e119]
+                  - link "Stapel Vintage-Ring, auf schwarzem Hintergrund" [ref=e120] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/stacked-luxury-ring-on-black-background-with-copy-space-gm137838640-13629688?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Stapel Vintage-Ring, auf schwarzem Hintergrund" [ref=e121]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e122] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=gold+ring+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e123]:
+                - link "eine Kamera mit angeschlossenem Flash-Laufwerk" [ref=e126]:
+                  - /url: /de/fotos/eine-kamera-mit-angeschlossenem-flash-laufwerk-rr3NcElJfwQ
+                  - img "eine Kamera mit angeschlossenem Flash-Laufwerk" [ref=e127]
+              - figure [ref=e128]:
+                - link "Goldschmuck auf einem schwarzen Rohstein." [ref=e131]:
+                  - /url: /de/fotos/goldschmuck-auf-einem-schwarzen-rohstein-4MksxMVbRrA
+                  - img "Goldschmuck auf einem schwarzen Rohstein." [ref=e132]
+              - figure [ref=e133]:
+                - link "Ein schwarz-brauner Roboter mit zwei runden Augen" [ref=e136]:
+                  - /url: /de/fotos/ein-schwarz-brauner-roboter-mit-zwei-runden-augen-ol4OTQlmRY4
+                  - img "Ein schwarz-brauner Roboter mit zwei runden Augen" [ref=e137]
+            - generic [ref=e138]:
+              - figure [ref=e139]:
+                - link "Eine schwarze Schachtel mit einem Ring darin" [ref=e142]:
+                  - /url: /de/fotos/eine-schwarze-schachtel-mit-einem-ring-darin-dEJs6iZYNR0
+                  - img "Eine schwarze Schachtel mit einem Ring darin" [ref=e143]
+              - figure [ref=e144]:
+                - link "Abstrakter goldener Ring mit gerippter Textur auf schwarzem Hintergrund" [ref=e147]:
+                  - /url: /de/fotos/abstrakter-goldener-ring-mit-gerippter-textur-auf-schwarzem-hintergrund-VlOVn2cBQuE
+                  - img "Abstrakter goldener Ring mit gerippter Textur auf schwarzem Hintergrund" [ref=e148]
+              - figure [ref=e149]:
+                - link "eine Digitalkamera mit einem daran befestigten Gurt" [ref=e152]:
+                  - /url: /de/fotos/eine-digitalkamera-mit-einem-daran-befestigten-gurt-p-3mvjE4Qao
+                  - img "eine Digitalkamera mit einem daran befestigten Gurt" [ref=e153]
+              - figure [ref=e154]:
+                - link "Eine Frau in einem grünen Hemd posiert für ein Foto" [ref=e157]:
+                  - /url: /de/fotos/eine-frau-in-einem-grunen-hemd-posiert-fur-ein-foto-s2e2SClyz6k
+                  - img "Eine Frau in einem grünen Hemd posiert für ein Foto" [ref=e158]
+            - generic [ref=e159]:
+              - figure [ref=e160]:
+                - link "Nahaufnahme eines gelben Lichts in einem dunklen Raum" [ref=e163]:
+                  - /url: /de/fotos/nahaufnahme-eines-gelben-lichts-in-einem-dunklen-raum-KzO1UYR70BI
+                  - img "Nahaufnahme eines gelben Lichts in einem dunklen Raum" [ref=e164]
+              - figure [ref=e165]:
+                - link "Frauenhand mit großem Ring aus rotem Stein." [ref=e168]:
+                  - /url: /de/fotos/frauenhand-mit-grossem-ring-aus-rotem-stein-gJLzVRQLc1g
+                  - img "Frauenhand mit großem Ring aus rotem Stein." [ref=e169]
+              - figure [ref=e170]:
+                - link "eine Kamera mit einem daran befestigten Objektiv" [ref=e173]:
+                  - /url: /de/fotos/eine-kamera-mit-einem-daran-befestigten-objektiv-7SrTatjhJD4
+                  - img "eine Kamera mit einem daran befestigten Objektiv" [ref=e174]
+              - figure [ref=e175]:
+                - link "Eine lächelnde Frau mit dunklem Haar in einer Jeansweste." [ref=e178]:
+                  - /url: /de/fotos/eine-lachelnde-frau-mit-dunklem-haar-in-einer-jeansweste-692B01C9RBM
+                  - img "Eine lächelnde Frau mit dunklem Haar in einer Jeansweste." [ref=e179]
+          - generic [ref=e182]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e183]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e184]: "| Jetzt Rabatt sichern"
+            - generic [ref=e186]:
+              - link "Eleganter Goldring mit Diamant auf schwarzem Hintergrund" [ref=e187] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/elegant-gold-ring-with-diamond-on-black-background-gm2177500447-596902918?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Eleganter Goldring mit Diamant auf schwarzem Hintergrund" [ref=e188]
+              - link "Solar eclipse" [ref=e189] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/solar-eclipse-gm696841952-129010495?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Solar eclipse" [ref=e190]
+              - link "Solitaire gold diamond-ring" [ref=e191] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/solitaire-gold-diamond-ring-gm173590951-7892085?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Solitaire gold diamond-ring" [ref=e192]
+              - link "18-Karat-Goldringe, einer mit einem natürlichen Thai-Rubin, der andere mit einem Ehering, der auf einem schwarz strukturierten Stoff präsentiert wurde" [ref=e193] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/18k-gold-rings-one-with-a-natural-thai-ruby-the-other-a-wedding-ring-displayed-on-a-gm2268210707-680811291?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "18-Karat-Goldringe, einer mit einem natürlichen Thai-Rubin, der andere mit einem Ehering, der auf einem schwarz strukturierten Stoff präsentiert wurde" [ref=e194]
+              - link "Smaragd Ring auf schwarz" [ref=e195] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/emerald-ring-on-black-gm2210178353-627245410?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Smaragd Ring auf schwarz" [ref=e196]
+              - link "Zwei 18-karat-Goldringe mit einem natürlichen thailändischen Rubin und einer mediterranen Koralle, die auf einem schwarz strukturierten Stoff präsentiert werden" [ref=e197] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/two-18k-gold-rings-with-a-natural-thai-ruby-and-a-mediterranean-coral-displayed-on-a-gm2268841339-681414829?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Zwei 18-karat-Goldringe mit einem natürlichen thailändischen Rubin und einer mediterranen Koralle, die auf einem schwarz strukturierten Stoff präsentiert werden" [ref=e198]
+              - link "Wunderschöner Ring aus Gelbgold mit Diamanten und Smaragd auf schwarzem Hintergrund" [ref=e199] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-yellow-gold-ring-with-diamonds-and-emerald-on-a-black-background-gm2161354881-581807932?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Wunderschöner Ring aus Gelbgold mit Diamanten und Smaragd auf schwarzem Hintergrund" [ref=e200]
+              - generic [ref=e201]:
+                - link "Gold-Schmuck." [ref=e202] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/gold-jewelry-gm599908966-103047435?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Gold-Schmuck." [ref=e203]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e204] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-black-background&utm_term=gold+ring+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=gold+ring+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e208] [cursor=pointer]
+          - generic [ref=e209]:
+            - link [ref=e210] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e211]
+            - paragraph [ref=e213]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

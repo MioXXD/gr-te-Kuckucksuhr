@@ -1,0 +1,251 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Zurück nach oben" [ref=e3] [cursor=pointer]:
+      - /url: "#"
+      - img "Flow State" [ref=e4]
+    - navigation "Hauptnavigation" [ref=e5]:
+      - link "Leistungen" [ref=e6] [cursor=pointer]:
+        - /url: "#services"
+      - link "Unser Team" [ref=e7] [cursor=pointer]:
+        - /url: "#team"
+      - link "Über uns" [ref=e8] [cursor=pointer]:
+        - /url: "#about"
+    - button "Kontakt aufnehmen" [ref=e9] [cursor=pointer]
+  - generic [ref=e10]:
+    - generic [ref=e11]: Webseiten & AI-Lösungen für moderne Unternehmen
+    - heading "Webseiten und AI für Unternehmen, die online führen." [level=1] [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: Webseiten
+        - generic [ref=e16]: und
+        - generic [ref=e17]: AI
+      - generic [ref=e18]: für
+      - generic [ref=e19]: Unternehmen,
+      - generic [ref=e20]: die
+      - generic [ref=e21]: online
+      - generic [ref=e22]: führen.
+    - paragraph [ref=e23]: Wir entwickeln moderne Webseiten und intelligente AI-Systeme — handgeschrieben, performant und auf Ihre Zielgruppe zugeschnitten. Aus Deutschland für deutsche Unternehmen.
+    - generic [ref=e24]:
+      - button "Demo anfordern" [ref=e25] [cursor=pointer]:
+        - text: Demo anfordern
+        - img [ref=e26]
+      - link "Live ansehen" [ref=e28] [cursor=pointer]:
+        - /url: "#services"
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - img [ref=e31]
+        - text: Kostenlose Erstberatung
+      - generic [ref=e33]:
+        - img [ref=e34]
+        - text: Vertraulich & sicher
+      - generic [ref=e36]:
+        - img [ref=e37]
+        - text: Antwort in < 24h
+    - 'img "Beispiel: RepairStation Wiesbaden — von Flow State entwickelt" [ref=e41]'
+  - generic [ref=e42]:
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - heading "Webseiten, die wirken." [level=2] [ref=e46]:
+          - text: Webseiten,
+          - text: die wirken.
+        - paragraph [ref=e47]: Wir entwickeln moderne Webseiten, die nicht nur gut aussehen — sie performen. Schnell, präzise und auf Ihre Zielgruppe zugeschnitten. Ihr digitaler Auftritt, professionell umgesetzt.
+      - generic [ref=e48]:
+        - heading "AI, die für Sie arbeitet." [level=2] [ref=e49]:
+          - text: AI, die für
+          - text: Sie arbeitet.
+        - paragraph [ref=e50]: Von Chatbots über telefonische Assistenten bis zu automatisiertem Kundenservice. Smarte AI-Systeme, die rund um die Uhr für Ihr Unternehmen arbeiten — zuverlässig und skalierbar.
+    - separator [ref=e51]
+    - region "All-in-one Plattform für Ihre digitale Präsenz" [ref=e52]:
+      - generic [ref=e53]: Leistungen
+      - heading "All-in-one Plattform für Ihre digitale Präsenz" [level=2] [ref=e54]:
+        - generic [ref=e55]: All-in-one
+        - generic [ref=e56]: Plattform
+        - generic [ref=e57]: für
+        - generic [ref=e58]: Ihre
+        - generic [ref=e59]: digitale
+        - generic [ref=e60]: Präsenz
+      - paragraph [ref=e61]: Vom ersten Pixel bis zum laufenden AI-System — wir liefern alles, was Ihr Unternehmen heute online braucht.
+      - generic [ref=e62]:
+        - article [ref=e63]:
+          - generic [ref=e64]: UNSER HAUPTGESCHÄFT
+          - generic [ref=e65]:
+            - heading "Webseiten, die wirken — handgeschrieben, schnell, eigen." [level=3] [ref=e66]:
+              - text: Webseiten, die wirken —
+              - text: handgeschrieben, schnell, eigen.
+            - paragraph [ref=e67]: Vanilla HTML/CSS/JS. Kein Page-Builder, kein Template, kein Plugin-Fest. Jede Seite individuell entworfen, optimiert für Geschwindigkeit, SEO und Conversion.
+        - article [ref=e68]:
+          - generic:
+            - generic: Anruf wird angenommen
+            - generic: Kunde freundlich begrüßt
+            - generic: Anfrage erfasst
+          - heading "AI-Systeme, die für Sie arbeiten." [level=3] [ref=e69]
+          - paragraph [ref=e70]: Während Sie schlafen, beantworten unsere AI-Assistenten Anrufe, sortieren E-Mails und buchen Termine. 24/7 erreichbar.
+        - article [ref=e71]:
+          - img [ref=e73]
+          - heading "AI-Berater" [level=3] [ref=e76]
+          - paragraph [ref=e77]: Chatbots auf Ihrer Website — 24/7 verfügbar, beantwortet auf Ihre Inhalte trainiert.
+        - article [ref=e78]:
+          - img [ref=e80]
+          - heading "Telefon-AI" [level=3] [ref=e82]
+          - paragraph [ref=e83]: Anrufe werden professionell beantwortet, qualifiziert und an Sie weitergeleitet.
+        - article [ref=e84]:
+          - img [ref=e86]
+          - heading "Auto-Service" [level=3] [ref=e88]
+          - paragraph [ref=e89]: E-Mail-Triage und Standardantworten automatisiert — Sie behalten den Überblick.
+        - article [ref=e90]:
+          - img [ref=e92]
+          - heading "Image-Optimierung" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Logo, Bildwelt, Tonalität — einheitlich für Web und Social.
+    - separator [ref=e96]
+    - region "Vier Schritte. Ein klarer Weg." [ref=e97]:
+      - generic [ref=e98]: Wie wir arbeiten
+      - heading "Vier Schritte. Ein klarer Weg." [level=2] [ref=e99]:
+        - generic [ref=e100]: Vier
+        - generic [ref=e101]: Schritte.
+        - generic [ref=e102]: Ein
+        - generic [ref=e103]: klarer
+        - generic [ref=e104]: Weg.
+      - paragraph [ref=e105]: Vom Erstgespräch bis zum Launch — Sie wissen jederzeit, wo Ihr Projekt steht.
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e108]: 01 BRIEF
+          - heading "Erstgespräch" [level=3] [ref=e109]
+          - paragraph [ref=e110]: Anforderungsprofil, Zielgruppe, Stilrichtung. Kostenlos, vertraulich, unverbindlich.
+        - generic [ref=e111]:
+          - generic [ref=e112]: 02 DESIGN
+          - heading "Mockups" [level=3] [ref=e113]
+          - paragraph [ref=e114]: Zwei unterschiedliche Designrichtungen zur Auswahl. Sie wählen die DNA, wir polieren.
+        - generic [ref=e115]:
+          - generic [ref=e116]: 03 BUILD
+          - heading "Entwicklung" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Vanilla HTML/CSS/JS, mobile-first, sauber. Iteratives Polish bis Premium-Niveau.
+        - generic [ref=e119]:
+          - generic [ref=e120]: 04 LAUNCH
+          - heading "Live-Gang & Care" [level=3] [ref=e121]
+          - paragraph [ref=e122]: Deploy auf Ihre Domain, Schema.org, HTTPS. 60 Tage Support nach Live-Gang inklusive.
+    - separator [ref=e123]
+    - region "Projekte, die überzeugen" [ref=e124]:
+      - generic [ref=e125]: Unsere Arbeit
+      - heading "Projekte, die überzeugen" [level=2] [ref=e126]:
+        - generic [ref=e127]: Projekte,
+        - generic [ref=e128]: die
+        - generic [ref=e129]: überzeugen
+      - paragraph [ref=e130]: Webseiten, die wir für unsere Kunden entwickelt haben — modern, performant und individuell.
+      - generic [ref=e131]:
+        - button "Vorheriges Projekt" [ref=e132] [cursor=pointer]:
+          - img [ref=e133]
+        - img "Portfolio Projekt 3" [ref=e245]
+        - button "Nächstes Projekt" [ref=e137] [cursor=pointer]:
+          - img [ref=e138]
+        - generic [ref=e140]:
+          - button [ref=e141] [cursor=pointer]
+          - button [ref=e142] [cursor=pointer]
+          - button [ref=e143] [cursor=pointer]
+          - button [ref=e144] [cursor=pointer]
+          - button [ref=e145] [cursor=pointer]
+          - button [ref=e146] [cursor=pointer]
+    - separator [ref=e147]
+    - region "Wer steckt hinter Flow State?" [ref=e148]:
+      - generic [ref=e149]: Über uns
+      - heading "Wer steckt hinter Flow State?" [level=2] [ref=e150]:
+        - generic [ref=e151]: Wer
+        - generic [ref=e152]: steckt
+        - generic [ref=e153]: hinter
+        - generic [ref=e154]: Flow
+        - generic [ref=e155]: State?
+      - paragraph [ref=e156]: Drei Köpfe. Eine Mission. Maximale Wirkung.
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - img [ref=e160]
+          - heading "Unsere Geschichte" [level=3] [ref=e163]
+          - paragraph [ref=e164]: "Flow State entstand aus einer einfachen Überzeugung: Jedes Unternehmen verdient einen starken digitalen Auftritt. Was als kleines Projekt begann, ist heute eine Full-Service Digitalagentur – mit echten Ergebnissen für echte Unternehmen."
+        - generic [ref=e165]:
+          - img [ref=e167]
+          - heading "Unsere Mission" [level=3] [ref=e171]
+          - paragraph [ref=e172]: Wir verbinden modernes Webdesign mit intelligenter KI-Technologie – damit Ihr Unternehmen nicht nur online sichtbar ist, sondern wirklich begeistert. Schnell, professionell und maßgeschneidert.
+        - generic [ref=e173]:
+          - img [ref=e175]
+          - heading "Unser Ansatz" [level=3] [ref=e180]
+          - paragraph [ref=e181]: Klein, aber schlagkräftig. Wir arbeiten eng mit unseren Kunden zusammen – keine langen Wartezeiten, keine anonymen Prozesse. Bei Flow State kennt jeder Ihren Namen und Ihr Ziel.
+    - region "Menschen hinter Flow State" [ref=e182]:
+      - generic [ref=e183]: Das Team
+      - heading "Menschen hinter Flow State" [level=2] [ref=e184]:
+        - generic [ref=e185]: Menschen
+        - generic [ref=e186]: hinter
+        - generic [ref=e187]: Flow
+        - generic [ref=e188]: State
+      - paragraph [ref=e189]: "Leidenschaft, Expertise und ein gemeinsames Ziel: Ihr Erfolg."
+      - generic [ref=e190]:
+        - generic [ref=e191]:
+          - img "Bennet Tilinski" [ref=e192]
+          - heading "Bennet Tilinski" [level=3] [ref=e193]
+          - paragraph [ref=e194]: Founder & Owner
+        - generic [ref=e195]:
+          - img "Adrian Pötzinger" [ref=e196]
+          - heading "Adrian Pötzinger" [level=3] [ref=e197]
+          - paragraph [ref=e198]: Founder & Owner
+        - generic [ref=e199]:
+          - img "Damian Braun" [ref=e200]
+          - heading "Damian Braun" [level=3] [ref=e201]
+          - paragraph [ref=e202]: Lead Developer
+    - generic [ref=e203]:
+      - generic [ref=e204]: Flow State
+      - heading "Bauen wir Ihre nächste Größenordnung." [level=2] [ref=e205]:
+        - generic [ref=e206]: Bauen
+        - generic [ref=e207]: wir
+        - generic [ref=e208]: Ihre
+        - generic [ref=e209]: nächste
+        - generic [ref=e211]: Größenordnung.
+      - paragraph [ref=e212]: Erstgespräch kostenlos, vertraulich und unverbindlich. Wir hören uns an, was Sie vorhaben — und sagen ehrlich, ob wir der richtige Partner sind.
+      - button "Jetzt Demo anfordern" [ref=e213] [cursor=pointer]:
+        - text: Jetzt Demo anfordern
+        - img [ref=e214]
+    - contentinfo [ref=e216]:
+      - img "Flow State" [ref=e217]
+      - paragraph [ref=e218]: Flow State
+      - paragraph [ref=e219]: Professionelle Weblösungen & AI-Systeme für Ihr Unternehmen.
+      - paragraph [ref=e220]:
+        - link "flow-state@gmx.de" [ref=e221] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de
+        - text: ·
+        - link "+49 178 1868874" [ref=e222] [cursor=pointer]:
+          - /url: tel:+4917818688740
+      - paragraph [ref=e223]: © 2026 Flow State. Alle Rechte vorbehalten.
+      - navigation "Rechtliche Links" [ref=e224]:
+        - link "Impressum" [ref=e225] [cursor=pointer]:
+          - /url: impressum.html
+        - generic [ref=e226]: ·
+        - link "Datenschutz" [ref=e227] [cursor=pointer]:
+          - /url: datenschutz.html
+        - generic [ref=e228]: ·
+        - button "Cookie-Einstellungen" [ref=e229] [cursor=pointer]
+  - region "Cookie-Einwilligung" [ref=e230]:
+    - generic [ref=e231]:
+      - generic [ref=e232]:
+        - heading "Wir respektieren Ihre Privatsphäre" [level=3] [ref=e233]
+        - paragraph [ref=e234]:
+          - text: Wir verwenden technisch notwendige Funktionen und — mit Ihrer Einwilligung — optionale externe Dienste (KI-Chatbot via Google Gemini). Mehr dazu in unserer
+          - link "Datenschutzerklärung" [ref=e235] [cursor=pointer]:
+            - /url: datenschutz.html
+          - text: .
+      - generic [ref=e236]:
+        - button "Alle ablehnen" [ref=e237] [cursor=pointer]
+        - button "Einstellungen" [ref=e238] [cursor=pointer]
+        - button "Alle akzeptieren" [ref=e239] [cursor=pointer]
+  - generic [ref=e240]:
+    - dialog "Flow State Chatbot":
+      - generic:
+        - generic:
+          - img
+        - generic:
+          - heading "Flow State AI" [level=3]
+          - paragraph: Immer online • Kostenlos
+        - button "Chat schließen":
+          - img
+      - generic:
+        - generic:
+          - textbox "Nachricht eingeben":
+            - /placeholder: Nachricht schreiben…
+          - button "Senden":
+            - img
+    - button "Chatbot öffnen / schließen" [ref=e241] [cursor=pointer]:
+      - img [ref=e242]

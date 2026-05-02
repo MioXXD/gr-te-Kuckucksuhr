@@ -1,0 +1,424 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Flow State Startseite" [ref=e3] [cursor=pointer]:
+      - /url: "#top"
+      - img "Flow State Logo" [ref=e4]
+      - generic [ref=e5]:
+        - text: Flow
+        - emphasis [ref=e6]: State
+    - navigation "Hauptnavigation" [ref=e7]:
+      - link "Leistungen" [ref=e8] [cursor=pointer]:
+        - /url: "#leistungen"
+      - link "Team" [ref=e9] [cursor=pointer]:
+        - /url: "#team"
+      - link "Über uns" [ref=e10] [cursor=pointer]:
+        - /url: "#about"
+      - link "Kontakt" [ref=e11] [cursor=pointer]:
+        - /url: "#kontakt"
+    - link "Kostenlose Beratung" [ref=e12] [cursor=pointer]:
+      - /url: "#kontakt"
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - generic [ref=e19]: Moderne Websites & AI-Lösungen
+        - heading "Boost Your Company Image" [level=1]:
+          - generic:
+            - generic:
+              - generic: BOOST
+              - generic: YOUR
+          - generic:
+            - generic:
+              - generic: COMPANY
+          - generic:
+            - generic:
+              - generic: IMAGE.
+        - paragraph [ref=e20]:
+          - text: Webseiten, Automatisierungen und AI-Lösungen,
+          - text: die Ihr Unternehmen nach vorne bringen.
+        - generic [ref=e21]:
+          - link "Projekt anfragen" [ref=e22] [cursor=pointer]:
+            - /url: "#kontakt"
+            - img [ref=e23]
+            - generic [ref=e28]: Projekt anfragen
+          - link "Leistungen ansehen" [ref=e29] [cursor=pointer]:
+            - /url: "#leistungen"
+            - img [ref=e30]
+            - generic [ref=e33]: Leistungen ansehen
+        - generic "Was uns auszeichnet" [ref=e34]:
+          - generic [ref=e35]:
+            - img [ref=e37]
+            - generic [ref=e40]:
+              - strong [ref=e41]: Sicher
+              - generic [ref=e42]: DSGVO · TLS · ISO
+          - generic [ref=e43]:
+            - img [ref=e45]
+            - generic [ref=e47]:
+              - strong [ref=e48]: Skalierbar
+              - generic [ref=e49]: Wächst mit Ihnen
+          - generic [ref=e50]:
+            - img [ref=e52]
+            - generic [ref=e53]:
+              - strong [ref=e54]: Messbar
+              - generic [ref=e55]: Mehr Umsatz
+      - generic [ref=e57]:
+        - generic [ref=e58]: SCROLL
+        - img [ref=e59]
+    - generic [ref=e62]:
+      - generic [ref=e63]: Webentwicklung
+      - generic [ref=e64]: •
+      - generic [ref=e65]: AI-Berater
+      - generic [ref=e66]: •
+      - generic [ref=e67]: Telefonische AI-Assistenten
+      - generic [ref=e68]: •
+      - generic [ref=e69]: Automatisierter Kundenservice
+      - generic [ref=e70]: •
+      - generic [ref=e71]: Image-Optimierung
+      - generic [ref=e72]: •
+      - generic [ref=e73]: Webentwicklung
+      - generic [ref=e74]: •
+      - generic [ref=e75]: AI-Berater
+      - generic [ref=e76]: •
+      - generic [ref=e77]: Telefonische AI-Assistenten
+      - generic [ref=e78]: •
+      - generic [ref=e79]: Automatisierter Kundenservice
+      - generic [ref=e80]: •
+      - generic [ref=e81]: Image-Optimierung
+      - generic [ref=e82]: •
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - generic [ref=e85]: 0+
+        - generic [ref=e86]: Projekte realisiert
+      - generic [ref=e87]:
+        - generic [ref=e88]: "0"
+        - generic [ref=e89]: Experten im Team
+      - generic [ref=e90]:
+        - generic [ref=e91]: 0/7
+        - generic [ref=e92]: KI-Support
+      - generic [ref=e93]:
+        - generic [ref=e94]: 0%
+        - generic [ref=e95]: Persönliche Betreuung
+    - separator [ref=e96]
+    - region "Was wir bauen" [ref=e97]:
+      - generic [ref=e98]:
+        - generic [ref=e101]: Was wir bauen
+        - heading "Wir bauen Webseiten AI‑Systeme Automatisierungen Brand‑Auftritte die wirklich funktionieren." [level=2] [ref=e102]:
+          - generic [ref=e103]: Wir bauen
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - img [ref=e107]
+              - text: Webseiten
+            - generic [ref=e110]:
+              - img [ref=e112]
+              - text: AI‑Systeme
+            - generic [ref=e115]:
+              - img [ref=e117]
+              - text: Automatisierungen
+            - generic [ref=e120]:
+              - img [ref=e122]
+              - text: Brand‑Auftritte
+          - generic [ref=e126]:
+            - text: die
+            - emphasis [ref=e127]: wirklich funktionieren
+            - text: .
+    - separator [ref=e129]
+    - region "Sie zahlen erst, wenn es Ihnen gefällt." [ref=e130]:
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - img [ref=e135]
+          - generic [ref=e138]: Unser Versprechen
+        - heading "Sie zahlen erst, wenn es Ihnen gefällt." [level=2] [ref=e139]:
+          - generic [ref=e140]: Sie zahlen erst,
+          - generic [ref=e141]: wenn es Ihnen gefällt.
+        - paragraph [ref=e142]:
+          - text: Wir bauen Ihre komplette Website im Voraus — Design, Entwicklung, Inhalte.
+          - strong [ref=e143]: Kostenlos und ohne Verpflichtung.
+          - text: Erst wenn das fertige Ergebnis Sie überzeugt, kommen Kosten in Bewegung. Kein Risiko. Keine versteckten Klauseln.
+        - list [ref=e144]:
+          - listitem [ref=e145]:
+            - generic [ref=e146]: "01"
+            - heading "Brief" [level=3] [ref=e147]
+            - paragraph [ref=e148]: 30-Min-Gespräch. Ihre Branche, Ziele, Stilvorlieben.
+          - listitem [ref=e149]:
+            - generic [ref=e150]: "02"
+            - heading "Wir bauen" [level=3] [ref=e151]
+            - paragraph [ref=e152]: Komplette Website. Design, Code, Texte. Auf unsere Kosten.
+          - listitem [ref=e153]:
+            - generic [ref=e154]: "03"
+            - heading "Sie entscheiden" [level=3] [ref=e155]
+            - paragraph [ref=e156]: Gefällt es? Sie zahlen. Gefällt es nicht? Sie schulden uns nichts.
+        - generic [ref=e157]:
+          - link "Risikofreies Erstgespräch" [ref=e158] [cursor=pointer]:
+            - /url: "#kontakt"
+            - generic [ref=e159]: Risikofreies Erstgespräch
+          - generic [ref=e160]: Antwort innerhalb 24 Stunden.
+    - separator [ref=e161]
+    - generic [ref=e162]:
+      - generic [ref=e163]:
+        - generic [ref=e164]: Unsere Leistungen
+        - heading "Webseiten, die wirken. AI, die für Sie arbeitet." [level=2] [ref=e165]:
+          - text: Webseiten, die wirken.
+          - text: AI, die für Sie arbeitet.
+        - paragraph [ref=e166]: Wir verbinden präzises Webdesign mit intelligenten AI-Systemen — alles aus einer Hand, damit Ihr Unternehmen digital sichtbar, schneller und produktiver wird.
+      - generic [ref=e170]: WEITER SCROLLEN
+      - generic [ref=e173]:
+        - article [ref=e174]:
+          - img [ref=e177]
+          - heading "Webentwicklung" [level=3] [ref=e181]
+          - paragraph [ref=e182]: Wir entwickeln moderne Webseiten, die nicht nur gut aussehen — sie performen. Schnell, präzise und exakt auf Ihre Zielgruppe zugeschnitten.
+          - list [ref=e183]:
+            - listitem [ref=e184]: Premium UI & UX Design
+            - listitem [ref=e185]: Performance & SEO
+            - listitem [ref=e186]: Mobile First & barrierearm
+        - article [ref=e187]:
+          - img [ref=e190]
+          - heading "AI-Berater" [level=3] [ref=e193]
+          - paragraph [ref=e194]: Intelligente Chat- und Sprachassistenten, die Ihre Kunden beraten, Termine vereinbaren und Anfragen automatisch qualifizieren — rund um die Uhr.
+          - list [ref=e195]:
+            - listitem [ref=e196]: Custom Chatbots
+            - listitem [ref=e197]: Wissensbasierte Antworten
+            - listitem [ref=e198]: Nahtlose Website-Integration
+        - article [ref=e199]:
+          - img [ref=e202]
+          - heading "Telefonische AI-Assistenten" [level=3] [ref=e204]
+          - paragraph [ref=e205]: Ihre Telefonzentrale — komplett automatisiert. Unsere Voice-Agents nehmen Anrufe an, klären Anliegen und übergeben relevante Calls an Ihr Team.
+          - list [ref=e206]:
+            - listitem [ref=e207]: 24/7 Erreichbarkeit
+            - listitem [ref=e208]: Natürliche Stimme
+            - listitem [ref=e209]: CRM-Anbindung
+        - article [ref=e210]:
+          - img [ref=e213]
+          - heading "Automatisierter Kundenservice" [level=3] [ref=e218]
+          - paragraph [ref=e219]: End-to-End Workflows, die Tickets klassifizieren, beantworten und bei Bedarf eskalieren. Weniger Aufwand, mehr Zufriedenheit.
+          - list [ref=e220]:
+            - listitem [ref=e221]: E-Mail & Ticket-Routing
+            - listitem [ref=e222]: Wissensdatenbank
+            - listitem [ref=e223]: Reporting & Analytics
+        - article [ref=e224]:
+          - img [ref=e227]
+          - heading "Image-Optimierung" [level=3] [ref=e230]
+          - paragraph [ref=e231]: Wir schärfen Ihre Marke digital — von Logo & Wording bis hin zu konsistenten Touchpoints, die Vertrauen und Wiedererkennung schaffen.
+          - list [ref=e232]:
+            - listitem [ref=e233]: Markenstrategie
+            - listitem [ref=e234]: Visuelle Identität
+            - listitem [ref=e235]: Content & Tonalität
+        - article [ref=e236]:
+          - heading "Ihr Projekt?" [level=3] [ref=e238]
+          - paragraph [ref=e239]: Sprechen wir über Ihr Vorhaben — kostenlos & unverbindlich. In 30 Minuten skizzieren wir die beste Lösung für Sie.
+          - link "Erstgespräch sichern" [ref=e240] [cursor=pointer]:
+            - /url: "#kontakt"
+            - generic [ref=e241]: Erstgespräch sichern
+    - separator [ref=e242]
+    - region "Showcase" [ref=e243]:
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - img [ref=e248]
+            - text: So sehen unsere Builds aus
+          - heading "Mehr als nur eine Website — ein Verkaufsargument." [level=2] [ref=e250]:
+            - text: Mehr als nur eine Website —
+            - text: ein Verkaufsargument.
+          - paragraph [ref=e251]: "Jeder Build wird wie ein eigenes Produkt behandelt. Premium-UI, messbare Ladezeiten, SEO-optimiert. Das Ergebnis: Ihre Besucher bleiben, klicken, kaufen."
+          - list [ref=e252]:
+            - listitem [ref=e253]:
+              - img [ref=e255]
+              - strong [ref=e257]: Pixel-perfekt
+              - text: auf jedem Device, von 320px bis 4K
+            - listitem [ref=e258]:
+              - img [ref=e260]
+              - strong [ref=e262]: Lighthouse-Scores 95+
+              - text: für Speed, SEO, A11y
+            - listitem [ref=e263]:
+              - img [ref=e265]
+              - strong [ref=e267]: Conversion-orientiert
+              - text: — jede Sektion hat einen Job
+        - generic [ref=e268]:
+          - img [ref=e271]
+          - generic:
+            - generic: Performance · 98
+            - generic: SEO-optimiert
+            - generic: Mobile-first
+    - separator [ref=e274]
+    - region "Metriken" [ref=e275]:
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - img [ref=e279]
+          - text: Was Sie bekommen
+        - heading "Eine Plattform, die Resultate liefert." [level=2] [ref=e280]
+        - paragraph [ref=e281]: Jeder Klick gemessen. Jede Sekunde optimiert. Jedes Element justifiziert.
+      - generic [ref=e282]:
+        - article [ref=e283]:
+          - generic [ref=e284]: PERFORMANCE · LIVE
+          - generic [ref=e285]: 98/100
+          - generic [ref=e286]:
+            - generic [ref=e289]: FCP
+            - generic [ref=e292]: LCP
+            - generic [ref=e295]: CLS
+            - generic [ref=e298]: SEO
+          - paragraph [ref=e299]: Lighthouse-Scores auf jedem Build — nicht verhandelbar.
+        - article [ref=e300]:
+          - generic [ref=e301]: AI · Aktiv
+          - heading "AI-Berater nimmt Anrufe an, während Sie schlafen." [level=3] [ref=e303]
+          - generic [ref=e304]:
+            - generic [ref=e306]: Guten Abend, hier ist Ihr Flow-State-Assistent. Wie kann ich helfen?
+            - generic [ref=e308]: Brauche einen Termin morgen Vormittag
+            - generic [ref=e310]: Ich habe 9:00 oder 10:30 frei. Welche passt besser?
+        - article [ref=e311]:
+          - img [ref=e313]
+          - generic [ref=e316]: Auffindbarkeit klettert.
+          - img [ref=e317]
+          - paragraph [ref=e322]: Bessere SEO-Rankings über Zeit — Sichtbarkeit auf Google steigt mit jedem Monat.
+        - article [ref=e323]:
+          - img [ref=e325]
+          - generic [ref=e328]: 21Tage
+          - paragraph [ref=e329]: Average Time-to-Launch — vom Brief bis Live.
+        - article [ref=e330]:
+          - img [ref=e332]
+          - generic [ref=e334]: 4.9/ 5
+          - paragraph [ref=e335]: Durchschnittliche Kundenbewertung — basierend auf Hosted-Reviews.
+    - separator [ref=e336]
+    - region "Vier Schritte. Ein klarer Weg." [ref=e337]:
+      - generic [ref=e338]:
+        - generic [ref=e339]: Wie wir arbeiten
+        - heading "Vier Schritte. Ein klarer Weg." [level=2] [ref=e340]
+        - paragraph [ref=e341]: Vom ersten Gespräch bis zum Live-Gang — Sie wissen jederzeit, wo Ihr Projekt steht.
+      - list [ref=e350]:
+        - listitem [ref=e351]:
+          - generic [ref=e352]: "01"
+          - heading "Brief" [level=3] [ref=e353]
+          - paragraph [ref=e354]: Erstgespräch. Wir lernen Ihren Betrieb, Ihre Ziele, Ihre Zielgruppe — kostenlos und unverbindlich.
+        - listitem:
+          - generic: "02"
+          - heading "Design" [level=3]
+          - paragraph: Mockups in mehreren Designrichtungen. Sie wählen die DNA, wir polieren bis es sitzt.
+        - listitem:
+          - generic: "03"
+          - heading "Build" [level=3]
+          - paragraph: Entwicklung mit modernem Stack. Mobile-first, performant, sauber. Iteratives Polish bis Premium-Niveau.
+        - listitem:
+          - generic: "04"
+          - heading "Launch & Care" [level=3]
+          - paragraph: Deploy auf Ihre Domain, SSL, SEO, Schema.org. 60 Tage Support nach Live-Gang inklusive.
+    - separator [ref=e355]
+    - generic [ref=e358]:
+      - generic [ref=e359]: Über uns
+      - heading "Zwei Köpfe. Eine Mission. Maximale Wirkung." [level=2] [ref=e360]:
+        - text: Zwei Köpfe.
+        - text: Eine Mission.
+        - text: Maximale Wirkung.
+      - paragraph [ref=e361]: Jedes Unternehmen braucht einen starken digitalen Auftritt. Wir kombinieren erstklassiges Design, moderne Webentwicklung und KI-Automatisierung — pragmatisch umgesetzt, ohne Buzzwords, immer mit messbarem Ergebnis.
+      - generic [ref=e362]:
+        - generic [ref=e363]:
+          - strong [ref=e364]: 50+ Projekte
+          - text: realisiert & live
+        - generic [ref=e365]:
+          - strong [ref=e366]: 24/7 Support
+          - text: via KI & Team
+        - generic [ref=e367]:
+          - strong [ref=e368]: Klein & agil
+          - text: persönliche Betreuung
+    - separator [ref=e371]
+    - region "Mobile First" [ref=e372]:
+      - generic [ref=e373]:
+        - generic [ref=e376]:
+          - generic [ref=e377]:
+            - generic [ref=e378]: 9:41
+            - generic [ref=e379]: ⌁ ●
+          - generic [ref=e380]:
+            - generic [ref=e383]: Mobile First
+            - heading [level=4] [ref=e384]:
+              - text: Schnell.
+              - text: Schön.
+              - text: Einfach.
+            - button [ref=e387] [cursor=pointer]: Jetzt entdecken
+          - generic [ref=e388]:
+            - generic [ref=e389]:
+              - strong [ref=e390]: 1.2s
+              - generic [ref=e391]: LCP
+            - generic [ref=e392]:
+              - strong [ref=e393]: "96"
+              - generic [ref=e394]: Score
+            - generic [ref=e395]:
+              - strong [ref=e396]: "0"
+              - generic [ref=e397]: CLS
+        - generic [ref=e400]:
+          - generic [ref=e401]:
+            - img [ref=e403]
+            - text: Mobile First
+          - heading "Wir bauen mobile-first — weil 70% Ihrer Kunden so kommen." [level=2] [ref=e405]:
+            - text: Wir bauen mobile-first —
+            - text: weil 70% Ihrer Kunden so kommen.
+          - paragraph [ref=e406]: Jede Interaktion wird zuerst auf dem Smartphone designt und entwickelt. Was am Handy nicht funktioniert, kommt nicht in den Build — egal wie schick es am Desktop aussieht.
+          - generic [ref=e407]:
+            - generic [ref=e408]:
+              - strong [ref=e409]: 70%
+              - text: der Visits kommen mobile
+            - generic [ref=e410]:
+              - strong [ref=e411]: 1.4s
+              - text: durchschnittl. Ladezeit auf 3G
+            - generic [ref=e412]:
+              - strong [ref=e413]: 0px
+              - text: Layout-Shift bei Scroll
+    - separator [ref=e414]
+    - generic [ref=e415]:
+      - generic [ref=e416]:
+        - generic [ref=e417]: Unser Team
+        - heading "Die Gründer hinter Flow State." [level=2] [ref=e418]
+      - generic [ref=e419]:
+        - article [ref=e420]:
+          - generic [ref=e422]: BT
+          - heading "Bennet Tilinski" [level=4] [ref=e423]
+          - paragraph [ref=e424]: Founder & Owner
+        - article [ref=e425]:
+          - generic [ref=e427]: AP
+          - heading "Adrian Pötzinger" [level=4] [ref=e428]
+          - paragraph [ref=e429]: Founder & Owner
+    - separator [ref=e430]
+    - generic [ref=e432]:
+      - generic [ref=e433]: Kontakt
+      - heading "Bereit für Ihr nächstes Level?" [level=2] [ref=e434]
+      - paragraph [ref=e435]: Lassen Sie uns über Ihr Projekt sprechen. Innerhalb von 24 Stunden hören Sie von uns.
+      - generic [ref=e436]:
+        - link "E-Mail flow-state@gmx.de" [ref=e437] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de
+          - img [ref=e438]
+          - generic [ref=e441]:
+            - generic [ref=e442]: E-Mail
+            - strong [ref=e443]: flow-state@gmx.de
+        - link "Telefon +49 178 1868874" [ref=e444] [cursor=pointer]:
+          - /url: tel:+491781868874
+          - img [ref=e445]
+          - generic [ref=e447]:
+            - generic [ref=e448]: Telefon
+            - strong [ref=e449]: +49 178 1868874
+      - generic [ref=e450]:
+        - link "Projekt anfragen" [ref=e451] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de?subject=Projektanfrage
+          - generic [ref=e452]: Projekt anfragen
+        - link "Jetzt anrufen" [ref=e453] [cursor=pointer]:
+          - /url: tel:+491781868874
+          - generic [ref=e454]: Jetzt anrufen
+  - contentinfo [ref=e455]:
+    - generic [ref=e456]:
+      - link "FlowState" [ref=e457] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e458]:
+          - text: Flow
+          - emphasis [ref=e459]: State
+      - navigation "Footer" [ref=e460]:
+        - link "Leistungen" [ref=e461] [cursor=pointer]:
+          - /url: "#leistungen"
+        - link "Team" [ref=e462] [cursor=pointer]:
+          - /url: "#team"
+        - link "Über uns" [ref=e463] [cursor=pointer]:
+          - /url: "#about"
+        - link "Kontakt" [ref=e464] [cursor=pointer]:
+          - /url: "#kontakt"
+    - generic [ref=e465]:
+      - generic [ref=e466]: © 2026 Flow State. Alle Rechte vorbehalten.
+      - generic [ref=e467]:
+        - link "Impressum" [ref=e468] [cursor=pointer]:
+          - /url: "#"
+        - link "Datenschutz" [ref=e469] [cursor=pointer]:
+          - /url: "#"
+        - link "Cookies" [ref=e470] [cursor=pointer]:
+          - /url: "#"

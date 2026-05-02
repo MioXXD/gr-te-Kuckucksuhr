@@ -1,0 +1,329 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "+49 711 340 358-70" [ref=e5] [cursor=pointer]:
+        - /url: tel:+4971134035870
+      - generic [ref=e6]: ·
+      - link "termin@foqus-fellbach.de" [ref=e7] [cursor=pointer]:
+        - /url: mailto:termin@foqus-fellbach.de
+    - generic [ref=e8]:
+      - generic [ref=e9]: Stuttgarter Str. 26, Fellbach
+      - generic [ref=e10]: ·
+      - generic [ref=e11]: Alle Kassen & Privat
+  - banner [ref=e12]:
+    - generic [ref=e13]:
+      - link "FOQUS Fellbach Startseite" [ref=e14] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=e15]:
+          - img [ref=e16]
+          - img [ref=e19]
+        - generic [ref=e22]:
+          - text: FOQUS
+          - generic [ref=e23]: Fellbach · Augen & Haut
+      - navigation "Hauptnavigation" [ref=e24]:
+        - link "Fachbereiche ↓" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+        - link "Ärzte-Team" [ref=e27] [cursor=pointer]:
+          - /url: team.html
+        - link "Praxis" [ref=e28] [cursor=pointer]:
+          - /url: "#praxis"
+        - link "Kontakt" [ref=e29] [cursor=pointer]:
+          - /url: kontakt.html
+        - link "Termin buchen →" [ref=e30] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin buchen
+          - generic [ref=e31]: →
+  - main [ref=e32]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: FOQUS Fellbach · Medizinisches Zentrum
+          - heading "Augen. Haut. Ein Ort." [level=1] [ref=e38]:
+            - text: Augen.
+            - text: Haut.
+            - text: Ein Ort.
+          - paragraph [ref=e39]: Zwei Fachrichtungen unter einem Dach. Fachärztliche Versorgung in Augenheilkunde und Dermatologie — von Vorsorge und Diagnostik bis zu Lidchirurgie, Lasermedizin und ästhetischer Dermatologie.
+          - generic [ref=e40]:
+            - link "Termin online buchen →" [ref=e41] [cursor=pointer]:
+              - /url: https://app.arzt-direkt.de/foqus/booking
+              - text: Termin online buchen
+              - generic [ref=e42]: →
+            - link "Kombi-Vorsorge entdecken" [ref=e43] [cursor=pointer]:
+              - /url: "#kombi"
+        - figure "Dr. A. Thode · Dr. M.-C. Thode" [ref=e44]:
+          - img "Dr. med. Astrid Thode und Dr. Malte-Christian Thode — das Ärzte-Team von FOQUS Fellbach" [ref=e45]
+          - generic [ref=e46]: Dr. A. Thode · Dr. M.-C. Thode
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - strong [ref=e49]:
+            - text: "2"
+            - emphasis [ref=e50]: Fachgebiete
+          - text: Augen & Dermatologie
+        - generic [ref=e51]:
+          - strong [ref=e52]:
+            - text: "1"
+            - emphasis [ref=e53]: Termin
+          - text: Kombi-Vorsorge
+        - generic [ref=e54]:
+          - strong [ref=e55]: KI-gestützt
+          - text: Total Body Mapping
+        - generic [ref=e56]:
+          - strong [ref=e57]: Alle Kassen
+          - text: "& Privat · Offene Sprechstunde"
+    - region "Fachbereichs-Übersicht" [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]: Fachbereich 01 · Augenheilkunde
+        - heading "Der klare Blick." [level=2] [ref=e61]:
+          - text: Der klare
+          - text: Blick.
+        - paragraph [ref=e62]: Vorsorge, Diagnostik und Therapie der Augen — von Grünem Star bis Makuladegeneration, mit modernster OCT-Bildgebung.
+        - list [ref=e63]:
+          - listitem [ref=e64]: Glaukom-Vorsorge
+          - listitem [ref=e65]: Katarakt
+          - listitem [ref=e66]: OCT-Untersuchung
+          - listitem [ref=e67]: Makuladegeneration
+          - listitem [ref=e68]: Netzhaut-Therapie
+          - listitem [ref=e69]: Sehschule
+        - link "Alle Leistungen Augenheilkunde →" [ref=e70] [cursor=pointer]:
+          - /url: augenheilkunde.html
+          - text: Alle Leistungen Augenheilkunde
+          - generic [ref=e71]: →
+      - generic [ref=e72]:
+        - generic [ref=e73]: Fachbereich 02 · Dermatologie
+        - heading "Die gesunde Haut." [level=2] [ref=e74]:
+          - text: Die gesunde
+          - text: Haut.
+        - paragraph [ref=e75]: Vorsorge und Behandlung der Haut — von Hautkrebs-Früherkennung mit KI-gestütztem Mapping bis Dermatochirurgie.
+        - list [ref=e76]:
+          - listitem [ref=e77]: Hautkrebsvorsorge
+          - listitem [ref=e78]: Dermatochirurgie
+          - listitem [ref=e79]: Lasermedizin
+          - listitem [ref=e80]: Allergologie
+          - listitem [ref=e81]: Ästhetische Medizin
+          - listitem [ref=e82]: Lidchirurgie
+        - link "Alle Leistungen Dermatologie →" [ref=e83] [cursor=pointer]:
+          - /url: dermatologie.html
+          - text: Alle Leistungen Dermatologie
+          - generic [ref=e84]: →
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]: Das FOQUS-Prinzip
+        - heading "Eine Untersuchung. Zwei Fachärzte. Ein Termin." [level=2] [ref=e90]:
+          - text: Eine Untersuchung.
+          - text: Zwei Fachärzte.
+          - emphasis [ref=e91]: Ein Termin.
+        - paragraph [ref=e92]: Die Kombi-Vorsorge bündelt Augen- und Hautcheck in einem Besuch. Weniger Wartezimmer, weniger Anfahrten, mehr Übersicht — medizinisch sinnvoll zusammengeführt.
+        - link "Kombi-Vorsorge buchen →" [ref=e94] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Kombi-Vorsorge buchen
+          - generic [ref=e95]: →
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - generic [ref=e98]: "01"
+          - generic [ref=e99]:
+            - generic [ref=e100]: Augenheilkunde
+            - generic [ref=e101]: OCT-gestützte Vorsorge, Sehtest, Netzhaut- und Glaukomscreening.
+        - generic [ref=e102]:
+          - generic [ref=e103]: "02"
+          - generic [ref=e104]:
+            - generic [ref=e105]: Dermatologie
+            - generic [ref=e106]: Ganzkörper-Hautkrebsvorsorge mit KI-gestütztem Total Body Mapping.
+        - generic [ref=e107]:
+          - generic [ref=e108]: "03"
+          - generic [ref=e109]:
+            - generic [ref=e110]: Ihr Befund
+            - generic [ref=e111]: Persönliches Abschlussgespräch mit beiden Fachärzten — direkt im Anschluss.
+    - generic [ref=e113]:
+      - generic [ref=e114]: Fachbereiche
+      - heading "Fünf Spezialgebiete. Eine medizinische Haltung." [level=2] [ref=e115]:
+        - text: Fünf Spezialgebiete.
+        - emphasis [ref=e116]: Eine medizinische Haltung.
+    - generic [ref=e117]:
+      - link "01 / 05 Augenheilkunde Vorsorge, OCT-Diagnostik, Glaukom, Katarakt, Makuladegeneration. Mehr →" [ref=e118] [cursor=pointer]:
+        - /url: augenheilkunde.html
+        - generic [ref=e120]: 01 / 05
+        - generic [ref=e121]:
+          - heading "Augenheilkunde" [level=3] [ref=e122]
+          - paragraph [ref=e123]: Vorsorge, OCT-Diagnostik, Glaukom, Katarakt, Makuladegeneration.
+        - generic [ref=e124]:
+          - text: Mehr
+          - generic [ref=e125]: →
+      - link "02 / 05 Dermatologie Hautkrebsvorsorge, Allergologie, Akne, Psoriasis, Neurodermitis. Mehr →" [ref=e126] [cursor=pointer]:
+        - /url: dermatologie.html
+        - generic [ref=e128]: 02 / 05
+        - generic [ref=e129]:
+          - heading "Dermatologie" [level=3] [ref=e130]
+          - paragraph [ref=e131]: Hautkrebsvorsorge, Allergologie, Akne, Psoriasis, Neurodermitis.
+        - generic [ref=e132]:
+          - text: Mehr
+          - generic [ref=e133]: →
+      - link "03 / 05 Medizinische Ästhetik Faltenbehandlung, Hyaluron, PRP, Skinbooster, Ultherapy. Mehr →" [ref=e134] [cursor=pointer]:
+        - /url: aesthetik.html
+        - generic [ref=e136]: 03 / 05
+        - generic [ref=e137]:
+          - heading "Medizinische Ästhetik" [level=3] [ref=e138]
+          - paragraph [ref=e139]: Faltenbehandlung, Hyaluron, PRP, Skinbooster, Ultherapy.
+        - generic [ref=e140]:
+          - text: Mehr
+          - generic [ref=e141]: →
+      - link "04 / 05 Dermatochirurgie & Lidchirurgie Hauttumor-Operationen, Lappenplastik, Augenlidstraffung, Narbenkorrektur. Mehr →" [ref=e142] [cursor=pointer]:
+        - /url: dermatochirurgie.html
+        - generic [ref=e144]: 04 / 05
+        - generic [ref=e145]:
+          - heading "Dermatochirurgie & Lidchirurgie" [level=3] [ref=e146]:
+            - text: Dermatochirurgie
+            - text: "& Lidchirurgie"
+          - paragraph [ref=e147]: Hauttumor-Operationen, Lappenplastik, Augenlidstraffung, Narbenkorrektur.
+        - generic [ref=e148]:
+          - text: Mehr
+          - generic [ref=e149]: →
+      - link "05 / 05 Lasermedizin Laserlifting, Tattooentfernung, Hauterfrischung, Excimer-Laser, PDT. Mehr →" [ref=e150] [cursor=pointer]:
+        - /url: lasermedizin.html
+        - generic [ref=e152]: 05 / 05
+        - generic [ref=e153]:
+          - heading "Lasermedizin" [level=3] [ref=e154]
+          - paragraph [ref=e155]: Laserlifting, Tattooentfernung, Hauterfrischung, Excimer-Laser, PDT.
+        - generic [ref=e156]:
+          - text: Mehr
+          - generic [ref=e157]: →
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e161]: Das Ärzte-Team
+        - heading "Zwei Fachärzte. Ein gemeinsames Verständnis von Qualität." [level=2] [ref=e162]:
+          - text: Zwei Fachärzte.
+          - emphasis [ref=e163]: Ein gemeinsames Verständnis von Qualität.
+      - generic [ref=e164]:
+        - article [ref=e165]:
+          - img "Portrait Dr. med. Astrid Thode" [ref=e167]
+          - generic [ref=e168]:
+            - generic [ref=e169]: Leitende Ärztin
+            - heading "Dr. med. Astrid Thode" [level=3] [ref=e170]
+            - generic [ref=e171]: Fachärztin für Dermatologie
+            - paragraph [ref=e172]: Schwerpunkte in allgemeiner und operativer Dermatologie, Hautkrebsvorsorge sowie ästhetischer Dermatologie. Über Jahre hinweg erfahrene Praxisführung mit Fokus auf individuelle, ruhige Patientenbegleitung.
+        - article [ref=e173]:
+          - img "Portrait Dr. Malte-Christian Thode" [ref=e175]
+          - generic [ref=e176]:
+            - generic [ref=e177]: Leitender Arzt
+            - heading "Dr. Malte-Christian Thode" [level=3] [ref=e178]
+            - generic [ref=e179]: Facharzt für Augenheilkunde
+            - paragraph [ref=e180]: Schwerpunkte in moderner Augenheilkunde, OCT-Diagnostik, Glaukom- und Makula-Therapie sowie Lidchirurgie. Interdisziplinäres Arbeiten als Grundlage der Praxisphilosophie.
+      - link "Das gesamte Team kennenlernen →" [ref=e182] [cursor=pointer]:
+        - /url: team.html
+        - text: Das gesamte Team kennenlernen
+        - generic [ref=e183]: →
+    - generic [ref=e186]:
+      - img "Empfang der FOQUS Fellbach Praxis" [ref=e188]
+      - generic [ref=e189]:
+        - generic [ref=e190]: Die Praxis
+        - heading "Moderne Diagnostik in ruhiger Atmosphäre." [level=2] [ref=e191]:
+          - text: Moderne Diagnostik in
+          - emphasis [ref=e192]: ruhiger Atmosphäre.
+        - paragraph [ref=e193]: Die FOQUS-Praxis verbindet zeitgemäße Medizintechnik mit dem Gefühl einer privaten Facharztpraxis — klar, ruhig, gut organisiert.
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - heading "Hochauflösende OCT-Diagnostik" [level=3] [ref=e196]
+            - paragraph [ref=e197]: Schichtaufnahmen der Netzhaut für frühzeitige Erkennung von Makuladegeneration und Glaukom.
+          - generic [ref=e198]:
+            - heading "KI-gestütztes Total Body Mapping" [level=3] [ref=e199]
+            - paragraph [ref=e200]: Hochauflösende Ganzkörperfotografie mit KI-Analyse für präzise Hautkrebsvorsorge.
+          - generic [ref=e201]:
+            - heading "Fachärztliche Lasermedizin" [level=3] [ref=e202]
+            - paragraph [ref=e203]: Ablative und nicht-ablative Lasersysteme — dermatologisch und chirurgisch begleitet.
+          - generic [ref=e204]:
+            - heading "Offene Sprechstunde" [level=3] [ref=e205]
+            - paragraph [ref=e206]: Für dringliche Beschwerden — nach verfügbaren Kapazitäten auch kurzfristig.
+    - generic [ref=e208]:
+      - generic [ref=e209]:
+        - generic [ref=e210]: Für neue Patientinnen und Patienten
+        - heading "Was Sie beim ersten Termin erwartet." [level=2] [ref=e211]:
+          - text: Was Sie beim
+          - text: ersten Termin
+          - emphasis [ref=e212]: erwartet.
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - generic [ref=e215]: "01"
+          - heading "Anamnese & Gespräch" [level=3] [ref=e216]
+          - paragraph [ref=e217]: Ausführliches Erstgespräch zu Beschwerden, Vorgeschichte und Erwartungen — unabhängig ob Kasse oder privat.
+        - generic [ref=e218]:
+          - generic [ref=e219]: "02"
+          - heading "Diagnostik" [level=3] [ref=e220]
+          - paragraph [ref=e221]: Zielgerichtete Untersuchung mit moderner Bildgebung — je nach Anliegen Augenheilkunde, Dermatologie oder beides.
+        - generic [ref=e222]:
+          - generic [ref=e223]: "03"
+          - heading "Befund & Therapieplan" [level=3] [ref=e224]
+          - paragraph [ref=e225]: Klare Einordnung der Befunde, verständlich erklärt, mit individuellem Therapieweg und schriftlicher Dokumentation.
+    - generic [ref=e227]:
+      - heading "Ihr Termin. In zwei Minuten gebucht." [level=2] [ref=e228]:
+        - text: Ihr Termin.
+        - emphasis [ref=e229]: In zwei Minuten gebucht.
+      - paragraph [ref=e230]: Online-Terminbuchung rund um die Uhr — oder telefonisch während der Sprechzeiten. Privat, gesetzlich versichert und Selbstzahler gleichermaßen willkommen.
+      - generic [ref=e231]:
+        - link "Termin online buchen →" [ref=e232] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin online buchen
+          - generic [ref=e233]: →
+        - link "+49 711 340 358-70" [ref=e234] [cursor=pointer]:
+          - /url: tel:+4971134035870
+  - contentinfo [ref=e235]:
+    - generic [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]: FOQUS
+          - paragraph [ref=e240]: Medizinisches Zentrum für Augen und Haut in Fellbach. Fachärztliche Versorgung in Augenheilkunde und Dermatologie.
+        - generic [ref=e241]:
+          - heading "Fachbereiche" [level=4] [ref=e242]
+          - list [ref=e243]:
+            - listitem [ref=e244]:
+              - link "Augenheilkunde" [ref=e245] [cursor=pointer]:
+                - /url: augenheilkunde.html
+            - listitem [ref=e246]:
+              - link "Dermatologie" [ref=e247] [cursor=pointer]:
+                - /url: dermatologie.html
+            - listitem [ref=e248]:
+              - link "Ästhetik & Kosmetik" [ref=e249] [cursor=pointer]:
+                - /url: aesthetik.html
+            - listitem [ref=e250]:
+              - link "Dermatochirurgie" [ref=e251] [cursor=pointer]:
+                - /url: dermatochirurgie.html
+            - listitem [ref=e252]:
+              - link "Lasermedizin" [ref=e253] [cursor=pointer]:
+                - /url: lasermedizin.html
+        - generic [ref=e254]:
+          - heading "Praxis" [level=4] [ref=e255]
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - link "Ärzte-Team" [ref=e258] [cursor=pointer]:
+                - /url: team.html
+            - listitem [ref=e259]:
+              - link "Anfahrt & Kontakt" [ref=e260] [cursor=pointer]:
+                - /url: kontakt.html
+            - listitem [ref=e261]:
+              - link "Termin buchen" [ref=e262] [cursor=pointer]:
+                - /url: https://app.arzt-direkt.de/foqus/booking
+        - generic [ref=e263]:
+          - heading "Kontakt" [level=4] [ref=e264]
+          - generic [ref=e265]:
+            - strong [ref=e266]: FOQUS Fellbach
+            - text: Stuttgarter Str. 26
+            - text: 70736 Fellbach
+            - link "+49 711 340 358-70" [ref=e267] [cursor=pointer]:
+              - /url: tel:+4971134035870
+            - link "termin@foqus-fellbach.de" [ref=e268] [cursor=pointer]:
+              - /url: mailto:termin@foqus-fellbach.de
+      - separator [ref=e269]
+      - generic [ref=e270]:
+        - generic [ref=e271]: © 2026 FOQUS Fellbach · Medizinisches Zentrum für Augen und Haut
+        - generic [ref=e272]:
+          - link "Impressum" [ref=e273] [cursor=pointer]:
+            - /url: "#"
+          - link "Datenschutz" [ref=e274] [cursor=pointer]:
+            - /url: "#"
+          - link "Barrierefreiheit" [ref=e275] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e276]:
+          - link "Instagram" [ref=e277] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e278]
+          - link "Facebook" [ref=e282] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e283]

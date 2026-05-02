@@ -1,0 +1,201 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Famethyst-dark-background
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: amethyst dark background
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 11":
+                - /url: /de/s/fotos/amethyst-dark-background
+                - img
+                - text: Fotos
+                - generic: "11"
+            - listitem [ref=e48]:
+              - link "Grafiken 0" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/amethyst-dark-background
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "0"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Amethyst dark background" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "Amethyst" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/amethyst
+              - link "Edelstein" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "hintergrund" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/hintergrund
+              - link "dunkler hintergrund" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/dunkler-hintergrund
+              - link "kristall" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Digitale Kunst" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/digitale-kunst
+              - link "abstrakter hintergrund" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/abstrakter-hintergrund
+              - link "Elder Futhark" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/elder-futhark
+              - link "Citrin" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/citrin
+              - link "Weissagung" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/weissagung
+              - link "Antwort" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/antwort
+              - link "handgemacht" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/handgemacht
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "eine blaue und violette Blume auf schwarzem Hintergrund" [ref=e105]:
+                    - /url: /de/fotos/eine-blaue-und-violette-blume-auf-schwarzem-hintergrund-83ok8-fh1Kg
+                    - img "eine blaue und violette Blume auf schwarzem Hintergrund" [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-blaue-und-violette-blume-auf-schwarzem-hintergrund-83ok8-fh1Kg
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A05fbf528-d479-4340-8d38-7c8c159ceff1&phrase=amethyst+dark+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - link "Ausgefallener magentafarbener Glitzer-Glitzer-Hintergrund. Unscharfes rosa Paillettenlicht." [ref=e117] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fancy-magenta-glitter-sparkle-background-defocused-pink-sequin-light-gm2208943074-626068616?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A045717b4-394a-4a92-a277-78fc2014b88e
+                    - img "Ausgefallener magentafarbener Glitzer-Glitzer-Hintergrund. Unscharfes rosa Paillettenlicht." [ref=e118]
+                  - link "Lila Marmormuster Textur Verwendung als Hintergrund mit leerem Raum für Design. Violette Marmortextur für luxuriösen Konzepthintergrund, abstrakte Marmortextur (natürliche Muster) für Design." [ref=e119] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/purple-marble-pattern-texture-use-as-background-with-blank-space-for-design-violet-gm1450680879-487543212?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A78b868f8-f705-411a-83f8-ae85c244100a
+                    - img "Lila Marmormuster Textur Verwendung als Hintergrund mit leerem Raum für Design. Violette Marmortextur für luxuriösen Konzepthintergrund, abstrakte Marmortextur (natürliche Muster) für Design." [ref=e120]
+                  - link "Ausgefallener blauer Glitzer funkelnder Hintergrund. Unscharfes blaues Paillettenlicht. Ausgefallene blaue Farbe Glitzer Glitzer Hintergrund. Studioaufnahme eines kreativen, hellblauen Hintergrunds. Es handelt sich um einen strukturierten Farbverlauf. Es g" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fancy-blue-glitter-sparkle-background-defocused-blue-color-sequin-light-fancy-blue-gm2208943029-626068605?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A661642ab-4edc-497b-8a2d-21b0bec2bac4
+                    - img "Ausgefallener blauer Glitzer funkelnder Hintergrund. Unscharfes blaues Paillettenlicht. Ausgefallene blaue Farbe Glitzer Glitzer Hintergrund. Studioaufnahme eines kreativen, hellblauen Hintergrunds. Es handelt sich um einen strukturierten Farbverlauf. Es g" [ref=e122]
+                  - link "Lila festlicher abstrakter Hintergrund mit Bokeh-Lichtern." [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/purple-festive-abstract-background-with-bokeh-lights-gm2207919386-625127430?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae4fac048-e865-4cc2-adc1-b27f877ba8a8
+                    - img "Lila festlicher abstrakter Hintergrund mit Bokeh-Lichtern." [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A05fbf528-d479-4340-8d38-7c8c159ceff1&phrase=amethyst+dark+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e126]:
+                - generic [ref=e128]:
+                  - link "ein Strauß lila Blumen auf schwarzem Hintergrund" [ref=e129]:
+                    - /url: /de/fotos/ein-strauss-lila-blumen-auf-schwarzem-hintergrund-x3pP4CMvS8M
+                    - img "ein Strauß lila Blumen auf schwarzem Hintergrund" [ref=e130]
+                  - link [ref=e131] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-strauss-lila-blumen-auf-schwarzem-hintergrund-x3pP4CMvS8M
+                    - img [ref=e132]
+            - generic [ref=e134]:
+              - figure [ref=e135]:
+                - link "Achteckiger Anhänger mit großen, facettierten Amethyst- und Diamantakzenten" [ref=e138]:
+                  - /url: /de/fotos/achteckiger-anhanger-mit-grossen-facettierten-amethyst-und-diamantakzenten-FR5gYrT4dfk
+                  - img "Achteckiger Anhänger mit großen, facettierten Amethyst- und Diamantakzenten" [ref=e139]
+              - figure [ref=e140]:
+                - generic [ref=e142]:
+                  - link "3D-Rendering, digitale Illustration, abstrakte Kristalle in quadratischem Rahmen, moderner Edelsteinhintergrund, gelbrosa Nugget" [ref=e143]:
+                    - /url: /de/fotos/3d-rendering-digitale-illustration-abstrakte-kristalle-in-quadratischem-rahmen-moderner-edelsteinhintergrund-gelbrosa-nugget-edg2GKv6qAY
+                    - img "3D-Rendering, digitale Illustration, abstrakte Kristalle in quadratischem Rahmen, moderner Edelsteinhintergrund, gelbrosa Nugget" [ref=e144]
+                  - link [ref=e145] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2F3d-rendering-digitale-illustration-abstrakte-kristalle-in-quadratischem-rahmen-moderner-edelsteinhintergrund-gelbrosa-nugget-edg2GKv6qAY
+                    - img [ref=e146]
+              - figure [ref=e148]:
+                - link "rosa und rote herzförmige Bonbons" [ref=e151]:
+                  - /url: /de/fotos/rosa-und-rote-herzformige-bonbons-lZJxzr6BxFk
+                  - img "rosa und rote herzförmige Bonbons" [ref=e152]
+              - figure [ref=e153]:
+                - link "Abstrakte lila Wellen auf dunklem Hintergrund" [ref=e156]:
+                  - /url: /de/fotos/abstrakte-lila-wellen-auf-dunklem-hintergrund-ZQSPIiFEMoU
+                  - img "Abstrakte lila Wellen auf dunklem Hintergrund" [ref=e157]
+            - generic [ref=e158]:
+              - figure [ref=e159]:
+                - link "Eine Rose und Perlen sitzen auf einer Holzunterlage." [ref=e162]:
+                  - /url: /de/fotos/eine-rose-und-perlen-sitzen-auf-einer-holzunterlage-EnSLh47ePPM
+                  - img "Eine Rose und Perlen sitzen auf einer Holzunterlage." [ref=e163]
+              - figure [ref=e164]:
+                - link "weiße Eierschale auf weißem Textil" [ref=e167]:
+                  - /url: /de/fotos/weisse-eierschale-auf-weissem-textil-sT4NIS34OUE
+                  - img "weiße Eierschale auf weißem Textil" [ref=e168]
+              - figure [ref=e169]:
+                - link "Grüner und schwarzer Liebesdruck herzförmige Dekore" [ref=e172]:
+                  - /url: /de/fotos/gruner-und-schwarzer-liebesdruck-herzformige-dekore-TqNZeXySErQ
+                  - img "Grüner und schwarzer Liebesdruck herzförmige Dekore" [ref=e173]
+              - figure [ref=e174]:
+                - link "roter Plastikflaschenverschluss auf weißem Textil" [ref=e177]:
+                  - /url: /de/fotos/roter-plastikflaschenverschluss-auf-weissem-textil-XbxMrEEdXl0
+                  - img "roter Plastikflaschenverschluss auf weißem Textil" [ref=e178]
+              - figure [ref=e179]:
+                - generic [ref=e181]:
+                  - link "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e182]:
+                    - /url: /de/fotos/eine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img "Eine Gruppe verschiedenfarbiger Kristalle auf schwarzem Hintergrund" [ref=e183]
+                  - link [ref=e184] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-verschiedenfarbiger-kristalle-auf-schwarzem-hintergrund-zZe91QBhqZ4
+                    - img [ref=e185]
+          - generic [ref=e189]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e190]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e191]: "| Jetzt Rabatt sichern"
+            - generic [ref=e193]:
+              - link "Mystische Anordnung aus Kristallen, getrockneten Blumen, Kerzen und Naturelementen auf dunklem Steinhintergrund. Draufsicht, flache Strecke" [ref=e194] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/mystic-arrangement-of-crystals-dried-flowers-candle-and-natural-elements-on-dark-gm2248446990-662293908?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae5f78c36-806d-4fc6-a7a3-b46ace2c2301
+                - img "Mystische Anordnung aus Kristallen, getrockneten Blumen, Kerzen und Naturelementen auf dunklem Steinhintergrund. Draufsicht, flache Strecke" [ref=e195]
+              - link "Makrofoto von tiefviolettem Stoff mit schweren, dramatischen Falten. Das matte violette Textil erzeugt einen reichen, strukturierten Hintergrund mit sanften Schatten und einer königlichen, künstlerischen Ästhetik" [ref=e196] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/macro-photo-of-deep-purple-fabric-with-heavy-dramatic-folds-the-matte-violet-textile-gm2269516765-682063950?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A89c35022-406e-47e3-b771-d7ad0ba71b9a
+                - img "Makrofoto von tiefviolettem Stoff mit schweren, dramatischen Falten. Das matte violette Textil erzeugt einen reichen, strukturierten Hintergrund mit sanften Schatten und einer königlichen, künstlerischen Ästhetik" [ref=e197]
+              - link "Defokussiertes goldenes Paillettenlicht. Ausgefallener goldener Glitzer funkelnder Hintergrund. Studioaufnahme eines kreativen, hellgelben Hintergrunds. Es handelt sich um einen strukturierten Farbverlauf. Es gibt keinen Text und keine Personen und es gibt" [ref=e198] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/defocused-golden-sequin-light-fancy-gold-glitter-sparkle-background-studio-shooting-gm2208942953-626068587?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A3dca4142-e6d1-4680-8d58-04e70017a4cb
+                - img "Defokussiertes goldenes Paillettenlicht. Ausgefallener goldener Glitzer funkelnder Hintergrund. Studioaufnahme eines kreativen, hellgelben Hintergrunds. Es handelt sich um einen strukturierten Farbverlauf. Es gibt keinen Text und keine Personen und es gibt" [ref=e199]
+              - link "Ein glitzernder violetter Nachthimmel weckt festliche Stimmung für Weihnachts- und Neujahrsfeiern." [ref=e200] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/a-sparkling-purple-night-sky-evokes-festive-cheer-for-christmas-and-new-year-gm2215708302-632429891?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A8795641f-20bf-4a8e-85a9-08c23ade5cec
+                - img "Ein glitzernder violetter Nachthimmel weckt festliche Stimmung für Weihnachts- und Neujahrsfeiern." [ref=e201]
+              - link "Amethyst-Kristall-Gitter" [ref=e202] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/amethyst-crystal-grid-gm2266125892-678792550?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A1186a75f-6df3-41a8-8adf-d68da320811f
+                - img "Amethyst-Kristall-Gitter" [ref=e203]
+              - link "Ausgefallener silberner Glitzer Glitzer Hintergrund. Unscharfes silbernes Paillettenlicht. Ausgefallener silberner Glitzer Glitzer Hintergrund. Studioaufnahme eines kreativen, hellen silbernen Hintergrunds. Es handelt sich um einen strukturierten Farbverla" [ref=e204] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/fancy-silver-glitter-sparkle-background-defocused-silver-sequin-light-fancy-silver-gm2208943030-626068609?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A17ebcb9a-8c66-4e2f-9e5b-19a9cc823d2d
+                - img "Ausgefallener silberner Glitzer Glitzer Hintergrund. Unscharfes silbernes Paillettenlicht. Ausgefallener silberner Glitzer Glitzer Hintergrund. Studioaufnahme eines kreativen, hellen silbernen Hintergrunds. Es handelt sich um einen strukturierten Farbverla" [ref=e205]
+              - link "Heilkristalle und ätherisches Öl auf dunklem strukturiertem Hintergrund" [ref=e206] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/healing-crystals-and-essential-oil-on-dark-textured-background-gm2264886975-677595402?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A88ab5eaf-40b8-4017-bfd2-06f41bb6248e
+                - img "Heilkristalle und ätherisches Öl auf dunklem strukturiertem Hintergrund" [ref=e207]
+              - generic [ref=e208]:
+                - link "Eleganter lila-violetter Papiertextur mit einer weichen, körnigen Oberfläche und einer satten königlichen Farbe für luxuriöses Design" [ref=e209] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/elegant-purple-violet-paper-texture-background-with-soft-grainy-surface-and-rich-gm2259481139-672416661?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A2b030c8e-98ad-4f8f-9dd9-6472a3698e8a
+                  - img "Eleganter lila-violetter Papiertextur mit einer weichen, körnigen Oberfläche und einer satten königlichen Farbe für luxuriöses Design" [ref=e210]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e211] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Famethyst-dark-background&utm_term=amethyst+dark+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Abcf965ae-3ea2-4cde-8cc5-468c4d128493&phrase=amethyst+dark+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - generic [ref=e213]:
+            - link [ref=e214] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e215]
+            - paragraph [ref=e217]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,153 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fdiamond-on-white
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: diamond on white
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 4":
+                - /url: /de/s/fotos/diamond-on-white
+                - img
+                - text: Fotos
+                - generic: "4"
+            - listitem [ref=e48]:
+              - link "Grafiken 0" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/diamond-on-white
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "0"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Diamond on white" [level=1] [ref=e62]
+          - generic [ref=e66]:
+            - link "Straße" [ref=e68] [cursor=pointer]:
+              - /url: /de/s/fotos/stra%C3%9Fe
+            - link "Inspiration für Hochzeiten" [ref=e70] [cursor=pointer]:
+              - /url: /de/s/fotos/inspiration-f%C3%BCr-hochzeiten
+            - link "Verlobungsring" [ref=e72] [cursor=pointer]:
+              - /url: /de/s/fotos/verlobungsring
+            - link "Diamantring" [ref=e74] [cursor=pointer]:
+              - /url: /de/s/fotos/diamantring
+            - link "analog" [ref=e76] [cursor=pointer]:
+              - /url: /de/s/fotos/analog
+            - link "Ehering" [ref=e78] [cursor=pointer]:
+              - /url: /de/s/fotos/ehering
+            - link "Braut" [ref=e80] [cursor=pointer]:
+              - /url: /de/s/fotos/braut
+            - link "Porträt" [ref=e82] [cursor=pointer]:
+              - /url: /de/s/fotos/portr%C3%A4t
+            - link "Mode" [ref=e84] [cursor=pointer]:
+              - /url: /de/s/fotos/mode
+            - link "Gesellschaftsanzug" [ref=e86] [cursor=pointer]:
+              - /url: /de/s/fotos/gesellschaftsanzug
+            - link "Seidenkleid" [ref=e88] [cursor=pointer]:
+              - /url: /de/s/fotos/seidenkleid
+            - link "Stil" [ref=e90] [cursor=pointer]:
+              - /url: /de/s/fotos/stil
+        - generic [ref=e92]:
+          - generic [ref=e96]:
+            - generic [ref=e97]:
+              - figure [ref=e98]:
+                - link "Eine Frau mit einem Ring am Finger" [ref=e101]:
+                  - /url: /de/fotos/eine-frau-mit-einem-ring-am-finger-1r-rKuIeWM4
+                  - img "Eine Frau mit einem Ring am Finger" [ref=e102]
+              - generic [ref=e103]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e104]:
+                  - generic [ref=e105]: Gesponserte Bilder
+                  - link [ref=e106] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=diamond+on+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e107]
+                - generic [ref=e109]:
+                  - link "Mehrere isoliert weiß facettierten Diamanten in verschiedenen Winkeln Clipping Path" [ref=e110] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/multiple-isolated-white-faceted-diamonds-at-various-angles-clipping-path-gm166073288-17541610?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Mehrere isoliert weiß facettierten Diamanten in verschiedenen Winkeln Clipping Path" [ref=e111]
+                  - link "Diamanten auf weißem Hintergrund mit hochwertigen" [ref=e112] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/diamond-on-white-background-with-high-quality-gm1934303400-556162872?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Diamanten auf weißem Hintergrund mit hochwertigen" [ref=e113]
+                  - link "Edelstein Gruppe" [ref=e114] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/gemstone-group-gm173584161-7908162?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Edelstein Gruppe" [ref=e115]
+                  - link "Diamanten" [ref=e116] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/diamonds-gm184363859-17494607?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Diamanten" [ref=e117]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e118] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=diamond+on+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+            - figure [ref=e120]:
+              - link "eine Frau, die vor einem weiß-gelben Gebäude spazieren geht" [ref=e123]:
+                - /url: /de/fotos/eine-frau-die-vor-einem-weiss-gelben-gebaude-spazieren-geht-lTS2O2vagdI
+                - img "eine Frau, die vor einem weiß-gelben Gebäude spazieren geht" [ref=e124]
+            - generic [ref=e125]:
+              - figure [ref=e126]:
+                - link "Ein Paar Turnschuhe sitzen auf einem Holztisch" [ref=e129]:
+                  - /url: /de/fotos/ein-paar-turnschuhe-sitzen-auf-einem-holztisch-4xC4dYn5oFY
+                  - img "Ein Paar Turnschuhe sitzen auf einem Holztisch" [ref=e130]
+              - figure [ref=e131]:
+                - link "Altes weißes Gebäude mit Ziegeldach" [ref=e134]:
+                  - /url: /de/fotos/altes-weisses-gebaude-mit-ziegeldach-vmujzut9iUg
+                  - img "Altes weißes Gebäude mit Ziegeldach" [ref=e135]
+          - generic [ref=e138]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e139]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e140]: "| Jetzt Rabatt sichern"
+            - generic [ref=e142]:
+              - link "diamond (XXXL" [ref=e143] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamond-for-engagement-rings-beautiful-round-shape-emerald-pictures-gm147099719-12159681?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "diamond (XXXL" [ref=e144]
+              - link "diamond" [ref=e145] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamond-gm481365786-69339321?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "diamond" [ref=e146]
+              - link "Sechs facettierten Diamanten, isoliert auf weiss Mit Clipping Path" [ref=e147] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/six-faceted-diamonds-isolated-on-white-with-clipping-path-gm91766501-7936278?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Sechs facettierten Diamanten, isoliert auf weiss Mit Clipping Path" [ref=e148]
+              - link "Single diamond" [ref=e149] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/single-diamond-gm108494032-8407432?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Single diamond" [ref=e150]
+              - link "Schmuck" [ref=e151] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/jewelry-gm841909564-137395781?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Schmuck" [ref=e152]
+              - link "Fallenden Edelsteine und Diamanten in verschiedenen Größen in Bewegung Isoliert" [ref=e153] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/falling-gems-or-diamonds-of-various-sizes-in-motion-isolated-gm155095419-18042585?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Fallenden Edelsteine und Diamanten in verschiedenen Größen in Bewegung Isoliert" [ref=e154]
+              - link "Diamant isoliert auf weißem Hintergrund" [ref=e155] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamond-isolated-on-white-background-gm1322964481-408771499?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Diamant isoliert auf weißem Hintergrund" [ref=e156]
+              - generic [ref=e157]:
+                - link "Golden Diamantring und moderne diamond" [ref=e158] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/golden-diamond-ring-and-contemporary-diamond-gm511646917-46614502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Golden Diamantring und moderne diamond" [ref=e159]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e160] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fdiamond-on-white&utm_term=diamond+on+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=diamond+on+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - generic [ref=e162]:
+            - link [ref=e163] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e164]
+            - paragraph [ref=e166]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

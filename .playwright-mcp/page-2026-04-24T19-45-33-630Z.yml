@@ -1,0 +1,306 @@
+- generic [active] [ref=e1]:
+  - link "Zum Inhalt springen" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - img
+  - img
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Bake & Brew – Startseite" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - img [ref=e7]
+        - generic [ref=e10]:
+          - text: Bake
+          - emphasis [ref=e11]: "&"
+          - text: Brew
+      - link "Komm vorbei →" [ref=e12] [cursor=pointer]:
+        - /url: "#besuch"
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: · Biebrich · seit 2024 ·
+            - generic "Google-Bewertung 4,8 Sterne" [ref=e19]: ★ 4,8
+          - heading "Getoastet mit Liebe. Gebrüht mit Ritual." [level=1] [ref=e20]:
+            - generic [ref=e21]: Getoastet
+            - generic [ref=e22]: mit
+            - emphasis [ref=e24]: Liebe.
+            - generic [ref=e25]: Gebrüht
+            - generic [ref=e26]: mit
+            - generic [ref=e27]: Ritual.
+          - paragraph [ref=e28]: Ein kleines Morgen-Refugium in Wiesbaden-Biebrich. Matcha, Açaí Bowls, frisch gebackenes Koularia und Kaffee, der nicht in Eile getrunken werden will.
+          - generic [ref=e29]:
+            - link "Die Karte ansehen" [ref=e30] [cursor=pointer]:
+              - /url: "#karte"
+            - link "Uns besuchen" [ref=e31] [cursor=pointer]:
+              - /url: "#besuch"
+        - generic [ref=e32]:
+          - figure [ref=e34]:
+            - img "Zwei mit Sesam bestreute griechische Gebäckstücke und ein Iced Latte bei Sonnenschein am Fensterplatz" [ref=e35]
+          - img [ref=e37]:
+            - generic [ref=e40]: · IN THE NAME OF COFFEE · EST 2024 · WIESBADEN · BIEBRICH
+      - generic [ref=e47]:
+        - generic [ref=e48]: Matcha Latte
+        - emphasis [ref=e49]: ·
+        - generic [ref=e50]: Açaí Bowl
+        - emphasis [ref=e51]: ·
+        - generic [ref=e52]: Koularia
+        - emphasis [ref=e53]: ·
+        - generic [ref=e54]: Freddo Cappuccino
+        - emphasis [ref=e55]: ·
+        - generic [ref=e56]: Flat White
+        - emphasis [ref=e57]: ·
+        - generic [ref=e58]: Seit 2024 in Biebrich
+        - emphasis [ref=e59]: ·
+        - generic [ref=e60]: Matcha Latte
+        - emphasis [ref=e61]: ·
+        - generic [ref=e62]: Açaí Bowl
+        - emphasis [ref=e63]: ·
+        - generic [ref=e64]: Koularia
+        - emphasis [ref=e65]: ·
+        - generic [ref=e66]: Freddo Cappuccino
+        - emphasis [ref=e67]: ·
+        - generic [ref=e68]: Flat White
+        - emphasis [ref=e69]: ·
+        - generic [ref=e70]: Seit 2024 in Biebrich
+        - emphasis [ref=e71]: ·
+    - generic [ref=e73]:
+      - paragraph [ref=e74]: § Manifest
+      - heading "Ein Café ist kein Fast-Food-Laden. Es ist ein Ritual. Der erste Schluck Matcha, der noch nach Gras und Sonne schmeckt. Das Sesam-Koularia, das die Finger golden zurücklässt. Der Augenblick, in dem der Cappuccino stillsteht, bevor du ihn nimmst." [level=2] [ref=e75]:
+        - text: Ein Café ist kein Fast-Food-Laden.
+        - emphasis [ref=e76]: Es ist ein Ritual.
+        - text: Der erste Schluck Matcha, der noch nach Gras und Sonne schmeckt. Das Sesam-Koularia, das die Finger golden zurücklässt. Der Augenblick, in dem der
+        - emphasis [ref=e77]: Cappuccino
+        - text: stillsteht, bevor du ihn nimmst.
+      - paragraph [ref=e78]: — Bake & Brew, Biebrich
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: § Drei tägliche Rituale
+        - heading "Alles, was wir lieben — in drei runden Kapiteln." [level=2] [ref=e82]:
+          - text: Alles,
+          - emphasis [ref=e83]: was wir lieben —
+          - text: in drei runden Kapiteln.
+      - generic [ref=e84]:
+        - article [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e87]: "01"
+            - img [ref=e89]
+          - heading "Matcha, stone-ground." [level=3] [ref=e93]:
+            - text: Matcha,
+            - emphasis [ref=e94]: stone-ground
+            - text: .
+          - paragraph [ref=e95]: Ceremonial grade aus Uji, per Hand aufgeschlagen. Kein Pulver-Shortcut. Kein Zucker versteckt. Nur Grün, Milch und ein Moment Stille.
+          - generic [ref=e96]: Iced Matcha Latte · 6,00 €
+        - article [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e99]: "02"
+            - img [ref=e101]
+          - heading "Açaí Bowls, nicht-süßlich." [level=3] [ref=e106]:
+            - text: Açaí Bowls,
+            - emphasis [ref=e107]: nicht-süßlich
+            - text: .
+          - paragraph [ref=e108]: Echte Açaí-Basis, Beeren der Saison, Granola aus der eigenen Backstube, Kokos-Chips. Das Frühstück, das du am Abend noch im Kopf hast.
+          - generic [ref=e109]: Signature Bowl · ab 7,50 €
+        - article [ref=e110]:
+          - generic [ref=e111]:
+            - generic [ref=e112]: "03"
+            - img [ref=e114]
+          - heading "Koularia & Co." [level=3] [ref=e121]:
+            - text: Koularia &
+            - emphasis [ref=e122]: Co.
+          - paragraph [ref=e123]: Griechisches Sesam-Gebäck, Tomate-Oliven oder Vollkorn-Pute. Handgeformt, morgens gebacken — und meist mittags ausverkauft.
+          - generic [ref=e124]: Koularia · ab 2,20 €
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - figure [ref=e129]:
+          - img "Innenraum mit Holz- und Rattan-Stühlen, türkise Sitzpolster und ein Teller griechisches Gebäck auf hellem Holztisch" [ref=e130]
+        - img [ref=e132]:
+          - generic [ref=e135]: · FRISCH · AUS · DER · BACKSTUBE · TÄGLICH ·
+          - generic [ref=e136]: est.
+      - generic [ref=e137]:
+        - paragraph [ref=e138]: § Die Tradition
+        - heading "Ein Stück Athen im Fenster zur Stettiner Straße." [level=2] [ref=e139]:
+          - text: Ein Stück
+          - emphasis [ref=e140]: Athen
+          - text: im Fenster zur Stettiner Straße.
+        - paragraph [ref=e141]: "Koularia — das sind runde, mit Sesam bestreute Backwaren, die in Athen an jedem Kiosk zu finden sind und in Deutschland fast nirgends. Wir backen sie jeden Morgen frisch: Tomate-Oliven, Vollkorn-Putenbrust, klassisch mit Feta."
+        - paragraph [ref=e142]: Dazu ein Freddo Espresso, wie er in Griechenland seit den 80ern getrunken wird — eisgekühlt, dreifach geschüttelt. Kein Sirup. Kein Schnickschnack. Nur Kaffee, Eis, Zeit.
+        - list [ref=e143]:
+          - listitem [ref=e144]:
+            - generic [ref=e145]: Koularia Tomate & Oliven
+            - generic [ref=e146]: 2,20 €
+          - listitem [ref=e147]:
+            - generic [ref=e148]: Koularia Vollkorn & Pute
+            - generic [ref=e149]: 2,40 €
+          - listitem [ref=e150]:
+            - generic [ref=e151]: Freddo Espresso
+            - generic [ref=e152]: 3,50 €
+          - listitem [ref=e153]:
+            - generic [ref=e154]: Freddo Cappuccino
+            - generic [ref=e155]: 4,00 €
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - paragraph [ref=e158]: § Die Karte
+        - heading "Ehrliche Preise, handverlesene Bohnen." [level=2] [ref=e159]:
+          - text: Ehrliche Preise,
+          - emphasis [ref=e160]: handverlesene Bohnen
+          - text: .
+        - paragraph [ref=e161]: Alle Kaffeespezialitäten mit regionaler Bio-Milch. Hafer, Mandel, Soja ohne Aufpreis.
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - heading "Kaffee" [level=3] [ref=e164]
+          - list [ref=e165]:
+            - listitem [ref=e166]:
+              - generic [ref=e167]: Espresso
+              - emphasis [ref=e168]: ···
+              - generic [ref=e169]: 2,40 €
+            - listitem [ref=e170]:
+              - generic [ref=e171]: Cappuccino
+              - emphasis [ref=e172]: ···
+              - generic [ref=e173]: 3,50 / 4,00 €
+            - listitem [ref=e174]:
+              - generic [ref=e175]: Latte Macchiato
+              - emphasis [ref=e176]: ···
+              - generic [ref=e177]: 4,00 €
+            - listitem [ref=e178]:
+              - generic [ref=e179]: Flat White
+              - emphasis [ref=e180]: ···
+              - generic [ref=e181]: 3,50 €
+            - listitem [ref=e182]:
+              - generic [ref=e183]: Tasse Kaffee
+              - emphasis [ref=e184]: ···
+              - generic [ref=e185]: 2,50 €
+            - listitem [ref=e186]:
+              - generic [ref=e187]: Mokka
+              - emphasis [ref=e188]: ···
+              - generic [ref=e189]: 2,50 / 3,50 €
+            - listitem [ref=e190]:
+              - generic [ref=e191]: Tee-Auswahl
+              - emphasis [ref=e192]: ···
+              - generic [ref=e193]: 2,50 €
+        - generic [ref=e194]:
+          - heading "Kalt & Matcha" [level=3] [ref=e195]
+          - list [ref=e196]:
+            - listitem [ref=e197]:
+              - generic [ref=e198]: Frappe
+              - emphasis [ref=e199]: ···
+              - generic [ref=e200]: 3,50 €
+            - listitem [ref=e201]:
+              - generic [ref=e202]: Freddo Espresso
+              - emphasis [ref=e203]: ···
+              - generic [ref=e204]: 3,50 €
+            - listitem [ref=e205]:
+              - generic [ref=e206]: Freddo Cappuccino
+              - emphasis [ref=e207]: ···
+              - generic [ref=e208]: 4,00 €
+            - listitem [ref=e209]:
+              - generic [ref=e210]: Iced Matcha Latte ✦
+              - emphasis [ref=e211]: ···
+              - generic [ref=e212]: 6,00 €
+            - listitem [ref=e213]:
+              - generic [ref=e214]: B Fresh (Hausspezial)
+              - emphasis [ref=e215]: ···
+              - generic [ref=e216]: 4,50 €
+            - listitem [ref=e217]:
+              - generic [ref=e218]: Wasser
+              - emphasis [ref=e219]: ···
+              - generic [ref=e220]: 2,00 €
+        - generic [ref=e221]:
+          - heading "Gebäck & Bowls" [level=3] [ref=e222]
+          - list [ref=e223]:
+            - listitem [ref=e224]:
+              - generic [ref=e225]: Koularia Tomate-Oliven
+              - emphasis [ref=e226]: ···
+              - generic [ref=e227]: 2,20 €
+            - listitem [ref=e228]:
+              - generic [ref=e229]: Koularia Vollkorn-Pute
+              - emphasis [ref=e230]: ···
+              - generic [ref=e231]: 2,40 €
+            - listitem [ref=e232]:
+              - generic [ref=e233]: Açaí Bowl klein
+              - emphasis [ref=e234]: ···
+              - generic [ref=e235]: 7,50 €
+            - listitem [ref=e236]:
+              - generic [ref=e237]: Açaí Bowl groß
+              - emphasis [ref=e238]: ···
+              - generic [ref=e239]: 9,50 €
+            - listitem [ref=e240]:
+              - generic [ref=e241]: Croissant Butter
+              - emphasis [ref=e242]: ···
+              - generic [ref=e243]: 2,80 €
+            - listitem [ref=e244]:
+              - generic [ref=e245]: Tageskuchen
+              - emphasis [ref=e246]: ···
+              - generic [ref=e247]: ab 3,50 €
+    - generic [ref=e249]:
+      - generic [ref=e250]:
+        - paragraph [ref=e251]: § Besuch uns
+        - heading "Stettiner Straße 10. Biebrich. Morgen schon?" [level=2] [ref=e252]:
+          - text: Stettiner Straße 10.
+          - emphasis [ref=e253]: Biebrich.
+          - text: Morgen schon?
+        - paragraph [ref=e254]: "Wir sind ein kleiner Laden. Das bedeutet: wer früh kommt, hat den besten Platz am Fenster — und die Koularia noch warm aus dem Ofen."
+        - generic [ref=e255]:
+          - generic [ref=e256]:
+            - heading "Adresse" [level=4] [ref=e257]
+            - paragraph [ref=e258]:
+              - text: Stettiner Straße 10
+              - text: 65203 Wiesbaden-Biebrich
+            - link "Route öffnen →" [ref=e259] [cursor=pointer]:
+              - /url: https://www.google.com/maps/place/Bake+%26+Brew/@50.038162,8.239632,17z
+          - generic [ref=e260]:
+            - heading "Öffnungszeiten" [level=4] [ref=e261]
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - generic [ref=e264]: Mo – Fr
+                - emphasis [ref=e265]: 05:30 – 18:00
+              - listitem [ref=e266]:
+                - generic [ref=e267]: Samstag
+                - emphasis [ref=e268]: 07:00 – 18:00
+              - listitem [ref=e269]:
+                - generic [ref=e270]: Sonntag
+                - emphasis [ref=e271]: 07:00 – 16:00
+          - generic [ref=e272]:
+            - heading "Hallo sagen" [level=4] [ref=e273]
+            - paragraph [ref=e274]: Am liebsten direkt am Tresen. Aber auch per Post geht.
+            - link "hallo@bakeandbrew-wiesbaden.de" [ref=e275] [cursor=pointer]:
+              - /url: mailto:hallo@bakeandbrew-wiesbaden.de
+      - generic [ref=e277]:
+        - img "Holztresen mit Cappuccino in schwarzer Keramik, frisches Gebäck auf Teller und Serviette mit Bake & Brew Logo" [ref=e278]
+        - generic [ref=e279]:
+          - text: seit
+          - emphasis [ref=e280]: "2024"
+  - contentinfo [ref=e281]:
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - img [ref=e285]:
+          - generic [ref=e287]: · IN THE NAME OF COFFEE · IN THE NAME OF RITUAL · SEIT 2024 ·
+        - paragraph [ref=e291]:
+          - text: Bake
+          - emphasis [ref=e292]: "&"
+          - text: Brew — ein kleines
+          - emphasis [ref=e293]: Morgen-Refugium
+          - text: in Biebrich. Matcha, Bowls & handgeformtes Gebäck. Täglich ab 5:30.
+      - generic [ref=e294]:
+        - generic [ref=e295]:
+          - heading "Hier" [level=5] [ref=e296]
+          - paragraph [ref=e297]:
+            - text: Stettiner Str. 10
+            - text: 65203 Wiesbaden
+        - generic [ref=e298]:
+          - heading "Jetzt" [level=5] [ref=e299]
+          - paragraph [ref=e300]:
+            - text: Mo – Fr · 05:30 – 18:00
+            - text: Sa · 07:00 – 18:00
+            - text: So · 07:00 – 16:00
+        - generic [ref=e301]:
+          - heading "Sprich" [level=5] [ref=e302]
+          - paragraph [ref=e303]:
+            - link "hallo@bakeandbrew-wiesbaden.de" [ref=e304] [cursor=pointer]:
+              - /url: mailto:hallo@bakeandbrew-wiesbaden.de
+      - generic [ref=e305]:
+        - generic [ref=e306]: © 2026 Bake & Brew · Wiesbaden-Biebrich
+        - generic [ref=e307]:
+          - text: "Design:"
+          - emphasis [ref=e308]: Garden of Matcha
+          - text: — handgebaut.

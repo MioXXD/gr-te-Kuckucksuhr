@@ -1,0 +1,22 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]: R
+    - generic [ref=e6]: Ranked
+  - generic [ref=e10]:
+    - generic [ref=e12]: R
+    - heading "Ranked" [level=1] [ref=e13]
+    - paragraph [ref=e14]:
+      - text: Battle dich mit Freunden in dem was zählt.
+      - text: Achievements. Punkte. Stadt-Ranking.
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: "01"
+        - generic [ref=e18]: Trag echte Wins ein — Freunde bestätigen
+      - generic [ref=e19]:
+        - generic [ref=e20]: "02"
+        - generic [ref=e21]: Battle in Freunde-Liste + Stadt-Top-100
+      - generic [ref=e22]:
+        - generic [ref=e23]: "03"
+        - generic [ref=e24]: Hol dir den ersten Platz
+    - button "Profil anlegen" [ref=e25] [cursor=pointer]
+  - text: Noch keine Challenges. Fordere einen Freund heraus.

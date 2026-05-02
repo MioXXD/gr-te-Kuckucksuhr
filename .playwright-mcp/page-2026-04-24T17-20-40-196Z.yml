@@ -1,0 +1,110 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e645]
+    - search [ref=e649]:
+      - button "Zurück" [ref=e789] [cursor=pointer]:
+        - generic [ref=e790]: 
+      - generic [ref=e650]:
+        - combobox [ref=e652]: Bake & Brew
+        - button "Suchen" [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]: 
+        - button "Schließen" [ref=e657] [cursor=pointer]:
+          - generic [ref=e658]: 
+    - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e665]:
+      - generic [ref=e668]:
+        - button "Restaurants in der Nähe" [ref=e670] [cursor=pointer]:
+          - generic [ref=e671]:
+            - generic [ref=e673]: 
+            - generic [ref=e674]: Restaurants in der Nähe
+        - button "Hotels" [ref=e676] [cursor=pointer]:
+          - generic [ref=e677]:
+            - generic [ref=e679]: 
+            - generic [ref=e680]: Hotels
+        - button "Mögliche Aktivitäten" [ref=e682] [cursor=pointer]:
+          - generic [ref=e683]:
+            - generic [ref=e685]: 
+            - generic [ref=e686]: Mögliche Aktivitäten
+        - button "Bars" [ref=e688] [cursor=pointer]:
+          - generic [ref=e689]:
+            - generic [ref=e691]: 
+            - generic [ref=e692]: Bars
+        - button "Kaffee" [ref=e694] [cursor=pointer]:
+          - generic [ref=e695]:
+            - generic [ref=e697]: 
+            - generic [ref=e698]: Kaffee
+        - button "Zum Mitnehmen" [ref=e700] [cursor=pointer]:
+          - generic [ref=e701]:
+            - generic [ref=e703]: 
+            - generic [ref=e704]: Zum Mitnehmen
+        - button "Lebensmittel" [ref=e706] [cursor=pointer]:
+          - generic [ref=e707]:
+            - generic [ref=e709]: 
+            - generic [ref=e710]: Lebensmittel
+      - button "Nächste Seite" [ref=e711] [cursor=pointer]:
+        - generic [ref=e712]: 
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - button "Menü" [ref=e16] [cursor=pointer]:
+              - generic [ref=e18]: 
+          - listitem [ref=e19]:
+            - button "Gespeichert" [ref=e20] [cursor=pointer]:
+              - generic [ref=e22]: 
+              - generic [ref=e24]: Gespeichert
+          - listitem [ref=e25]:
+            - button "Zuletzt verwendet" [ref=e26] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - generic [ref=e30]: Zuletzt verwendet
+          - listitem [ref=e714]:
+            - button "Bake & Brew" [ref=e715] [cursor=pointer]:
+              - generic [ref=e721]: Bake & Brew
+          - listitem [ref=e32]:
+            - button "App herunterladen" [ref=e33] [cursor=pointer]:
+              - generic [ref=e35]: 
+              - generic [ref=e37]: App herunterladen
+        - main "Bake & Brew" [ref=e42]:
+          - tablist [ref=e90]:
+            - tab "Übersicht über Bake & Brew" [ref=e91]:
+              - generic [ref=e93]: Übersicht
+            - tab "Speisekarte" [active] [selected] [ref=e95]:
+              - generic [ref=e97]: Speisekarte
+            - tab "Rezensionen zu „Bake & Brew“" [ref=e99]:
+              - generic [ref=e101]: Rezensionen
+            - tab "Bake & Brew" [ref=e103]:
+              - generic [ref=e105]: Info
+          - region "Menü" [ref=e1482]:
+            - heading "Menü" [level=2] [ref=e1484]:
+              - generic [ref=e1485]: Menü
+            - button "Foto 1 von 1" [ref=e1491] [cursor=pointer]
+      - button "Seitenleiste ausblenden" [ref=e642] [cursor=pointer]:
+        - generic [ref=e643]: 
+    - generic [ref=e726]:
+      - button "Google-Apps" [ref=e730] [cursor=pointer]:
+        - img [ref=e731]
+      - link "Anmelden" [ref=e734] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FBake%2B%2526%2BBrew%2F%4050.038162%2C8.239632%2C17z%2Fdata%3D!4m7!3m6!1s0x47bd976be2443b6f%3A0x7e0b9a3cefc43c68!8m2!3d50.038162!4d8.239632!10e9!16s%252Fg%252F11xh29pbtt%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic [ref=e735]:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e738] [cursor=pointer]:
+          - generic [ref=e740]: 
+        - generic [ref=e742] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e743]
+          - button "Herauszoomen" [ref=e746]
+      - generic [ref=e752]:
+        - button "Street View-Bilder ansehen" [ref=e754]
+        - button "Street View" [ref=e756] [cursor=pointer]
+      - generic [ref=e764]:
+        - generic "Interaktive Karte" [ref=e765]
+        - generic [ref=e769] [cursor=pointer]:
+          - generic [ref=e770]: 
+          - generic [ref=e771]: Ebenen
+        - button "Ebenen" [ref=e772] [cursor=pointer]
+    - generic [ref=e774]:
+      - contentinfo [ref=e777]:
+        - text: Bilder © 2026 ,Kartendaten © 2026 GeoBasis-DE/BKG (©2009),Google
+        - button "Deutschland" [ref=e778] [cursor=pointer]
+        - button "Bedingungen" [ref=e779] [cursor=pointer]
+        - button "Datenschutz" [ref=e780] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e781] [cursor=pointer]
+      - button "50 m" [ref=e783] [cursor=pointer]: 50 m

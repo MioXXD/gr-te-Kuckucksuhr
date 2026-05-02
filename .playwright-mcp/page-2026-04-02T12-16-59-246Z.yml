@@ -1,0 +1,278 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Otto Schulz Juwelier · Wiesbaden · Seit 1886" [ref=e3] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e4]: Otto Schulz
+      - generic [ref=e5]: Juwelier · Wiesbaden · Seit 1886
+    - list [ref=e6]:
+      - listitem [ref=e7]:
+        - link "Schmuck" [ref=e8] [cursor=pointer]:
+          - /url: "#schmuck"
+      - listitem [ref=e9]:
+        - link "Uhren" [ref=e10] [cursor=pointer]:
+          - /url: "#uhren"
+      - listitem [ref=e11]:
+        - link "Trauringe" [ref=e12] [cursor=pointer]:
+          - /url: "#trauringe"
+      - listitem [ref=e13]:
+        - link "Atelier" [ref=e14] [cursor=pointer]:
+          - /url: "#atelier"
+      - listitem [ref=e15]:
+        - link "Geschichte" [ref=e16] [cursor=pointer]:
+          - /url: "#geschichte"
+      - listitem [ref=e17]:
+        - link "Kontakt" [ref=e18] [cursor=pointer]:
+          - /url: "#kontakt"
+    - link "Termin vereinbaren" [ref=e19] [cursor=pointer]:
+      - /url: "#termin"
+  - generic [ref=e21]:
+    - generic [ref=e25]: Wird geladen
+    - generic [ref=e29]:
+      - generic [ref=e30]: Seit 1886 · Wiesbaden
+      - heading "Für Momente, die bleiben." [level=1] [ref=e31]:
+        - text: Für Momente,
+        - emphasis [ref=e32]: die bleiben.
+      - generic [ref=e34]:
+        - link "Kollektion entdecken" [ref=e35] [cursor=pointer]:
+          - /url: "#schmuck"
+        - link "Termin vereinbaren" [ref=e36] [cursor=pointer]:
+          - /url: "#termin"
+    - generic [ref=e39]: Scroll
+  - generic [ref=e40]:
+    - generic [ref=e41]: An den Quellen 6, Wiesbaden
+    - generic [ref=e43]: Mo – Fr 9:30 – 18:00 Uhr
+    - generic [ref=e45]: Sa 9:30 – 16:00 Uhr
+    - generic [ref=e47]: +49 611 304293
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]: Das Haus Otto Schulz
+      - heading "Tradition trifft zeitlosen Stil." [level=2] [ref=e52]:
+        - text: Tradition trifft
+        - emphasis [ref=e53]: zeitlosen Stil.
+      - paragraph [ref=e55]: Seit 1886 steht der Name Otto Schulz für das Schönste, was das Goldschmiedehandwerk zu bieten hat. Was einst in Berlin begann, ist heute ein fester Bestandteil Wiesbadens, ein Ort, an dem Schmuck Geschichten erzählt und jedes Stück mehr ist als ein Accessoire.
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - generic [ref=e58]: "1886"
+        - generic [ref=e59]: Gegründet
+      - generic [ref=e60]:
+        - generic [ref=e61]: "138"
+        - generic [ref=e62]: Jahre Expertise
+      - generic [ref=e63]:
+        - generic [ref=e64]: 13+
+        - generic [ref=e65]: Exklusivmarken
+      - generic [ref=e66]:
+        - generic [ref=e67]: 1:1
+        - generic [ref=e68]: Persönliche Beratung
+  - generic [ref=e69]:
+    - generic [ref=e70]:
+      - generic [ref=e71]: Was wir für Sie tun
+      - heading "Unsere Leistungen" [level=2] [ref=e72]:
+        - text: Unsere
+        - emphasis [ref=e73]: Leistungen
+    - generic [ref=e74]:
+      - link "01 Schmuck bei Otto Schulz Juwelier Wiesbaden Schmuck Ringe, Ketten, Armbänder und Ohrschmuck erlesener Marken, jedes Stück sorgfältig ausgewählt. Entdecken →" [ref=e75] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e76]: "01"
+        - img "Schmuck bei Otto Schulz Juwelier Wiesbaden" [ref=e78]
+        - heading "Schmuck" [level=3] [ref=e79]
+        - paragraph [ref=e80]: Ringe, Ketten, Armbänder und Ohrschmuck erlesener Marken, jedes Stück sorgfältig ausgewählt.
+        - generic [ref=e81]: Entdecken →
+      - link "02 Uhrenkollektion bei Otto Schulz Juwelier Wiesbaden Uhren Zeitlose Zeitmesser von Sternglas, Laco, U-Boat und weiteren namhaften Manufakturen. Entdecken →" [ref=e82] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e83]: "02"
+        - img "Uhrenkollektion bei Otto Schulz Juwelier Wiesbaden" [ref=e85]
+        - heading "Uhren" [level=3] [ref=e86]
+        - paragraph [ref=e87]: Zeitlose Zeitmesser von Sternglas, Laco, U-Boat und weiteren namhaften Manufakturen.
+        - generic [ref=e88]: Entdecken →
+      - link "03 Trauringe bei Otto Schulz Juwelier Wiesbaden Trauringe Das Schönste, das Sie sich schenken können. Individuell beraten, für Ihren besonderen Tag. Beratung buchen →" [ref=e89] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e90]: "03"
+        - img "Trauringe bei Otto Schulz Juwelier Wiesbaden" [ref=e92]
+        - heading "Trauringe" [level=3] [ref=e93]
+        - paragraph [ref=e94]: Das Schönste, das Sie sich schenken können. Individuell beraten, für Ihren besonderen Tag.
+        - generic [ref=e95]: Beratung buchen →
+      - link "04 Atelier Otto Schulz – Goldschmied Wiesbaden Atelier Umarbeitungen nach Wunsch, Reparaturen und Neuanfertigungen. Handwerk, das bleibt. Mehr erfahren →" [ref=e96] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e97]: "04"
+        - img "Atelier Otto Schulz – Goldschmied Wiesbaden" [ref=e99]
+        - heading "Atelier" [level=3] [ref=e100]
+        - paragraph [ref=e101]: Umarbeitungen nach Wunsch, Reparaturen und Neuanfertigungen. Handwerk, das bleibt.
+        - generic [ref=e102]: Mehr erfahren →
+  - generic [ref=e104]:
+    - generic [ref=e105]: Unsere Geschichte
+    - generic [ref=e106]: Seit 1886
+    - paragraph [ref=e107]:
+      - text: „Was zählt, sind nicht die Jahre,
+      - text: sondern die Momente, die man in Gold fasst."
+    - paragraph [ref=e109]: "Otto Schulz wurde 1886 in Berlin gegründet, in einer Zeit, als Goldschmiedekunst noch bedeutete: ein Leben lang lernen, ein Leben lang meistern. Heute steht das Haus in Wiesbaden für genau diese Werte: Handwerk, Beständigkeit und der Glaube, dass echter Schmuck Generationen überdauert."
+    - generic [ref=e110]:
+      - generic [ref=e111]:
+        - generic [ref=e112]: "1886"
+        - text: Gründung in Berlin
+      - generic [ref=e113]:
+        - generic [ref=e114]: —
+        - text: Wachstum & Handwerk
+      - generic [ref=e115]:
+        - generic [ref=e116]: Heute
+        - text: Wiesbaden, An den Quellen 6
+      - generic [ref=e117]:
+        - generic [ref=e118]: "138"
+        - text: Jahre Vertrauen
+  - generic [ref=e119]:
+    - generic [ref=e120]:
+      - generic [ref=e121]: Ausgewählte Partnerschaften
+      - heading "Unsere Markenwelt" [level=2] [ref=e122]:
+        - text: Unsere
+        - emphasis [ref=e123]: Markenwelt
+      - generic [ref=e124]:
+        - generic [ref=e125] [cursor=pointer]: Uhren
+        - generic [ref=e126] [cursor=pointer]: Schmuck
+    - generic [ref=e127]:
+      - generic [ref=e128] [cursor=pointer]:
+        - img "Sternglas – Partner von Otto Schulz Juwelier Wiesbaden" [ref=e129]
+        - generic [ref=e130]: Sternglas
+      - generic [ref=e131] [cursor=pointer]:
+        - img "Laco – Partner von Otto Schulz Juwelier Wiesbaden" [ref=e132]
+        - generic [ref=e133]: Laco
+      - generic [ref=e134] [cursor=pointer]:
+        - img "U-Boat – Partner von Otto Schulz Juwelier Wiesbaden" [ref=e135]
+        - generic [ref=e136]: U-Boat
+  - generic [ref=e138]:
+    - img "Goldschmied bei der Arbeit – Atelier Otto Schulz Wiesbaden" [ref=e140]
+    - generic [ref=e141]:
+      - generic [ref=e142]: Unser Atelier
+      - heading "Handwerk, das bleibt." [level=2] [ref=e143]:
+        - text: Handwerk,
+        - emphasis [ref=e144]: das bleibt.
+      - paragraph [ref=e146]: "Im Atelier von Otto Schulz entstehen nicht nur neue Schmuckstücke, hier werden Erinnerungen bewahrt. Ob das ererbte Collier Ihrer Großmutter neu gefasst oder ein Ring umgearbeitet werden soll: Unser Goldschmied behandelt Ihr Stück mit der Sorgfalt, die es verdient."
+      - paragraph [ref=e147]: Jede Umarbeitung ist ein Unikat. Jede Reparatur ein Versprechen.
+      - list [ref=e148]:
+        - listitem [ref=e149]: Individuelle Umarbeitungen nach Kundenwunsch
+        - listitem [ref=e150]: Professionelle Reparaturen & Aufarbeitungen
+        - listitem [ref=e151]: Neuanfertigungen & Einzelstücke
+        - listitem [ref=e152]: Trauringberatung & individuelle Anpassungen
+        - listitem [ref=e153]: Gravuren & Veredelungen
+      - link "Atelier-Gespräch anfragen" [ref=e154] [cursor=pointer]:
+        - /url: "#termin"
+  - generic [ref=e156]:
+    - generic [ref=e157]: Was Sie bei uns finden
+    - heading "Unser Angebot" [level=2] [ref=e158]:
+      - text: Unser
+      - emphasis [ref=e159]: Angebot
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - generic [ref=e162]: "01"
+        - heading "Schmuck & Uhren" [level=3] [ref=e163]:
+          - text: Schmuck &
+          - emphasis [ref=e164]: Uhren
+        - paragraph [ref=e165]: Erlesene Kollektionen aus den Bereichen Schmuck und Zeitmessung, von klassisch bis modern, für jeden besonderen Anlass.
+        - list [ref=e166]:
+          - listitem [ref=e167]:
+            - link "Schmuck entdecken" [ref=e168] [cursor=pointer]:
+              - /url: "#schmuck"
+          - listitem [ref=e169]:
+            - link "Uhren entdecken" [ref=e170] [cursor=pointer]:
+              - /url: "#uhren"
+          - listitem [ref=e171]:
+            - link "Trauringe" [ref=e172] [cursor=pointer]:
+              - /url: "#trauringe"
+      - generic [ref=e173]:
+        - generic [ref=e174]: "02"
+        - heading "Unsere Markenwelt" [level=3] [ref=e175]:
+          - text: Unsere
+          - emphasis [ref=e176]: Markenwelt
+        - paragraph [ref=e177]: Ausgewählte Partnerschaften mit den besten Schmuck- und Uhrenhäusern der Welt, kuratiert für höchste Ansprüche.
+        - list [ref=e178]:
+          - listitem [ref=e179]:
+            - generic [ref=e180]: Sternglas
+          - listitem [ref=e181]:
+            - generic [ref=e182]: Laco
+          - listitem [ref=e183]:
+            - generic [ref=e184]: U-Boat
+          - listitem [ref=e185]:
+            - generic [ref=e186]: Chimento
+          - listitem [ref=e187]:
+            - link "Alle Marken →" [ref=e188] [cursor=pointer]:
+              - /url: "#markenwelt"
+      - generic [ref=e189]:
+        - generic [ref=e190]: "03"
+        - heading "Atelier & Beratung" [level=3] [ref=e191]:
+          - text: Atelier &
+          - emphasis [ref=e192]: Beratung
+        - paragraph [ref=e193]: Persönliche Beratung, individuelle Umarbeitungen und Reparaturen. Handwerk, das mit Ihnen wächst.
+        - list [ref=e194]:
+          - listitem [ref=e195]:
+            - link "Atelier & Werkstatt" [ref=e196] [cursor=pointer]:
+              - /url: "#atelier"
+          - listitem [ref=e197]:
+            - link "Geschichte seit 1886" [ref=e198] [cursor=pointer]:
+              - /url: "#geschichte"
+          - listitem [ref=e199]:
+            - link "Termin vereinbaren" [ref=e200] [cursor=pointer]:
+              - /url: "#termin"
+  - generic [ref=e201]:
+    - generic [ref=e202]: Persönliche Beratung
+    - heading "Beratung auf Augenhöhe." [level=2] [ref=e203]:
+      - text: Beratung auf
+      - emphasis [ref=e204]: Augenhöhe.
+    - paragraph [ref=e206]: Kein Online-Shop ersetzt das Gefühl, ein Schmuckstück in den Händen zu halten und sich von jemandem beraten zu lassen, der wirklich zuhört. Vereinbaren Sie Ihren persönlichen Termin. Wir nehmen uns Zeit für Sie.
+    - generic [ref=e207]:
+      - link "Jetzt anrufen" [ref=e208] [cursor=pointer]:
+        - /url: tel:+49611304293
+      - link "E-Mail schreiben" [ref=e209] [cursor=pointer]:
+        - /url: mailto:info@otto-schulz-juwelier.de
+  - generic [ref=e212]:
+    - generic [ref=e213]:
+      - generic [ref=e214]: Besuchen Sie uns
+      - paragraph [ref=e215]:
+        - text: An den Quellen 6
+        - text: 65183 Wiesbaden
+        - link "+49 611 304293" [ref=e216] [cursor=pointer]:
+          - /url: tel:+49611304293
+        - link "info@otto-schulz.de" [ref=e217] [cursor=pointer]:
+          - /url: mailto:info@otto-schulz.de
+    - generic [ref=e218]:
+      - generic [ref=e219]: Öffnungszeiten
+      - paragraph [ref=e220]:
+        - text: Montag – Freitag
+        - text: 9:30 – 18:00 Uhr
+        - text: Samstag
+        - text: 9:30 – 16:00 Uhr
+        - text: Sonntag & Feiertage
+        - text: Geschlossen
+    - generic [ref=e221]:
+      - generic [ref=e222]: Anfahrt
+      - generic [ref=e224]:
+        - paragraph [ref=e225]:
+          - text: Für die Karte wird Google Maps geladen.
+          - text: Dabei werden Daten an Google übertragen.
+        - button "Karte anzeigen" [ref=e226] [cursor=pointer]
+  - generic [ref=e227]:
+    - paragraph [ref=e228]:
+      - text: Wir verwenden Google Maps und Google Fonts. Dabei werden Daten an Google übertragen. Mehr dazu in unserer
+      - link "Datenschutzerklärung" [ref=e229] [cursor=pointer]:
+        - /url: datenschutz.html
+      - text: .
+    - generic [ref=e230]:
+      - button "Ablehnen" [ref=e231] [cursor=pointer]
+      - button "Akzeptieren" [ref=e232] [cursor=pointer]
+  - contentinfo [ref=e233]:
+    - generic [ref=e234]:
+      - generic [ref=e235]:
+        - generic [ref=e236]: Otto Schulz
+        - generic [ref=e237]: Juwelier & Goldschmiede · Wiesbaden
+        - paragraph [ref=e238]: „Für Momente, die bleiben."
+      - paragraph [ref=e240]:
+        - text: An den Quellen 6 · 65183 Wiesbaden
+        - text: Mo – Fr 9:30–18:00 · Sa 9:30–16:00
+        - link "+49 611 304293" [ref=e241] [cursor=pointer]:
+          - /url: tel:+49611304293
+    - generic [ref=e242]:
+      - generic [ref=e243]: © 2024 Otto Schulz Juwelier · Wiesbaden · Seit 1886
+      - generic [ref=e244]:
+        - link "Impressum" [ref=e245] [cursor=pointer]:
+          - /url: impressum.html
+        - link "Datenschutz" [ref=e246] [cursor=pointer]:
+          - /url: datenschutz.html
+        - link "AGB" [ref=e247] [cursor=pointer]:
+          - /url: agb.html

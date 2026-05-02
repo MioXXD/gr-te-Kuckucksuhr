@@ -1,0 +1,75 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: https://wearebrand.io
+      - link [ref=e13] [cursor=pointer]:
+        - /url: https://wa.me/33678284238
+        - img [ref=e16]
+  - main [ref=e18]
+  - generic [ref=e29]:
+    - generic [ref=e31]:
+      - generic [ref=e37]:
+        - heading "europe & usa OFFICE" [level=4] [ref=e40]
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - img [ref=e46]
+            - generic [ref=e48]: "+33678284238"
+          - listitem [ref=e49]:
+            - generic [ref=e50]: WEAREBRAND
+          - listitem [ref=e51]:
+            - generic [ref=e52]: 3 rue du Golf, Mérignac, France
+          - listitem [ref=e53]:
+            - generic [ref=e54]: hello@wearebrand.io
+      - generic [ref=e56]:
+        - heading "ASIA OFFICE" [level=4] [ref=e59]
+        - list [ref=e62]:
+          - listitem [ref=e63]:
+            - img [ref=e65]
+            - generic [ref=e67]: "+6285337644966"
+          - listitem [ref=e68]:
+            - generic [ref=e69]: PT WEAREBRAND PRODUCTION DIGITAL
+          - listitem [ref=e70]:
+            - generic [ref=e71]: 95 Jl. Raya Padonan, Canggu, Bali Indonesia
+          - listitem [ref=e72]:
+            - generic [ref=e73]: hello@wearebrand.io
+      - generic [ref=e75]:
+        - heading "SOCIAL MEDIA" [level=4] [ref=e78]
+        - list [ref=e81]:
+          - listitem [ref=e82]:
+            - link "@wearebrand.io" [ref=e83] [cursor=pointer]:
+              - /url: https://www.instagram.com/wearebrand.io/
+              - img [ref=e85]
+              - generic [ref=e87]: "@wearebrand.io"
+          - listitem [ref=e88]:
+            - link "@wearebrand.io" [ref=e89] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@wearebrand.io
+              - img [ref=e91]
+              - generic [ref=e93]: "@wearebrand.io"
+          - listitem [ref=e94]:
+            - link "@wearebrand." [ref=e95] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/69888464
+              - img [ref=e97]
+              - generic [ref=e99]: "@wearebrand."
+          - listitem [ref=e100]:
+            - link "@wearebrand" [ref=e101] [cursor=pointer]:
+              - /url: https://pin.it/Z8HBEC9U2
+              - img [ref=e103]
+              - generic [ref=e105]: "@wearebrand"
+      - generic [ref=e107]:
+        - heading "Let’s Build Something Exceptional" [level=4] [ref=e110]
+        - link "START YOUR PROJECT" [ref=e114] [cursor=pointer]:
+          - /url: https://wearebrand.io/brand
+          - generic [ref=e116]: START YOUR PROJECT
+    - paragraph [ref=e123]:
+      - link "Designed by wearebrand." [ref=e124] [cursor=pointer]:
+        - /url: http://www.wearebrand.io
+  - generic [ref=e125]: desktop
+  - dialog "Cookie Notice" [ref=e126]:
+    - generic [ref=e127]:
+      - generic [ref=e128]: We use cookies to ensure you get the best experience on our website. By continuing to use this site, we assume you are happy with it.
+      - link "WeAreOk" [ref=e130] [cursor=pointer]:
+        - /url: "#"
+      - generic "Non" [ref=e131] [cursor=pointer]

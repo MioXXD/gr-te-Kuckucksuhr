@@ -1,0 +1,9 @@
+[    1640ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 2304, rating: good, delta: 2304} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1641ms] [LOG] %cusr: color:gray {locale: de-DE} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1641ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1647ms] [LOG] %cmetric: color:gray {name: CLS, entries: Array(0), value: 0, rating: good, delta: 0} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1648ms] [LOG] %cusr: color:gray {locale: de-DE} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1649ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1993ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 1576.2999999970198, rating: needs-improvement, delta: 1576.2999999970198} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1993ms] [LOG] %cusr: color:gray {locale: de-DE} @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13
+[    1995ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/de-DE/4160.a89cffb7.js:13

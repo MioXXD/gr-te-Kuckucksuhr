@@ -1,0 +1,236 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+          - /url: /de
+          - img "Unsplash-Startseite" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /de
+          - img [ref=e12]
+        - link "Grafiken" [ref=e14] [cursor=pointer]:
+          - /url: /de/grafiken
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Entdecken" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - link "Kollektionen" [ref=e21] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil
+          - img [ref=e22]
+        - link "Bisherige Downloads" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fdownloads
+          - img [ref=e25]
+      - link "Lesezeichen" [ref=e28] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Anmelden / Registrieren" [ref=e32] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil
+        - img [ref=e33]
+      - button "Sprache" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menü" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - navigation [ref=e43]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e45]:
+          - button "Unsplash suchen" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+          - combobox [ref=e49]:
+            - searchbox "Unsplash suchen" [ref=e50]: trilobite fossil
+            - listbox
+          - button "Löschen" [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - button "Visuelle Suche" [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+        - generic [ref=e59]:
+          - link "Unsplash+ sichern" [ref=e60] [cursor=pointer]:
+            - /url: /de/plus
+          - link "Anmelden" [ref=e61] [cursor=pointer]:
+            - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil
+        - button "Bild einreichen" [ref=e63] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Fotos 1872":
+                - /url: /de/s/fotos/trilobite-fossil
+                - img
+                - text: Fotos
+                - generic: "1872"
+            - listitem [ref=e73]:
+              - link "Grafiken 5" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/grafiken/trilobite-fossil
+                - img [ref=e75]
+                - text: Grafiken
+                - generic [ref=e77]: "5"
+            - listitem [ref=e78]:
+              - button "Mehr" [ref=e79] [cursor=pointer]
+          - generic [ref=e82]:
+            - button "Lizenz" [ref=e83] [cursor=pointer]:
+              - img [ref=e84]
+              - generic [ref=e86]: Lizenz
+              - img [ref=e87]
+            - button "Ausrichtung" [ref=e89] [cursor=pointer]:
+              - img [ref=e90]
+              - generic [ref=e92]: Ausrichtung
+              - img [ref=e93]
+            - button "Sortieren nach Relevanz" [ref=e95] [cursor=pointer]:
+              - img [ref=e96]
+              - generic [ref=e98]: Sortieren nach Relevanz
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "Trilobite fossil" [level=1] [ref=e103]
+          - generic [ref=e107]:
+            - link "Fossil" [ref=e109] [cursor=pointer]:
+              - /url: /de/s/fotos/fossil
+            - link "grau" [ref=e111] [cursor=pointer]:
+              - /url: /de/s/fotos/grau
+            - link "Trilobit" [ref=e113] [cursor=pointer]:
+              - /url: /de/s/fotos/trilobit
+            - link "Tier" [ref=e115] [cursor=pointer]:
+              - /url: /de/s/fotos/tier
+            - link "Seestern-Fossil" [ref=e117] [cursor=pointer]:
+              - /url: /de/s/fotos/seestern--fossil
+            - link "Kreatives Entdeckungszentrum" [ref=e119] [cursor=pointer]:
+              - /url: /de/s/fotos/kreatives-entdeckungszentrum
+            - link "Beauty-Punkt ta" [ref=e121] [cursor=pointer]:
+              - /url: /de/s/fotos/beauty--punkt-ta
+            - link "Paläontologie" [ref=e123] [cursor=pointer]:
+              - /url: /de/s/fotos/pal%C3%A4ontologie
+            - link "versteinert" [ref=e125] [cursor=pointer]:
+              - /url: /de/s/fotos/versteinert
+            - link "David Clode" [ref=e127] [cursor=pointer]:
+              - /url: /de/s/fotos/david-clode
+            - link "Evolution" [ref=e129] [cursor=pointer]:
+              - /url: /de/s/fotos/evolution
+            - link "Flinders Straße" [ref=e131] [cursor=pointer]:
+              - /url: /de/s/fotos/flinders-stra%C3%9Fe
+        - generic [ref=e133]:
+          - generic [ref=e137]:
+            - generic [ref=e138]:
+              - figure [ref=e139]:
+                - link "Eine Nahaufnahme einer Art Felsen" [ref=e142]:
+                  - /url: /de/fotos/eine-nahaufnahme-einer-art-felsen-RgfUdI_Yt_E
+                  - img "Eine Nahaufnahme einer Art Felsen" [ref=e143]
+              - figure [ref=e144]:
+                - link "Versteinerter Trilobitenabdruck auf grauem Gestein" [ref=e147]:
+                  - /url: /de/fotos/versteinerter-trilobitenabdruck-auf-grauem-gestein-0S-VStmPBXU
+                  - img "Versteinerter Trilobitenabdruck auf grauem Gestein" [ref=e148]
+              - figure [ref=e149]:
+                - link "Ein Bild von einem Käfer, der auf einem Felsen kriecht" [ref=e152]:
+                  - /url: /de/fotos/ein-bild-von-einem-kafer-der-auf-einem-felsen-kriecht-rFqxrt56dGg
+                  - img "Ein Bild von einem Käfer, der auf einem Felsen kriecht" [ref=e153]
+              - figure [ref=e154]:
+                - link "Mehrere Schrauben sind in eine strukturierte Oberfläche eingebettet" [ref=e157]:
+                  - /url: /de/fotos/mehrere-schrauben-sind-in-eine-strukturierte-oberflache-eingebettet-UfJdWOgjF-Q
+                  - img "Mehrere Schrauben sind in eine strukturierte Oberfläche eingebettet" [ref=e158]
+              - figure [ref=e159]:
+                - link "Nahaufnahme geschichteter Felsformationen mit Grün- und Lilatönen" [ref=e162]:
+                  - /url: /de/fotos/nahaufnahme-geschichteter-felsformationen-mit-grun-und-lilatonen-695n3E18tzE
+                  - img "Nahaufnahme geschichteter Felsformationen mit Grün- und Lilatönen" [ref=e163]
+              - figure [ref=e164]:
+                - link "Brown Rock in der Nahaufnahme" [ref=e167]:
+                  - /url: /de/fotos/brown-rock-in-der-nahaufnahme-c8MDb7JmBjY
+                  - img "Brown Rock in der Nahaufnahme" [ref=e168]
+            - generic [ref=e169]:
+              - figure [ref=e170]:
+                - link "ein sehr alt aussehendes Objekt auf schwarzer Oberfläche" [ref=e173]:
+                  - /url: /de/fotos/ein-sehr-alt-aussehendes-objekt-auf-schwarzer-oberflache--zlcAyejQLA
+                  - img "ein sehr alt aussehendes Objekt auf schwarzer Oberfläche" [ref=e174]
+              - figure [ref=e175]:
+                - link "Graue und schwarze Fische auf dem Wasser" [ref=e178]:
+                  - /url: /de/fotos/graue-und-schwarze-fische-auf-dem-wasser-f0vDEW7VoHY
+                  - img "Graue und schwarze Fische auf dem Wasser" [ref=e179]
+              - figure [ref=e180]:
+                - link "ein paar Tiere, die im Dreck sind" [ref=e183]:
+                  - /url: /de/fotos/ein-paar-tiere-die-im-dreck-sind-_Io0OhXpr38
+                  - img "ein paar Tiere, die im Dreck sind" [ref=e184]
+              - figure [ref=e185]:
+                - link "Viele blaue Muscheln liegen auf dem sandigen Boden." [ref=e188]:
+                  - /url: /de/fotos/viele-blaue-muscheln-liegen-auf-dem-sandigen-boden-6r8na_r0GGc
+                  - img "Viele blaue Muscheln liegen auf dem sandigen Boden." [ref=e189]
+              - figure [ref=e190]:
+                - link "ein Fossil eines Fisches auf einem Felsen" [ref=e193]:
+                  - /url: /de/fotos/ein-fossil-eines-fisches-auf-einem-felsen-vHnDOhwQus8
+                  - img "ein Fossil eines Fisches auf einem Felsen" [ref=e194]
+              - figure [ref=e195]:
+                - link "braune und graue Betonwand" [ref=e198]:
+                  - /url: /de/fotos/braune-und-graue-betonwand-6GVhXy8Vf0U
+                  - img "braune und graue Betonwand" [ref=e199]
+              - figure [ref=e200]:
+                - link "schwarz-weißer Nike Schuh" [ref=e203]:
+                  - /url: /de/fotos/schwarz-weisser-nike-schuh-Nc49IqsNm3E
+                  - img "schwarz-weißer Nike Schuh" [ref=e204]
+            - generic [ref=e205]:
+              - contentinfo [ref=e210]:
+                - generic [ref=e216]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e218]:
+                - link "Nahaufnahme einer Wand aus Kugeln" [ref=e221]:
+                  - /url: /de/fotos/nahaufnahme-einer-wand-aus-kugeln-oT1YS6ztqZs
+                  - img "Nahaufnahme einer Wand aus Kugeln" [ref=e222]
+              - figure [ref=e223]:
+                - link "Ein fossiler Fisch ist auf dem Sand zu sehen" [ref=e226]:
+                  - /url: /de/fotos/ein-fossiler-fisch-ist-auf-dem-sand-zu-sehen-DpbEoKxGZ3g
+                  - img "Ein fossiler Fisch ist auf dem Sand zu sehen" [ref=e227]
+              - figure [ref=e228]:
+                - link "Die Fußabdrücke einer Person im Sand" [ref=e231]:
+                  - /url: /de/fotos/die-fussabdrucke-einer-person-im-sand-4jkP7LGFdP8
+                  - img "Die Fußabdrücke einer Person im Sand" [ref=e232]
+              - figure [ref=e233]:
+                - link "brauner und schwarzer Stein auf weißem Tisch" [ref=e236]:
+                  - /url: /de/fotos/brauner-und-schwarzer-stein-auf-weissem-tisch-0McPUCVa3zA
+                  - img "brauner und schwarzer Stein auf weißem Tisch" [ref=e237]
+              - figure [ref=e238]:
+                - link "Nahaufnahme einer Felswand mit einem Haufen Muscheln darauf" [ref=e241]:
+                  - /url: /de/fotos/nahaufnahme-einer-felswand-mit-einem-haufen-muscheln-darauf-oZidvs7mAlo
+                  - img "Nahaufnahme einer Felswand mit einem Haufen Muscheln darauf" [ref=e242]
+              - figure [ref=e243]:
+                - link "Nahaufnahme einer Felswand aus Sand" [ref=e246]:
+                  - /url: /de/fotos/nahaufnahme-einer-felswand-aus-sand-v1t-2cPxt-U
+                  - img "Nahaufnahme einer Felswand aus Sand" [ref=e247]
+              - figure [ref=e248]:
+                - link "Ein Kunstwerk, das ausgestellt wird" [ref=e251]:
+                  - /url: /de/fotos/ein-kunstwerk-das-ausgestellt-wird-G5ioUGx1vPE
+                  - img "Ein Kunstwerk, das ausgestellt wird" [ref=e252]
+          - generic [ref=e255]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e256]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e257]: "| Jetzt Rabatt sichern"
+            - generic [ref=e259]:
+              - link "fossil einer Trilobit auf isoliert Weißer Hintergrund" [ref=e260] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/fossil-of-a-trilobite-on-isolated-white-background-gm171143840-12510861?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "fossil einer Trilobit auf isoliert Weißer Hintergrund" [ref=e261]
+              - link "fossil Trilobit imprinted im sediment." [ref=e262] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/fossil-trilobite-imprinted-in-the-sediment-gm478272718-67221329?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "fossil Trilobit imprinted im sediment." [ref=e263]
+              - link "Trilobit fossil" [ref=e264] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/trilobite-fossil-gm636402428-112885211?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Trilobit fossil" [ref=e265]
+              - link "Trilobit mit horn-ein typisches falsche von Marocco" [ref=e266] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/trilobite-with-horn-a-typical-fake-from-marocco-gm92435075-1089963?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Trilobit mit horn-ein typisches falsche von Marocco" [ref=e267]
+              - link "Trilobit fossil" [ref=e268] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/trilobite-fossil-gm578831604-99532873?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Trilobit fossil" [ref=e269]
+              - link "Trilobit fossil" [ref=e270] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/trilobite-fossil-gm2190098799-608508684?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Trilobit fossil" [ref=e271]
+              - 'link "Trilobit: Modocia Typicalis" [ref=e272] [cursor=pointer]':
+                - /url: https://www.istockphoto.com/photo/modocia-typicalis-gm92741066-6044429?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - 'img "Trilobit: Modocia Typicalis" [ref=e273]'
+              - generic [ref=e274]:
+                - link "Trilobit fossil." [ref=e275] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/trilobite-fossil-gm172753201-5912780?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Trilobit fossil." [ref=e276]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e277] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Ftrilobite-fossil&utm_term=trilobite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=trilobite+fossil&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e281] [cursor=pointer]
+          - generic [ref=e282]:
+            - link [ref=e283] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e284]
+            - paragraph [ref=e286]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

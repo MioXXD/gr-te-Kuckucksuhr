@@ -1,0 +1,88 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: gold ring isolated white background
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 0":
+                - /url: /de/s/fotos/gold-ring-isolated-white-background
+                - img
+                - text: Fotos
+                - generic: "0"
+            - listitem [ref=e48]:
+              - link "Grafiken 0" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/gold-ring-isolated-white-background
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "0"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - heading "Gold ring isolated white background" [level=1] [ref=e62]
+        - generic [ref=e64]:
+          - img "Keine Inhalte verfügbar" [ref=e66]
+          - generic [ref=e68]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e69]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e70]: "| Jetzt Rabatt sichern"
+            - generic [ref=e72]:
+              - link "Golden Diamantring und moderne diamond" [ref=e73] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/golden-diamond-ring-and-contemporary-diamond-gm511646917-46614502?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A550bcdf4-d936-429a-bec1-ddb55190ff37
+                - img "Golden Diamantring und moderne diamond" [ref=e74]
+              - link "Diamant-Ring isoliert auf weißen Verlobung Solitär Stil Ring" [ref=e75] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamond-ring-isolated-on-white-engagement-solitaire-style-ring-gm1219309412-356610519?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Add58f46e-b7c8-42e5-8daf-1643328e61e6
+                - img "Diamant-Ring isoliert auf weißen Verlobung Solitär Stil Ring" [ref=e76]
+              - link "Isolierte Schuss von geschlossene vintage-ring auf weißem Hintergrund" [ref=e77] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/isolated-shot-of-stacked-luxury-ring-on-white-background-gm137509061-13623840?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A7308ff88-5dc0-4e1e-a5e0-d65a23ea1e1d
+                - img "Isolierte Schuss von geschlossene vintage-ring auf weißem Hintergrund" [ref=e78]
+              - link "Isoliert Nahaufnahme von einem goldenen Ring mit Saphir und Diamanten" [ref=e79] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/isolated-closeup-of-a-gold-ring-with-sapphire-and-diamonds-gm171572860-22519237?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Aa65ec387-4b13-40d3-8b78-3b77857a107e
+                - img "Isoliert Nahaufnahme von einem goldenen Ring mit Saphir und Diamanten" [ref=e80]
+              - link "Zwei goldene Hochzeitsringe isoliert auf Weiß, Hochzeitsringe Hintergrundkonzept" [ref=e81] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/two-golden-wedding-rings-isolated-on-white-wedding-rings-background-concept-gm682608212-125184819?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A789d1781-03cb-47b9-877b-187a9884e0c5
+                - img "Zwei goldene Hochzeitsringe isoliert auf Weiß, Hochzeitsringe Hintergrundkonzept" [ref=e82]
+              - link "Diamantring" [ref=e83] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamond-ring-gm157337569-6230919?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A8b71a4ac-cf29-4960-82b1-71af534edb9c
+                - img "Diamantring" [ref=e84]
+              - link "Hochzeitsringe" [ref=e85] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/wedding-rings-gm119244651-14132683?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A344fec70-a8af-400d-b8dc-18f074c40af5
+                - img "Hochzeitsringe" [ref=e86]
+              - generic [ref=e87]:
+                - link "Diamantring" [ref=e88] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/diamond-ring-gm907697760-250042522?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Ab216e90b-efa6-41d3-9e5e-dc34f5b86f65
+                  - img "Diamantring" [ref=e89]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e90] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-isolated-white-background&utm_term=gold+ring+isolated+white+background%3A%3Aaffiliate-layout-optim%3Acontrol%3Ad68abca1-23a0-489f-b251-27b06dc22d57&phrase=gold+ring+isolated+white+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - generic [ref=e92]:
+            - link [ref=e93] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e94]
+            - paragraph [ref=e96]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

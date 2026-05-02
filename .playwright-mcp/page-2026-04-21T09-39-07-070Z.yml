@@ -1,0 +1,130 @@
+- generic "Google Maps" [ref=e9]:
+  - generic [ref=e3]:
+    - application "Foto" [ref=e628]
+    - search [ref=e15]:
+      - button "Zurück" [ref=e630] [cursor=pointer]:
+        - generic [ref=e631]: 
+      - generic [ref=e16]:
+        - combobox [ref=e18]: Juwelier Roza
+        - button "Suchen" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: 
+        - button "Schließen" [ref=e23] [cursor=pointer]:
+          - generic [ref=e24]: 
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - list [ref=e82]:
+          - listitem [ref=e83]:
+            - button "Menü" [ref=e84] [cursor=pointer]:
+              - generic [ref=e86]: 
+          - listitem [ref=e87]:
+            - button "Gespeichert" [ref=e88] [cursor=pointer]:
+              - generic [ref=e90]: 
+              - generic [ref=e92]: Gespeichert
+          - listitem [ref=e93]:
+            - button "Zuletzt verwendet" [ref=e94] [cursor=pointer]:
+              - generic [ref=e96]: 
+              - generic [ref=e98]: Zuletzt verwendet
+          - listitem [ref=e100]:
+            - button "Juwelier Roza" [ref=e101] [cursor=pointer]:
+              - generic [ref=e107]: Juwelier Roza
+          - listitem [ref=e109]:
+            - button "App herunterladen" [ref=e110] [cursor=pointer]:
+              - generic [ref=e112]: 
+              - generic [ref=e114]: App herunterladen
+        - main "Fotos von Juwelier Roza" [ref=e632]:
+          - button "Fotos und Videos hinzufügen" [ref=e636] [cursor=pointer]:
+            - generic [ref=e637]:
+              - generic [ref=e638]: 
+              - generic [ref=e639]: Fotos und Videos hinzufügen
+          - tablist [ref=e642]:
+            - tab "Alle" [selected] [ref=e643]:
+              - generic [ref=e645]: Alle
+            - tab "Neueste" [ref=e647]:
+              - generic [ref=e649]: Neueste
+            - tab "Innenansichten" [ref=e651]:
+              - generic [ref=e653]: Innenansichten
+            - tab "Vom Inhaber" [ref=e655]:
+              - generic [ref=e657]: Vom Inhaber
+            - tab "Street View & 360°-Fotos" [ref=e659]:
+              - generic [ref=e661]: Street View & 360°-Fotos
+          - generic [ref=e664]:
+            - link "Foto 1" [ref=e665] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e666]
+            - link "Foto 2" [ref=e668] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e669]
+            - link "Foto 3" [ref=e671] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e672]
+            - link "Foto 4" [ref=e674] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e675]
+            - link "Foto 5" [ref=e677] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e678]
+            - link "Foto 6" [ref=e680] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e681]
+            - link "Foto 7" [ref=e683] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e684]
+            - link "Foto 8" [ref=e686] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e687]
+            - link "Foto 9" [ref=e689] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e690]
+            - link "Foto 10" [ref=e692] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e693]
+            - link "Foto 11" [ref=e695] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e696]
+            - link "Foto 12" [ref=e698] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e699]
+            - link "Foto 13" [ref=e701] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e702]
+      - button "Seitenleiste ausblenden" [ref=e487] [cursor=pointer]:
+        - generic [ref=e488]: 
+    - navigation [ref=e705]:
+      - generic [ref=e706]:
+        - generic [ref=e707]:
+          - heading "Profil von Juwelier Roza ansehen Juwelier Roza" [level=1] [ref=e711]:
+            - generic [ref=e712]:
+              - link "Profil von Juwelier Roza ansehen" [ref=e713] [cursor=pointer]:
+                - /url: //maps.google.com/maps/contrib/114958771835375847725
+              - link "Juwelier Roza" [ref=e715] [cursor=pointer]:
+                - /url: //maps.google.com/maps/contrib/114958771835375847725
+          - generic [ref=e717]: Foto - Apr. 2026
+        - button "Menü" [ref=e718] [cursor=pointer]:
+          - generic [ref=e719]: 
+    - generic:
+      - generic:
+        - button "Teilen" [ref=e722] [cursor=pointer]:
+          - generic [ref=e723]:
+            - generic [ref=e724]: 
+            - generic [ref=e725]: Teilen
+        - button "Schließen" [ref=e728] [cursor=pointer]:
+          - generic [ref=e730]: 
+    - generic:
+      - generic [ref=e508] [cursor=pointer]:
+        - button "Heranzoomen" [ref=e509]
+        - button "Herauszoomen" [disabled] [ref=e512]
+      - generic "Interaktive Karte" [ref=e531]
+      - generic:
+        - generic:
+          - button "Zurück" [disabled] [ref=e732] [cursor=pointer]:
+            - generic [ref=e734]: 
+          - button "Weiter" [ref=e735] [cursor=pointer]:
+            - generic [ref=e737]: 
+    - contentinfo [ref=e543]:
+      - generic [ref=e740]: "Aufgenommen: Apr. 2026"
+      - generic [ref=e743]: Die Bilder sind eventuell urheberrechtlich geschützt.
+      - button "Deutschland" [ref=e544] [cursor=pointer]
+      - button "Bedingungen" [ref=e545] [cursor=pointer]
+      - button "Datenschutz" [ref=e546] [cursor=pointer]
+      - link "Problem melden" [ref=e744] [cursor=pointer]:
+        - /url: //www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIABIhCELUqzkzwsHFcwKG-LGj4W&hl=de&gl=de&fid=0x47bdbf92b8901c91%3A0x6859e651146504c0

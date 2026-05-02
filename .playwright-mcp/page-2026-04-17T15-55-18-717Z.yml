@@ -1,0 +1,126 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: 🍃
+      - navigation [ref=e5]:
+        - link "HOME" [ref=e6] [cursor=pointer]:
+          - /url: "#hero"
+        - link "ABOUT US" [ref=e7] [cursor=pointer]:
+          - /url: "#about"
+        - link "PRODUCTS" [ref=e8] [cursor=pointer]:
+          - /url: "#products"
+        - link "CONTACT" [ref=e9] [cursor=pointer]:
+          - /url: "#contact"
+  - generic [ref=e11]:
+    - paragraph [ref=e12]: "Fresh Drinks: Just the Flavor, No Additives"
+    - heading "Matcha Gelado" [level=1] [ref=e13]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - paragraph [ref=e16]: Refresh your day with Matcha, Coffee & Acai. Authentic flavors crafted for those who seek more than just a simple drink.
+        - link "COMPRAR AGORA" [ref=e17] [cursor=pointer]:
+          - /url: "#products"
+      - generic [ref=e18]:
+        - img
+        - img "Matcha Latte" [ref=e20]
+        - generic: 🍃
+        - generic: 🍃
+        - generic: 🍃
+      - generic [ref=e21]:
+        - paragraph [ref=e24]: The Unique Flavor of Our Matcha
+        - paragraph [ref=e27]: The Refreshing Sensation
+        - paragraph [ref=e30]: Premium Quality Ingredients
+  - generic [ref=e32]:
+    - heading "Creating Good Moments With Every Sip" [level=2] [ref=e33]
+    - paragraph [ref=e34]: Each sip is a refreshing pause. From morning to night, our drinks bring freshness, energy, and natural flavor.
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - strong [ref=e37]: 10K
+        - text: Happy Customers
+      - generic [ref=e38]:
+        - strong [ref=e39]: 10K
+        - text: Drinks Served
+      - generic [ref=e40]:
+        - strong [ref=e41]: 4.9/5.0
+        - text: Average Rating
+  - generic [ref=e43]:
+    - heading "Made to Refresh, Created to Enchant" [level=2] [ref=e44]
+    - generic [ref=e46]:
+      - img "Matcha" [ref=e48]
+      - paragraph [ref=e49]: Our drinks combine authentic flavor, natural freshness, and a touch of energy to transform any moment of your day. Whether it's the balance of Matcha, the intensity of Coffee, or the lightness of Acai — each sip is an invitation to pause, breathe, and enjoy.
+    - paragraph [ref=e52]: Our drinks combine authentic flavor, natural freshness, and a touch of energy to transform any moment. The balance of Matcha, the intensity of Coffee, and the lightness of Acai.
+  - generic [ref=e54]:
+    - 'heading "Discover Your Ideal Drink: The Selection" [level=2] [ref=e55]'
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - img "Iced Coffee" [ref=e60]
+        - heading "Iced Coffee" [level=3] [ref=e61]
+        - paragraph [ref=e62]: Intense energy and bold flavor
+      - generic [ref=e63]:
+        - img "Matcha" [ref=e65]
+        - heading "Refreshing Matcha" [level=3] [ref=e66]
+        - paragraph [ref=e67]: Herbal freshness that balances mind & body
+      - generic [ref=e68]:
+        - img "Acai" [ref=e70]
+        - heading "Acai Power Bowl" [level=3] [ref=e71]
+        - paragraph [ref=e72]: Natural sweetness and irresistible freshness
+  - generic [ref=e74]:
+    - paragraph [ref=e75]: Energize your day with vibrant flavors from our
+    - heading "MATCHAS" [level=2] [ref=e76]
+    - generic [ref=e77]: VERIFIED ✓
+    - paragraph [ref=e78]: More than quenching thirst, our iced drinks elevate your moment. Whether starting the day with energy, taking a refreshing break, or ending with lightness — there's always a perfect flavor for you.
+  - generic [ref=e80]:
+    - generic [ref=e82]:
+      - heading "The Best Matcha" [level=3] [ref=e83]
+      - paragraph [ref=e84]: Our drinks combine authentic flavor, natural freshness, and a touch of energy to transform any moment of your day. Each sip is an invitation to pause, breathe, and enjoy.
+      - link "Learn More" [ref=e85] [cursor=pointer]:
+        - /url: "#"
+    - img [ref=e88]
+    - generic [ref=e91]:
+      - heading "The Best Matcha" [level=3] [ref=e92]
+      - paragraph [ref=e93]: Our drinks combine authentic flavor, natural freshness, and a touch of energy to transform any moment. The balance of Matcha, the intensity of Coffee.
+      - link "Learn More" [ref=e94] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e96]:
+    - generic [ref=e97]:
+      - heading "See Some Of Our Reviews" [level=2] [ref=e98]:
+        - text: See Some Of Our
+        - text: Reviews
+      - paragraph [ref=e99]: Don't just take our word for it. Discover what our customers say about the experience.
+      - generic [ref=e100]:
+        - button "Back" [ref=e101] [cursor=pointer]: ←
+        - button "Next" [ref=e102] [cursor=pointer]: →
+    - generic [ref=e104]:
+      - paragraph [ref=e106]: "\"The Matcha Latte is simply perfect for summer. Light, refreshing, and with an incredible natural flavor!\""
+      - strong [ref=e107]: Sophie M.
+  - contentinfo [ref=e108]:
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - heading "MATCHA" [level=2] [ref=e111]
+        - paragraph [ref=e112]:
+          - text: Made with real ingredients,
+          - text: for real moments.
+      - generic [ref=e113]:
+        - heading "Contact" [level=4] [ref=e114]
+        - generic [ref=e115]: +49 611 123 456
+        - generic [ref=e116]: Marktstraße 12, Wiesbaden
+        - link "hello@bakeandbrew.de" [ref=e117] [cursor=pointer]:
+          - /url: mailto:hello@bakeandbrew.de
+      - generic [ref=e118]:
+        - heading "About" [level=4] [ref=e119]
+        - link "Home" [ref=e120] [cursor=pointer]:
+          - /url: "#"
+        - link "Products" [ref=e121] [cursor=pointer]:
+          - /url: "#"
+        - link "About Us" [ref=e122] [cursor=pointer]:
+          - /url: "#"
+        - link "Reviews" [ref=e123] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e124]:
+        - heading "Social" [level=4] [ref=e125]
+        - link "Instagram" [ref=e126] [cursor=pointer]:
+          - /url: "#"
+        - link "TikTok" [ref=e127] [cursor=pointer]:
+          - /url: "#"
+        - link "WhatsApp" [ref=e128] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e129]: © 2025 Bake & Brew — All rights reserved.

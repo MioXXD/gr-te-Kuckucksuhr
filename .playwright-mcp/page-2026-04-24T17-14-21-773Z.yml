@@ -1,0 +1,2 @@
+- button "Seitenleiste ausblenden" [ref=e21] [cursor=pointer]:
+  - generic [ref=e22]: 

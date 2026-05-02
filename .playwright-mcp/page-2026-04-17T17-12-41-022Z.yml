@@ -1,0 +1,57 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img
+    - img
+    - img
+    - img
+    - generic [ref=e4]:
+      - link "🍃 Bake & Brew" [ref=e5] [cursor=pointer]:
+        - /url: "#"
+      - navigation [ref=e6]:
+        - link "HOME" [ref=e7] [cursor=pointer]:
+          - /url: "#hero"
+        - link "ABOUT US" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "PRODUCTS" [ref=e9] [cursor=pointer]:
+          - /url: "#menu"
+        - link "CONTACT" [ref=e10] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=e11]:
+      - paragraph [ref=e12]: "Fresh Drinks: Just the Flavor, No Additives"
+      - heading "Matcha Latte" [level=1] [ref=e13]
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - paragraph [ref=e16]: Refresh your day with Matcha, Acai & Coffee. Authentic flavors crafted for those who seek more than just a simple drink.
+          - link "ORDER NOW" [ref=e17] [cursor=pointer]:
+            - /url: "#menu"
+        - generic [ref=e18]:
+          - img
+          - img "Iced Matcha Latte" [ref=e20]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - img [ref=e24]
+            - paragraph [ref=e26]: The Unique Flavor of Our Matcha
+          - generic [ref=e27]:
+            - img [ref=e29]
+            - paragraph [ref=e31]: The Refreshing Sensation
+          - generic [ref=e32]:
+            - img [ref=e34]
+            - paragraph [ref=e36]: Premium Quality Ingredients
+  - generic [ref=e38]:
+    - heading "Creating good moments with every sip" [level=2] [ref=e39]
+    - paragraph [ref=e40]: Each sip is a refreshing pause. From morning to night, our drinks bring freshness, energy, and natural flavor.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - strong [ref=e43]: 10K
+        - text: Happy Customers
+      - generic [ref=e44]:
+        - strong [ref=e45]: 10K
+        - text: Drinks Served
+      - img "Drinks" [ref=e47]
+      - generic [ref=e48]:
+        - strong [ref=e49]: 4.9/5.0
+        - text: Average Rating
+  - contentinfo [ref=e50]:
+    - generic [ref=e51]:
+      - generic [ref=e52]: Bake & Brew
+      - paragraph [ref=e53]: Matcha · Bowls · Coffee — Wiesbaden

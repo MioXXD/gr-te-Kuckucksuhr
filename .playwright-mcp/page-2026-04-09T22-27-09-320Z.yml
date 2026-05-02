@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "Süß & Satt" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+      - button "Menü öffnen" [ref=e5] [cursor=pointer]
+  - generic [ref=e9]:
+    - button "Menü schließen" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: close
+    - link "Menu" [ref=e12] [cursor=pointer]:
+      - /url: "#menu"
+    - link "About" [ref=e13] [cursor=pointer]:
+      - /url: "#philosophy"
+    - link "Contact" [ref=e14] [cursor=pointer]:
+      - /url: "#location"
+  - main [ref=e15]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: Chef's Special
+          - generic [ref=e24]: Coming Soon to Wiesbaden
+        - heading "Fresh Food Daily Harvest" [level=1] [ref=e25]:
+          - text: Fresh Food
+          - text: Daily Harvest
+        - paragraph [ref=e26]: Açaí Bowls, Paninis & fresh juices — crafted for the urban lifestyle in Bärenstraße 2.
+        - generic [ref=e27]:
+          - link "View Menu" [ref=e28] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Instagram" [ref=e29] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e30]:
+        - generic:
+          - generic: LEAFY
+        - generic [ref=e31]:
+          - img "Açaí Bowl mit frischen Beeren und Toppings" [ref=e32]
+          - generic [ref=e34]: eco
+          - generic [ref=e36]: eco
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - heading "Our Daily Harvest" [level=2] [ref=e40]:
+          - text: Our Daily
+          - text: Harvest
+        - paragraph [ref=e41]: We focus on premium ingredients and intentional plating. Freshness you can see and taste in every single bite.
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - img "Frisch gegrilltes Panini mit Sauerteigbrot" [ref=e45]
+          - generic [ref=e46]:
+            - heading "Artisanal Paninis" [level=3] [ref=e47]
+            - paragraph [ref=e48]: Toasted sourdough with curated fillings from local suppliers.
+            - generic [ref=e49]: arrow_forward
+        - generic [ref=e50]:
+          - img "Frisch gepresste Säfte in Glasflaschen" [ref=e52]
+          - generic [ref=e53]:
+            - heading "Pressed Daily" [level=3] [ref=e54]
+            - paragraph [ref=e55]: Cold-pressed nutrients with absolutely no added sugars.
+            - text: New Flavors Daily
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e61]: Our Philosophy
+        - heading "We believe fast food should be real food." [level=2] [ref=e63]:
+          - text: We believe fast food
+          - text: should be real food.
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - paragraph [ref=e66]: 100%
+            - paragraph [ref=e67]: Natural Ingredients
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: Daily
+            - paragraph [ref=e70]: Freshly Pressed
+        - paragraph [ref=e71]: Süß & Satt was born from a passion for honest ingredients and urban aesthetics. Perfect for a quick snack or a balanced, artistic meal.
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - img "Frische Zutaten auf dem Tisch" [ref=e75]
+          - img "Gesundes Gericht angerichtet" [ref=e77]
+        - generic [ref=e78]:
+          - img "Gegrilltes Gemüse" [ref=e80]
+          - img "Modernes Interior des Restaurants" [ref=e82]
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - heading "Stay in the Harvest." [level=2] [ref=e87]:
+          - text: Stay in the
+          - text: Harvest.
+        - paragraph [ref=e88]: Join the inner circle for exclusive opening invites to our new location in Bärenstraße 2.
+        - generic [ref=e89]:
+          - textbox "Your email address" [ref=e90]
+          - button "Sign Up" [ref=e91] [cursor=pointer]
+        - generic [ref=e92]:
+          - generic [ref=e94]: location_on
+          - generic [ref=e95]:
+            - paragraph [ref=e96]: Bärenstraße 2
+            - paragraph [ref=e97]: 65183 Wiesbaden, Germany
+      - img "Straßenansicht Bärenstraße, Wiesbaden" [ref=e99]
+  - contentinfo [ref=e101]:
+    - generic [ref=e102]:
+      - link "Süß & Satt" [ref=e103] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e104]:
+        - link "Instagram" [ref=e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Facebook" [ref=e106] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e108]: © 2026 Süß & Satt. Made with passion in Wiesbaden.

@@ -1,0 +1,9 @@
+[    3699ms] [WARNING] Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key. @ https://21st.dev/_next/static/chunks/80841-11159e7ff6a56da7.js:5
+[    5346ms] [WARNING] [PostHog.js] You have already initialized PostHog! Re-initializing is a no-op @ https://21st.dev/_next/static/chunks/2d2d3c67-6fafac9e748883a7.js:0
+[    6316ms] [LOG] [Featurebase SDK] Initializing SDK! @ https://do.featurebase.app/js/sdk.js:246
+[    6709ms] [LOG] [Featurebase SDK] Messenger initialization already in progress, checking if data changed @ https://do.featurebase.app/js/sdk.js:246
+[    6709ms] [LOG] [Featurebase SDK] Data changed, canceling previous request @ https://do.featurebase.app/js/sdk.js:246
+[    6710ms] [LOG] [Featurebase SDK] Previous request canceled due to new request @ https://do.featurebase.app/js/sdk.js:246
+[    6760ms] [LOG] [Featurebase SDK] Messenger initialization already in progress, checking if data changed @ https://do.featurebase.app/js/sdk.js:246
+[    6760ms] [LOG] [Featurebase SDK] Same data as previous request, waiting for completion @ https://do.featurebase.app/js/sdk.js:246
+[    8356ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://do.featurebase.app/js/sdk.js:240

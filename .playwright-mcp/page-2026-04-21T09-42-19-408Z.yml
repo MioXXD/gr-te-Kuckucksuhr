@@ -1,0 +1,284 @@
+- generic [ref=e2]:
+  - main [ref=e4]:
+    - main [ref=e5]:
+      - generic [ref=e8]:
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - generic [ref=e15]:
+              - generic [ref=e18]:
+                - button "21st logo 21st" [ref=e20] [cursor=pointer]:
+                  - generic [ref=e21]:
+                    - generic [ref=e23]:
+                      - img "21st logo"
+                    - generic [ref=e25]: 21st
+                    - img
+                - button "Close sidebar" [ref=e27] [cursor=pointer]:
+                  - img
+              - generic [ref=e30]:
+                - img
+                - textbox "Search" [ref=e31] [cursor=pointer]
+                - generic:
+                  - img
+                  - generic: K
+            - generic [ref=e35]:
+              - link "Home" [ref=e37] [cursor=pointer]:
+                - /url: /
+                - img [ref=e38]
+                - generic [ref=e41]: Home
+              - generic [ref=e42]:
+                - heading "Explore" [level=3] [ref=e44]
+                - generic [ref=e45]:
+                  - button "Components" [ref=e46] [cursor=pointer]:
+                    - img [ref=e47]
+                    - generic [ref=e49]: Components
+                    - img [ref=e51]
+                  - button "Agent Templates" [ref=e53] [cursor=pointer]:
+                    - img [ref=e54]
+                    - generic [ref=e56]: Agent Templates
+                    - img [ref=e58]
+                  - link "MCP" [ref=e60] [cursor=pointer]:
+                    - /url: /mcp
+                    - img [ref=e61]
+                    - generic [ref=e67]: MCP
+              - generic [ref=e68]:
+                - heading "Build" [level=3] [ref=e70]
+                - generic [ref=e71]:
+                  - button "Agents" [ref=e72] [cursor=pointer]:
+                    - img [ref=e73]
+                    - generic [ref=e88]: Agents
+                    - img [ref=e90]
+                  - link "1Code" [ref=e92] [cursor=pointer]:
+                    - /url: /1code
+                    - generic [ref=e93]:
+                      - img [ref=e94]
+                      - img [ref=e96]
+                    - generic [ref=e98]: 1Code
+                    - img [ref=e99]
+                  - link "Magic Chat" [ref=e103] [cursor=pointer]:
+                    - /url: /magic
+                    - img [ref=e104]
+                    - generic [ref=e108]: Magic Chat
+                    - img [ref=e109]
+            - generic [ref=e114]:
+              - generic [ref=e115]:
+                - button "Toggle theme" [ref=e116] [cursor=pointer]
+                - button "Settings" [ref=e118] [cursor=pointer]:
+                  - img
+              - button "Log in" [ref=e119] [cursor=pointer]:
+                - generic [ref=e120]: Log in
+          - button "Toggle Sidebar" [ref=e121] [cursor=pointer]
+        - generic [ref=e124]:
+          - generic [ref=e126]:
+            - generic [ref=e129]: Home
+            - generic [ref=e130]:
+              - generic:
+                - button "Search":
+                  - img
+                  - generic: Search
+                  - generic:
+                    - img
+                    - generic: K
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - heading "UI Components" [level=2] [ref=e135]
+                - button "View all" [ref=e136] [cursor=pointer]:
+                  - generic [ref=e137]:
+                    - text: View all
+                    - img
+              - generic [ref=e138]:
+                - generic [ref=e142]:
+                  - listitem [ref=e145]:
+                    - generic [ref=e146]:
+                      - link "AI prompt Box" [ref=e147] [cursor=pointer]:
+                        - /url: /community/components/easemize/ai-prompt-box/default
+                        - img "AI prompt Box" [ref=e148]
+                      - generic [ref=e149]:
+                        - link "HJ" [ref=e150] [cursor=pointer]:
+                          - /url: /community/easemize
+                          - generic [ref=e152]: HJ
+                        - paragraph [ref=e153]: AI prompt Box
+                        - button "275" [ref=e154] [cursor=pointer]:
+                          - img [ref=e155]
+                          - generic [ref=e158]: "275"
+                  - listitem [ref=e161]:
+                    - generic [ref=e162]:
+                      - link "V0 AI Chat" [ref=e163] [cursor=pointer]:
+                        - /url: /community/components/kokonutd/v0-ai-chat/default
+                        - img "V0 AI Chat" [ref=e164]
+                      - generic [ref=e165]:
+                        - link "KU" [ref=e166] [cursor=pointer]:
+                          - /url: /community/kokonutd
+                          - generic [ref=e168]: KU
+                        - paragraph [ref=e169]: V0 AI Chat
+                        - button "265" [ref=e170] [cursor=pointer]:
+                          - img [ref=e171]
+                          - generic [ref=e174]: "265"
+                  - listitem [ref=e177]:
+                    - generic [ref=e178]:
+                      - link "Animated AI Chat" [ref=e179] [cursor=pointer]:
+                        - /url: /community/components/jatin-yadav05/animated-ai-chat/default
+                        - img "Animated AI Chat" [ref=e180]
+                      - generic [ref=e181]:
+                        - link "JY" [ref=e182] [cursor=pointer]:
+                          - /url: /community/jatin-yadav05
+                          - generic [ref=e184]: JY
+                        - paragraph [ref=e185]: Animated AI Chat
+                        - button "236" [ref=e186] [cursor=pointer]:
+                          - img [ref=e187]
+                          - generic [ref=e190]: "236"
+                  - listitem [ref=e193]:
+                    - generic [ref=e194]:
+                      - link "Agent Plan" [ref=e195] [cursor=pointer]:
+                        - /url: /community/components/isaiahbjork/agent-plan/default
+                        - img "Agent Plan" [ref=e196]
+                      - generic [ref=e197]:
+                        - link "I" [ref=e198] [cursor=pointer]:
+                          - /url: /community/isaiahbjork
+                          - generic [ref=e200]: I
+                        - paragraph [ref=e201]: Agent Plan
+                        - button "215" [ref=e202] [cursor=pointer]:
+                          - img [ref=e203]
+                          - generic [ref=e206]: "215"
+                  - listitem [ref=e209]:
+                    - generic [ref=e210]:
+                      - link "Chatgpt Prompt Input" [ref=e211] [cursor=pointer]:
+                        - /url: /community/components/easemize/chatgpt-prompt-input/default
+                        - img "Chatgpt Prompt Input" [ref=e212]
+                      - generic [ref=e213]:
+                        - link "HJ" [ref=e214] [cursor=pointer]:
+                          - /url: /community/easemize
+                          - generic [ref=e216]: HJ
+                        - paragraph [ref=e217]: Chatgpt Prompt Input
+                        - button "141" [ref=e218] [cursor=pointer]:
+                          - img [ref=e219]
+                          - generic [ref=e222]: "141"
+                  - listitem [ref=e225]:
+                    - generic [ref=e226]:
+                      - link "AI Gen" [ref=e227] [cursor=pointer]:
+                        - /url: /community/components/aliimam/ai-gen/default
+                        - img "AI Gen" [ref=e228]
+                      - generic [ref=e229]:
+                        - link "AI" [ref=e230] [cursor=pointer]:
+                          - /url: /community/aliimam
+                          - generic [ref=e232]: AI
+                        - paragraph [ref=e233]: AI Gen
+                        - button "101" [ref=e234] [cursor=pointer]:
+                          - img [ref=e235]
+                          - generic [ref=e238]: "101"
+                  - listitem [ref=e241]:
+                    - generic [ref=e242]:
+                      - link "Animated AI Input" [ref=e243] [cursor=pointer]:
+                        - /url: /community/components/kokonutd/animated-ai-input/default
+                        - img "Animated AI Input" [ref=e244]
+                      - generic [ref=e245]:
+                        - link "KU" [ref=e246] [cursor=pointer]:
+                          - /url: /community/kokonutd
+                          - generic [ref=e248]: KU
+                        - paragraph [ref=e249]: Animated AI Input
+                        - button "96" [ref=e250] [cursor=pointer]:
+                          - img [ref=e251]
+                          - generic [ref=e254]: "96"
+                  - listitem [ref=e257]:
+                    - generic [ref=e258]:
+                      - link "Message Dock" [ref=e259] [cursor=pointer]:
+                        - /url: /community/components/isaiahbjork/message-dock/default
+                        - img "Message Dock" [ref=e260]
+                      - generic [ref=e261]:
+                        - link "I" [ref=e262] [cursor=pointer]:
+                          - /url: /community/isaiahbjork
+                          - generic [ref=e264]: I
+                        - paragraph [ref=e265]: Message Dock
+                        - button "85" [ref=e266] [cursor=pointer]:
+                          - img [ref=e267]
+                          - generic [ref=e270]: "85"
+                  - listitem [ref=e273]:
+                    - generic [ref=e274]:
+                      - link "AI Chat Input" [ref=e275] [cursor=pointer]:
+                        - /url: /community/components/hextaui/ai-chat-input/default
+                        - img "AI Chat Input" [ref=e276]
+                      - generic [ref=e277]:
+                        - link "H" [ref=e278] [cursor=pointer]:
+                          - /url: /community/hextaui
+                          - generic [ref=e280]: H
+                        - paragraph [ref=e281]: AI Chat Input
+                        - button "78" [ref=e282] [cursor=pointer]:
+                          - img [ref=e283]
+                          - generic [ref=e286]: "78"
+                  - listitem [ref=e289]:
+                    - generic [ref=e290]:
+                      - link "Hero 1" [ref=e291] [cursor=pointer]:
+                        - /url: /community/components/hextaui/hero-1/default
+                        - img "Hero 1" [ref=e292]
+                      - generic [ref=e293]:
+                        - link "H" [ref=e294] [cursor=pointer]:
+                          - /url: /community/hextaui
+                          - generic [ref=e296]: H
+                        - paragraph [ref=e297]: Hero 1
+                        - button "69" [ref=e298] [cursor=pointer]:
+                          - img [ref=e299]
+                          - generic [ref=e302]: "69"
+                - button:
+                  - img
+                - button [ref=e303] [cursor=pointer]:
+                  - img
+            - generic [ref=e304]:
+              - generic [ref=e305]:
+                - heading "Agent Templates" [level=2] [ref=e306]
+                - button "View all" [ref=e307] [cursor=pointer]:
+                  - generic [ref=e308]:
+                    - text: View all
+                    - img
+              - generic [ref=e309]:
+                - generic [ref=e313]:
+                  - listitem [ref=e315]
+                  - listitem [ref=e325]
+                  - listitem [ref=e335]
+                  - listitem [ref=e345]
+                  - listitem [ref=e355]
+                  - listitem [ref=e365]
+                - button:
+                  - img
+                - button [ref=e374] [cursor=pointer]:
+                  - img
+            - generic [ref=e375]:
+              - generic [ref=e376]:
+                - heading "Agents SDK" [level=2] [ref=e377]
+                - link "Read docs" [ref=e378] [cursor=pointer]:
+                  - /url: /agents/docs
+                  - text: Read docs
+                  - img [ref=e379]
+              - generic [ref=e382]:
+                - generic [ref=e383]:
+                  - generic [ref=e384]:
+                    - heading "The fastest way to ship AI agents" [level=3] [ref=e385]
+                    - paragraph [ref=e386]: Built-in UI, chat history, spend limits, sandbox execution, and observability. Works with Claude and OpenAI.
+                  - generic [ref=e387]:
+                    - link "Get started" [ref=e388] [cursor=pointer]:
+                      - /url: /agents/app
+                      - text: Get started
+                      - img [ref=e389]
+                    - link "Documentation" [ref=e391] [cursor=pointer]:
+                      - /url: /agents/docs
+                - generic [ref=e392]:
+                  - generic [ref=e393]:
+                    - img [ref=e394]
+                    - generic [ref=e396]:
+                      - generic [ref=e397]: E2B Sandboxes
+                      - generic [ref=e398]: Isolated VM per session
+                  - generic [ref=e399]:
+                    - img [ref=e400]
+                    - generic [ref=e402]:
+                      - generic [ref=e403]: Streaming
+                      - generic [ref=e404]: Token-by-token via SSE
+                  - generic [ref=e405]:
+                    - img [ref=e406]
+                    - generic [ref=e408]:
+                      - generic [ref=e409]: Auth & Limits
+                      - generic [ref=e410]: Tokens, rate limits, spend caps
+                  - generic [ref=e411]:
+                    - img [ref=e412]
+                    - generic [ref=e415]:
+                      - generic [ref=e416]: Observability
+                      - generic [ref=e417]: Session replay & traces
+  - region "Notifications alt+T"

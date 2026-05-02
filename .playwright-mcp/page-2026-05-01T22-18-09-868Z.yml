@@ -1,0 +1,251 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: jewelry product photography white
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 134":
+                - /url: /de/s/fotos/jewelry-product-photography-white
+                - img
+                - text: Fotos
+                - generic: "134"
+            - listitem [ref=e48]:
+              - link "Grafiken 0" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/jewelry-product-photography-white
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "0"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Jewelry product photography white" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "Schmuck" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+              - link "Produktfotografie" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/produktfotografie
+              - link "Zubehör" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Silber" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/silber
+              - link "Textur" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/textur
+              - link "Arm" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/arm
+              - link "Uhr" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/uhr
+              - link "Chrom-Textur" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/chrom--textur
+              - link "weiß und beige" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/wei%C3%9F-und-beige
+              - link "Dress Uhr" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/dress-uhr
+              - link "Picsart Hintergrund" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/picsart-hintergrund
+              - link "Silberschmuck" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/silberschmuck
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "eine weiße Blume und zwei Eheringe auf einem Felsen" [ref=e105]:
+                    - /url: /de/fotos/eine-weisse-blume-und-zwei-eheringe-auf-einem-felsen-HhAgnrGHPTk
+                    - img "eine weiße Blume und zwei Eheringe auf einem Felsen" [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-weisse-blume-und-zwei-eheringe-auf-einem-felsen-HhAgnrGHPTk
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A01d48f7d-7cd8-4367-8f92-2ac620c7664d&phrase=jewelry+product+photography+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - 'link "Paris, Frankreich: Damenbekleidungs-Einzelhandelsausstellung auf dem Bastille-Markt" [ref=e117] [cursor=pointer]':
+                    - /url: https://www.istockphoto.com/photo/womenswear-clothing-retail-display-at-bastille-market-gm2271763444-684208649?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Aadeb5d52-58a1-492b-ae81-f31a45f8dd30
+                    - 'img "Paris, Frankreich: Damenbekleidungs-Einzelhandelsausstellung auf dem Bastille-Markt" [ref=e118]'
+                  - link "Schönes weiches, gesprenkeltes Licht und Monstera-Blattschatten auf minimalem weißen Wandhintergrund" [ref=e119] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/beautiful-soft-dappled-light-and-monstera-leaf-shadow-on-minimal-white-wall-gm1430971273-473697336?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae0d7c516-c7a0-4cf0-82d3-154bee4ac7c3
+                    - img "Schönes weiches, gesprenkeltes Licht und Monstera-Blattschatten auf minimalem weißen Wandhintergrund" [ref=e120]
+                  - link "Elegante dekorative hängende Ornamente mit bunten Quasten" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/elegant-decorative-hanging-ornaments-with-colorful-tassels-gm2270886833-683364835?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A3a47b3c9-2211-43e6-9f14-358a3472a833
+                    - img "Elegante dekorative hängende Ornamente mit bunten Quasten" [ref=e122]
+                  - link "Silberne Ohrringe mit Opal in der Natur" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/silver-earrings-with-opal-in-the-nature-gm2269358114-681912890?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae7491672-bc3d-41c5-adc2-cde6c5cacd01
+                    - img "Silberne Ohrringe mit Opal in der Natur" [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A01d48f7d-7cd8-4367-8f92-2ac620c7664d&phrase=jewelry+product+photography+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e126]:
+                - link "Nahaufnahme eines Tisches mit Blumen und Schmuck" [ref=e129]:
+                  - /url: /de/fotos/nahaufnahme-eines-tisches-mit-blumen-und-schmuck-uF3N46XVo-M
+                  - img "Nahaufnahme eines Tisches mit Blumen und Schmuck" [ref=e130]
+              - figure [ref=e131]:
+                - link "Ein weißes Tuch mit einem goldenen Ring darauf" [ref=e134]:
+                  - /url: /de/fotos/ein-weisses-tuch-mit-einem-goldenen-ring-darauf-eV6qtKjXyeE
+                  - img "Ein weißes Tuch mit einem goldenen Ring darauf" [ref=e135]
+              - figure [ref=e136]:
+                - generic [ref=e138]:
+                  - link "Goldene Uhr, die auf strukturierten Kugeln und Platinen ruht" [ref=e139]:
+                    - /url: /de/fotos/goldene-uhr-die-auf-strukturierten-kugeln-und-platinen-ruht-MEfDC5GjTK0
+                    - img "Goldene Uhr, die auf strukturierten Kugeln und Platinen ruht" [ref=e140]
+                  - link [ref=e141] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fgoldene-uhr-die-auf-strukturierten-kugeln-und-platinen-ruht-MEfDC5GjTK0
+                    - img [ref=e142]
+              - figure [ref=e144]:
+                - link "ein Schwarz-Weiß-Foto eines Rings" [ref=e147]:
+                  - /url: /de/fotos/ein-schwarz-weiss-foto-eines-rings-vjmVE32Fakc
+                  - img "ein Schwarz-Weiß-Foto eines Rings" [ref=e148]
+              - figure [ref=e149]:
+                - generic [ref=e151]:
+                  - link "Jemand fotografiert Kleidung, Schuhe und einen Ring." [ref=e152]:
+                    - /url: /de/fotos/jemand-fotografiert-kleidung-schuhe-und-einen-ring-PHbHTEXndGU
+                    - img "Jemand fotografiert Kleidung, Schuhe und einen Ring." [ref=e153]
+                  - link [ref=e154] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fjemand-fotografiert-kleidung-schuhe-und-einen-ring-PHbHTEXndGU
+                    - img [ref=e155]
+              - figure [ref=e157]:
+                - link "Ein Ehering mit vielen Diamanten drauf" [ref=e160]:
+                  - /url: /de/fotos/ein-ehering-mit-vielen-diamanten-drauf-jKSIrbfZEmA
+                  - img "Ein Ehering mit vielen Diamanten drauf" [ref=e161]
+            - generic [ref=e162]:
+              - figure [ref=e163]:
+                - link "Der Schatten einer Person mit einem Armband darauf" [ref=e166]:
+                  - /url: /de/fotos/der-schatten-einer-person-mit-einem-armband-darauf-LPXXWhWQNec
+                  - img "Der Schatten einer Person mit einem Armband darauf" [ref=e167]
+              - figure [ref=e168]:
+                - link "Nahaufnahme einer Halskette auf einem weißen Hemd" [ref=e171]:
+                  - /url: /de/fotos/nahaufnahme-einer-halskette-auf-einem-weissen-hemd-eu5saE3BJsU
+                  - img "Nahaufnahme einer Halskette auf einem weißen Hemd" [ref=e172]
+              - figure [ref=e173]:
+                - link "eine Uhr, die auf einer weißen Decke sitzt" [ref=e176]:
+                  - /url: /de/fotos/eine-uhr-die-auf-einer-weissen-decke-sitzt-FK7pdgeshcU
+                  - img "eine Uhr, die auf einer weißen Decke sitzt" [ref=e177]
+              - figure [ref=e178]:
+                - generic [ref=e180]:
+                  - link "Ein weißer Teller mit viel Schmuck" [ref=e181]:
+                    - /url: /de/fotos/ein-weisser-teller-mit-viel-schmuck-w79yZK390D0
+                    - img "Ein weißer Teller mit viel Schmuck" [ref=e182]
+                  - link [ref=e183] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-weisser-teller-mit-viel-schmuck-w79yZK390D0
+                    - img [ref=e184]
+              - figure [ref=e186]:
+                - link "Eine Uhr liegt auf einem schwarzen Tuch" [ref=e189]:
+                  - /url: /de/fotos/eine-uhr-liegt-auf-einem-schwarzen-tuch-uN41ySd5OKI
+                  - img "Eine Uhr liegt auf einem schwarzen Tuch" [ref=e190]
+              - figure [ref=e191]:
+                - link "Ein Paar weiße Kugeln mit einem Diamanten darauf" [ref=e194]:
+                  - /url: /de/fotos/ein-paar-weisse-kugeln-mit-einem-diamanten-darauf-0P2FMop4AV4
+                  - img "Ein Paar weiße Kugeln mit einem Diamanten darauf" [ref=e195]
+              - figure [ref=e196]:
+                - link "Ein Paar Eheringe, die auf einem Tisch sitzen" [ref=e199]:
+                  - /url: /de/fotos/ein-paar-eheringe-die-auf-einem-tisch-sitzen-ECZeV9L7Pc4
+                  - img "Ein Paar Eheringe, die auf einem Tisch sitzen" [ref=e200]
+            - generic [ref=e201]:
+              - link "The best in on-brand content creation Learn More" [ref=e204] [cursor=pointer]:
+                - /url: https://e-10457.adzerk.net/r?e=eyJ2IjoiMS4xNCIsImF2Ijo4MjM1NTIsImF0Ijo1LCJidCI6MCwiY20iOjk0ODU5NTcsImNoIjo0NTE2MywiY2siOnt9LCJjciI6MzY0OTkzNjEyLCJkaSI6ImI4MWJmZTc3MWY5ZTRkYmFhZDdiMDc1N2MwNGExYWRkIiwiZGoiOjAsImlpIjoiNmQ5MzE4OTg1MWQ5NGU2MWE0YTUwNzAyZDFiNTVmM2IiLCJkbSI6MywiZmMiOjU0MDEzMDcyMiwiZmwiOjU1ODQ4Njg0LCJpcCI6Ijg5LjI0NC44My4zNyIsIm53IjoxMDQ1NywicGMiOjAsIm9wIjowLCJtcCI6MCwiZWMiOjAsImdtIjowLCJlcCI6bnVsbCwicHIiOjIwODI4MywicnQiOjEsInJzIjo1MDAsInNhIjoiOTYiLCJzYiI6ImktMGU4MTg2MDg3NTgyMzdlNWYiLCJzcCI6MTkzNzEwNSwic3QiOjExMjE5NTQsInVrIjoiOWU2MjAxYjktYzc2Ny00ZDVlLTliODItODE4NmZkOGVjODNiIiwiem4iOjI0MTM0OCwiem0iOlsyNDEzNDhdLCJ0cyI6MTc3NzY3Mzg4OTM4MSwicG4iOiJzZWFyY2gtaW4tZmVlZCIsImdyIjp0cnVlLCJnYyI6dHJ1ZSwiZ0MiOnRydWUsImdpIjp0cnVlLCJncyI6InJlcSIsInR6IjoiQW1lcmljYS9OZXdfWW9yayIsInVyIjoiaHR0cHM6Ly91bnNwbGFzaC5jb20vc3R1ZGlvIn0&s=VvnOe0LLWtPctdIeaMc9hA93h-8
+                - generic [ref=e205]:
+                  - img [ref=e207]
+                  - contentinfo [ref=e208]:
+                    - generic [ref=e209]:
+                      - img [ref=e211]
+                      - generic [ref=e215]: The best in on-brand content creation
+                    - generic [ref=e216]: Learn More
+              - figure [ref=e217]:
+                - link "Eine Gruppe Bananen" [ref=e220]:
+                  - /url: /de/fotos/eine-gruppe-bananen-emJnJSK_PQ4
+                  - img "Eine Gruppe Bananen" [ref=e221]
+              - figure [ref=e222]:
+                - generic [ref=e224]:
+                  - link "eine Nahaufnahme einer Person, die einen Ring trägt" [ref=e225]:
+                    - /url: /de/fotos/eine-nahaufnahme-einer-person-die-einen-ring-tragt-pntrtEblo-E
+                    - img "eine Nahaufnahme einer Person, die einen Ring trägt" [ref=e226]
+                  - link [ref=e227] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-nahaufnahme-einer-person-die-einen-ring-tragt-pntrtEblo-E
+                    - img [ref=e228]
+              - figure [ref=e230]:
+                - link "Eine Uhr, die auf einem weißen Tisch sitzt" [ref=e233]:
+                  - /url: /de/fotos/eine-uhr-die-auf-einem-weissen-tisch-sitzt-QQ_nm-OFlBs
+                  - img "Eine Uhr, die auf einem weißen Tisch sitzt" [ref=e234]
+              - figure [ref=e235]:
+                - link "Ein Schwarz-Weiß-Foto einer Uhr im Dunkeln" [ref=e238]:
+                  - /url: /de/fotos/ein-schwarz-weiss-foto-einer-uhr-im-dunkeln-neqiVYWI2EE
+                  - img "Ein Schwarz-Weiß-Foto einer Uhr im Dunkeln" [ref=e239]
+              - figure [ref=e240]:
+                - link "Junge Frau in stylischer Jeansjacke und Jeans" [ref=e243]:
+                  - /url: /de/fotos/junge-frau-in-stylischer-jeansjacke-und-jeans-9k0SQ_sIvR4
+                  - img "Junge Frau in stylischer Jeansjacke und Jeans" [ref=e244]
+              - figure [ref=e245]:
+                - link "Silberner diamantbesetzter Ring auf weißer Oberfläche" [ref=e248]:
+                  - /url: /de/fotos/silberner-diamantbesetzter-ring-auf-weisser-oberflache-B-JtfqdHemU
+                  - img "Silberner diamantbesetzter Ring auf weißer Oberfläche" [ref=e249]
+          - generic [ref=e252]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e253]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e254]: "| Jetzt Rabatt sichern"
+            - generic [ref=e256]:
+              - link "Schönes weiches, gesprenkeltes Licht und Pflanzenblattschatten auf minimalem beigefarbenem Wandhintergrund" [ref=e257] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-soft-dappled-light-and-plant-leaf-shadow-on-minimal-beige-wall-background-gm1430971326-473697353?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A3608687b-4b8a-4e8a-8ef4-5119f369a413
+                - img "Schönes weiches, gesprenkeltes Licht und Pflanzenblattschatten auf minimalem beigefarbenem Wandhintergrund" [ref=e258]
+              - link "Goldschmuck Diamantringe Show in Luxus-Einzelhandelsgeschäft Display Showcase" [ref=e259] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/gold-jewelry-diamond-rings-show-in-luxury-retail-store-display-showcase-gm1415483167-463838072?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A0ee69755-26ae-49db-a22a-d1878a69f034
+                - img "Goldschmuck Diamantringe Show in Luxus-Einzelhandelsgeschäft Display Showcase" [ref=e260]
+              - link "Glasige Jadeit-Ohrringe" [ref=e261] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/glassy-jadeite-earrings-gm2264397811-677118634?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A12cc6d26-2d0e-4a48-a5b4-458af48b2db0
+                - img "Glasige Jadeit-Ohrringe" [ref=e262]
+              - link "Türkis- und weiße Perlen/Halsketten hängen (Nahaufnahme im Vollbild)" [ref=e263] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/turquoise-and-white-beads-necklaces-hanging-gm2263759752-676490834?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A98522e08-a3eb-4d7d-a5f7-155825ffb97d
+                - img "Türkis- und weiße Perlen/Halsketten hängen (Nahaufnahme im Vollbild)" [ref=e264]
+              - link "Holz-Erinnerungsbox mit alten Postkarten und Briefen, Gläsern, bunter handgemachter Samenperlenkette, weißer Papphintergrund" [ref=e265] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/wooden-keepsake-memory-box-with-old-postcards-and-letters-glasses-colorful-handmade-gm2251500170-665050517?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A063895b8-b1ab-4f70-92d5-257e2b5e89f2
+                - img "Holz-Erinnerungsbox mit alten Postkarten und Briefen, Gläsern, bunter handgemachter Samenperlenkette, weißer Papphintergrund" [ref=e266]
+              - link "Silberne Ohrringe mit Opal in der Natur" [ref=e267] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/silver-earrings-with-opal-in-the-nature-gm2263577045-676313906?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A64a1321a-40be-42d0-83c0-31eac458504f
+                - img "Silberne Ohrringe mit Opal in der Natur" [ref=e268]
+              - link "Stilvolle weibliche Reisende überprüft Reisedetails auf dem Handy" [ref=e269] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/stylish-female-traveler-checking-trip-details-on-mobile-phone-gm2266787072-679435541?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A490fe118-6161-4451-aa86-2a33909a8fa2
+                - img "Stilvolle weibliche Reisende überprüft Reisedetails auf dem Handy" [ref=e270]
+              - generic [ref=e271]:
+                - link "Beige abstrakte Hintergründe" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/beige-abstract-background-gm2241594320-656085129?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A344f9c9d-081d-4448-9b69-54ffbb7e05e5
+                  - img "Beige abstrakte Hintergründe" [ref=e273]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e274] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fjewelry-product-photography-white&utm_term=jewelry+product+photography+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Af6f63023-0e4c-413f-8ae0-736a14c822d1&phrase=jewelry+product+photography+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e278] [cursor=pointer]
+          - generic [ref=e279]:
+            - link [ref=e280] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e281]
+            - paragraph [ref=e283]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

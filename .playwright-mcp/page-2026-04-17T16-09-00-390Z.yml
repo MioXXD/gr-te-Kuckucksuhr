@@ -1,0 +1,206 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "🍃 Bake & Brew" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e5]: 🍃
+        - generic [ref=e6]: Bake & Brew
+      - navigation [ref=e7]:
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "Menu" [ref=e9] [cursor=pointer]:
+          - /url: "#menu"
+        - link "Reviews" [ref=e10] [cursor=pointer]:
+          - /url: "#reviews"
+        - link "Contact" [ref=e11] [cursor=pointer]:
+          - /url: "#contact"
+      - link "Visit Us" [ref=e12] [cursor=pointer]:
+        - /url: "#contact"
+  - generic:
+    - navigation:
+      - link "About":
+        - /url: "#about"
+      - link "Menu":
+        - /url: "#menu"
+      - link "Reviews":
+        - /url: "#reviews"
+      - link "Contact":
+        - /url: "#contact"
+      - link "Visit Us":
+        - /url: "#contact"
+  - generic [ref=e13]:
+    - img
+    - img
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: Premium Matcha · Acai Bowls · Coffee
+        - heading "Where Every Sip Feels Like a Ritual." [level=1] [ref=e17]:
+          - text: Where Every
+          - text: Sip Feels Like
+          - text: a Ritual.
+        - paragraph [ref=e18]: Ceremonial-grade matcha, organic acai bowls, and specialty coffee — crafted fresh daily in a calm, design-focused space in Wiesbaden.
+        - generic [ref=e19]:
+          - link "Explore Menu" [ref=e20] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Find Us →" [ref=e21] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - strong [ref=e24]: 4.9★
+            - text: Google Reviews
+          - generic [ref=e26]:
+            - strong [ref=e27]: 10K+
+            - text: Happy Customers
+          - generic [ref=e29]:
+            - strong [ref=e30]: Daily
+            - text: Fresh Crafted
+      - generic [ref=e31]:
+        - img "Matcha Latte Art" [ref=e33]
+        - img "Acai Bowl" [ref=e35]
+        - generic [ref=e38]:
+          - strong [ref=e39]: Opens 8:00
+          - text: Mon – Sun
+  - generic [ref=e40]:
+    - img
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - img "Matcha preparation" [ref=e44]
+        - generic [ref=e45]:
+          - strong [ref=e46]: 100%
+          - text: Organic Ingredients
+      - generic [ref=e47]:
+        - generic [ref=e48]: Our Philosophy
+        - heading "Crafted With Intention, Served With Care." [level=2] [ref=e49]:
+          - text: Crafted With
+          - text: Intention, Served
+          - text: With Care.
+        - paragraph [ref=e50]: We source ceremonial-grade matcha from Uji, Japan. Our acai comes from certified organic farms. Every ingredient is chosen for quality — no shortcuts, no artificial flavors, no compromise.
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: 🍵
+            - generic [ref=e54]:
+              - strong [ref=e55]: Ceremonial Matcha
+              - text: Stone-ground in Uji, Japan
+          - generic [ref=e56]:
+            - generic [ref=e57]: 🫐
+            - generic [ref=e58]:
+              - strong [ref=e59]: Organic Acai
+              - text: Certified sustainable farms
+          - generic [ref=e60]:
+            - generic [ref=e61]: ☕
+            - generic [ref=e62]:
+              - strong [ref=e63]: Specialty Coffee
+              - text: Locally roasted small-batch
+  - generic [ref=e64]:
+    - img
+    - img
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic [ref=e67]: The Menu
+        - heading "Our Bestsellers" [level=2] [ref=e68]
+        - paragraph [ref=e69]: Crafted daily with the finest ingredients.
+      - generic [ref=e70]:
+        - article [ref=e71]:
+          - generic [ref=e72]:
+            - img "Ceremonial Matcha Latte" [ref=e73]
+            - generic [ref=e74]: Bestseller
+          - generic [ref=e75]:
+            - heading "Ceremonial Matcha Latte" [level=3] [ref=e76]
+            - paragraph [ref=e77]: Premium stone-ground matcha, oat milk, subtle sweetness
+        - article [ref=e78]:
+          - generic [ref=e79]:
+            - img "Acai Power Bowl" [ref=e80]
+            - generic [ref=e81]: Popular
+          - generic [ref=e82]:
+            - heading "Acai Power Bowl" [level=3] [ref=e83]
+            - paragraph [ref=e84]: Organic acai, granola, banana, seasonal berries, honey
+        - article [ref=e85]:
+          - generic [ref=e86]:
+            - img "Matcha Ceremony Set" [ref=e87]
+            - generic [ref=e88]: New
+          - generic [ref=e89]:
+            - heading "Matcha Ceremony Set" [level=3] [ref=e90]
+            - paragraph [ref=e91]: Traditional preparation with bamboo whisk, served tableside
+        - article [ref=e92]:
+          - img "Iced Matcha" [ref=e94]
+          - generic [ref=e95]:
+            - heading "Iced Matcha Latte" [level=3] [ref=e96]
+            - paragraph [ref=e97]: Refreshing ceremonial matcha over ice with oat milk
+  - generic [ref=e99]:
+    - heading "MATCHAS" [level=2] [ref=e100]
+    - paragraph [ref=e101]: Energize your day with vibrant, natural flavors
+  - generic [ref=e102]:
+    - img
+    - img
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - generic [ref=e105]: Testimonials
+        - heading "What Our Guests Say" [level=2] [ref=e106]
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e109]: ★★★★★
+          - paragraph [ref=e110]: "\"Best matcha in Wiesbaden — the quality is incredible. You can really taste the difference with ceremonial grade. The atmosphere is so calm and beautiful.\""
+          - generic [ref=e111]:
+            - generic [ref=e112]: S
+            - generic [ref=e113]:
+              - strong [ref=e114]: Sophie M.
+              - text: Google Review
+        - generic [ref=e115]:
+          - generic [ref=e116]: ★★★★★
+          - paragraph [ref=e117]: "\"The acai bowls are art. Fresh, colorful, and absolutely delicious. The interior design is stunning — my favorite café in the city.\""
+          - generic [ref=e118]:
+            - generic [ref=e119]: L
+            - generic [ref=e120]:
+              - strong [ref=e121]: Lena K.
+              - text: Google Review
+        - generic [ref=e122]:
+          - generic [ref=e123]: ★★★★★
+          - paragraph [ref=e124]: "\"Perfect blend of matcha expertise and specialty coffee. The team really knows their craft. Very Instagram-worthy space too!\""
+          - generic [ref=e125]:
+            - generic [ref=e126]: T
+            - generic [ref=e127]:
+              - strong [ref=e128]: Tim B.
+              - text: Google Review
+  - generic [ref=e130]:
+    - generic [ref=e131]: Come Visit
+    - heading "Experience It In Person." [level=2] [ref=e132]:
+      - text: Experience It
+      - text: In Person.
+    - paragraph [ref=e133]: Marktstraße 12 · Wiesbaden · Open daily from 8:00
+    - generic [ref=e134]:
+      - link "Get Directions" [ref=e135] [cursor=pointer]:
+        - /url: https://maps.google.com
+      - link "Contact Us" [ref=e136] [cursor=pointer]:
+        - /url: mailto:hello@bakeandbrew.de
+    - generic [ref=e137]:
+      - generic [ref=e138]: Mon–Fri 8:00–19:00
+      - generic [ref=e139]: Sat–Sun 9:00–18:00
+  - contentinfo [ref=e140]:
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - generic [ref=e143]: Bake & Brew
+        - paragraph [ref=e144]: Premium matcha, acai bowls & specialty coffee in Wiesbaden.
+      - generic [ref=e145]:
+        - heading "Navigate" [level=4] [ref=e146]
+        - link "Home" [ref=e147] [cursor=pointer]:
+          - /url: "#hero"
+        - link "About" [ref=e148] [cursor=pointer]:
+          - /url: "#about"
+        - link "Menu" [ref=e149] [cursor=pointer]:
+          - /url: "#menu"
+        - link "Reviews" [ref=e150] [cursor=pointer]:
+          - /url: "#reviews"
+      - generic [ref=e151]:
+        - heading "Contact" [level=4] [ref=e152]
+        - link "hello@bakeandbrew.de" [ref=e153] [cursor=pointer]:
+          - /url: mailto:hello@bakeandbrew.de
+        - link "+49 611 123 456" [ref=e154] [cursor=pointer]:
+          - /url: tel:+49611123456
+        - generic [ref=e155]: Wiesbaden, Germany
+      - generic [ref=e156]:
+        - heading "Social" [level=4] [ref=e157]
+        - link "Instagram" [ref=e158] [cursor=pointer]:
+          - /url: "#"
+        - link "TikTok" [ref=e159] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e160]: © 2025 Bake & Brew. All rights reserved.

@@ -1,0 +1,148 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - main [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e8]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - generic [ref=e18]:
+                  - button "21st logo 21st" [ref=e20] [cursor=pointer]:
+                    - generic [ref=e21]:
+                      - generic [ref=e23]:
+                        - img "21st logo"
+                      - generic [ref=e25]: 21st
+                      - img
+                  - button "Close sidebar" [ref=e27] [cursor=pointer]:
+                    - img
+                - generic [ref=e30]:
+                  - img
+                  - textbox "Search" [ref=e31] [cursor=pointer]
+                  - generic:
+                    - img
+                    - generic: K
+              - generic [ref=e32]:
+                - generic [ref=e35]:
+                  - link "Home" [ref=e37] [cursor=pointer]:
+                    - /url: /
+                    - img [ref=e38]
+                    - generic [ref=e41]: Home
+                  - generic [ref=e42]:
+                    - heading "Explore" [level=3] [ref=e44]
+                    - generic [ref=e45]:
+                      - button "Components" [ref=e46] [cursor=pointer]:
+                        - img [ref=e47]
+                        - generic [ref=e49]: Components
+                        - img [ref=e51]
+                      - button "Agent Templates" [ref=e53] [cursor=pointer]:
+                        - img [ref=e54]
+                        - generic [ref=e56]: Agent Templates
+                        - img [ref=e58]
+                      - link "MCP" [ref=e60] [cursor=pointer]:
+                        - /url: /mcp
+                        - img [ref=e61]
+                        - generic [ref=e67]: MCP
+                  - generic [ref=e68]:
+                    - heading "Build" [level=3] [ref=e70]
+                    - generic [ref=e71]:
+                      - button "Agents" [ref=e72] [cursor=pointer]:
+                        - img [ref=e73]
+                        - generic [ref=e88]: Agents
+                        - img [ref=e90]
+                      - link "1Code" [ref=e92] [cursor=pointer]:
+                        - /url: /1code
+                        - generic [ref=e93]:
+                          - img [ref=e94]
+                          - img [ref=e96]
+                        - generic [ref=e98]: 1Code
+                        - img [ref=e99]
+                      - link "Magic Chat" [ref=e103] [cursor=pointer]:
+                        - /url: /magic
+                        - img [ref=e104]
+                        - generic [ref=e108]: Magic Chat
+                        - img [ref=e109]
+                - generic [ref=e115]:
+                  - generic [ref=e120]:
+                    - generic [ref=e121]:
+                      - generic [ref=e122]: 21st Agents SDK
+                      - paragraph [ref=e123]: The fastest way to build and deploy AI agents.
+                    - link [ref=e124] [cursor=pointer]:
+                      - /url: https://21st.dev/agents
+                    - generic [ref=e125]:
+                      - link [ref=e126] [cursor=pointer]:
+                        - /url: https://21st.dev/agents
+                        - text: Read more
+                      - button [ref=e127] [cursor=pointer]: Dismiss
+                  - generic [ref=e130]:
+                    - generic [ref=e131]:
+                      - generic [ref=e132]: We're in YC
+                      - paragraph [ref=e133]: 21st is backed by Y Combinator. Excited for what's ahead!
+                    - link [ref=e134] [cursor=pointer]:
+                      - /url: https://www.ycombinator.com/companies/1code-21stdev
+                    - generic [ref=e135]:
+                      - link "Read more" [ref=e136] [cursor=pointer]:
+                        - /url: https://www.ycombinator.com/companies/1code-21stdev
+                      - button "Dismiss" [ref=e137] [cursor=pointer]
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - button "Toggle theme" [ref=e141] [cursor=pointer]:
+                    - img
+                  - button "Settings" [ref=e142] [cursor=pointer]:
+                    - img
+                - button "Log in" [ref=e143] [cursor=pointer]:
+                  - generic [ref=e144]: Log in
+            - button "Toggle Sidebar" [ref=e145] [cursor=pointer]
+          - generic [ref=e148]:
+            - generic [ref=e150]:
+              - generic [ref=e152]:
+                - button "Components" [ref=e153] [cursor=pointer]
+                - generic [ref=e154]: /
+                - generic [ref=e155]: s
+              - generic [ref=e156]:
+                - generic:
+                  - button "Search":
+                    - img
+                    - generic: Search
+                    - generic:
+                      - img
+                      - generic: K
+            - generic [ref=e157]:
+              - generic [ref=e159]:
+                - img "Surya Narayan Mishra" [ref=e161]
+                - generic [ref=e162]:
+                  - generic [ref=e164]:
+                    - heading "Surya Narayan Mishra" [level=1] [ref=e165]
+                    - paragraph [ref=e166]: "@s"
+                  - generic [ref=e167]:
+                    - generic [ref=e168]: 0 components
+                    - generic [ref=e169]:
+                      - button "0 followers" [ref=e170]
+                      - button "0 following" [ref=e171]
+                    - link "GitHub Profile" [ref=e173] [cursor=pointer]:
+                      - /url: https://github.com/s
+                      - img [ref=e174]
+              - generic [ref=e176]:
+                - tablist [ref=e177]:
+                  - tab "Components 0" [selected] [ref=e178] [cursor=pointer]:
+                    - generic [ref=e180]: Components
+                    - generic [ref=e181]: "0"
+                  - tab "Agents 0" [ref=e182] [cursor=pointer]:
+                    - generic [ref=e183]: Agents
+                    - generic [ref=e184]: "0"
+                  - tab "Bookmarks 0" [ref=e185] [cursor=pointer]:
+                    - generic [ref=e186]: Bookmarks
+                    - generic [ref=e187]: "0"
+                - generic [ref=e188]:
+                  - img
+                  - textbox "Search..." [ref=e189]
+                  - generic:
+                    - generic: /
+              - generic [ref=e190]:
+                - img [ref=e192]
+                - heading "No components published yet" [level=3] [ref=e195]
+                - paragraph [ref=e196]: This user hasn't published any components yet
+    - region "Notifications alt+T"
+  - alert [ref=e197]
+  - generic:
+    - iframe
+    - iframe

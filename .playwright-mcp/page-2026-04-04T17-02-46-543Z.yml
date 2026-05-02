@@ -1,0 +1,107 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - generic [ref=e9]:
+        - generic:
+          - figure:
+            - link "gutsausschank-kiedrichs Webseite!":
+              - /url: https://gutsausschank-kiedrich.jimdofree.com/
+              - img "gutsausschank-kiedrichs Webseite!" [ref=e10] [cursor=pointer]
+    - generic [ref=e14]:
+      - generic:
+        - generic:
+          - generic:
+            - list
+      - generic [ref=e16]:
+        - generic [ref=e19]:
+          - heading "Herzlich Willkommen" [level=1] [ref=e20]
+          - paragraph [ref=e21]
+          - heading "Aktuelle Informationen" [level=1] [ref=e22]
+          - paragraph [ref=e23]
+          - paragraph [ref=e24]
+          - paragraph [ref=e25]:
+            - generic [ref=e27]:
+              - text: ❤️-lich Willkomen
+              - text: Wir freuen uns auf Ihren Besuch!
+          - paragraph [ref=e28]
+          - paragraph [ref=e29]:
+            - generic [ref=e30]: Ihre Familie Ferizi
+          - paragraph [ref=e31]
+          - paragraph [ref=e32]:
+            - strong [ref=e34]: Wir suchen Verstärkung!
+          - paragraph [ref=e35]:
+            - strong [ref=e37]:
+              - generic [ref=e38]: "- im Servicebereich"
+              - text: "- Küchenhilfe"
+          - paragraph [ref=e39]
+        - generic [ref=e42]:
+          - paragraph [ref=e43]:
+            - generic [ref=e44]: Wir bieten Ihnen freitags
+          - paragraph [ref=e45]:
+            - generic [ref=e46]: unseren Mittagstisch an.
+            - text: Von 12:00 Uhr -14:00 Uhr
+          - paragraph [ref=e47]:
+            - generic [ref=e49]: Festlichkeiten, individuelle Anlässe und Catering Service
+            - text: Wir stehen Ihnen für Festlichkeiten und individuellen Anlässen gerne zur Verfügung.
+          - paragraph [ref=e50]: Gerne bei uns oder bei Ihnen.
+          - paragraph [ref=e51]
+          - paragraph [ref=e52]: Besuchen Sie uns gerne.
+          - paragraph [ref=e53]: Wir freuen uns auf Sie!
+    - complementary [ref=e56]:
+      - generic [ref=e60]:
+        - paragraph [ref=e64]:
+          - strong [ref=e65]: Öffnungszeiten
+          - strong [ref=e66]: "Mo.:"
+          - text: Ruhetag
+          - strong [ref=e67]: "Di., Mi., Do.:"
+          - text: 17:00 Uhr - 22:00 Uhr
+          - strong [ref=e68]: "Fr.:"
+          - text: 12:00 Uhr - 14:00 Uhr
+          - text: 17:00 Uhr - 22:00 Uhr
+          - strong [ref=e69]: "Sa.:"
+          - text: 17:00 Uhr - 22:00 Uhr
+          - strong [ref=e70]: "So., & feiertags:"
+          - text: 12:00 Uhr - 14:00 Uhr
+          - text: 17:00 Uhr - 22:00 Uhr
+        - generic [ref=e73]:
+          - paragraph [ref=e74]
+          - paragraph [ref=e75]:
+            - generic [ref=e77]:
+              - text: Kontakt
+              - text: Gutsausschank H. Stassen
+              - text: "Inhaber: Musli Ferizi"
+              - text: Aulgasse 7 / 65399 Kiedrich
+              - text: Parkplätze direkt quer gegenüber
+              - text: "Telefon: 06123 - 9349 690"
+              - text: "Mobil: 0152 3421 4052"
+          - paragraph [ref=e78]
+          - paragraph
+        - link [ref=e85] [cursor=pointer]:
+          - /url: "javascript:"
+        - link [ref=e89] [cursor=pointer]:
+          - /url: https://www.counter-zaehler.de/de/home/stats/id/244794
+          - img [ref=e90]
+    - contentinfo [ref=e91]:
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - link "Impressum" [ref=e95] [cursor=pointer]:
+            - /url: /about/
+          - text: "|"
+          - link "Datenschutz" [ref=e96] [cursor=pointer]:
+            - /url: //gutsausschank-kiedrich.jimdofree.com/j/privacy
+          - text: "|"
+          - link "Sitemap" [ref=e97] [cursor=pointer]:
+            - /url: /sitemap/
+        - link "Anmelden" [ref=e100] [cursor=pointer]:
+          - /url: /login
+        - generic [ref=e101]:
+          - link "Jimdo" [ref=e102] [cursor=pointer]:
+            - /url: " https://de.jimdo.com/?utm_source=cre-gutsausschank-kiedrich&utm_medium=footer%20ad&utm_campaign=ownads%20webview"
+          - paragraph [ref=e103]:
+            - strong [ref=e104]: Diese Webseite wurde mit Jimdo erstellt!
+            - text: Jetzt kostenlos registrieren auf
+            - link "https://de.jimdo.com" [ref=e105] [cursor=pointer]:
+              - /url: " https://de.jimdo.com/?utm_source=cre-gutsausschank-kiedrich&utm_medium=footer%20ad&utm_campaign=ownads%20webview"
+  - text: 
+  - 'link "Counter Fehler: Code nicht ändern. Hier klicken, um den richtigen Code anzuzeigen!" [ref=e107] [cursor=pointer]':
+    - /url: https://www.counter-zaehler.de/de/home/countercode/hashid/?id=2f1066481f32582bb9a727acbc4ca73d774d3063

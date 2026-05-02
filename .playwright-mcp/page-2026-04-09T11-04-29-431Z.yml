@@ -1,0 +1,225 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "SF SPORTWAGEN SPEZIALISTEN" [ref=e3]:
+      - /url: "#"
+      - generic [ref=e4]: SF
+      - generic [ref=e5]:
+        - generic [ref=e6]: SPORTWAGEN
+        - generic [ref=e7]: SPEZIALISTEN
+    - navigation [ref=e8]:
+      - link "Leistungen" [ref=e9]:
+        - /url: "#leistungen"
+      - link "Fahrzeuge" [ref=e10]:
+        - /url: "#fahrzeuge"
+      - link "Über uns" [ref=e11]:
+        - /url: "#ueber-uns"
+      - link "Kontakt" [ref=e12]:
+        - /url: "#kontakt"
+    - link "+49 69 331613" [ref=e13]:
+      - /url: tel:+4969331613
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - paragraph [ref=e16]: Ferrari Spezialist · Frankfurt am Main
+      - heading "Die Sportwagen Spezialisten" [level=1] [ref=e18]:
+        - generic [ref=e20]: Die
+        - generic [ref=e22]: Sportwagen
+        - generic [ref=e24]: Spezialisten
+      - paragraph [ref=e25]:
+        - text: Wartung · Reparatur · Restaurierung
+        - text: Seit über 20 Jahren. Klassikstadt Frankfurt.
+      - generic [ref=e26]:
+        - link "Termin anfragen" [ref=e27]:
+          - /url: "#kontakt"
+          - text: Termin anfragen
+          - img [ref=e28]
+        - link "Leistungen" [ref=e30]:
+          - /url: "#leistungen"
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - strong [ref=e33]: 20+
+          - generic [ref=e34]: Jahre Expertise
+        - generic [ref=e36]:
+          - strong [ref=e37]: 600+
+          - generic [ref=e38]: Ferrari betreut
+        - generic [ref=e40]:
+          - strong [ref=e41]: "01"
+          - generic [ref=e42]: Leidenschaft
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - img "Ferrari im Showroom" [ref=e45]
+        - generic [ref=e47]:
+          - generic [ref=e48]: FERRARI F40
+          - generic [ref=e49]: 478 PS · 2.9L Twin-Turbo V8
+      - generic [ref=e50]:
+        - generic [ref=e51]: SEIT
+        - strong [ref=e52]: "2001"
+        - generic [ref=e53]: FRANKFURT
+    - generic [ref=e56]: SCROLL
+  - generic [ref=e58]:
+    - generic [ref=e59]: WARTUNG
+    - generic [ref=e60]: ✦
+    - generic [ref=e61]: REPARATUR
+    - generic [ref=e62]: ✦
+    - generic [ref=e63]: RESTAURIERUNG
+    - generic [ref=e64]: ✦
+    - generic [ref=e65]: FERRARI SPEZIALIST
+    - generic [ref=e66]: ✦
+    - generic [ref=e67]: FRANKFURT AM MAIN
+    - generic [ref=e68]: ✦
+    - generic [ref=e69]: KLASSIKSTADT
+    - generic [ref=e70]: ✦
+    - generic [ref=e71]: JOCHEN FRICK
+    - generic [ref=e72]: ✦
+    - generic [ref=e73]: SEIT 2001
+    - generic [ref=e74]: ✦
+    - generic [ref=e75]: WARTUNG
+    - generic [ref=e76]: ✦
+    - generic [ref=e77]: REPARATUR
+    - generic [ref=e78]: ✦
+    - generic [ref=e79]: RESTAURIERUNG
+    - generic [ref=e80]: ✦
+    - generic [ref=e81]: FERRARI SPEZIALIST
+    - generic [ref=e82]: ✦
+    - generic [ref=e83]: FRANKFURT AM MAIN
+    - generic [ref=e84]: ✦
+    - generic [ref=e85]: KLASSIKSTADT
+    - generic [ref=e86]: ✦
+    - generic [ref=e87]: JOCHEN FRICK
+    - generic [ref=e88]: ✦
+    - generic [ref=e89]: SEIT 2001
+    - generic [ref=e90]: ✦
+  - generic [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]: — PHILOSOPHIE
+      - paragraph [ref=e95]:
+        - emphasis [ref=e96]: Kein Fahrzeug.
+        - text: Eine Philosophie.
+      - paragraph [ref=e97]: "Jeder Ferrari, der unsere Werkstatt betritt, trägt eine Geschichte. Unsere Aufgabe: sie weiterzuschreiben — mit der Präzision, die Enzo Ferrari selbst erwartet hätte."
+    - img "Ferrari Emblem" [ref=e99]
+  - generic [ref=e100]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]: — LEISTUNGEN
+        - heading "Was wir meistern." [level=2] [ref=e104]:
+          - text: Was wir
+          - emphasis [ref=e105]: meistern.
+      - paragraph [ref=e106]:
+        - text: Jede Leistung mit der Präzision,
+        - text: die ein Ferrari verdient.
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e109]: "01"
+        - heading "Wartung & Inspektion" [level=3] [ref=e110]
+        - paragraph [ref=e111]: Präzisionsinspektion nach Ferrari-Werksnormen. Dokumentiert, transparent, rückverfolgbar.
+        - generic [ref=e112]: ↗
+      - generic [ref=e113]:
+        - generic [ref=e114]: "02"
+        - heading "Diagnose & Elektronik" [level=3] [ref=e115]
+        - paragraph [ref=e116]: Modernste Diagnosetechnik für klassische und aktuelle Modelle. Bis auf Systemebene.
+        - generic [ref=e117]: ↗
+      - generic [ref=e118]:
+        - generic [ref=e119]: "03"
+        - heading "Motor & Technik" [level=3] [ref=e120]
+        - paragraph [ref=e121]: Motorrevision, Turbolader-Service, Getriebe — vollständiger Antriebsstrang auf höchstem Niveau.
+        - generic [ref=e122]: ↗
+      - generic [ref=e123]:
+        - generic [ref=e124]: "04"
+        - heading "Restauration" [level=3] [ref=e125]
+        - paragraph [ref=e126]: Vollrestaurierung klassischer Modelle. Von der Rohkarosse bis zum concours-würdigen Endzustand.
+        - generic [ref=e127]: ↗
+      - generic [ref=e128]:
+        - generic [ref=e129]: "05"
+        - heading "Performance" [level=3] [ref=e130]
+        - paragraph [ref=e131]: Leistungssteigerung und Setup-Optimierung für Straße und Rennstrecke — mit messbaren Ergebnissen.
+        - generic [ref=e132]: ↗
+      - generic [ref=e133]:
+        - generic [ref=e134]: "06"
+        - heading "Pflege & Werterhalt" [level=3] [ref=e135]
+        - paragraph [ref=e136]: Paint Protection, Detailing und langfristige Konservierung für Ihre Investition.
+        - generic [ref=e137]: ↗
+  - generic [ref=e138]:
+    - generic [ref=e139]:
+      - generic [ref=e140]:
+        - generic [ref=e141]: — IMPRESSIONEN
+        - heading "Ikone. Unverwechselbar." [level=2] [ref=e142]:
+          - text: Ikone.
+          - emphasis [ref=e143]: Unverwechselbar.
+      - paragraph [ref=e144]:
+        - text: Das letzte Fahrzeug, das Enzo Ferrari
+        - text: persönlich freigab. 478 PS. Kein Kompromiss.
+    - generic [ref=e145]:
+      - generic [ref=e146]:
+        - img "Ferrari rot Studio" [ref=e147]
+        - generic [ref=e148]: Ferrari F40 · Baujahr 1989
+      - generic [ref=e149]:
+        - img "Ferrari Rennstrecke" [ref=e151]
+        - generic [ref=e152]:
+          - paragraph [ref=e153]: "\"Das letzte Fahrzeug, das Enzo Ferrari persönlich freigab.\""
+          - generic [ref=e154]: — Enzo Ferrari, 1987
+    - generic [ref=e155]:
+      - img "Ferrari Klassikstadt" [ref=e156]
+      - generic [ref=e158]: FERRARI F40 · 478 PS · 0–100 in 3,9 s · Vmax 324 km/h
+  - generic [ref=e160]:
+    - generic [ref=e161]:
+      - generic [ref=e162]: — KONTAKT · FRANKFURT AM MAIN
+      - heading "Ihr Ferrari. Unsere Berufung." [level=2] [ref=e163]:
+        - text: Ihr Ferrari.
+        - text: Unsere
+        - text: Berufung.
+      - paragraph [ref=e164]:
+        - text: Kostenloses Erstgespräch · Diskrete Beratung
+        - text: Orber Straße 4a · 60386 Frankfurt
+      - generic [ref=e165]:
+        - link "JETZT ANRUFEN" [ref=e166]:
+          - /url: tel:+4969331613
+          - text: JETZT ANRUFEN
+          - img [ref=e167]
+        - link "E-MAIL" [ref=e169]:
+          - /url: mailto:info@die-sportwagen-spezialisten.de
+    - img "Ferrari Werkstatt" [ref=e171]
+  - generic [ref=e173]:
+    - generic [ref=e174]:
+      - generic [ref=e175]: — JOCHEN FRICK · INHABER
+      - heading "Über 20 Jahre. Eine Werkstatt." [level=2] [ref=e176]:
+        - text: Über
+        - emphasis [ref=e177]: 20 Jahre.
+        - text: Eine Werkstatt.
+      - paragraph [ref=e178]: Gegründet von Jochen Frick ist die Sportwagen Spezialisten GmbH die erste Adresse für Ferrari-Besitzer in Frankfurt. Spezialisiert auf Wartung, Reparatur und Restaurierung italienischer Sportwagen.
+      - paragraph [ref=e179]: Wir sind Teil der Klassikstadt Frankfurt — dem Zentrum für automobile Leidenschaft im Rhein-Main-Gebiet.
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - generic [ref=e183]: ADRESSE
+        - paragraph [ref=e184]:
+          - text: Orber Straße 4a
+          - text: 60386 Frankfurt am Main
+          - text: Klassikstadt
+      - generic [ref=e185]:
+        - generic [ref=e186]: TELEFON
+        - paragraph [ref=e187]:
+          - link "+49 69 331613" [ref=e188]:
+            - /url: tel:+4969331613
+      - generic [ref=e189]:
+        - generic [ref=e190]: ÖFFNUNGSZEITEN
+        - paragraph [ref=e191]: Mo – Fr · 09:00 – 17:00 Uhr
+      - generic [ref=e192]:
+        - generic [ref=e193]: E-MAIL
+        - paragraph [ref=e194]:
+          - link "info@die-sportwagen-spezialisten.de" [ref=e195]:
+            - /url: mailto:info@die-sportwagen-spezialisten.de
+  - contentinfo [ref=e196]:
+    - generic [ref=e197]:
+      - generic [ref=e198]:
+        - generic [ref=e199]: SF
+        - generic [ref=e200]: Die Sportwagen Spezialisten
+      - generic [ref=e201]:
+        - link "Leistungen" [ref=e202]:
+          - /url: "#leistungen"
+        - link "Fahrzeuge" [ref=e203]:
+          - /url: "#fahrzeuge"
+        - link "Über uns" [ref=e204]:
+          - /url: "#ueber-uns"
+        - link "Kontakt" [ref=e205]:
+          - /url: "#kontakt"
+    - generic [ref=e206]:
+      - generic [ref=e207]: © 2025 Die Sportwagen Spezialisten GmbH · Frankfurt am Main
+      - generic [ref=e208]: Impressum · Datenschutz

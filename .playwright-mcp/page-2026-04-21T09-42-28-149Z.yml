@@ -1,0 +1,633 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - main [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e8]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - generic [ref=e18]:
+                  - button "21st logo 21st" [ref=e20] [cursor=pointer]:
+                    - generic [ref=e21]:
+                      - generic [ref=e23]:
+                        - img "21st logo"
+                      - generic [ref=e25]: 21st
+                      - img
+                  - button "Close sidebar" [ref=e27] [cursor=pointer]:
+                    - img
+                - generic [ref=e30]:
+                  - img
+                  - textbox "Search" [ref=e31] [cursor=pointer]
+                  - generic:
+                    - img
+                    - generic: K
+              - generic [ref=e32]:
+                - generic [ref=e35]:
+                  - link "Home" [ref=e37] [cursor=pointer]:
+                    - /url: /
+                    - img [ref=e38]
+                    - generic [ref=e41]: Home
+                  - generic [ref=e42]:
+                    - heading "Explore" [level=3] [ref=e44]
+                    - generic [ref=e45]:
+                      - button "Components" [ref=e46] [cursor=pointer]:
+                        - img [ref=e47]
+                        - generic [ref=e49]: Components
+                        - img [ref=e51]
+                      - button "Agent Templates" [ref=e53] [cursor=pointer]:
+                        - img [ref=e54]
+                        - generic [ref=e56]: Agent Templates
+                        - img [ref=e58]
+                      - link "MCP" [ref=e60] [cursor=pointer]:
+                        - /url: /mcp
+                        - img [ref=e61]
+                        - generic [ref=e67]: MCP
+                  - generic [ref=e68]:
+                    - heading "Build" [level=3] [ref=e70]
+                    - generic [ref=e71]:
+                      - button "Agents" [ref=e72] [cursor=pointer]:
+                        - img [ref=e73]
+                        - generic [ref=e88]: Agents
+                        - img [ref=e90]
+                      - link "1Code" [ref=e92] [cursor=pointer]:
+                        - /url: /1code
+                        - generic [ref=e93]:
+                          - img [ref=e94]
+                          - img [ref=e96]
+                        - generic [ref=e98]: 1Code
+                        - img [ref=e99]
+                      - link "Magic Chat" [ref=e103] [cursor=pointer]:
+                        - /url: /magic
+                        - img [ref=e104]
+                        - generic [ref=e108]: Magic Chat
+                        - img [ref=e109]
+                - generic [ref=e421]:
+                  - generic [ref=e426]:
+                    - generic [ref=e427]:
+                      - generic [ref=e428]: 21st Agents SDK
+                      - paragraph [ref=e429]: The fastest way to build and deploy AI agents.
+                    - link [ref=e430] [cursor=pointer]:
+                      - /url: https://21st.dev/agents
+                    - generic [ref=e431]:
+                      - link [ref=e432] [cursor=pointer]:
+                        - /url: https://21st.dev/agents
+                        - text: Read more
+                      - button [ref=e433] [cursor=pointer]: Dismiss
+                  - generic [ref=e436]:
+                    - generic [ref=e437]:
+                      - generic [ref=e438]: We're in YC
+                      - paragraph [ref=e439]: 21st is backed by Y Combinator. Excited for what's ahead!
+                    - link [ref=e440] [cursor=pointer]:
+                      - /url: https://www.ycombinator.com/companies/1code-21stdev
+                    - generic [ref=e441]:
+                      - link "Read more" [ref=e442] [cursor=pointer]:
+                        - /url: https://www.ycombinator.com/companies/1code-21stdev
+                      - button "Dismiss" [ref=e443] [cursor=pointer]
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - button "Toggle theme" [ref=e116] [cursor=pointer]:
+                    - img
+                  - button "Settings" [ref=e118] [cursor=pointer]:
+                    - img
+                - button "Log in" [ref=e119] [cursor=pointer]:
+                  - generic [ref=e120]: Log in
+            - button "Toggle Sidebar" [ref=e121] [cursor=pointer]
+          - generic [ref=e124]:
+            - generic [ref=e126]:
+              - generic [ref=e129]: Home
+              - generic [ref=e130]:
+                - generic:
+                  - button "Search":
+                    - img
+                    - generic: Search
+                    - generic:
+                      - img
+                      - generic: K
+            - generic [ref=e132]:
+              - generic [ref=e133]:
+                - generic [ref=e134]:
+                  - heading "UI Components" [level=2] [ref=e135]
+                  - button "View all" [ref=e136] [cursor=pointer]:
+                    - generic [ref=e137]:
+                      - text: View all
+                      - img
+                - generic [ref=e138]:
+                  - generic [ref=e142]:
+                    - listitem [ref=e145]:
+                      - generic [ref=e146]:
+                        - link "AI prompt Box" [ref=e147] [cursor=pointer]:
+                          - /url: /community/components/easemize/ai-prompt-box/default
+                          - img "AI prompt Box" [ref=e148]
+                        - generic [ref=e149]:
+                          - link "Hossain Jahed" [ref=e444] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e445]
+                          - paragraph [ref=e153]: AI prompt Box
+                          - button "275" [ref=e154] [cursor=pointer]:
+                            - img [ref=e155]
+                            - generic [ref=e158]: "275"
+                    - listitem [ref=e161]:
+                      - generic [ref=e162]:
+                        - link "V0 AI Chat" [ref=e163] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/v0-ai-chat/default
+                          - img "V0 AI Chat" [ref=e164]
+                        - generic [ref=e165]:
+                          - link "Kokonut UI" [ref=e446] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e447]
+                          - paragraph [ref=e169]: V0 AI Chat
+                          - button "265" [ref=e170] [cursor=pointer]:
+                            - img [ref=e171]
+                            - generic [ref=e174]: "265"
+                    - listitem [ref=e177]:
+                      - generic [ref=e178]:
+                        - link "Animated AI Chat" [ref=e179] [cursor=pointer]:
+                          - /url: /community/components/jatin-yadav05/animated-ai-chat/default
+                          - img "Animated AI Chat" [ref=e180]
+                        - generic [ref=e181]:
+                          - link "Jatin Yadav" [ref=e448] [cursor=pointer]:
+                            - /url: /community/jatin-yadav05
+                            - img "Jatin Yadav" [ref=e449]
+                          - paragraph [ref=e185]: Animated AI Chat
+                          - button "236" [ref=e186] [cursor=pointer]:
+                            - img [ref=e187]
+                            - generic [ref=e190]: "236"
+                    - listitem [ref=e193]:
+                      - generic [ref=e194]:
+                        - link "Agent Plan" [ref=e195] [cursor=pointer]:
+                          - /url: /community/components/isaiahbjork/agent-plan/default
+                          - img "Agent Plan" [ref=e196]
+                        - generic [ref=e197]:
+                          - link "Isaiah" [ref=e450] [cursor=pointer]:
+                            - /url: /community/isaiahbjork
+                            - img "Isaiah" [ref=e451]
+                          - paragraph [ref=e201]: Agent Plan
+                          - button "215" [ref=e202] [cursor=pointer]:
+                            - img [ref=e203]
+                            - generic [ref=e206]: "215"
+                    - listitem [ref=e209]:
+                      - generic [ref=e210]:
+                        - link "Chatgpt Prompt Input" [ref=e211] [cursor=pointer]:
+                          - /url: /community/components/easemize/chatgpt-prompt-input/default
+                          - img "Chatgpt Prompt Input" [ref=e212]
+                        - generic [ref=e213]:
+                          - link "Hossain Jahed" [ref=e452] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e453]
+                          - paragraph [ref=e217]: Chatgpt Prompt Input
+                          - button "141" [ref=e218] [cursor=pointer]:
+                            - img [ref=e219]
+                            - generic [ref=e222]: "141"
+                    - listitem [ref=e225]:
+                      - generic [ref=e226]:
+                        - link "AI Gen" [ref=e227] [cursor=pointer]:
+                          - /url: /community/components/aliimam/ai-gen/default
+                          - img "AI Gen" [ref=e228]
+                        - generic [ref=e229]:
+                          - link "Ali Imam" [ref=e454] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e455]
+                          - paragraph [ref=e233]: AI Gen
+                          - button "101" [ref=e234] [cursor=pointer]:
+                            - img [ref=e235]
+                            - generic [ref=e238]: "101"
+                    - listitem [ref=e241]:
+                      - generic [ref=e242]:
+                        - link "Animated AI Input" [ref=e243] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/animated-ai-input/default
+                          - img "Animated AI Input" [ref=e244]
+                        - generic [ref=e245]:
+                          - link "Kokonut UI" [ref=e456] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e457]
+                          - paragraph [ref=e249]: Animated AI Input
+                          - button "96" [ref=e250] [cursor=pointer]:
+                            - img [ref=e251]
+                            - generic [ref=e254]: "96"
+                    - listitem [ref=e257]:
+                      - generic [ref=e258]:
+                        - link "Message Dock" [ref=e259] [cursor=pointer]:
+                          - /url: /community/components/isaiahbjork/message-dock/default
+                          - img "Message Dock" [ref=e260]
+                        - generic [ref=e261]:
+                          - link "Isaiah" [ref=e458] [cursor=pointer]:
+                            - /url: /community/isaiahbjork
+                            - img "Isaiah" [ref=e459]
+                          - paragraph [ref=e265]: Message Dock
+                          - button "85" [ref=e266] [cursor=pointer]:
+                            - img [ref=e267]
+                            - generic [ref=e270]: "85"
+                    - listitem [ref=e273]:
+                      - generic [ref=e274]:
+                        - link "AI Chat Input" [ref=e275] [cursor=pointer]:
+                          - /url: /community/components/hextaui/ai-chat-input/default
+                          - img "AI Chat Input" [ref=e276]
+                        - generic [ref=e277]:
+                          - link "HextaUI" [ref=e460] [cursor=pointer]:
+                            - /url: /community/hextaui
+                            - img "HextaUI" [ref=e461]
+                          - paragraph [ref=e281]: AI Chat Input
+                          - button "78" [ref=e282] [cursor=pointer]:
+                            - img [ref=e283]
+                            - generic [ref=e286]: "78"
+                    - listitem [ref=e289]:
+                      - generic [ref=e290]:
+                        - link "Hero 1" [ref=e291] [cursor=pointer]:
+                          - /url: /community/components/hextaui/hero-1/default
+                          - img "Hero 1" [ref=e292]
+                        - generic [ref=e293]:
+                          - link "HextaUI" [ref=e462] [cursor=pointer]:
+                            - /url: /community/hextaui
+                            - img "HextaUI" [ref=e463]
+                          - paragraph [ref=e297]: Hero 1
+                          - button "69" [ref=e298] [cursor=pointer]:
+                            - img [ref=e299]
+                            - generic [ref=e302]: "69"
+                  - button:
+                    - img
+                  - button [ref=e303] [cursor=pointer]:
+                    - img
+              - generic [ref=e304]:
+                - generic [ref=e305]:
+                  - heading "Agent Templates" [level=2] [ref=e306]
+                  - button "View all" [ref=e307] [cursor=pointer]:
+                    - generic [ref=e308]:
+                      - text: View all
+                      - img
+                - generic [ref=e309]:
+                  - generic [ref=e313]:
+                    - listitem [ref=e466]:
+                      - generic [ref=e467]:
+                        - link "Web Scraper Agent A web scraping agent that uses Browser Use Cloud to extract structured data from dynamic and SPA pages." [ref=e468] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/web-scraper-agent
+                          - heading "Web Scraper Agent" [level=3] [ref=e469]
+                          - paragraph [ref=e470]: A web scraping agent that uses Browser Use Cloud to extract structured data from dynamic and SPA pages.
+                        - generic [ref=e472]:
+                          - link "David Hakobyan" [ref=e473] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e475]
+                          - paragraph [ref=e476]: David Hakobyan
+                          - button "58" [ref=e477] [cursor=pointer]:
+                            - img [ref=e478]
+                            - generic [ref=e481]: "58"
+                    - listitem [ref=e484]:
+                      - generic [ref=e485]:
+                        - link "API Designer Designs intuitive, scalable API architectures — REST and GraphQL endpoint design, OpenAPI specifications, authentication patterns, versioning strategies, and developer experience optimization." [ref=e486] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/api-designer
+                          - heading "API Designer" [level=3] [ref=e487]
+                          - paragraph [ref=e488]: Designs intuitive, scalable API architectures — REST and GraphQL endpoint design, OpenAPI specifications, authentication patterns, versioning strategies, and developer experience optimization.
+                        - generic [ref=e490]:
+                          - link "David Hakobyan" [ref=e491] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e493]
+                          - paragraph [ref=e494]: David Hakobyan
+                          - button "25" [ref=e495] [cursor=pointer]:
+                            - img [ref=e496]
+                            - generic [ref=e499]: "25"
+                    - listitem [ref=e502]:
+                      - generic [ref=e503]:
+                        - link "Support agent Docs Support Agent — answers customer questions by searching Notion docs/KB, quoting and linking sources, drafting replies with a proactive next step, and escalating to Slack when confidence is low. Notion Slack" [ref=e504] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/support-agent
+                          - heading "Support agent" [level=3] [ref=e505]
+                          - paragraph [ref=e506]: Docs Support Agent — answers customer questions by searching Notion docs/KB, quoting and linking sources, drafting replies with a proactive next step, and escalating to Slack when confidence is low.
+                          - generic [ref=e509]:
+                            - img "Notion" [ref=e511]
+                            - img "Slack" [ref=e513]
+                        - generic [ref=e514]:
+                          - link "Claude" [ref=e515] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e517]
+                          - paragraph [ref=e518]: Claude
+                          - button "22" [ref=e519] [cursor=pointer]:
+                            - img [ref=e520]
+                            - generic [ref=e523]: "22"
+                    - listitem [ref=e526]:
+                      - generic [ref=e527]:
+                        - link "Data analyst Load, explore, and visualize data; build reports and answer questions from datasets. Amplitude" [ref=e528] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/data-analyst
+                          - heading "Data analyst" [level=3] [ref=e529]
+                          - paragraph [ref=e530]: Load, explore, and visualize data; build reports and answer questions from datasets.
+                          - img "Amplitude" [ref=e535]
+                        - generic [ref=e536]:
+                          - link "Claude" [ref=e537] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e539]
+                          - paragraph [ref=e540]: Claude
+                          - button "17" [ref=e541] [cursor=pointer]:
+                            - img [ref=e542]
+                            - generic [ref=e545]: "17"
+                    - listitem [ref=e548]:
+                      - generic [ref=e549]:
+                        - link "Proposal Builder Generates pre-filled client proposals by pulling templates from Google Drive, enriching them with CRM/Notion data, and tracking conversion performance across proposals. HubSpot Notion" [ref=e550] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/proposal-builder
+                          - heading "Proposal Builder" [level=3] [ref=e551]
+                          - paragraph [ref=e552]: Generates pre-filled client proposals by pulling templates from Google Drive, enriching them with CRM/Notion data, and tracking conversion performance across proposals.
+                          - generic [ref=e555]:
+                            - img "HubSpot" [ref=e557]
+                            - img "Notion" [ref=e559]
+                        - generic [ref=e560]:
+                          - link "David Hakobyan" [ref=e561] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e563]
+                          - paragraph [ref=e564]: David Hakobyan
+                          - button "11" [ref=e565] [cursor=pointer]:
+                            - img [ref=e566]
+                            - generic [ref=e569]: "11"
+                    - listitem [ref=e572]:
+                      - generic [ref=e573]:
+                        - link "Deep researcher Conducts multi-step web research with source synthesis and citations." [ref=e574] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/deep-researcher
+                          - heading "Deep researcher" [level=3] [ref=e575]
+                          - paragraph [ref=e576]: Conducts multi-step web research with source synthesis and citations.
+                        - generic [ref=e578]:
+                          - link "Claude" [ref=e579] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e581]
+                          - paragraph [ref=e582]: Claude
+                          - button "20" [ref=e583] [cursor=pointer]:
+                            - img [ref=e584]
+                            - generic [ref=e587]: "20"
+                    - listitem [ref=e590]:
+                      - generic [ref=e591]:
+                        - link "Support Agent Docs-powered support agent that answers questions from llms.txt and escalates unanswered ones via email (Resend) Llmstxt Resend App" [ref=e592] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/app-support-agent
+                          - heading "Support Agent" [level=3] [ref=e593]
+                          - paragraph [ref=e594]: Docs-powered support agent that answers questions from llms.txt and escalates unanswered ones via email (Resend)
+                          - generic [ref=e596]:
+                            - generic [ref=e597]:
+                              - img "Llmstxt" [ref=e599]
+                              - img "Resend" [ref=e601]
+                            - generic [ref=e603]: App
+                        - generic [ref=e604]:
+                          - link "Claude" [ref=e605] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e607]
+                          - paragraph [ref=e608]: Claude
+                          - button "4" [ref=e609] [cursor=pointer]:
+                            - img [ref=e610]
+                            - generic [ref=e613]: "4"
+                    - listitem [ref=e616]:
+                      - generic [ref=e617]:
+                        - 'link "Lead-to-Deal Pipeline Agent Automates the full lead-to-deal pipeline: finds prospects in Apollo.io, enriches and creates contacts in HubSpot, notifies the sales team in Slack, and sends Calendly booking links — eliminating manual prospecting handoff. Apollo HubSpot Slack Calendly" [ref=e618] [cursor=pointer]':
+                          - /url: /community/agents/reapollo/lead-to-deal-pipeline-agent
+                          - heading "Lead-to-Deal Pipeline Agent" [level=3] [ref=e619]
+                          - paragraph [ref=e620]: "Automates the full lead-to-deal pipeline: finds prospects in Apollo.io, enriches and creates contacts in HubSpot, notifies the sales team in Slack, and sends Calendly booking links — eliminating manual prospecting handoff."
+                          - generic [ref=e623]:
+                            - img "Apollo" [ref=e625]
+                            - img "HubSpot" [ref=e627]
+                            - img "Slack" [ref=e629]
+                            - img "Calendly" [ref=e631]
+                        - generic [ref=e632]:
+                          - link "David Hakobyan" [ref=e633] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e635]
+                          - paragraph [ref=e636]: David Hakobyan
+                          - button "9" [ref=e637] [cursor=pointer]:
+                            - img [ref=e638]
+                            - generic [ref=e641]: "9"
+                    - listitem [ref=e644]:
+                      - generic [ref=e645]:
+                        - link "GitHub Agent A powerful GitHub agent that connects directly to GitHub's platform via MCP. Manages repositories, issues, pull requests, Actions workflows, code security, and team collaboration through natural language. Built for developers who want AI-assisted GitHub workflows — from simple queries to complex multi-step automations. GitHub" [ref=e646] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/github-agent
+                          - heading "GitHub Agent" [level=3] [ref=e647]
+                          - paragraph [ref=e648]: A powerful GitHub agent that connects directly to GitHub's platform via MCP. Manages repositories, issues, pull requests, Actions workflows, code security, and team collaboration through natural language. Built for developers who want AI-assisted GitHub workflows — from simple queries to complex multi-step automations.
+                          - img "GitHub" [ref=e653]
+                        - generic [ref=e654]:
+                          - link "David Hakobyan" [ref=e655] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e657]
+                          - paragraph [ref=e658]: David Hakobyan
+                          - button "4" [ref=e659] [cursor=pointer]:
+                            - img [ref=e660]
+                            - generic [ref=e663]: "4"
+                    - listitem [ref=e666]:
+                      - generic [ref=e667]:
+                        - link "Security Auditor Conducts comprehensive security audits, compliance assessments, and risk evaluations across systems, infrastructure, and processes. Provides systematic vulnerability analysis, compliance gap identification, and evidence-based security findings." [ref=e668] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/security-auditor
+                          - heading "Security Auditor" [level=3] [ref=e669]
+                          - paragraph [ref=e670]: Conducts comprehensive security audits, compliance assessments, and risk evaluations across systems, infrastructure, and processes. Provides systematic vulnerability analysis, compliance gap identification, and evidence-based security findings.
+                        - generic [ref=e672]:
+                          - link "David Hakobyan" [ref=e673] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e675]
+                          - paragraph [ref=e676]: David Hakobyan
+                          - button "22" [ref=e677] [cursor=pointer]:
+                            - img [ref=e678]
+                            - generic [ref=e681]: "22"
+                    - listitem [ref=e684]:
+                      - generic [ref=e685]:
+                        - link "Cold Outreach Personalizer Researches prospects via Apollo.io, enriches with Clay, writes personalized email first lines, and sends via MailerLite sequences. Apollo Clay MailerLite" [ref=e686] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/cold-outreach-personalizer
+                          - heading "Cold Outreach Personalizer" [level=3] [ref=e687]
+                          - paragraph [ref=e688]: Researches prospects via Apollo.io, enriches with Clay, writes personalized email first lines, and sends via MailerLite sequences.
+                          - generic [ref=e691]:
+                            - img "Apollo" [ref=e693]
+                            - img "Clay" [ref=e695]
+                            - img "MailerLite" [ref=e697]
+                        - generic [ref=e698]:
+                          - link "David Hakobyan" [ref=e699] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e701]
+                          - paragraph [ref=e702]: David Hakobyan
+                          - button "17" [ref=e703] [cursor=pointer]:
+                            - img [ref=e704]
+                            - generic [ref=e707]: "17"
+                    - listitem [ref=e710]:
+                      - generic [ref=e711]:
+                        - link "What Did I Ship This Week Automatically generates a weekly shipping log by pulling GitHub commits and merged PRs, Linear tickets moved to Done, and writing a formatted Notion page — so your work diary writes itself every Friday. GitHub Linear Notion" [ref=e712] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/what-did-i-ship-this-week
+                          - heading "What Did I Ship This Week" [level=3] [ref=e713]
+                          - paragraph [ref=e714]: Automatically generates a weekly shipping log by pulling GitHub commits and merged PRs, Linear tickets moved to Done, and writing a formatted Notion page — so your work diary writes itself every Friday.
+                          - generic [ref=e717]:
+                            - img "GitHub" [ref=e719]
+                            - img "Linear" [ref=e721]
+                            - img "Notion" [ref=e723]
+                        - generic [ref=e724]:
+                          - link "David Hakobyan" [ref=e725] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e727]
+                          - paragraph [ref=e728]: David Hakobyan
+                          - button "5" [ref=e729] [cursor=pointer]:
+                            - img [ref=e730]
+                            - generic [ref=e733]: "5"
+                    - listitem [ref=e736]:
+                      - generic [ref=e737]:
+                        - link "BrowserUse Agent Extract structured data from any website using Browser Use Cloud Browseruse App Demo" [ref=e738] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/web-scraper
+                          - heading "BrowserUse Agent" [level=3] [ref=e739]
+                          - paragraph [ref=e740]: Extract structured data from any website using Browser Use Cloud
+                          - generic [ref=e742]:
+                            - img "Browseruse" [ref=e745]
+                            - generic [ref=e746]:
+                              - generic [ref=e747]: App
+                              - generic [ref=e748]: Demo
+                        - generic [ref=e749]:
+                          - link "Claude" [ref=e750] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e752]
+                          - paragraph [ref=e753]: Claude
+                          - button "6" [ref=e754] [cursor=pointer]:
+                            - img [ref=e755]
+                            - generic [ref=e758]: "6"
+                    - listitem [ref=e761]:
+                      - generic [ref=e762]:
+                        - link "Next.js Starter Next.js chat interface with AI agent powered by 21st Agents SDK App Demo" [ref=e763] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/chat-app
+                          - heading "Next.js Starter" [level=3] [ref=e764]
+                          - paragraph [ref=e765]: Next.js chat interface with AI agent powered by 21st Agents SDK
+                          - generic [ref=e768]:
+                            - generic [ref=e769]: App
+                            - generic [ref=e770]: Demo
+                        - generic [ref=e771]:
+                          - link "Claude" [ref=e772] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e774]
+                          - paragraph [ref=e775]: Claude
+                          - button "1" [ref=e776] [cursor=pointer]:
+                            - img [ref=e777]
+                            - generic [ref=e780]: "1"
+                    - listitem [ref=e783]:
+                      - generic [ref=e784]:
+                        - link "Email Operations Copilot Automates outreach, monitors inbox, and replies fast. AgentMail" [ref=e785] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/email-operations-copilot-2
+                          - heading "Email Operations Copilot" [level=3] [ref=e786]
+                          - paragraph [ref=e787]: Automates outreach, monitors inbox, and replies fast.
+                          - img "AgentMail" [ref=e792]
+                        - generic [ref=e793]:
+                          - link "David Hakobyan" [ref=e794] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e796]
+                          - paragraph [ref=e797]: David Hakobyan
+                          - button "7" [ref=e798] [cursor=pointer]:
+                            - img [ref=e799]
+                            - generic [ref=e802]: "7"
+                    - listitem [ref=e805]:
+                      - generic [ref=e806]:
+                        - link "Lead Research Agent Researches people by email or name, qualifies them as leads based on configurable criteria, and sends Slack alerts for interesting prospects. Exa Slack" [ref=e807] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/lead-research-agent-2
+                          - heading "Lead Research Agent" [level=3] [ref=e808]
+                          - paragraph [ref=e809]: Researches people by email or name, qualifies them as leads based on configurable criteria, and sends Slack alerts for interesting prospects.
+                          - generic [ref=e812]:
+                            - img "Exa" [ref=e814]
+                            - img "Slack" [ref=e816]
+                        - generic [ref=e817]:
+                          - link "David Hakobyan" [ref=e818] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e820]
+                          - paragraph [ref=e821]: David Hakobyan
+                          - button "2" [ref=e822] [cursor=pointer]:
+                            - img [ref=e823]
+                            - generic [ref=e826]: "2"
+                    - listitem [ref=e829]:
+                      - generic [ref=e830]:
+                        - link "Lead Research Agent Research people by email online, qualify leads, and send Slack alerts for interesting prospects Exa Slack App" [ref=e831] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/app-lead-research-agent
+                          - heading "Lead Research Agent" [level=3] [ref=e832]
+                          - paragraph [ref=e833]: Research people by email online, qualify leads, and send Slack alerts for interesting prospects
+                          - generic [ref=e835]:
+                            - generic [ref=e836]:
+                              - img "Exa" [ref=e838]
+                              - img "Slack" [ref=e840]
+                            - generic [ref=e842]: App
+                        - generic [ref=e843]:
+                          - link "Claude" [ref=e844] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e846]
+                          - paragraph [ref=e847]: Claude
+                          - button "4" [ref=e848] [cursor=pointer]:
+                            - img [ref=e849]
+                            - generic [ref=e852]: "4"
+                    - listitem [ref=e855]:
+                      - generic [ref=e856]:
+                        - link "Test Automator Use this agent when you need to build, implement, or enhance automated test frameworks, create test scripts, or integrate testing into CI/CD pipelines." [ref=e857] [cursor=pointer]:
+                          - /url: /community/agents/reapollo/test-automator
+                          - heading "Test Automator" [level=3] [ref=e858]
+                          - paragraph [ref=e859]: Use this agent when you need to build, implement, or enhance automated test frameworks, create test scripts, or integrate testing into CI/CD pipelines.
+                        - generic [ref=e861]:
+                          - link "David Hakobyan" [ref=e862] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e864]
+                          - paragraph [ref=e865]: David Hakobyan
+                          - button "4" [ref=e866] [cursor=pointer]:
+                            - img [ref=e867]
+                            - generic [ref=e870]: "4"
+                    - listitem [ref=e873]:
+                      - generic [ref=e874]:
+                        - link "Form Autocomplete AI-powered form filling with tabbed forms and chat interface App Demo" [ref=e875] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/fill-form
+                          - heading "Form Autocomplete" [level=3] [ref=e876]
+                          - paragraph [ref=e877]: AI-powered form filling with tabbed forms and chat interface
+                          - generic [ref=e880]:
+                            - generic [ref=e881]: App
+                            - generic [ref=e882]: Demo
+                        - generic [ref=e883]:
+                          - link "Claude" [ref=e884] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e886]
+                          - paragraph [ref=e887]: Claude
+                          - button "1" [ref=e888] [cursor=pointer]:
+                            - img [ref=e889]
+                            - generic [ref=e892]: "1"
+                    - listitem [ref=e895]:
+                      - generic [ref=e896]:
+                        - link "Go Starter Minimal terminal chat client in Go using the 21st SDK App" [ref=e897] [cursor=pointer]:
+                          - /url: /community/agents/claude-ai/golang-terminal-chat
+                          - heading "Go Starter" [level=3] [ref=e898]
+                          - paragraph [ref=e899]: Minimal terminal chat client in Go using the 21st SDK
+                          - generic [ref=e903]: App
+                        - generic [ref=e904]:
+                          - link "Claude" [ref=e905] [cursor=pointer]:
+                            - /url: /community/claude-ai
+                            - img "Claude" [ref=e907]
+                          - paragraph [ref=e908]: Claude
+                          - button [ref=e909] [cursor=pointer]:
+                            - img [ref=e910]
+                  - button:
+                    - img
+                  - button [ref=e374] [cursor=pointer]:
+                    - img
+              - generic [ref=e375]:
+                - generic [ref=e376]:
+                  - heading "Agents SDK" [level=2] [ref=e377]
+                  - link "Read docs" [ref=e378] [cursor=pointer]:
+                    - /url: /agents/docs
+                    - text: Read docs
+                    - img [ref=e379]
+                - generic [ref=e382]:
+                  - generic [ref=e383]:
+                    - generic [ref=e384]:
+                      - heading "The fastest way to ship AI agents" [level=3] [ref=e385]
+                      - paragraph [ref=e386]: Built-in UI, chat history, spend limits, sandbox execution, and observability. Works with Claude and OpenAI.
+                    - generic [ref=e387]:
+                      - link "Get started" [ref=e388] [cursor=pointer]:
+                        - /url: /agents/app
+                        - text: Get started
+                        - img [ref=e389]
+                      - link "Documentation" [ref=e391] [cursor=pointer]:
+                        - /url: /agents/docs
+                  - generic [ref=e392]:
+                    - generic [ref=e393]:
+                      - img [ref=e394]
+                      - generic [ref=e396]:
+                        - generic [ref=e397]: E2B Sandboxes
+                        - generic [ref=e398]: Isolated VM per session
+                    - generic [ref=e399]:
+                      - img [ref=e400]
+                      - generic [ref=e402]:
+                        - generic [ref=e403]: Streaming
+                        - generic [ref=e404]: Token-by-token via SSE
+                    - generic [ref=e405]:
+                      - img [ref=e406]
+                      - generic [ref=e408]:
+                        - generic [ref=e409]: Auth & Limits
+                        - generic [ref=e410]: Tokens, rate limits, spend caps
+                    - generic [ref=e411]:
+                      - img [ref=e412]
+                      - generic [ref=e415]:
+                        - generic [ref=e416]: Observability
+                        - generic [ref=e417]: Session replay & traces
+    - region "Notifications alt+T"
+  - alert [ref=e913]
+  - generic:
+    - iframe
+    - iframe

@@ -1,0 +1,12 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]: R/
+    - generic [ref=e6]: MMXXVI
+  - heading "Ranked. Was hast du wirklich aus dir gemacht?" [level=1] [ref=e7]:
+    - generic [ref=e8]: Ranked.
+    - generic [ref=e9]: Was hast du wirklich aus dir gemacht?
+  - paragraph [ref=e10]: Kein Gym-Tracker. Kein Habit-Spam. Eine Leaderboard für die Dinge die zählen — und Freunde die's bestätigen.
+  - button "Profil anlegen →" [ref=e11] [cursor=pointer]:
+    - text: Profil anlegen
+    - generic [ref=e12]: →
+  - generic [ref=e13]: Forbes-Energie. Ohne Forbes-Filter.

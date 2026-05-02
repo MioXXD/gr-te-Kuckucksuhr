@@ -1,0 +1,312 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "G Gutausschank Stassen Kiedrich · Rheingau" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e6]: G
+        - generic [ref=e7]:
+          - generic [ref=e8]: Gutausschank Stassen
+          - generic [ref=e9]: Kiedrich · Rheingau
+      - button "Menü öffnen" [ref=e10] [cursor=pointer]
+  - generic [ref=e14]:
+    - button [ref=e15] [cursor=pointer]: ✕
+    - navigation [ref=e16]:
+      - link [ref=e17] [cursor=pointer]:
+        - /url: "#atmosphaere"
+        - text: Atmosphäre
+      - link [ref=e18] [cursor=pointer]:
+        - /url: "#speisen-weine"
+        - text: Speisen & Weine
+      - link [ref=e19] [cursor=pointer]:
+        - /url: "#impressionen"
+        - text: Impressionen
+      - link [ref=e20] [cursor=pointer]:
+        - /url: "#ueber-uns"
+        - text: Über uns
+      - link [ref=e21] [cursor=pointer]:
+        - /url: "#besuch-planen"
+        - text: Besuch planen
+      - link [ref=e22] [cursor=pointer]:
+        - /url: "#kontakt"
+        - text: Kontakt
+    - paragraph [ref=e23]: Aulgasse 7 · 65399 Kiedrich
+  - main [ref=e24]:
+    - region "Willkommen" [ref=e25]:
+      - img "Rheingauer Weinberge im Abendlicht" [ref=e27]
+      - generic [ref=e29]:
+        - paragraph [ref=e30]: Gutausschank · Kiedrich · Rheingau
+        - heading "Ein Ort zum Genießen." [level=1] [ref=e31]:
+          - text: Ein Ort zum
+          - emphasis [ref=e32]: Genießen.
+        - paragraph [ref=e33]: Herzlich willkommen im Gutausschank Stassen — mitten im historischen Weindorf Kiedrich.
+        - generic [ref=e34]:
+          - link "Jetzt entdecken" [ref=e35] [cursor=pointer]:
+            - /url: "#atmosphaere"
+          - link "Besuch planen" [ref=e36] [cursor=pointer]:
+            - /url: "#besuch-planen"
+      - generic [ref=e38]: Entdecken
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e46]:
+          - img [ref=e47]
+          - generic [ref=e50]: Originalfoto folgt
+          - generic [ref=e51]: Innenbereich · Gutausschank Stassen
+        - paragraph [ref=e53]:
+          - text: "\"Wo Zeit"
+          - text: langsamer wird."
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: Willkommen
+        - heading "Herzlichkeit, die man spürt" [level=2] [ref=e56]:
+          - text: Herzlichkeit,
+          - emphasis [ref=e57]: die man spürt
+        - paragraph [ref=e58]: "Stellen Sie sich vor: Ein warmer Sommerabend, ein Glas Rheingauer Riesling in der Hand und das leise Murmeln der Gespräche um Sie herum."
+        - paragraph [ref=e59]: Im Gutausschank Stassen ist genau das möglich. Wir sind kein gewöhnliches Lokal — wir sind ein Ort der Begegnung. Ein Platz, an dem man sich fallen lassen kann und gute Gastfreundschaft noch selbstverständlich ist.
+        - paragraph [ref=e60]: Inh. Musli Ferizi und sein Team empfangen Sie herzlich in der Aulgasse 7 in Kiedrich — mit offenen Türen, echten Aromen und dem Charme eines traditionsreichen Weinausschanks.
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - generic [ref=e63]: 🍷
+            - generic [ref=e64]:
+              - strong [ref=e65]: Regionale Weine
+              - generic [ref=e66]: Direkt aus dem Rheingau
+          - generic [ref=e67]:
+            - generic [ref=e68]: 🍽️
+            - generic [ref=e69]:
+              - strong [ref=e70]: Herzhafte Küche
+              - generic [ref=e71]: Einfach & authentisch
+          - generic [ref=e72]:
+            - generic [ref=e73]: 🏡
+            - generic [ref=e74]:
+              - strong [ref=e75]: Gemütlichkeit
+              - generic [ref=e76]: Drinnen & draußen
+    - blockquote [ref=e79]: „Der Rheingau in einem Glas — und draußen die Welt."
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Speisen & Weine
+        - heading "Genuss aus der Region" [level=2] [ref=e84]:
+          - text: Genuss aus der
+          - emphasis [ref=e85]: Region
+        - paragraph [ref=e86]: Was auf den Tisch kommt, kommt von hier. Regionale Produkte, ehrliche Zubereitung, authentischer Geschmack.
+      - generic [ref=e87]:
+        - article [ref=e88]:
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - generic [ref=e95]: Originalfoto folgt
+            - generic [ref=e96]: Weine & Getränke
+          - generic [ref=e97]:
+            - generic [ref=e98]: Weinausschank
+            - heading "Rheingauer Weine" [level=3] [ref=e99]
+            - paragraph [ref=e100]: Erleben Sie die charaktervollen Rieslinge und Spätburgunder aus den umliegenden Weinlagen des Rheingaus — direkt und frisch ausgeschenkt.
+            - generic [ref=e101]:
+              - generic [ref=e102]: 📋
+              - generic [ref=e103]: Weinkarte folgt — bitte einfügen
+        - article [ref=e104]:
+          - generic [ref=e107]:
+            - img [ref=e108]
+            - generic [ref=e111]: Originalfoto folgt
+            - generic [ref=e112]: Speisen & Küche
+          - generic [ref=e113]:
+            - generic [ref=e114]: Küche
+            - heading "Herzhafte Speisen" [level=3] [ref=e115]
+            - paragraph [ref=e116]: Von deftigen Brettljausen über saisonale Kleinigkeiten bis hin zu hausgemachten Köstlichkeiten — ehrlich, gut und mit Liebe zubereitet.
+            - generic [ref=e117]:
+              - generic [ref=e118]: 📋
+              - generic [ref=e119]: Speisekarte folgt — bitte einfügen
+        - article [ref=e120]:
+          - generic [ref=e123]:
+            - img [ref=e124]
+            - generic [ref=e127]: Originalfoto folgt
+            - generic [ref=e128]: Atmosphäre & Geselligkeit
+          - generic [ref=e129]:
+            - generic [ref=e130]: Geselligkeit
+            - heading "Gesellige Abende" [level=3] [ref=e131]
+            - paragraph [ref=e132]: Ob zu zweit oder in großer Runde — der Gutausschank Stassen ist der perfekte Ort für unvergessliche Abende mit gutem Wein und guten Menschen.
+            - link "Öffnungszeiten ansehen" [ref=e133] [cursor=pointer]:
+              - /url: "#besuch-planen"
+              - text: Öffnungszeiten ansehen
+              - generic [ref=e134]: →
+    - generic [ref=e135]:
+      - generic [ref=e137]:
+        - paragraph [ref=e138]: Impressionen
+        - heading "Bilder sagen mehr als Worte" [level=2] [ref=e139]:
+          - text: Bilder sagen
+          - emphasis [ref=e140]: mehr als Worte
+      - generic [ref=e141]:
+        - img [ref=e142]:
+          - generic [ref=e144]:
+            - img [ref=e145]
+            - generic [ref=e148]: Originalfoto folgt
+            - generic [ref=e149]: Genussmomente
+        - img [ref=e150]:
+          - generic [ref=e152]:
+            - img [ref=e153]
+            - generic [ref=e156]: Originalfoto folgt
+            - generic [ref=e157]: Weinauswahl
+        - img [ref=e158]:
+          - generic [ref=e160]:
+            - img [ref=e161]
+            - generic [ref=e164]: Originalfoto folgt
+            - generic [ref=e165]: Außenbereich
+        - img [ref=e166]:
+          - generic [ref=e168]:
+            - img [ref=e169]
+            - generic [ref=e172]: Originalfoto folgt
+            - generic [ref=e173]: Innenbereich
+        - img [ref=e174]:
+          - generic [ref=e176]:
+            - img [ref=e177]
+            - generic [ref=e180]: Originalfoto folgt
+            - generic [ref=e181]: Weinberge Rheingau
+        - img [ref=e182]:
+          - generic [ref=e184]:
+            - img [ref=e185]
+            - generic [ref=e188]: Originalfoto folgt
+            - generic [ref=e189]: Gesellige Runde
+      - paragraph [ref=e191]:
+        - text: 📷
+        - emphasis [ref=e192]: Hier entstehen bald echte Einblicke in den Gutausschank Stassen.
+    - generic [ref=e195]:
+      - generic [ref=e199]:
+        - img [ref=e200]
+        - generic [ref=e203]: Originalfoto folgt
+        - generic [ref=e204]: Außenansicht · Gutausschank Stassen
+      - generic [ref=e205]:
+        - paragraph [ref=e206]: Über uns
+        - heading "Tradition trifft Herzlichkeit" [level=2] [ref=e207]:
+          - text: Tradition trifft
+          - emphasis [ref=e208]: Herzlichkeit
+        - paragraph [ref=e209]: Der Gutausschank Stassen ist mehr als ein Weinlokal — er ist ein Stück Kiedrich.
+        - paragraph [ref=e210]: "Inhaber Musli Ferizi führt den Betrieb mit Leidenschaft und dem Anspruch, jedem Gast das Gefühl zu geben: Hier bin ich willkommen. Der Ausschank in der Aulgasse ist seit Jahren ein vertrauter Ort für Einheimische und Gäste aus der gesamten Rheingau-Region."
+        - paragraph [ref=e211]: Kiedrich — eines der schönsten Weindörfer des Rheingaus — bildet den perfekten Rahmen. Umgeben von Weinbergen, mittelalterlicher Architektur und dem unverwechselbaren Charme eines echten Dorflebens.
+        - generic [ref=e212]:
+          - generic [ref=e213]:
+            - term [ref=e214]: Inhaber
+            - definition [ref=e215]: Musli Ferizi
+          - generic [ref=e216]:
+            - term [ref=e217]: Adresse
+            - definition [ref=e218]: Aulgasse 7, 65399 Kiedrich
+          - generic [ref=e219]:
+            - term [ref=e220]: Region
+            - definition [ref=e221]: Rheingau, Hessen
+    - generic [ref=e223]:
+      - generic [ref=e224]:
+        - paragraph [ref=e225]: Besuch planen
+        - heading "Wir freuen uns auf Sie" [level=2] [ref=e226]:
+          - text: Wir freuen uns
+          - emphasis [ref=e227]: auf Sie
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - generic [ref=e230]: 🕐
+          - heading "Öffnungszeiten" [level=3] [ref=e231]
+          - generic [ref=e232]:
+            - generic [ref=e233]: 📋
+            - generic [ref=e234]:
+              - strong [ref=e235]: Öffnungszeiten bitte einfügen
+              - text: "z.B. Mo–Fr: 17–23 Uhr, Sa–So: 12–23 Uhr"
+          - paragraph [ref=e236]: Für aktuelle Öffnungszeiten erreichen Sie uns telefonisch oder per E-Mail.
+        - generic [ref=e237]:
+          - generic [ref=e238]: 🍷
+          - heading "Reservierung" [level=3] [ref=e239]
+          - paragraph [ref=e240]: Für besondere Anlässe, Gruppen oder damit Sie sicher einen Platz haben — rufen Sie uns an oder schreiben Sie uns.
+          - generic [ref=e241]:
+            - generic [ref=e242]: 📞
+            - generic [ref=e243]:
+              - strong [ref=e244]: Telefonnummer bitte einfügen
+              - text: z.B. +49 6123 xxxxxx
+          - link "Nachricht senden" [ref=e245] [cursor=pointer]:
+            - /url: "#kontakt"
+        - generic [ref=e246]:
+          - generic [ref=e247]: 📍
+          - heading "Anfahrt" [level=3] [ref=e248]
+          - generic [ref=e249]:
+            - text: Gutausschank Stassen
+            - text: Aulgasse 7
+            - text: 65399 Kiedrich
+            - text: Deutschland
+          - paragraph [ref=e250]: Kiedrich liegt im Rheingau, ca. 10 km von Wiesbaden und 5 km von Eltville. Gut erreichbar mit dem Auto und dem Rheingau-Taunus-Ticket.
+          - link "In Google Maps öffnen" [ref=e251] [cursor=pointer]:
+            - /url: https://maps.google.com/?q=Aulgasse+7,+65399+Kiedrich
+    - generic [ref=e253]:
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - paragraph [ref=e256]: Kontakt
+          - heading "Sprechen Sie mit uns" [level=2] [ref=e257]:
+            - text: Sprechen Sie
+            - emphasis [ref=e258]: mit uns
+          - paragraph [ref=e259]: Haben Sie Fragen, möchten reservieren oder eine Gruppe anmelden? Wir freuen uns auf Ihre Nachricht.
+          - list [ref=e260]:
+            - listitem [ref=e261]:
+              - generic [ref=e262]: 📍
+              - generic [ref=e263]:
+                - strong [ref=e264]: Adresse
+                - generic [ref=e265]: Aulgasse 7, 65399 Kiedrich
+            - listitem [ref=e266]:
+              - generic [ref=e267]: 📞
+              - generic [ref=e268]:
+                - strong [ref=e269]: Telefon
+                - text: Telefonnummer folgt
+            - listitem [ref=e270]:
+              - generic [ref=e271]: ✉️
+              - generic [ref=e272]:
+                - strong [ref=e273]: E-Mail
+                - text: E-Mail-Adresse folgt
+        - generic [ref=e275]:
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - generic [ref=e278]: Name *
+              - textbox "Name" [ref=e279]:
+                - /placeholder: Max Mustermann
+            - generic [ref=e280]:
+              - generic [ref=e281]: E-Mail *
+              - textbox "E-Mail" [ref=e282]:
+                - /placeholder: mail@beispiel.de
+          - generic [ref=e283]:
+            - generic [ref=e284]: Telefon (optional)
+            - textbox "Telefon (optional)" [ref=e285]:
+              - /placeholder: +49 ...
+          - generic [ref=e286]:
+            - generic [ref=e287]: Betreff
+            - combobox "Betreff" [ref=e288]:
+              - option "Bitte wählen …" [selected]
+              - option "Tischreservierung"
+              - option "Gruppenanfrage"
+              - option "Private Veranstaltung"
+              - option "Sonstiges"
+          - generic [ref=e289]:
+            - generic [ref=e290]: Nachricht *
+            - textbox "Nachricht" [ref=e291]:
+              - /placeholder: Wie können wir Ihnen helfen?
+          - button "Nachricht senden" [ref=e292] [cursor=pointer]:
+            - generic [ref=e293]: Nachricht senden
+      - generic [ref=e296]:
+        - generic [ref=e297]: 📍
+        - strong [ref=e298]: Gutausschank Stassen
+        - paragraph [ref=e299]: Aulgasse 7 · 65399 Kiedrich
+        - link "In Google Maps öffnen" [ref=e300] [cursor=pointer]:
+          - /url: https://maps.google.com/?q=Aulgasse+7,+65399+Kiedrich
+  - contentinfo [ref=e301]:
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - generic [ref=e304]:
+          - paragraph [ref=e305]: Gutausschank Stassen
+          - paragraph [ref=e306]: Aulgasse 7 · 65399 Kiedrich · Rheingau
+          - paragraph [ref=e307]: Herzlichkeit seit dem ersten Glas.
+        - navigation "Footer-Navigation" [ref=e308]:
+          - link "Atmosphäre" [ref=e309] [cursor=pointer]:
+            - /url: "#atmosphaere"
+          - link "Speisen & Weine" [ref=e310] [cursor=pointer]:
+            - /url: "#speisen-weine"
+          - link "Impressionen" [ref=e311] [cursor=pointer]:
+            - /url: "#impressionen"
+          - link "Über uns" [ref=e312] [cursor=pointer]:
+            - /url: "#ueber-uns"
+          - link "Besuch planen" [ref=e313] [cursor=pointer]:
+            - /url: "#besuch-planen"
+          - link "Kontakt" [ref=e314] [cursor=pointer]:
+            - /url: "#kontakt"
+      - paragraph [ref=e316]:
+        - text: © 2025 Gutausschank Stassen · Inh. Musli Ferizi ·
+        - link "Impressum" [ref=e317] [cursor=pointer]:
+          - /url: "#"
+        - text: ·
+        - link "Datenschutz" [ref=e318] [cursor=pointer]:
+          - /url: "#"

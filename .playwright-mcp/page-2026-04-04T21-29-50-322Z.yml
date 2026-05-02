@@ -1,0 +1,253 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "FERRARI WERKSTATT FRANKFURT AM MAIN" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e7]:
+          - generic [ref=e8]: FERRARI WERKSTATT
+          - generic [ref=e9]: FRANKFURT AM MAIN
+      - navigation [ref=e10]:
+        - link "Leistungen" [ref=e11] [cursor=pointer]:
+          - /url: "#leistungen"
+        - link "Fahrzeug" [ref=e12] [cursor=pointer]:
+          - /url: "#fahrzeuge"
+        - link "Werkstatt" [ref=e13] [cursor=pointer]:
+          - /url: "#werkstatt"
+        - link "Kontakt" [ref=e14] [cursor=pointer]:
+          - /url: "#kontakt"
+      - generic [ref=e15]:
+        - link "+49 69 000 000" [ref=e16] [cursor=pointer]:
+          - /url: tel:+496900000000
+        - link "Termin anfragen" [ref=e17] [cursor=pointer]:
+          - /url: "#kontakt"
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e25]: FERRARI SPEZIALIST · FRANKFURT AM MAIN
+          - heading "Ferrari Expertise. Precision in Every Detail." [level=1] [ref=e26]:
+            - text: Ferrari
+            - emphasis [ref=e27]: Expertise.
+            - text: Precision in
+            - text: Every Detail.
+          - paragraph [ref=e28]: Über zwei Jahrzehnte ausschließliche Spezialisierung auf Ferrari — Wartung, Restauration und Perfektion in Frankfurt.
+          - generic [ref=e29]:
+            - link "Termin anfragen" [ref=e30] [cursor=pointer]:
+              - /url: "#kontakt"
+              - text: Termin anfragen
+            - link "Leistungen ansehen" [ref=e32] [cursor=pointer]:
+              - /url: "#leistungen"
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - generic [ref=e35]: 20+
+              - generic [ref=e36]: Jahre Expertise
+            - generic [ref=e37]:
+              - generic [ref=e38]: 600+
+              - generic [ref=e39]: Ferrari gewartet
+            - generic [ref=e40]:
+              - generic [ref=e41]: "01"
+              - generic [ref=e42]: Leidenschaft
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]: MOTOR
+            - generic [ref=e46]: 2.9L Twin-Turbo V8
+          - generic [ref=e47]:
+            - generic [ref=e48]: FERRARI F40
+            - generic [ref=e49]: 478 PS · 0–100 IN 3.9S
+          - img "Ferrari F40 — 3/4 Frontansicht" [ref=e51]
+          - generic [ref=e54]: 1987 · FERRARI F40 · 478 PS
+      - generic [ref=e56]: SCROLL
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e62]: FERRARI F40 — EXPERIENCE SEQUENCE
+        - generic [ref=e63]: SCROLL TO EXPLORE
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e68]:
+            - generic [ref=e71]: FRONTALANSICHT — ANKUNFT
+            - heading "Die Ankunft." [level=2] [ref=e72]
+            - paragraph [ref=e73]: Jede Kurve erzählt von aerodynamischer Präzision. Kein Ornament. Keine Kompromisse. Der Ferrari F40 betritt die Bühne.
+          - generic [ref=e74]:
+            - generic "FRONTALANSICHT — ANKUNFT" [ref=e75]
+            - generic "SEITENPROFIL — KAROSSERIE" [ref=e76]
+            - generic "HECKANSICHT — CHARAKTER" [ref=e77]
+            - generic "MOTOR SICHTBAR — HAUBE OFFEN" [ref=e78]
+            - generic "GESAMTBILD — HANDWERK" [ref=e79]
+          - generic [ref=e80]:
+            - generic [ref=e81]: "01"
+            - generic [ref=e83]: "05"
+        - generic [ref=e84]:
+          - img "Ferrari F40 — Frontalansicht" [ref=e86]
+          - generic: "01"
+          - generic [ref=e88]: 01 / 05
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e96]: LEISTUNGEN
+          - heading "Was wir meistern." [level=2] [ref=e97]:
+            - text: Was wir
+            - emphasis [ref=e98]: meistern.
+        - paragraph [ref=e99]: Jede Leistung wird mit der Präzision ausgeführt, die ein Ferrari verdient. Keine Abkürzungen. Keine Kompromisse.
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - generic [ref=e103]: "01"
+            - generic [ref=e104]: ◈
+          - heading "Wartung & Inspektion" [level=3] [ref=e105]
+          - paragraph [ref=e106]: Präzisionsinspektion nach Ferrari-Werksnormen. Dokumentiert, transparent und vollständig rückverfolgbar.
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]: "02"
+            - generic [ref=e110]: ⊕
+          - heading "Diagnose & Elektronik" [level=3] [ref=e111]
+          - paragraph [ref=e112]: Modernste Diagnosetechnik für klassische und aktuelle Modelle. Fehleranalyse bis auf Systemebene.
+        - generic [ref=e113]:
+          - generic [ref=e114]:
+            - generic [ref=e115]: "03"
+            - generic [ref=e116]: ◉
+          - heading "Motor & Technik" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Motorrevision, Turbolader-Service, Getriebe und vollständiger Antriebsstrang — auf höchstem Niveau.
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - generic [ref=e121]: "04"
+            - generic [ref=e122]: ◫
+          - heading "Restauration" [level=3] [ref=e123]
+          - paragraph [ref=e124]: Vollrestaurierung klassischer Modelle. Von der Rohkarosse bis zum concours-würdigen Endzustand.
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - generic [ref=e127]: "05"
+            - generic [ref=e128]: ◬
+          - heading "Performance Optimierung" [level=3] [ref=e129]
+          - paragraph [ref=e130]: Leistungssteigerung und Setup-Optimierung für Straße und Rennstrecke — mit messbaren Ergebnissen.
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e133]: "06"
+            - generic [ref=e134]: ◈
+          - heading "Pflege & Werterhalt" [level=3] [ref=e135]
+          - paragraph [ref=e136]: Paint Protection, Detailing und langfristig wertsteigernde Konservierung für Ihre Investition.
+      - link "Alle Leistungen anfragen" [ref=e138] [cursor=pointer]:
+        - /url: "#kontakt"
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - generic [ref=e145]: WARUM WIR
+        - heading "Vertrauen entsteht durch Konsequenz." [level=2] [ref=e146]:
+          - text: Vertrauen
+          - text: entsteht durch
+          - emphasis [ref=e147]: Konsequenz.
+        - paragraph [ref=e148]: "Über zwei Jahrzehnte haben wir uns einen Ruf aufgebaut, der auf einem einzigen Prinzip beruht: Was wir anfassen, verlässt unsere Werkstatt besser als es ankam."
+        - generic [ref=e150]: FRANKFURT — FERRARI KOMPETENZ
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e154]: I
+          - generic [ref=e155]:
+            - heading "Ferrari-Spezialisierung" [level=3] [ref=e156]
+            - paragraph [ref=e157]: Keine Generalwerkstatt. Keine halbe Leidenschaft. Ausschließliche Fokussierung auf Ferrari — von klassischen Ikonen bis zu aktuellen Supersportwagen.
+        - generic [ref=e158]:
+          - generic [ref=e159]: II
+          - generic [ref=e160]:
+            - heading "Höchste Präzision" [level=3] [ref=e161]
+            - paragraph [ref=e162]: Jeder Handgriff folgt einem definierten Prozess. Originalersatzteile, Herstellervorgaben und lückenlose Dokumentation.
+        - generic [ref=e163]:
+          - generic [ref=e164]: III
+          - generic [ref=e165]:
+            - heading "Klassische & Moderne Modelle" [level=3] [ref=e166]
+            - paragraph [ref=e167]: Vom 308 GT4 bis zum SF90 Stradale. Wir kennen jede Generation — ihre Stärken, ihre Eigenheiten, ihre Geschichte.
+        - generic [ref=e168]:
+          - generic [ref=e169]: IV
+          - generic [ref=e170]:
+            - heading "Transparente Beratung" [level=3] [ref=e171]
+            - paragraph [ref=e172]: Klare Diagnosen. Verständliche Empfehlungen. Keine Arbeit ohne Ihr ausdrückliches Einverständnis — zu jedem Zeitpunkt.
+        - generic [ref=e173]:
+          - generic [ref=e174]: V
+          - generic [ref=e175]:
+            - heading "Werterhalt & Technische Perfektion" [level=3] [ref=e176]
+            - paragraph [ref=e177]: Ihr Ferrari ist eine Investition. Wir behandeln ihn entsprechend — mit Blick auf Substanz, Originalität und langfristigen Wert.
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - generic [ref=e184]: IMPRESSIONEN — FERRARI F40
+          - heading "Ikone. Unverwechselbar." [level=2] [ref=e185]:
+            - text: Ikone.
+            - emphasis [ref=e186]: Unverwechselbar.
+        - paragraph [ref=e187]: Der Ferrari F40 — das letzte Fahrzeug, das Enzo Ferrari persönlich freigab. 478 PS. Kein Kompromiss.
+      - generic [ref=e188]:
+        - generic [ref=e189] [cursor=pointer]:
+          - img "Ferrari F40 — 3/4 Frontansicht" [ref=e190]
+          - generic [ref=e192]: 3/4 FRONTANSICHT
+        - generic [ref=e193] [cursor=pointer]:
+          - img "Ferrari F40 — Seitenprofil" [ref=e194]
+          - generic [ref=e196]: SEITENPROFIL
+        - generic [ref=e197] [cursor=pointer]:
+          - img "Ferrari F40 — Frontalansicht" [ref=e198]
+          - generic [ref=e200]: FRONTALANSICHT
+        - generic [ref=e201] [cursor=pointer]:
+          - img "Ferrari F40 — Heckansicht" [ref=e202]
+          - generic [ref=e204]: HECKANSICHT
+        - generic [ref=e205] [cursor=pointer]:
+          - img "Ferrari F40 — Motor sichtbar" [ref=e206]
+          - generic [ref=e208]: MOTOR SICHTBAR
+        - generic [ref=e209] [cursor=pointer]:
+          - img "Ferrari F40 — Gesamtansicht" [ref=e210]
+          - generic [ref=e212]: GESAMTBILD
+    - generic [ref=e213]:
+      - generic:
+        - generic: F
+      - generic [ref=e215]:
+        - generic [ref=e218]: KONTAKT · FRANKFURT AM MAIN
+        - heading "Ihr Ferrari. Unsere Berufung." [level=2] [ref=e220]:
+          - text: Ihr Ferrari.
+          - emphasis [ref=e221]: Unsere Berufung.
+        - paragraph [ref=e222]: Vereinbaren Sie jetzt einen Termin. Kostenloses Erstgespräch. Diskrete Beratung. Frankfurt am Main.
+        - generic [ref=e223]:
+          - link "Jetzt anrufen" [ref=e224] [cursor=pointer]:
+            - /url: tel:+496900000000
+            - text: Jetzt anrufen
+          - link "E-Mail schreiben" [ref=e226] [cursor=pointer]:
+            - /url: mailto:info@ferrari-werkstatt-frankfurt.de
+        - generic [ref=e227]:
+          - generic [ref=e228]:
+            - generic [ref=e229]: ADRESSE
+            - generic [ref=e230]: Musterstraße 1
+            - generic [ref=e231]: 60311 Frankfurt am Main
+          - generic [ref=e232]:
+            - generic [ref=e233]: TELEFON
+            - generic [ref=e234]: +49 69 000 000
+            - generic [ref=e235]: Mo–Fr 08:00–18:00 Uhr
+          - generic [ref=e236]:
+            - generic [ref=e237]: E-MAIL
+            - generic [ref=e238]: info@ferrari-werkstatt
+            - generic [ref=e239]: "-frankfurt.de"
+  - contentinfo [ref=e240]:
+    - generic [ref=e241]:
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - generic [ref=e246]: FERRARI WERKSTATT
+          - text: FRANKFURT AM MAIN
+        - navigation [ref=e247]:
+          - link "Leistungen" [ref=e248] [cursor=pointer]:
+            - /url: "#leistungen"
+          - link "Fahrzeug" [ref=e249] [cursor=pointer]:
+            - /url: "#fahrzeuge"
+          - link "Werkstatt" [ref=e250] [cursor=pointer]:
+            - /url: "#werkstatt"
+          - link "Kontakt" [ref=e251] [cursor=pointer]:
+            - /url: "#kontakt"
+        - generic [ref=e252]:
+          - generic [ref=e253]:
+            - link "Instagram" [ref=e254] [cursor=pointer]:
+              - /url: "#"
+              - text: IG
+            - link "Facebook" [ref=e255] [cursor=pointer]:
+              - /url: "#"
+              - text: FB
+            - link "YouTube" [ref=e256] [cursor=pointer]:
+              - /url: "#"
+              - text: YT
+          - generic [ref=e257]:
+            - link "Impressum" [ref=e258] [cursor=pointer]:
+              - /url: "#"
+            - link "Datenschutz" [ref=e259] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e260]:
+        - generic [ref=e261]: © 2026 FERRARI WERKSTATT FRANKFURT · ALLE RECHTE VORBEHALTEN
+        - generic [ref=e262]: FOUNDATION V1.0 · FERRARI F40 · FRANKFURT AM MAIN

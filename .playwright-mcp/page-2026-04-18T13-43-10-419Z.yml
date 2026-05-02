@@ -1,0 +1,257 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "+49 711 340 358-70" [ref=e5] [cursor=pointer]:
+        - /url: tel:+4971134035870
+      - generic [ref=e6]: ·
+      - link "termin@foqus-fellbach.de" [ref=e7] [cursor=pointer]:
+        - /url: mailto:termin@foqus-fellbach.de
+    - generic [ref=e8]:
+      - generic [ref=e9]: Stuttgarter Str. 26, Fellbach
+      - generic [ref=e10]: ·
+      - generic [ref=e11]: Alle Kassen & Privat
+  - banner [ref=e12]:
+    - generic [ref=e13]:
+      - link "FOQUS Fellbach Startseite" [ref=e14] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=e15]:
+          - img [ref=e16]
+          - img [ref=e19]
+        - generic [ref=e22]:
+          - text: FOQUS
+          - generic [ref=e23]: Fellbach · Augen & Haut
+      - navigation "Hauptnavigation" [ref=e24]:
+        - link "Fachbereiche ↓" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+        - link "Ärzte-Team" [ref=e27] [cursor=pointer]:
+          - /url: team.html
+        - link "Praxis" [ref=e28] [cursor=pointer]:
+          - /url: index.html#praxis
+        - link "Kontakt" [ref=e29] [cursor=pointer]:
+          - /url: kontakt.html
+        - link "Termin buchen →" [ref=e30] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin buchen
+          - generic [ref=e31]: →
+  - main [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]: Fachbereich 02 · Dermatologie
+      - heading "Die gesunde Haut." [level=1] [ref=e37]:
+        - text: Die gesunde
+        - emphasis [ref=e38]: Haut.
+      - paragraph [ref=e39]: Medizinische Dermatologie von der Vorsorge bis zur chronischen Versorgung. Hautkrebsvorsorge mit KI-gestütztem Total Body Mapping, Allergologie, entzündliche Hauterkrankungen und funktionelle Botulinumtoxin-Therapien — alles unter einem Dach.
+      - link "Dermatologie-Termin buchen →" [ref=e41] [cursor=pointer]:
+        - /url: https://app.arzt-direkt.de/foqus/booking
+        - text: Dermatologie-Termin buchen
+        - generic [ref=e42]: →
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]: Unsere Haltung zur Dermatologie
+        - heading "Hautarzt — mit Zeit und Technik." [level=2] [ref=e48]:
+          - text: Hautarzt —
+          - emphasis [ref=e49]: mit Zeit und Technik.
+      - generic [ref=e50]:
+        - paragraph [ref=e51]: Die Dermatologie im FOQUS Fellbach steht für gründliche Abklärung, evidenzbasierte Therapie und offene Kommunikation. Von der präventiven Hautkrebsvorsorge bis zur langfristigen Begleitung chronischer Erkrankungen wie Psoriasis oder Neurodermitis.
+        - paragraph [ref=e52]: Besonders am Herzen liegt uns die Schnittstelle zur Augenheilkunde — weil viele Hautbefunde (Rosazea, Xanthelasmen, Lidveränderungen) auch das Auge betreffen und umgekehrt.
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]: Hautkrebsvorsorge
+        - heading "Total Body Mapping mit KI-Unterstützung." [level=2] [ref=e58]:
+          - text: Total Body Mapping
+          - emphasis [ref=e59]: mit KI-Unterstützung.
+        - paragraph [ref=e60]: Hochauflösende Ganzkörperfotografie dokumentiert jeden Leberfleck. Ein KI-System erkennt Veränderungen zwischen zwei Untersuchungen — Präzision, die das bloße Auge nicht leisten kann.
+        - link "Vorsorgetermin buchen →" [ref=e62] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Vorsorgetermin buchen
+          - generic [ref=e63]: →
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]: "01"
+          - generic [ref=e67]:
+            - generic [ref=e68]: Ganzkörper-Fotografie
+            - generic [ref=e69]: Hochauflösende, standardisierte Aufnahmen aller Hautregionen als Referenzdokumentation.
+        - generic [ref=e70]:
+          - generic [ref=e71]: "02"
+          - generic [ref=e72]:
+            - generic [ref=e73]: KI-Auswertung
+            - generic [ref=e74]: Algorithmen-gestützter Abgleich auffälliger Läsionen — insbesondere bei Folgeuntersuchungen.
+        - generic [ref=e75]:
+          - generic [ref=e76]: "03"
+          - generic [ref=e77]:
+            - generic [ref=e78]: Ärztliche Beurteilung
+            - generic [ref=e79]: Die KI unterstützt — die Diagnose und Entscheidung trifft Ihr Facharzt persönlich.
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e83]: Leistungsspektrum
+        - heading "Die Dermatologie im Überblick." [level=2] [ref=e84]:
+          - text: Die Dermatologie
+          - emphasis [ref=e85]: im Überblick.
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: "01"
+          - generic [ref=e89]:
+            - heading "Hautkrebsvorsorge" [level=3] [ref=e90]
+            - paragraph [ref=e91]: Mit Total Body Mapping und KI-gestützter Analyse für höchste Präzision.
+        - generic [ref=e92]:
+          - generic [ref=e93]: "02"
+          - generic [ref=e94]:
+            - heading "Allergologie" [level=3] [ref=e95]
+            - paragraph [ref=e96]: Pricktests, Diagnostik und Therapie von Kontakt-, Nahrungsmittel- und Inhalationsallergien.
+        - generic [ref=e97]:
+          - generic [ref=e98]: "03"
+          - generic [ref=e99]:
+            - heading "Akne" [level=3] [ref=e100]
+            - paragraph [ref=e101]: Individuell abgestimmte Therapiekonzepte — topisch, systemisch oder laserbasiert.
+        - generic [ref=e102]:
+          - generic [ref=e103]: "04"
+          - generic [ref=e104]:
+            - heading "Psoriasis & chronisches Ekzem" [level=3] [ref=e105]
+            - paragraph [ref=e106]: Moderne systemische und lokale Therapien, inklusive Lichttherapie.
+        - generic [ref=e107]:
+          - generic [ref=e108]: "05"
+          - generic [ref=e109]:
+            - heading "Neurodermitis" [level=3] [ref=e110]
+            - paragraph [ref=e111]: Diagnostik, Schubkontrolle und Therapiebegleitung für Kinder und Erwachsene.
+        - generic [ref=e112]:
+          - generic [ref=e113]: "06"
+          - generic [ref=e114]:
+            - heading "Couperose & Rosazea" [level=3] [ref=e115]
+            - paragraph [ref=e116]: Laser- und medikamentöse Therapie, enge Abstimmung mit der Augenheilkunde.
+        - generic [ref=e117]:
+          - generic [ref=e118]: "07"
+          - generic [ref=e119]:
+            - heading "Altersflecken & Pigmentstörungen" [level=3] [ref=e120]
+            - paragraph [ref=e121]: Medizinische Abklärung und Behandlung, auch mit modernen Lasersystemen.
+        - generic [ref=e122]:
+          - generic [ref=e123]: "08"
+          - generic [ref=e124]:
+            - heading "Nagelpilz & Hautpilz" [level=3] [ref=e125]
+            - paragraph [ref=e126]: Labor-gestützte Diagnostik und leitliniengerechte Therapie.
+        - generic [ref=e127]:
+          - generic [ref=e128]: "09"
+          - generic [ref=e129]:
+            - heading "Warzen" [level=3] [ref=e130]
+            - paragraph [ref=e131]: "Moderne Behandlung: Vereisung, Laser, Medikamente, photodynamische Therapie."
+        - generic [ref=e132]:
+          - generic [ref=e133]: "10"
+          - generic [ref=e134]:
+            - heading "Naevus flammeus" [level=3] [ref=e135]
+            - paragraph [ref=e136]: Behandlung des Feuermals mittels moderner Lasertherapie.
+        - generic [ref=e137]:
+          - generic [ref=e138]: "11"
+          - generic [ref=e139]:
+            - heading "Lichttherapie" [level=3] [ref=e140]
+            - paragraph [ref=e141]: Spezielle Lichttherapie der Hände und Füße bei chronischen Dermatosen.
+        - generic [ref=e142]:
+          - generic [ref=e143]: "12"
+          - generic [ref=e144]:
+            - heading "Hyperhidrose" [level=3] [ref=e145]
+            - paragraph [ref=e146]: Therapie starken Schwitzens mit bewährten Verfahren inkl. Botulinumtoxin.
+        - generic [ref=e147]:
+          - generic [ref=e148]: "13"
+          - generic [ref=e149]:
+            - heading "Migräne mit Botulinumtoxin" [level=3] [ref=e150]
+            - paragraph [ref=e151]: Leitliniengerechte Injektionstherapie bei chronischer Migräne.
+        - generic [ref=e152]:
+          - generic [ref=e153]: "14"
+          - generic [ref=e154]:
+            - heading "Bruxismus (Zähneknirschen)" [level=3] [ref=e155]
+            - paragraph [ref=e156]: Muskelentspannende Therapie der Kaumuskulatur mittels Botulinumtoxin.
+        - generic [ref=e157]:
+          - generic [ref=e158]: "15"
+          - generic [ref=e159]:
+            - heading "Berufsgenossenschaftliche Behandlung" [level=3] [ref=e160]
+            - paragraph [ref=e161]: Diagnostik und Therapie beruflich bedingter Hauterkrankungen.
+    - generic [ref=e164]:
+      - generic [ref=e165]: Weitere Bereiche
+      - heading "Ästhetische Dermatologie, Dermatochirurgie und Lasermedizin — alles in derselben Praxis." [level=2] [ref=e166]:
+        - text: Ästhetische Dermatologie, Dermatochirurgie und Lasermedizin —
+        - emphasis [ref=e167]: alles in derselben Praxis.
+      - generic [ref=e168]:
+        - link "Medizinische Ästhetik →" [ref=e169] [cursor=pointer]:
+          - /url: aesthetik.html
+          - text: Medizinische Ästhetik
+          - generic [ref=e170]: →
+        - link "Dermatochirurgie →" [ref=e171] [cursor=pointer]:
+          - /url: dermatochirurgie.html
+          - text: Dermatochirurgie
+          - generic [ref=e172]: →
+        - link "Lasermedizin →" [ref=e173] [cursor=pointer]:
+          - /url: lasermedizin.html
+          - text: Lasermedizin
+          - generic [ref=e174]: →
+    - generic [ref=e176]:
+      - heading "Ihre Haut — fachärztlich begleitet." [level=2] [ref=e177]:
+        - text: Ihre Haut —
+        - emphasis [ref=e178]: fachärztlich begleitet.
+      - paragraph [ref=e179]: "Ob akut, chronisch oder vorsorglich: Wir nehmen uns Zeit für Ihre Haut."
+      - generic [ref=e180]:
+        - link "Termin online buchen →" [ref=e181] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin online buchen
+          - generic [ref=e182]: →
+        - link "+49 711 340 358-70" [ref=e183] [cursor=pointer]:
+          - /url: tel:+4971134035870
+  - contentinfo [ref=e184]:
+    - generic [ref=e185]:
+      - generic [ref=e186]:
+        - generic [ref=e187]:
+          - generic [ref=e188]: FOQUS
+          - paragraph [ref=e189]: Medizinisches Zentrum für Augen und Haut in Fellbach. Fachärztliche Versorgung in Augenheilkunde und Dermatologie.
+        - generic [ref=e190]:
+          - heading "Fachbereiche" [level=4] [ref=e191]
+          - list [ref=e192]:
+            - listitem [ref=e193]:
+              - link "Augenheilkunde" [ref=e194] [cursor=pointer]:
+                - /url: augenheilkunde.html
+            - listitem [ref=e195]:
+              - link "Dermatologie" [ref=e196] [cursor=pointer]:
+                - /url: dermatologie.html
+            - listitem [ref=e197]:
+              - link "Ästhetik & Kosmetik" [ref=e198] [cursor=pointer]:
+                - /url: aesthetik.html
+            - listitem [ref=e199]:
+              - link "Dermatochirurgie" [ref=e200] [cursor=pointer]:
+                - /url: dermatochirurgie.html
+            - listitem [ref=e201]:
+              - link "Lasermedizin" [ref=e202] [cursor=pointer]:
+                - /url: lasermedizin.html
+        - generic [ref=e203]:
+          - heading "Praxis" [level=4] [ref=e204]
+          - list [ref=e205]:
+            - listitem [ref=e206]:
+              - link "Ärzte-Team" [ref=e207] [cursor=pointer]:
+                - /url: team.html
+            - listitem [ref=e208]:
+              - link "Anfahrt & Kontakt" [ref=e209] [cursor=pointer]:
+                - /url: kontakt.html
+            - listitem [ref=e210]:
+              - link "Termin buchen" [ref=e211] [cursor=pointer]:
+                - /url: https://app.arzt-direkt.de/foqus/booking
+        - generic [ref=e212]:
+          - heading "Kontakt" [level=4] [ref=e213]
+          - generic [ref=e214]:
+            - strong [ref=e215]: FOQUS Fellbach
+            - text: Stuttgarter Str. 26
+            - text: 70736 Fellbach
+            - link "+49 711 340 358-70" [ref=e216] [cursor=pointer]:
+              - /url: tel:+4971134035870
+            - link "termin@foqus-fellbach.de" [ref=e217] [cursor=pointer]:
+              - /url: mailto:termin@foqus-fellbach.de
+      - separator [ref=e218]
+      - generic [ref=e219]:
+        - generic [ref=e220]: © 2026 FOQUS Fellbach · Medizinisches Zentrum für Augen und Haut
+        - generic [ref=e221]:
+          - link "Impressum" [ref=e222] [cursor=pointer]:
+            - /url: "#"
+          - link "Datenschutz" [ref=e223] [cursor=pointer]:
+            - /url: "#"
+          - link "Barrierefreiheit" [ref=e224] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e225]:
+          - link "Instagram" [ref=e226] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e227]
+          - link "Facebook" [ref=e231] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e232]

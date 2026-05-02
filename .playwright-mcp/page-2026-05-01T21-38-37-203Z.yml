@@ -1,0 +1,260 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+          - /url: /de
+          - img "Unsplash-Startseite" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /de
+          - img [ref=e12]
+        - link "Grafiken" [ref=e14] [cursor=pointer]:
+          - /url: /de/grafiken
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Entdecken" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - link "Kollektionen" [ref=e21] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster
+          - img [ref=e22]
+        - link "Bisherige Downloads" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fdownloads
+          - img [ref=e25]
+      - link "Lesezeichen" [ref=e28] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Anmelden / Registrieren" [ref=e32] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster
+        - img [ref=e33]
+      - button "Sprache" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menü" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - navigation [ref=e43]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e45]:
+          - button "Unsplash suchen" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+          - combobox [ref=e49]:
+            - searchbox "Unsplash suchen" [ref=e50]: raw crystal cluster
+            - listbox
+          - button "Löschen" [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - button "Visuelle Suche" [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+        - generic [ref=e59]:
+          - link "Unsplash+ sichern" [ref=e60] [cursor=pointer]:
+            - /url: /de/plus
+          - link "Anmelden" [ref=e61] [cursor=pointer]:
+            - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster
+        - button "Bild einreichen" [ref=e63] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Fotos 1388":
+                - /url: /de/s/fotos/raw-crystal-cluster
+                - img
+                - text: Fotos
+                - generic: "1388"
+            - listitem [ref=e73]:
+              - link "Grafiken 12" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/grafiken/raw-crystal-cluster
+                - img [ref=e75]
+                - text: Grafiken
+                - generic [ref=e77]: "12"
+            - listitem [ref=e78]:
+              - button "Mehr" [ref=e79] [cursor=pointer]
+          - generic [ref=e82]:
+            - button "Lizenz" [ref=e83] [cursor=pointer]:
+              - img [ref=e84]
+              - generic [ref=e86]: Lizenz
+              - img [ref=e87]
+            - button "Ausrichtung" [ref=e89] [cursor=pointer]:
+              - img [ref=e90]
+              - generic [ref=e92]: Ausrichtung
+              - img [ref=e93]
+            - button "Sortieren nach Relevanz" [ref=e95] [cursor=pointer]:
+              - img [ref=e96]
+              - generic [ref=e98]: Sortieren nach Relevanz
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "Raw crystal cluster" [level=1] [ref=e103]
+          - generic [ref=e105]:
+            - button "Liste nach rechts verschieben" [ref=e107] [cursor=pointer]:
+              - img [ref=e108]
+            - generic [ref=e111]:
+              - link "Geologie" [ref=e113] [cursor=pointer]:
+                - /url: /de/s/fotos/geologie
+              - link "Amethyst" [ref=e115] [cursor=pointer]:
+                - /url: /de/s/fotos/amethyst
+              - link "Mineral" [ref=e117] [cursor=pointer]:
+                - /url: /de/s/fotos/mineral
+              - link "Lila Kristall" [ref=e119] [cursor=pointer]:
+                - /url: /de/s/fotos/lila-kristall
+              - link "Heilkristall" [ref=e121] [cursor=pointer]:
+                - /url: /de/s/fotos/heilkristall
+              - link "Kristallcluster" [ref=e123] [cursor=pointer]:
+                - /url: /de/s/fotos/kristallcluster
+              - link "roher Kristall" [ref=e125] [cursor=pointer]:
+                - /url: /de/s/fotos/roher-kristall
+              - link "metaphysisch" [ref=e127] [cursor=pointer]:
+                - /url: /de/s/fotos/metaphysisch
+              - link "Edelstein" [ref=e129] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "Amethyst-Cluster" [ref=e131] [cursor=pointer]:
+                - /url: /de/s/fotos/amethyst--cluster
+              - link "Amethystkristall" [ref=e133] [cursor=pointer]:
+                - /url: /de/s/fotos/amethystkristall
+              - link "kristall" [ref=e135] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+        - generic [ref=e137]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - figure [ref=e143]:
+                - link "Drei Eisstücke sitzen auf einem Tisch" [ref=e146]:
+                  - /url: /de/fotos/drei-eisstucke-sitzen-auf-einem-tisch-_msDfuDzy_w
+                  - img "Drei Eisstücke sitzen auf einem Tisch" [ref=e147]
+              - generic [ref=e148]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e149]:
+                  - generic [ref=e150]: Gesponserte Bilder
+                  - link [ref=e151] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=raw+crystal+cluster&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e152]
+                - generic [ref=e154]:
+                  - link "Frischer Dill- und Frühlingszwiebel, hydroponisch hausgemachte Grünmüsse, auf Käse und knusprigem, gehacktem Hähnchenbrust über Kartoffelpüree in einer roten Keramikschale" [ref=e155] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fresh-dill-green-onion-hydroponically-home-grown-greens-on-top-of-cheese-chopped-gm2253183119-666582600?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Frischer Dill- und Frühlingszwiebel, hydroponisch hausgemachte Grünmüsse, auf Käse und knusprigem, gehacktem Hähnchenbrust über Kartoffelpüree in einer roten Keramikschale" [ref=e156]
+                  - link "Rauchquarz-Kristallcluster PNG isoliert auf transparentem Hintergrund, Mineralprobe mit natürlichen erdigen Tönen für geologische und esoterische Zwecke" [ref=e157] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/smoky-quartz-crystal-cluster-png-isolated-on-transparent-background-mineral-specimen-gm2248222379-662086652?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Rauchquarz-Kristallcluster PNG isoliert auf transparentem Hintergrund, Mineralprobe mit natürlichen erdigen Tönen für geologische und esoterische Zwecke" [ref=e158]
+                  - link "Frischer grüner Salat aus hydroponisch selbst angebauten Grünzeug und Kräutern in einer roten Keramikschale" [ref=e159] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fresh-green-salad-of-hydroponically-home-grown-greens-herbs-in-a-red-ceramic-bowl-gm2242094549-656486072?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Frischer grüner Salat aus hydroponisch selbst angebauten Grünzeug und Kräutern in einer roten Keramikschale" [ref=e160]
+                  - link "Frisches, hydroponisch selbst angebautes Regenbogenmangoldgrün in hellem, natürlichem Licht mit neutralem Hintergrund" [ref=e161] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/fresh-hydroponically-home-grown-rainbow-chard-greens-in-bright-natural-light-with-a-gm2224029472-640193311?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Frisches, hydroponisch selbst angebautes Regenbogenmangoldgrün in hellem, natürlichem Licht mit neutralem Hintergrund" [ref=e162]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e163] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=raw+crystal+cluster&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e164]:
+                - link "Nahaufnahme von klaren Kristallen, die auf metallischem Gestein wachsen" [ref=e167]:
+                  - /url: /de/fotos/nahaufnahme-von-klaren-kristallen-die-auf-metallischem-gestein-wachsen-CINUF3Rwoaw
+                  - img "Nahaufnahme von klaren Kristallen, die auf metallischem Gestein wachsen" [ref=e168]
+              - figure [ref=e169]:
+                - link "Cluster aus Bleiglanz-, Pyrit- und Quarzkristallen" [ref=e172]:
+                  - /url: /de/fotos/cluster-aus-bleiglanz-pyrit-und-quarzkristallen-6VVjnjN4z-w
+                  - img "Cluster aus Bleiglanz-, Pyrit- und Quarzkristallen" [ref=e173]
+              - figure [ref=e174]:
+                - link "Bunte Edelsteine und Kristalle sind auf Stoff arrangiert." [ref=e177]:
+                  - /url: /de/fotos/bunte-edelsteine-und-kristalle-sind-auf-stoff-arrangiert-Dh0ajoopGt8
+                  - img "Bunte Edelsteine und Kristalle sind auf Stoff arrangiert." [ref=e178]
+              - figure [ref=e179]:
+                - link "ein weißer Kristall mit schwarzem Hintergrund" [ref=e182]:
+                  - /url: /de/fotos/ein-weisser-kristall-mit-schwarzem-hintergrund-FjtZbYKEtPE
+                  - img "ein weißer Kristall mit schwarzem Hintergrund" [ref=e183]
+            - generic [ref=e184]:
+              - figure [ref=e185]:
+                - link "Lila Geode" [ref=e188]:
+                  - /url: /de/fotos/lila-geode-NyapZuexFaQ
+                  - img "Lila Geode" [ref=e189]
+              - figure [ref=e190]:
+                - link "Eine Frau, die einen lila Stein in der Hand hält" [ref=e193]:
+                  - /url: /de/fotos/eine-frau-die-einen-lila-stein-in-der-hand-halt-dmSbUET6QA0
+                  - img "Eine Frau, die einen lila Stein in der Hand hält" [ref=e194]
+              - figure [ref=e195]:
+                - link "Nahaufnahme eines violetten Amethyst-Geoden-Clusters." [ref=e198]:
+                  - /url: /de/fotos/nahaufnahme-eines-violetten-amethyst-geoden-clusters-4jLjhGxcPUA
+                  - img "Nahaufnahme eines violetten Amethyst-Geoden-Clusters." [ref=e199]
+              - figure [ref=e200]:
+                - link "Ein Haufen violetter Amethystkristalle auf einem Ständer." [ref=e203]:
+                  - /url: /de/fotos/ein-haufen-violetter-amethystkristalle-auf-einem-stander-O8bjaCcvr84
+                  - img "Ein Haufen violetter Amethystkristalle auf einem Ständer." [ref=e204]
+              - figure [ref=e205]:
+                - link "Ein auffälliges, mehrfarbiges Kristallexemplar mit scharfen Facetten." [ref=e208]:
+                  - /url: /de/fotos/ein-auffalliges-mehrfarbiges-kristallexemplar-mit-scharfen-facetten-hxnTazHHmqY
+                  - img "Ein auffälliges, mehrfarbiges Kristallexemplar mit scharfen Facetten." [ref=e209]
+              - figure [ref=e210]:
+                - link "ein weißer Tisch mit vielen Eiskristallen" [ref=e213]:
+                  - /url: /de/fotos/ein-weisser-tisch-mit-vielen-eiskristallen-HGCvLlQ2Jqc
+                  - img "ein weißer Tisch mit vielen Eiskristallen" [ref=e214]
+              - figure [ref=e215]:
+                - link "Klare Kristalle" [ref=e218]:
+                  - /url: /de/fotos/klare-kristalle-k65_6C4hu2E
+                  - img "Klare Kristalle" [ref=e219]
+              - figure [ref=e220]:
+                - link "Weiße Blütenknospen in Nahaufnahmen" [ref=e223]:
+                  - /url: /de/fotos/weisse-blutenknospen-in-nahaufnahmen-8lTYoKQwGOk
+                  - img "Weiße Blütenknospen in Nahaufnahmen" [ref=e224]
+            - generic [ref=e225]:
+              - contentinfo [ref=e230]:
+                - generic [ref=e236]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e238]:
+                - link "Eine Felsformation mit violetten Felsen auf dem Boden" [ref=e241]:
+                  - /url: /de/fotos/eine-felsformation-mit-violetten-felsen-auf-dem-boden-qU-RUXXeopA
+                  - img "Eine Felsformation mit violetten Felsen auf dem Boden" [ref=e242]
+              - figure [ref=e243]:
+                - link "Ein lila Felsen sitzt neben einem Glas Wein" [ref=e246]:
+                  - /url: /de/fotos/ein-lila-felsen-sitzt-neben-einem-glas-wein-lmTi99xCBeE
+                  - img "Ein lila Felsen sitzt neben einem Glas Wein" [ref=e247]
+              - figure [ref=e248]:
+                - link "Zwei rohe mineralische Proben auf schwarzem Hintergrund" [ref=e251]:
+                  - /url: /de/fotos/zwei-rohe-mineralische-proben-auf-schwarzem-hintergrund-dpmHnHxM8g4
+                  - img "Zwei rohe mineralische Proben auf schwarzem Hintergrund" [ref=e252]
+              - figure [ref=e253]:
+                - link "ein weißer Kristall mit schwarzem Hintergrund" [ref=e256]:
+                  - /url: /de/fotos/ein-weisser-kristall-mit-schwarzem-hintergrund-mDI8ocaE_qU
+                  - img "ein weißer Kristall mit schwarzem Hintergrund" [ref=e257]
+              - figure [ref=e258]:
+                - link "Nahaufnahme von klarem Kristall" [ref=e261]:
+                  - /url: /de/fotos/nahaufnahme-von-klarem-kristall-SSoCY-Xi3iY
+                  - img "Nahaufnahme von klarem Kristall" [ref=e262]
+              - figure [ref=e263]:
+                - link "eine Person, die einen lila Stein in den Händen hält" [ref=e266]:
+                  - /url: /de/fotos/eine-person-die-einen-lila-stein-in-den-handen-halt-YM5uYyW4NfQ
+                  - img "eine Person, die einen lila Stein in den Händen hält" [ref=e267]
+              - figure [ref=e268]:
+                - link "braune Schokolade auf weißem Papier" [ref=e271]:
+                  - /url: /de/fotos/braune-schokolade-auf-weissem-papier-sTZEEuz0-wE
+                  - img "braune Schokolade auf weißem Papier" [ref=e272]
+          - generic [ref=e275]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e276]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e277]: "| Jetzt Rabatt sichern"
+            - generic [ref=e279]:
+              - link "Nahaufnahme eines rohen Pyritkristallminerals mit metallischem goldenem Glanz auf weißem Hintergrund." [ref=e280] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/close-up-of-raw-pyrite-crystal-mineral-specimen-with-metallic-golden-luster-on-white-gm2270412731-682927865?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Nahaufnahme eines rohen Pyritkristallminerals mit metallischem goldenem Glanz auf weißem Hintergrund." [ref=e281]
+              - link "Vesuvianit-Kristallcluster. Weißer Hintergrund." [ref=e282] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/vesuvianite-crystal-cluster-white-background-gm2267912101-680523166?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Vesuvianit-Kristallcluster. Weißer Hintergrund." [ref=e283]
+              - link "Englischer Efeu, Frühlingszwiebeln und süßes Basilikum, das in einem Glas Wasser auf einem Vintage-Kuchenständer aus blauem Depressionsglas wurzelt" [ref=e284] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/english-ivy-green-onion-sweet-basil-rooting-in-a-glass-of-water-on-top-of-a-vintage-gm2228126209-643944254?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Englischer Efeu, Frühlingszwiebeln und süßes Basilikum, das in einem Glas Wasser auf einem Vintage-Kuchenständer aus blauem Depressionsglas wurzelt" [ref=e285]
+              - link "Frische Frühlingszwiebeln und süßes Basilikum, die im Wasser wurzeln, auf einem Vintage-Tortenständer aus blauem Depressionsglas" [ref=e286] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/fresh-green-onion-sweet-basil-rooting-in-water-on-top-of-a-vintage-blue-depression-gm2227622819-643480526?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Frische Frühlingszwiebeln und süßes Basilikum, die im Wasser wurzeln, auf einem Vintage-Tortenständer aus blauem Depressionsglas" [ref=e287]
+              - link "3D-Illustrationen zur Kristallcluster-Mineralbildung" [ref=e288] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/crystal-cluster-mineral-formation-3d-illustrations-gm2270982942-683456122?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "3D-Illustrationen zur Kristallcluster-Mineralbildung" [ref=e289]
+              - link "Ein Vintage-Kupfersieb, gefüllt mit frischen, hydroponisch selbst angebauten Kräutern und Gemüsen, neben einer Kupfertasse Wasser in hellem, natürlichem Licht mit neutralem Hintergrund" [ref=e290] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/a-vintage-copper-strainer-filled-with-fresh-hydroponically-home-grown-herbs-greens-gm2227739036-643591776?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Ein Vintage-Kupfersieb, gefüllt mit frischen, hydroponisch selbst angebauten Kräutern und Gemüsen, neben einer Kupfertasse Wasser in hellem, natürlichem Licht mit neutralem Hintergrund" [ref=e291]
+              - link "Natürlicher Amethystkristallhaufen isoliert auf weißem Hintergrund" [ref=e292] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/natural-amethyst-crystal-cluster-isolated-on-white-background-gm2269773901-682313590?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Natürlicher Amethystkristallhaufen isoliert auf weißem Hintergrund" [ref=e293]
+              - generic [ref=e294]:
+                - link "Geodenkristall mit weißem und rosa Salz darauf" [ref=e295] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/geode-crystal-with-white-and-pink-salt-on-gm2265103666-677808523?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Geodenkristall mit weißem und rosa Salz darauf" [ref=e296]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e297] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-crystal-cluster&utm_term=raw+crystal+cluster%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=raw+crystal+cluster&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e301] [cursor=pointer]
+          - generic [ref=e302]:
+            - link [ref=e303] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e304]
+            - paragraph [ref=e306]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

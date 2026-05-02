@@ -1,0 +1,302 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Stein-Studio Inge Griss — zum Anfang" [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+        - img [ref=e6]
+      - button "Menü öffnen" [ref=e9] [cursor=pointer]
+  - main [ref=e13]:
+    - region "wir lieben steine." [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: Gold- und Silberschmuck · Edelsteine · Mineralien und Fossilien
+        - generic [ref=e17]: Lotharstrasse 8 · 55116 Mainz · Nähe Römerpassage
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: Mainz · 55116
+          - generic [ref=e21]: ·
+          - generic [ref=e22]: est. 1979
+          - generic [ref=e23]: ·
+          - generic [ref=e24]: Goldschmiedemeisterin
+        - heading "wir lieben steine." [level=1] [ref=e25]:
+          - generic [ref=e26]: wir lieben
+          - generic [ref=e27]: steine.
+        - generic [ref=e28]:
+          - img [ref=e29]
+          - generic [ref=e37]: Bergkristall · SiO₂ · Specimen N° 001
+        - paragraph [ref=e38]:
+          - text: Ein Studio im Herzen von Mainz für alle, die in einem Stein mehr sehen als ein Schmuckstück. Seit über vierzig Jahren bewahren, fassen und verkaufen wir das, was die Erde an Schönem hervorgebracht hat —
+          - emphasis [ref=e39]: Gold, Silber, Edelstein, Mineral, Fossil.
+        - generic [ref=e40]:
+          - link "Vier Welten betreten" [ref=e41] [cursor=pointer]:
+            - /url: "#welten"
+            - generic [ref=e42]: Vier Welten betreten
+          - link "Im Studio besuchen" [ref=e44] [cursor=pointer]:
+            - /url: "#besuch"
+    - region "Wir behandeln jeden Stein, als wäre er das einzige Exemplar seiner Art." [ref=e45]:
+      - generic [ref=e46]:
+        - paragraph [ref=e48]: Manifest · 1979
+        - heading "Wir behandeln jeden Stein, als wäre er das einzige Exemplar seiner Art." [level=2] [ref=e49]:
+          - text: Wir behandeln jeden Stein, als wäre er
+          - emphasis [ref=e50]: das einzige Exemplar
+          - text: seiner Art.
+        - generic [ref=e51]:
+          - paragraph [ref=e52]:
+            - text: Inge Griss hat das Studio in einer Zeit gegründet, als Mineralogie noch Wunderkammer hieß. Diese Haltung haben wir nie verloren. Bei uns gibt es keine Ware von der Stange — sondern
+            - emphasis [ref=e53]: Stücke
+            - text: ", jedes mit Herkunft, Charakter und einem kleinen Etikett."
+          - paragraph [ref=e54]: "Was wir verkaufen, könnten wir auch selbst nie hergeben: rohe Bergkristalle aus den Alpen, Smaragde mit Geschichte, eine 380 Millionen Jahre alte Trilobitenplatte. Und ja — wir fassen das Beste davon auch in Gold."
+    - region "Vier Welten unter einem Dach" [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]: § I
+          - heading "Vier Welten unter einem Dach" [level=2] [ref=e59]
+          - paragraph [ref=e60]: Die meisten Juweliere kennen Gold. Wir kennen Gold und Silber — und das Gestein, aus dem die Erde gemacht ist. Vier Sammlungen, eine Adresse.
+        - generic [ref=e61]:
+          - article [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]: I
+              - heading "Gold- & Silberschmuck" [level=3] [ref=e65]
+            - img [ref=e67]
+            - paragraph [ref=e72]: Klassiker, Anfertigungen und ausgewählte Trauringe. Wir fassen Steine, ändern Erbstücke und arbeiten an eigenen Entwürfen — vom feinen Goldring bis zum schweren Silberanhänger.
+            - list [ref=e73]:
+              - listitem [ref=e74]: Anfertigung
+              - listitem [ref=e75]: Trauringe
+              - listitem [ref=e76]: Erbstück-Aufarbeitung
+              - listitem [ref=e77]: Steinfassung
+          - article [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: II
+              - heading "Edelsteine" [level=3] [ref=e81]
+            - img [ref=e83]
+            - paragraph [ref=e87]: Geschliffen, kalibriert und ehrlich beschrieben. Smaragd, Saphir, Rubin, Turmalin, Aquamarin — und die seltenen Stücke, die nicht auf jeder Liste stehen.
+            - list [ref=e88]:
+              - listitem [ref=e89]: Lose Steine
+              - listitem [ref=e90]: Zertifizierung
+              - listitem [ref=e91]: Schliff-Beratung
+              - listitem [ref=e92]: Sammler-Stücke
+          - article [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e95]: III
+              - heading "Mineralien" [level=3] [ref=e96]
+            - img [ref=e98]
+            - paragraph [ref=e101]: Roh, ungeschliffen, manchmal millionen Jahre alt. Drusen, Kristallstufen, Achate. Stücke, bei denen man die Hand auflegen möchte, bevor man entscheidet.
+            - list [ref=e102]:
+              - listitem [ref=e103]: Drusen
+              - listitem [ref=e104]: Kristallstufen
+              - listitem [ref=e105]: Achate
+              - listitem [ref=e106]: Sammlungen
+          - article [ref=e107]:
+            - generic [ref=e108]:
+              - generic [ref=e109]: IV
+              - heading "Fossilien" [level=3] [ref=e110]
+            - img [ref=e112]
+            - paragraph [ref=e116]: "Was uns am meisten unterscheidet: ein Juwelier, der auch Fossilien führt. Ammoniten, Trilobiten, fossile Hölzer, einzeln katalogisiert — Wissenschaft zum Anfassen."
+            - list [ref=e117]:
+              - listitem [ref=e118]: Ammoniten
+              - listitem [ref=e119]: Trilobiten
+              - listitem [ref=e120]: Fossiles Holz
+              - listitem [ref=e121]: Datierung
+    - region "Aus der Sammlung" [ref=e122]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125]: § II
+          - heading "Aus der Sammlung" [level=2] [ref=e126]
+          - paragraph [ref=e127]:
+            - text: Ein Auszug. Was im Studio steht, wechselt — was gut ist, bleibt nie lange. Jedes Stück trägt sein Etikett. Wenn Sie etwas Bestimmtes suchen,
+            - link "rufen Sie an" [ref=e128] [cursor=pointer]:
+              - /url: tel:+4961312247000
+            - text: .
+        - generic [ref=e129]:
+          - 'figure "N° 001 Mineral Bergkristall-Stufe Quartz · SiO₂ Herkunft: Val Strem, Schweiz Klar, mit nadelförmigem Rutil-Einschluss." [ref=e130]':
+            - img [ref=e132]
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e138]: N° 001
+                - generic [ref=e139]: Mineral
+              - heading "Bergkristall-Stufe" [level=3] [ref=e140]
+              - paragraph [ref=e141]: Quartz · SiO₂
+              - paragraph [ref=e142]: "Herkunft: Val Strem, Schweiz"
+              - paragraph [ref=e143]: Klar, mit nadelförmigem Rutil-Einschluss.
+          - 'figure "N° 002 Edelstein Smaragd, oval Beryl · Be₃Al₂Si₆O₁₈ Herkunft: Muzo, Kolumbien 2,4 ct · jardin sichtbar, lebendig." [ref=e144]':
+            - img [ref=e146]
+            - generic [ref=e151]:
+              - generic [ref=e152]:
+                - generic [ref=e153]: N° 002
+                - generic [ref=e154]: Edelstein
+              - heading "Smaragd, oval" [level=3] [ref=e155]
+              - paragraph [ref=e156]: Beryl · Be₃Al₂Si₆O₁₈
+              - paragraph [ref=e157]: "Herkunft: Muzo, Kolumbien"
+              - paragraph [ref=e158]: 2,4 ct · jardin sichtbar, lebendig.
+          - 'figure "N° 003 Fossil Ammonit, geschnitten Cleoniceras · ca. 110 Mio. Jahre Herkunft: Mahajanga, Madagaskar Polierte Schnittfläche, calcifizierte Kammern." [ref=e159]':
+            - img [ref=e161]
+            - generic [ref=e168]:
+              - generic [ref=e169]:
+                - generic [ref=e170]: N° 003
+                - generic [ref=e171]: Fossil
+              - heading "Ammonit, geschnitten" [level=3] [ref=e172]
+              - paragraph [ref=e173]: Cleoniceras · ca. 110 Mio. Jahre
+              - paragraph [ref=e174]: "Herkunft: Mahajanga, Madagaskar"
+              - paragraph [ref=e175]: Polierte Schnittfläche, calcifizierte Kammern.
+          - figure "N° 004 Schmuck Solitärring, 750 Gold Eigene Anfertigung Studio Mainz · 2025 Brillant 0,72 ct, kissenförmige Fassung." [ref=e176]:
+            - img [ref=e178]
+            - generic [ref=e182]:
+              - generic [ref=e183]:
+                - generic [ref=e184]: N° 004
+                - generic [ref=e185]: Schmuck
+              - heading "Solitärring, 750 Gold" [level=3] [ref=e186]
+              - paragraph [ref=e187]: Eigene Anfertigung
+              - paragraph [ref=e188]: Studio Mainz · 2025
+              - paragraph [ref=e189]: Brillant 0,72 ct, kissenförmige Fassung.
+          - 'figure "N° 005 Mineral Amethyst-Druse Quartz var. amethyst Herkunft: Artigas, Uruguay Tieflila Spitzen, rohe Außenkruste." [ref=e190]':
+            - img [ref=e192]
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e198]: N° 005
+                - generic [ref=e199]: Mineral
+              - heading "Amethyst-Druse" [level=3] [ref=e200]
+              - paragraph [ref=e201]: Quartz var. amethyst
+              - paragraph [ref=e202]: "Herkunft: Artigas, Uruguay"
+              - paragraph [ref=e203]: Tieflila Spitzen, rohe Außenkruste.
+          - 'figure "N° 006 Fossil Trilobit auf Matrix Phacops rana · 380 Mio. Jahre Herkunft: Devon, Marokko Komplett erhalten, freipräpariert." [ref=e204]':
+            - img [ref=e206]
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - generic [ref=e213]: N° 006
+                - generic [ref=e214]: Fossil
+              - heading "Trilobit auf Matrix" [level=3] [ref=e215]
+              - paragraph [ref=e216]: Phacops rana · 380 Mio. Jahre
+              - paragraph [ref=e217]: "Herkunft: Devon, Marokko"
+              - paragraph [ref=e218]: Komplett erhalten, freipräpariert.
+        - paragraph [ref=e219]:
+          - text: Sie suchen ein bestimmtes Stück? Eine Trilobitenplatte für ein Geschenk, einen Smaragd zum Selbstfassen, einen Solitärring zur Verlobung — schreiben Sie uns auf
+          - link "#steinstudiogriss" [ref=e220] [cursor=pointer]:
+            - /url: https://instagram.com/explore/tags/steinstudiogriss
+          - text: oder kommen Sie vorbei. Lotharstrasse 8.
+    - region "Ein Studio, kein Geschäft." [ref=e221]:
+      - generic [ref=e222]:
+        - generic [ref=e223]:
+          - text: Atelier · Lotharstrasse 8 · Mainz
+          - img [ref=e224]
+        - generic [ref=e232]:
+          - paragraph [ref=e234]: § III · Atelier
+          - heading "Ein Studio, kein Geschäft." [level=2] [ref=e235]
+          - paragraph [ref=e236]: Inge Griss ist Goldschmiedemeisterin und seit den späten Siebzigern in Mainz — direkt neben der Römerpassage, nicht in einer Filiale, nicht in einem Shoppingcenter, sondern in einem Studio mit Werkbank, Wissen und Sammlung.
+          - paragraph [ref=e237]: Wer eintritt, wird nicht „bedient". Wir reden über das, was Sie bringen oder suchen — ein Erbstück das umgearbeitet werden soll, einen Stein der lange wartet, einen Geburtstag den ein Fossil begleiten soll. Beratung dauert hier so lange, wie sie dauern muss.
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - term [ref=e240]: Gründung
+              - definition [ref=e241]: "1979"
+            - generic [ref=e242]:
+              - term [ref=e243]: Werkstatt
+              - definition [ref=e244]: vor Ort
+            - generic [ref=e245]:
+              - term [ref=e246]: Spezialgebiet
+              - definition [ref=e247]: Steinfassung & Fossilien
+            - generic [ref=e248]:
+              - term [ref=e249]: Beratung
+              - definition [ref=e250]: nach Vereinbarung
+    - region "Besuch im Studio" [ref=e251]:
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e254]: § IV
+          - heading "Besuch im Studio" [level=2] [ref=e255]
+          - paragraph [ref=e256]: Drei Minuten zu Fuß von der Römerpassage. Wer Mainz kennt, findet uns ohne Karte. Wer nicht — folgen Sie der Lotharstrasse bis Nummer 8.
+        - generic [ref=e257]:
+          - article [ref=e258]:
+            - generic [ref=e259]: "01"
+            - heading "Adresse" [level=3] [ref=e260]
+            - paragraph [ref=e261]:
+              - text: Stein-Studio Inge Griss GmbH
+              - text: Lotharstrasse 8
+              - text: 55116 Mainz
+              - generic [ref=e262]: Nähe Römerpassage
+            - link "In Karten öffnen →" [ref=e263] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=Lotharstrasse+8,+55116+Mainz
+          - article [ref=e264]:
+            - generic [ref=e265]: "02"
+            - heading "Öffnungszeiten" [level=3] [ref=e266]
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - term [ref=e269]: Di · Mi · Do
+                - definition [ref=e270]: 10:00 – 18:00
+              - generic [ref=e271]:
+                - term [ref=e272]: Fr
+                - definition [ref=e273]: 10:00 – 18:00
+              - generic [ref=e274]:
+                - term [ref=e275]: Sa
+                - definition [ref=e276]: 10:00 – 14:00
+              - generic [ref=e277]:
+                - term [ref=e278]: So · Mo
+                - definition [ref=e279]: geschlossen
+            - paragraph [ref=e280]: Termine außerhalb dieser Zeiten gerne nach Vereinbarung.
+          - article [ref=e281]:
+            - generic [ref=e282]: "03"
+            - heading "Kontakt" [level=3] [ref=e283]
+            - list [ref=e284]:
+              - listitem [ref=e285]:
+                - generic [ref=e286]: Telefon
+                - link "06131 · 22 47 00" [ref=e287] [cursor=pointer]:
+                  - /url: tel:+4961312247000
+              - listitem [ref=e288]:
+                - generic [ref=e289]: Telefax
+                - generic [ref=e290]: 06131 · 23 01 05
+              - listitem [ref=e291]:
+                - generic [ref=e292]: Instagram
+                - link "#steinstudiogriss" [ref=e293] [cursor=pointer]:
+                  - /url: https://instagram.com/explore/tags/steinstudiogriss
+        - generic [ref=e294]:
+          - img [ref=e295]
+          - generic [ref=e309]:
+            - generic [ref=e310]: N° 8
+            - generic [ref=e311]: Lotharstrasse · Mainz
+    - region "Kontakt-Aufforderung" [ref=e312]:
+      - generic [ref=e313]:
+        - generic [ref=e314]: ·
+        - heading "Kommen Sie mit einer Idee. Gehen Sie mit einem Stein." [level=2] [ref=e315]
+        - generic [ref=e316]:
+          - link "06131 · 22 47 00" [ref=e317] [cursor=pointer]:
+            - /url: tel:+4961312247000
+            - generic [ref=e318]: 06131 · 22 47 00
+          - link "#steinstudiogriss" [ref=e319] [cursor=pointer]:
+            - /url: https://instagram.com/explore/tags/steinstudiogriss
+  - contentinfo [ref=e320]:
+    - generic [ref=e321]:
+      - generic [ref=e322]:
+        - img [ref=e324]
+        - paragraph [ref=e327]: Stein-Studio Inge Griss GmbH
+        - paragraph [ref=e328]: wir lieben steine.
+      - generic [ref=e329]:
+        - generic [ref=e330]:
+          - heading "Studio" [level=4] [ref=e331]
+          - paragraph [ref=e332]:
+            - text: Lotharstrasse 8
+            - text: 55116 Mainz
+            - text: Nähe Römerpassage
+        - generic [ref=e333]:
+          - heading "Kontakt" [level=4] [ref=e334]
+          - paragraph [ref=e335]:
+            - text: Tel
+            - link "06131 · 22 47 00" [ref=e336] [cursor=pointer]:
+              - /url: tel:+4961312247000
+            - text: Fax 06131 · 23 01 05
+            - link "#steinstudiogriss" [ref=e337] [cursor=pointer]:
+              - /url: https://instagram.com/explore/tags/steinstudiogriss
+        - generic [ref=e338]:
+          - heading "Sammlung" [level=4] [ref=e339]
+          - paragraph [ref=e340]:
+            - text: Gold- & Silberschmuck
+            - text: Edelsteine
+            - text: Mineralien
+            - text: Fossilien
+        - generic [ref=e341]:
+          - heading "Rechtliches" [level=4] [ref=e342]
+          - paragraph [ref=e343]:
+            - link "Impressum" [ref=e344] [cursor=pointer]:
+              - /url: "#"
+            - link "Datenschutz" [ref=e345] [cursor=pointer]:
+              - /url: "#"
+            - link "AGB" [ref=e346] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e347]:
+        - paragraph [ref=e348]: © 2026 · Stein-Studio Inge Griss GmbH · Mainz
+        - paragraph [ref=e349]: Goldschmiedemeisterin · Mineralien- und Fossilienhandel

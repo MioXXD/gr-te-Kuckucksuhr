@@ -1,0 +1,676 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "Waldorf Logo" [ref=e3]
+    - generic [ref=e4]: Waldorfschule Wiesbaden
+    - generic [ref=e6]: Freie Waldorfschule · seit 1985
+  - generic:
+    - img
+  - navigation [ref=e7]:
+    - link "Waldorfschule Wiesbaden Logo Waldorfschule Wiesbaden Freie Waldorfschule" [ref=e8] [cursor=pointer]:
+      - /url: index.html
+      - img "Waldorfschule Wiesbaden Logo" [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: Waldorfschule Wiesbaden
+        - generic [ref=e13]: Freie Waldorfschule
+    - list [ref=e14]:
+      - listitem [ref=e15]:
+        - link "Unsere Schule" [ref=e16] [cursor=pointer]:
+          - /url: "#philosophy"
+        - list:
+          - listitem:
+            - link "Waldorfpädagogik":
+              - /url: paedagogik.html
+          - listitem:
+            - link "Hauptunterricht & Epochen":
+              - /url: paedagogik.html#hauptunterricht
+          - listitem:
+            - link "Schulstufen 1–13":
+              - /url: "#stufen"
+          - listitem:
+            - link "Abschlüsse":
+              - /url: "#abschluesse"
+          - listitem:
+            - link "Projekte & Schulleben":
+              - /url: schulleben.html
+          - listitem:
+            - link "Feste im Jahreslauf":
+              - /url: schulleben.html#feste
+          - listitem:
+            - link "Praktika & Berufsleben":
+              - /url: praktika-beruf.html
+          - listitem:
+            - link "Unterstützen & Fördern":
+              - /url: foerdern.html
+          - listitem:
+            - link "Leitung & Trägerschaft":
+              - /url: leitung.html
+          - listitem:
+            - link "Galerie":
+              - /url: "#gallery-sec"
+          - listitem:
+            - link "Podcast":
+              - /url: "#podcast"
+          - listitem:
+            - link "Ganztagsbetreuung":
+              - /url: "#ganztag"
+          - listitem:
+            - link "Standort & Campus":
+              - /url: "#kontakt"
+      - listitem [ref=e17]:
+        - link "Termine" [ref=e18] [cursor=pointer]:
+          - /url: termine.html
+        - list:
+          - listitem:
+            - link "Öffentliche Veranstaltungen":
+              - /url: termine.html
+          - listitem:
+            - link "Klassenspiel 8. Klasse":
+              - /url: termine.html#klassenspiel
+          - listitem:
+            - link "Tag der offenen Tür":
+              - /url: termine.html#tdt
+          - listitem:
+            - link "Feste im Jahreslauf":
+              - /url: schulleben.html#feste
+      - listitem [ref=e19]:
+        - link "Service" [ref=e20] [cursor=pointer]:
+          - /url: service.html
+        - list:
+          - listitem:
+            - link "Anmeldung":
+              - /url: service-anmeldung.html
+          - listitem:
+            - link "Schulbeitrag":
+              - /url: service-schulbeitrag.html
+          - listitem:
+            - link "Schulküche & Mensa":
+              - /url: service-mensa.html
+          - listitem:
+            - link "Wegbeschreibung":
+              - /url: service-wegbeschreibung.html
+          - listitem:
+            - link "Alumni":
+              - /url: service-alumni.html
+      - listitem [ref=e21]:
+        - link "Offene Stellen" [ref=e22] [cursor=pointer]:
+          - /url: offene-stellen.html
+        - list:
+          - listitem:
+            - link "Stellenangebote":
+              - /url: offene-stellen-stellenangebote.html
+          - listitem:
+            - link "Freiwilligendienste":
+              - /url: offene-stellen-freiwilligendienste.html
+          - listitem:
+            - link "Praktikant:innen":
+              - /url: offene-stellen-praktikanten.html
+      - listitem [ref=e23]:
+        - link "Presse" [ref=e24] [cursor=pointer]:
+          - /url: presse.html
+        - list:
+          - listitem:
+            - link "Presseschau":
+              - /url: presse.html#presseschau
+          - listitem:
+            - link "Pressemitteilungen":
+              - /url: presse.html#pressemitteilungen
+      - listitem [ref=e25]:
+        - link "Links" [ref=e26] [cursor=pointer]:
+          - /url: links.html
+      - listitem [ref=e27]:
+        - link "Kontakt" [ref=e28] [cursor=pointer]:
+          - /url: "#kontakt"
+      - listitem [ref=e29]:
+        - link "Anmeldung" [ref=e30] [cursor=pointer]:
+          - /url: service-anmeldung.html
+    - generic [ref=e31]:
+      - button "Suche öffnen" [ref=e32] [cursor=pointer]:
+        - img [ref=e33]
+        - generic [ref=e36]: Suche
+      - combobox:
+        - searchbox "Website durchsuchen"
+      - listbox "Suchergebnisse"
+  - generic [ref=e37]:
+    - img "Eingang Freie Waldorfschule Wiesbaden im Morgennebel" [ref=e39]
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e45]: Freie Waldorfschule Wiesbaden — seit 1985
+        - heading "Bildung, die den ganzen Menschen entfaltet." [level=1] [ref=e46]:
+          - text: Bildung, die den
+          - emphasis [ref=e47]: ganzen Menschen
+          - text: entfaltet.
+        - generic [ref=e48]:
+          - link "Jetzt anmelden" [ref=e49] [cursor=pointer]:
+            - /url: "#anmeldung"
+          - link "Unsere Philosophie" [ref=e50] [cursor=pointer]:
+            - /url: "#philosophy"
+            - text: Unsere Philosophie
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]: ca. 450
+          - generic [ref=e56]: Schülerinnen & Schüler
+        - generic [ref=e57]:
+          - generic [ref=e58]: Seit 1985
+          - generic [ref=e59]: In Biebrich seit 1991
+        - generic [ref=e60]:
+          - generic [ref=e61]: Kl. 1–13
+          - generic [ref=e62]: G9 mit Abitur
+  - generic [ref=e64]:
+    - generic [ref=e65]: Kopf · Herz · Hand
+    - generic [ref=e66]: ·
+    - generic [ref=e67]: Klasse 1–13
+    - generic [ref=e68]: ·
+    - generic [ref=e69]: Abitur · Fachhochschulreife · Realschulabschluss
+    - generic [ref=e70]: ·
+    - generic [ref=e71]: Englisch & Französisch ab Klasse 1
+    - generic [ref=e72]: ·
+    - generic [ref=e73]: Einzügige Schule · ca. 450 Schüler
+    - generic [ref=e74]: ·
+    - generic [ref=e75]: Ganztagsbetreuung Kl. 1–8
+    - generic [ref=e76]: ·
+    - generic [ref=e77]: Waldorfpädagogik nach Rudolf Steiner
+    - generic [ref=e78]: ·
+    - generic [ref=e79]: Biebrich · Wiesbaden seit 1985
+    - generic [ref=e80]: ·
+    - generic [ref=e81]: Tag der offenen Tür · 9. Mai 2026
+    - generic [ref=e82]: ·
+    - generic [ref=e83]: Kopf · Herz · Hand
+    - generic [ref=e84]: ·
+    - generic [ref=e85]: Klasse 1–13
+    - generic [ref=e86]: ·
+    - generic [ref=e87]: Abitur · Fachhochschulreife · Realschulabschluss
+    - generic [ref=e88]: ·
+    - generic [ref=e89]: Englisch & Französisch ab Klasse 1
+    - generic [ref=e90]: ·
+    - generic [ref=e91]: Einzügige Schule · ca. 450 Schüler
+    - generic [ref=e92]: ·
+    - generic [ref=e93]: Ganztagsbetreuung Kl. 1–8
+    - generic [ref=e94]: ·
+    - generic [ref=e95]: Waldorfpädagogik nach Rudolf Steiner
+    - generic [ref=e96]: ·
+    - generic [ref=e97]: Biebrich · Wiesbaden seit 1985
+    - generic [ref=e98]: ·
+    - generic [ref=e99]: Tag der offenen Tür · 9. Mai 2026
+    - generic [ref=e100]: ·
+  - generic [ref=e101]:
+    - generic [ref=e102]:
+      - paragraph [ref=e103]: Seit über 40 Jahren begleiten wir Kinder in Wiesbaden auf einem Bildungsweg, der Intellekt, Gefühl und Tatkraft gleichermaßen stärkt — und mit staatlich anerkanntem Abitur abschließt.
+      - generic [ref=e104]: Waldorfpädagogik · Rudolf Steiner
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - img
+        - generic: "01"
+        - generic [ref=e107]: "01"
+        - generic [ref=e108]: Kopf
+        - paragraph [ref=e110]: Denken, Urteilen, Verstehen — wir wecken echte Neugier und fördern eigenständiges Denken von Klasse 1 bis zum Abitur.
+      - generic [ref=e111]:
+        - img
+        - generic: "02"
+        - generic [ref=e112]: "02"
+        - generic [ref=e113]: Herz
+        - paragraph [ref=e115]: Empfinden, Gestalten, Erleben — Musik, Kunst und Eurythmie sind kein Anhang, sie sind der Kern unserer Pädagogik.
+      - generic [ref=e116]:
+        - img
+        - generic: "03"
+        - generic [ref=e117]: "03"
+        - generic [ref=e118]: Hand
+        - paragraph [ref=e120]: Tun, Bauen, Ernten — handwerkliches Arbeiten, Gartenarbeit und Praktika verankern das Lernen in echter Wirklichkeit.
+  - generic [ref=e121]:
+    - text: „
+    - generic [ref=e124]:
+      - generic [ref=e125]: Waldorfpädagogik · Rudolf Steiner
+      - blockquote [ref=e126]:
+        - generic [ref=e127]: „Empfange die Kinder in Ehrfurcht,
+        - generic [ref=e128]: erziehe sie in Liebe,
+        - generic [ref=e129]: entlasse sie in Freiheit."
+      - generic [ref=e130]: — Rudolf Steiner, Begründer der Waldorfpädagogik
+  - generic [ref=e131]:
+    - img "Schulgemeinschaft — Schüler stehen gemeinsam im Kreis auf der Wiese" [ref=e133] [cursor=pointer]
+    - generic [ref=e134]:
+      - generic [ref=e137]: Gemeinschaft
+      - heading "Lernen entsteht im Miteinander." [level=2] [ref=e138]:
+        - text: Lernen entsteht
+        - text: im
+        - emphasis [ref=e139]: Miteinander.
+      - paragraph [ref=e140]: Unsere Schulgemeinschaft trägt die Schule. Eltern, Lehrer und Schüler gestalten gemeinsam einen Ort, an dem jedes Kind gesehen, gefördert und gefordert wird — vom ersten Schultag bis zur Abschlussfeier.
+      - generic [ref=e141]:
+        - paragraph [ref=e142]: „Das Ziel der Waldorfpädagogik ist, aus Kindern Menschen zu machen, die sich selbst zu erziehen vermögen."
+        - generic [ref=e143]: — Rudolf Steiner
+      - img "Eurythmie — Bewegungskunst an der Waldorfschule" [ref=e145]
+  - generic [ref=e146]:
+    - generic [ref=e147]:
+      - img "Handwerk — Meister beim Hobeln" [ref=e148]
+      - generic [ref=e150]:
+        - generic [ref=e151]: Werkstatt
+        - heading "Das Handwerk" [level=3] [ref=e152]
+        - paragraph [ref=e153]: Holz, Stein, Metall — Schüler arbeiten mit ihren Händen und erleben, was es bedeutet, etwas Echtes zu schaffen.
+    - generic [ref=e154]:
+      - img "Zimmermann in der Werkstatt — Gemälde" [ref=e155]
+      - generic [ref=e157]:
+        - generic [ref=e158]: Kunstunterricht
+        - heading "Die Kunst" [level=3] [ref=e159]
+        - paragraph [ref=e160]: Plastizieren, Malen, Formen — künstlerisches Gestalten schult Wahrnehmung, Ausdruck und Willenskraft.
+  - generic [ref=e161]:
+    - img [ref=e163]
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - img [ref=e168]
+        - heading "Kopf" [level=3] [ref=e171]
+        - paragraph [ref=e172]: Denken, Urteilen, Verstehen
+      - generic [ref=e173]:
+        - img [ref=e175]
+        - heading "Herz" [level=3] [ref=e177]
+        - paragraph [ref=e178]: Empfinden, Gestalten, Erleben
+      - generic [ref=e179]:
+        - img [ref=e181]
+        - heading "Hand" [level=3] [ref=e186]
+        - paragraph [ref=e187]: Tun, Bauen, Erschaffen
+      - generic [ref=e188]:
+        - img [ref=e190]
+        - heading "Natur" [level=3] [ref=e192]
+        - paragraph [ref=e193]: Garten, Wald, Jahreszeiten
+      - generic [ref=e194]:
+        - img [ref=e196]
+        - heading "Gemeinschaft" [level=3] [ref=e199]
+        - paragraph [ref=e200]: Miteinander, Vertrauen, Wachsen
+    - img [ref=e202]
+  - generic [ref=e204]:
+    - img "Schulgelände — Sonniger Weg im Morgenlicht" [ref=e205]
+    - generic [ref=e207]:
+      - heading "Unser Campus in Wiesbaden" [level=3] [ref=e208]:
+        - text: Unser Campus
+        - text: in Wiesbaden
+      - paragraph [ref=e209]: Albert-Schweitzer-Allee 42 · 65203 Wiesbaden
+  - generic [ref=e210]:
+    - generic [ref=e211]:
+      - generic [ref=e212]:
+        - generic [ref=e213]: Schulleben
+        - heading "Ein Blick hinter die Kulissen" [level=2] [ref=e214]:
+          - text: Ein Blick
+          - text: hinter die Kulissen
+      - paragraph [ref=e215]: Impressionen aus dem Schulalltag — Werkstatt, Natur, Kunst und Gemeinschaft.
+    - generic [ref=e216]:
+      - img "Schulveranstaltung im Freien" [ref=e218] [cursor=pointer]
+      - img "Wildblumen im Schulgarten" [ref=e220] [cursor=pointer]
+      - img "Kinder auf dem Gartenweg" [ref=e222] [cursor=pointer]
+      - img "Nebliger Morgen auf dem Schulgelände" [ref=e224] [cursor=pointer]
+      - img "Pavillon im Schulgarten" [ref=e226] [cursor=pointer]
+      - img "Schafe auf der Schulweide im goldenen Abendlicht" [ref=e228] [cursor=pointer]
+  - generic [ref=e229]:
+    - generic [ref=e230]:
+      - img [ref=e232]
+      - heading "Ganztagsbetreuung" [level=3] [ref=e235]
+      - paragraph [ref=e236]: Für Klassen 1–8 bieten wir eine gebührenpflichtige Ganztagsbetreuung bis 17:00 Uhr an — mit Mittagessen aus unserer eigenen Schulküche.
+      - link "Mehr erfahren →" [ref=e237] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/unsere-schule/ganztagsbetreuung
+    - generic [ref=e238]:
+      - img [ref=e240]
+      - heading "Unser Podcast" [level=3] [ref=e243]
+      - paragraph [ref=e244]: Zwölftklässler sprechen im Interview über ihre Schulerfahrungen, die Vorbereitung auf das Berufsleben und was die Waldorfpädagogik für sie bedeutet.
+      - link "Zum Podcast →" [ref=e245] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/unsere-schule/podcast
+    - generic [ref=e246]:
+      - img [ref=e248]
+      - heading "Jede Stunde zählt" [level=3] [ref=e252]
+      - paragraph [ref=e253]: Wir suchen engagierte Lehrerinnen und Lehrer sowie Mitarbeiter für Praktika und Freiwilligendienste. Werden Sie Teil unserer Schulgemeinschaft.
+      - link "Stellenangebote →" [ref=e254] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/offene-stellen
+    - generic [ref=e255]:
+      - img [ref=e257]
+      - heading "Alumni-Netzwerk" [level=3] [ref=e260]
+      - paragraph [ref=e261]: Einmal Waldorfschüler, immer Teil unserer Gemeinschaft. Bleiben Sie in Kontakt, teilen Sie Ihre Geschichte und unterstützen Sie aktuelle Schüler.
+      - link "Alumni-Kontakt →" [ref=e262] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/service-download/alumni
+  - generic [ref=e263]:
+    - generic [ref=e264]:
+      - generic [ref=e265]: "0"
+      - generic [ref=e266]:
+        - text: Schülerinnen
+        - text: "& Schüler"
+    - generic [ref=e267]:
+      - generic [ref=e268]: "0"
+      - generic [ref=e269]:
+        - text: Jahre in
+        - text: Wiesbaden
+    - generic [ref=e270]:
+      - generic [ref=e271]: "0"
+      - generic [ref=e272]:
+        - text: Engagierte
+        - text: Lehrerinnen & Lehrer
+    - generic [ref=e273]:
+      - generic [ref=e274]: 0%
+      - generic [ref=e275]:
+        - text: Erfolgreiche
+        - text: Abschlüsse
+  - generic [ref=e276]:
+    - generic [ref=e277]:
+      - generic [ref=e280]: Schulstufen
+      - heading "Von Klasse 1 bis zum Abitur" [level=2] [ref=e281]:
+        - text: Von Klasse 1
+        - text: bis zum Abitur
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - img "Unterstufe — Kind in der Natur" [ref=e285]
+        - generic [ref=e286]: I
+        - generic [ref=e287]:
+          - generic [ref=e288]: Klassen 1–4
+          - heading "Unterstufe" [level=3] [ref=e289]
+          - paragraph [ref=e291]: Die Welt als lebendiges Ganzes. Lernen durch Bilder, Rhythmus und Geschichten in geborgener Klassengemeinschaft. Keine Noten in den ersten Jahren.
+      - generic [ref=e292]:
+        - img "Mittelstufe — Schüler gemeinsam im Kreis" [ref=e294]
+        - generic [ref=e295]: II
+        - generic [ref=e296]:
+          - generic [ref=e297]: Klassen 5–8
+          - heading "Mittelstufe" [level=3] [ref=e298]
+          - paragraph [ref=e300]: Von der Mythologie zur Geschichte, von der Natur zur Physik. Denken wird selbstständiger — begleitet von denselben Klassenlehrern durch alle Jahre.
+      - generic [ref=e301]:
+        - img "Oberstufe — Schülerinnen und Schüler" [ref=e303]
+        - generic [ref=e304]: III
+        - generic [ref=e305]:
+          - generic [ref=e306]: Klassen 9–13
+          - heading "Oberstufe & Abitur" [level=3] [ref=e307]
+          - paragraph [ref=e309]: Epochenunterricht, Praktika, Projekte — und am Ende das staatlich anerkannte Abitur. Wir öffnen alle Türen für den nächsten Lebensschritt.
+  - generic [ref=e310]:
+    - generic [ref=e311]:
+      - generic [ref=e314]: Staatlich anerkannt
+      - heading "Alle Abschlüsse unter einem Dach." [level=2] [ref=e315]:
+        - text: Alle Abschlüsse
+        - text: unter einem Dach.
+      - paragraph [ref=e316]: Als anerkannte Ersatzschule mit staatlich genehmigter gymnasialer Oberstufe bieten wir alle Schulabschlüsse nach dem G9-Modell.
+    - generic [ref=e317]:
+      - generic [ref=e318]:
+        - img [ref=e320]
+        - generic [ref=e322]: Hauptschulabschluss
+        - generic [ref=e323]: Ende Klasse 9
+        - paragraph [ref=e324]: Für Schüler, die nach der 9. Klasse in Ausbildung oder Beruf einsteigen möchten.
+      - generic [ref=e325]:
+        - img [ref=e327]
+        - generic [ref=e330]: Realschulabschluss
+        - generic [ref=e331]: Ende Klasse 10
+        - paragraph [ref=e332]: Mittlerer Bildungsabschluss mit breiten Möglichkeiten für Ausbildung und Weiterqualifizierung.
+      - generic [ref=e333]:
+        - img [ref=e335]
+        - generic [ref=e338]: Fachhochschulreife
+        - generic [ref=e339]: Ende Klasse 12
+        - paragraph [ref=e340]: Öffnet den Weg zur Fachhochschule und zu anspruchsvollen Berufsausbildungen.
+      - generic [ref=e341]:
+        - img [ref=e343]
+        - generic [ref=e345]: Abitur (G9)
+        - generic [ref=e346]: Ende Klasse 13
+        - paragraph [ref=e347]: Staatlich anerkanntes Abitur nach G9 — allgemeine Hochschulreife für alle Universitäten.
+    - generic [ref=e348]:
+      - img [ref=e350]
+      - generic [ref=e353]:
+        - generic [ref=e354]: Zwei Fremdsprachen ab der 1. Klasse
+        - generic [ref=e355]: Englisch und Französisch — von Anfang an, spielerisch und ohne Noten in den ersten Jahren.
+  - generic [ref=e356]:
+    - generic [ref=e357]:
+      - generic [ref=e358]:
+        - generic [ref=e361]: Veranstaltungen
+        - heading "Kommende Termine" [level=2] [ref=e362]:
+          - text: Kommende
+          - text: Termine
+      - link "Alle Termine" [ref=e363] [cursor=pointer]:
+        - /url: "#"
+        - text: Alle Termine
+        - img [ref=e364]
+    - generic [ref=e366]:
+      - link "26 Mär 2026 Klassenspiel der 8. Klasse — „Was Ihr wollt\" William Shakespeare · 26.–27. März 2026 · Aula" [ref=e367] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/termine
+        - generic [ref=e368]:
+          - text: "26"
+          - generic [ref=e369]: Mär 2026
+        - generic [ref=e370]:
+          - generic [ref=e371]: Klassenspiel der 8. Klasse — „Was Ihr wollt"
+          - generic [ref=e372]: William Shakespeare · 26.–27. März 2026 · Aula
+        - img [ref=e373]
+      - link "28 Mär 2026 Osterferien 28. März – 12. April 2026 · Schulfreie Zeit" [ref=e375] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e376]:
+          - text: "28"
+          - generic [ref=e377]: Mär 2026
+        - generic [ref=e378]:
+          - generic [ref=e379]: Osterferien
+          - generic [ref=e380]: 28. März – 12. April 2026 · Schulfreie Zeit
+        - img [ref=e381]
+      - link "22 Apr 2026 Präsentation Sozialpraktikum — 11. Klasse 22. April 2026 · Schüler berichten über ihr Sozialpraktikum" [ref=e383] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e384]:
+          - text: "22"
+          - generic [ref=e385]: Apr 2026
+        - generic [ref=e386]:
+          - generic [ref=e387]: Präsentation Sozialpraktikum — 11. Klasse
+          - generic [ref=e388]: 22. April 2026 · Schüler berichten über ihr Sozialpraktikum
+        - img [ref=e389]
+      - link "20 Apr 2026 Landwirtschaftspraktikum — 9. Klasse 20. April – 8. Mai 2026 · Praktische Erfahrung auf dem Bauernhof" [ref=e391] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e392]:
+          - text: "20"
+          - generic [ref=e393]: Apr 2026
+        - generic [ref=e394]:
+          - generic [ref=e395]: Landwirtschaftspraktikum — 9. Klasse
+          - generic [ref=e396]: 20. April – 8. Mai 2026 · Praktische Erfahrung auf dem Bauernhof
+        - img [ref=e397]
+      - link "09 Mai 2026 Tag der offenen Tür & Frühlingsmarkt Ab 10:00 Uhr · Alle Interessierten herzlich willkommen" [ref=e399] [cursor=pointer]:
+        - /url: https://www.waldorfschule-wiesbaden.de/termine
+        - generic [ref=e400]:
+          - text: "09"
+          - generic [ref=e401]: Mai 2026
+        - generic [ref=e402]:
+          - generic [ref=e403]: Tag der offenen Tür & Frühlingsmarkt
+          - generic [ref=e404]: Ab 10:00 Uhr · Alle Interessierten herzlich willkommen
+        - img [ref=e405]
+  - generic [ref=e407]:
+    - generic [ref=e408]:
+      - generic [ref=e411]: Anmeldung
+      - heading "Ihr Kind gehört dazu." [level=2] [ref=e412]:
+        - text: Ihr Kind
+        - text: gehört
+        - emphasis [ref=e413]: dazu.
+      - paragraph [ref=e414]:
+        - text: Kinder können angemeldet werden, wenn sie im Einschulungsjahr bis zum 31. August ihr 6. Lebensjahr vollenden. Anmeldeschluss für die 1. Klasse ist jeweils der
+        - strong [ref=e415]: 31. Oktober des Vorjahres.
+      - generic [ref=e416]:
+        - img [ref=e418]
+        - generic [ref=e421]:
+          - generic [ref=e422]: Anmeldeschluss 2026/27
+          - generic [ref=e423]: 31. Oktober 2026
+      - generic [ref=e424]:
+        - link "Veranstaltung Informationsabend besuchen" [ref=e425] [cursor=pointer]:
+          - /url: https://www.waldorfschule-wiesbaden.de/unsere-schule/treffpunkte
+          - generic [ref=e426]:
+            - generic [ref=e427]: Veranstaltung
+            - generic [ref=e428]: Informationsabend besuchen
+          - img [ref=e429]
+        - link "Schulbesuch Hospitationstag anfragen" [ref=e431] [cursor=pointer]:
+          - /url: mailto:info@waldorfschule-wiesbaden.de
+          - generic [ref=e432]:
+            - generic [ref=e433]: Schulbesuch
+            - generic [ref=e434]: Hospitationstag anfragen
+          - img [ref=e435]
+        - link "Download Anmeldeformular herunterladen" [ref=e437] [cursor=pointer]:
+          - /url: https://www.waldorfschule-wiesbaden.de/service-download/anmeldung
+          - generic [ref=e438]:
+            - generic [ref=e439]: Download
+            - generic [ref=e440]: Anmeldeformular herunterladen
+          - img [ref=e441]
+    - generic [ref=e443]:
+      - generic [ref=e444]: Anmeldeanfrage
+      - generic [ref=e445]: Wir melden uns innerhalb von 24 Stunden.
+      - generic [ref=e446]:
+        - generic [ref=e447]:
+          - generic [ref=e448]: Vorname
+          - textbox "Ihr Vorname" [ref=e449]
+        - generic [ref=e450]:
+          - generic [ref=e451]: Nachname
+          - textbox "Ihr Nachname" [ref=e452]
+      - generic [ref=e453]:
+        - generic [ref=e454]: E-Mail
+        - textbox "ihre@email.de" [ref=e455]
+      - generic [ref=e456]:
+        - generic [ref=e457]: Telefon
+        - textbox "0611 – xxxxxx" [ref=e458]
+      - generic [ref=e459]:
+        - generic [ref=e460]:
+          - generic [ref=e461]: Name des Kindes
+          - textbox "Vorname" [ref=e462]
+        - generic [ref=e463]:
+          - generic [ref=e464]: Gewünschte Klasse
+          - combobox [ref=e465]:
+            - option "Klasse 1" [selected]
+            - option "Klasse 2"
+            - option "Klasse 3"
+            - option "Klasse 4"
+            - option "Klasse 5"
+            - option "Klasse 6"
+            - option "Klasse 7"
+            - option "Klasse 8"
+            - option "Oberstufe (9–13)"
+      - button "Anfrage absenden →" [ref=e466] [cursor=pointer]
+  - generic [ref=e469]: Wir stehen für Vielfalt
+  - generic [ref=e470]:
+    - generic [ref=e471]:
+      - generic [ref=e474]: Campus · Lageplan
+      - heading "Unser Campus in Wiesbaden" [level=2] [ref=e475]:
+        - text: Unser Campus
+        - text: in Wiesbaden
+      - paragraph [ref=e476]:
+        - text: Albert-Schweitzer-Allee 42 · 65203 Wiesbaden-Biebrich
+        - text: Klicken Sie auf einen Bereich oder einen Legendeneintrag.
+    - generic [ref=e478]:
+      - img "Lageplan der Freien Waldorfschule Wiesbaden"
+      - generic:
+        - button "Unterstufe" [ref=e479] [cursor=pointer]
+        - button "Altbau" [ref=e482] [cursor=pointer]
+        - button "Mensa" [ref=e485] [cursor=pointer]
+        - button "Gartenbau & Werkstatt" [ref=e488] [cursor=pointer]
+        - button "Mittelstufe" [ref=e491] [cursor=pointer]
+        - button "Handarbeiten" [ref=e494] [cursor=pointer]
+        - button "Turnhalle" [ref=e497] [cursor=pointer]
+    - generic [ref=e500]:
+      - button "Unterstufe" [ref=e501] [cursor=pointer]: Unterstufe
+      - button "Altbau" [ref=e503] [cursor=pointer]: Altbau
+      - button "Mensa" [ref=e505] [cursor=pointer]: Mensa
+      - button "Gartenbau & Werkstatt" [ref=e507] [cursor=pointer]: Gartenbau & Werkstatt
+      - button "Mittelstufe" [ref=e509] [cursor=pointer]: Mittelstufe
+      - button "Handarbeiten" [ref=e511] [cursor=pointer]: Handarbeiten
+      - button "Turnhalle" [ref=e513] [cursor=pointer]: Turnhalle
+    - button "Gesamtansicht":
+      - img
+      - text: Gesamtansicht
+    - region:
+      - button "Schließen":
+        - img
+  - generic [ref=e515]:
+    - generic [ref=e516]:
+      - heading "Kontakt" [level=3] [ref=e517]
+      - generic [ref=e518]:
+        - generic [ref=e519]: Adresse
+        - generic [ref=e520]:
+          - text: Albert-Schweitzer-Allee 42
+          - text: 65203 Wiesbaden-Biebrich
+      - generic [ref=e521]:
+        - generic [ref=e522]: Telefon
+        - link "0611 – 60 70 80" [ref=e524] [cursor=pointer]:
+          - /url: tel:+496116070800
+      - generic [ref=e525]:
+        - generic [ref=e526]: Fax
+        - generic [ref=e527]: 0611 – 60 70 810
+      - generic [ref=e528]:
+        - generic [ref=e529]: E-Mail
+        - link "info@waldorfschule-wiesbaden.de" [ref=e531] [cursor=pointer]:
+          - /url: mailto:info@waldorfschule-wiesbaden.de
+      - generic [ref=e532]:
+        - generic [ref=e533]: Sekretariat
+        - generic [ref=e534]: "Mo–Fr: 8:00–12:00 Uhr"
+      - generic [ref=e535]:
+        - generic [ref=e536]: Instagram
+        - link "@freiewaldorfschulewiesbaden" [ref=e538] [cursor=pointer]:
+          - /url: https://www.instagram.com/freiewaldorfschulewiesbaden
+    - generic [ref=e539]:
+      - heading "Navigation" [level=3] [ref=e540]
+      - list [ref=e541]:
+        - listitem [ref=e542]:
+          - link "→ Unsere Schule" [ref=e543] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e544]:
+          - link "→ Waldorfpädagogik" [ref=e545] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e546]:
+          - link "→ Termine" [ref=e547] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e548]:
+          - link "→ Service & Download" [ref=e549] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e550]:
+          - link "→ Presse" [ref=e551] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e552]:
+          - link "→ Offene Stellen" [ref=e553] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e554]:
+          - link "→ Alumni" [ref=e555] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e556]:
+          - link "→ Schule unterstützen" [ref=e557] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=e558]:
+      - heading "Offene Stellen" [level=3] [ref=e559]
+      - list [ref=e560]:
+        - listitem [ref=e561]:
+          - link "→ Stellenangebote" [ref=e562] [cursor=pointer]:
+            - /url: https://www.waldorfschule-wiesbaden.de/offene-stellen/stellenangebote
+        - listitem [ref=e563]:
+          - link "→ Praktikantenstellen" [ref=e564] [cursor=pointer]:
+            - /url: https://www.waldorfschule-wiesbaden.de/offene-stellen/praktika
+        - listitem [ref=e565]:
+          - link "→ Freiwilligendienste (FSJ)" [ref=e566] [cursor=pointer]:
+            - /url: https://www.waldorfschule-wiesbaden.de/offene-stellen/freiwilligendienste
+      - generic [ref=e567]:
+        - heading "Folgen Sie uns" [level=3] [ref=e568]
+        - list [ref=e569]:
+          - listitem [ref=e570]:
+            - link "→ Instagram · @freiewaldorfschulewiesbaden" [ref=e571] [cursor=pointer]:
+              - /url: https://www.instagram.com/freiewaldorfschulewiesbaden
+          - listitem [ref=e572]:
+            - link "→ Podcast anhören" [ref=e573] [cursor=pointer]:
+              - /url: https://www.waldorfschule-wiesbaden.de/unsere-schule/podcast
+      - generic [ref=e574]:
+        - heading "Schule unterstützen" [level=3] [ref=e575]
+        - generic [ref=e576]:
+          - generic [ref=e577]: Spendenkonto
+          - generic [ref=e578]: DE34 5109 0000 0004 4001 00
+  - contentinfo [ref=e579]:
+    - generic [ref=e580]:
+      - img "Logo" [ref=e582]
+      - generic [ref=e583]: Freie Waldorfschule Wiesbaden
+    - list [ref=e584]:
+      - listitem [ref=e585]:
+        - link "Impressum" [ref=e586] [cursor=pointer]:
+          - /url: impressum.html
+      - listitem [ref=e587]:
+        - link "Datenschutz" [ref=e588] [cursor=pointer]:
+          - /url: impressum.html
+      - listitem [ref=e589]:
+        - link "Instagram" [ref=e590] [cursor=pointer]:
+          - /url: https://www.instagram.com/freiewaldorfschulewiesbaden
+      - listitem [ref=e591]:
+        - link "Podcast" [ref=e592] [cursor=pointer]:
+          - /url: https://www.waldorfschule-wiesbaden.de/unsere-schule/podcast
+      - listitem [ref=e593]:
+        - link "Alumni" [ref=e594] [cursor=pointer]:
+          - /url: https://www.waldorfschule-wiesbaden.de/service-download/alumni
+    - generic [ref=e595]: © 2026 Freie Waldorfschule Wiesbaden · Gegründet 1985
+  - dialog "Cookie-Hinweis":
+    - generic [ref=e596]:
+      - generic [ref=e597]:
+        - img [ref=e599]
+        - paragraph [ref=e606]:
+          - text: Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten.
+          - strong [ref=e607]: Notwendige Cookies
+          - text: sind für die Grundfunktionen erforderlich. Zusätzliche Cookies helfen uns, die Website zu verbessern.
+          - link "Mehr erfahren" [ref=e608] [cursor=pointer]:
+            - /url: impressum.html
+      - generic [ref=e609]:
+        - button "Nur Notwendige" [ref=e610] [cursor=pointer]
+        - button "Alle akzeptieren" [ref=e611] [cursor=pointer]

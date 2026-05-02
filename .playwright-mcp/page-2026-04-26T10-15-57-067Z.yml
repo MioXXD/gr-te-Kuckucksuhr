@@ -1,0 +1,210 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Flow State Startseite" [ref=e3] [cursor=pointer]:
+      - /url: "#top"
+      - img "Flow State Logo" [ref=e4]
+      - generic [ref=e5]:
+        - text: Flow
+        - emphasis [ref=e6]: State
+    - navigation "Hauptnavigation" [ref=e7]:
+      - link "Leistungen" [ref=e8] [cursor=pointer]:
+        - /url: "#leistungen"
+      - link "Team" [ref=e9] [cursor=pointer]:
+        - /url: "#team"
+      - link "Über uns" [ref=e10] [cursor=pointer]:
+        - /url: "#about"
+      - link "Kontakt" [ref=e11] [cursor=pointer]:
+        - /url: "#kontakt"
+    - link "Kostenlose Beratung" [ref=e12] [cursor=pointer]:
+      - /url: "#kontakt"
+  - main [ref=e13]:
+    - generic [ref=e15]:
+      - heading "Boost Your Company Image" [level=1]:
+        - generic:
+          - generic: BOOST YOUR
+        - generic:
+          - generic: COMPANY
+        - generic:
+          - generic: IMAGE.
+      - generic [ref=e16]:
+        - paragraph [ref=e17]: Moderne Webseiten & AI-Lösungen für Unternehmen.
+        - generic [ref=e18]:
+          - link "Projekt anfragen" [ref=e19] [cursor=pointer]:
+            - /url: "#kontakt"
+            - generic [ref=e20]: Projekt anfragen
+          - link "Leistungen ansehen" [ref=e21] [cursor=pointer]:
+            - /url: "#leistungen"
+            - generic [ref=e22]: Leistungen ansehen
+      - generic [ref=e23]: SCROLL
+    - generic [ref=e26]:
+      - generic [ref=e27]: Webentwicklung
+      - generic [ref=e28]: •
+      - generic [ref=e29]: AI-Berater
+      - generic [ref=e30]: •
+      - generic [ref=e31]: Telefonische AI-Assistenten
+      - generic [ref=e32]: •
+      - generic [ref=e33]: Automatisierter Kundenservice
+      - generic [ref=e34]: •
+      - generic [ref=e35]: Image-Optimierung
+      - generic [ref=e36]: •
+      - generic [ref=e37]: Webentwicklung
+      - generic [ref=e38]: •
+      - generic [ref=e39]: AI-Berater
+      - generic [ref=e40]: •
+      - generic [ref=e41]: Telefonische AI-Assistenten
+      - generic [ref=e42]: •
+      - generic [ref=e43]: Automatisierter Kundenservice
+      - generic [ref=e44]: •
+      - generic [ref=e45]: Image-Optimierung
+      - generic [ref=e46]: •
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e49]: 0+
+        - generic [ref=e50]: Projekte realisiert
+      - generic [ref=e51]:
+        - generic [ref=e52]: "0"
+        - generic [ref=e53]: Experten im Team
+      - generic [ref=e54]:
+        - generic [ref=e55]: 0/7
+        - generic [ref=e56]: KI-Support
+      - generic [ref=e57]:
+        - generic [ref=e58]: 0%
+        - generic [ref=e59]: Persönliche Betreuung
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]: Unsere Leistungen
+        - heading "Webseiten, die wirken. AI, die für Sie arbeitet." [level=2] [ref=e63]:
+          - text: Webseiten, die wirken.
+          - text: AI, die für Sie arbeitet.
+        - paragraph [ref=e64]: Wir verbinden präzises Webdesign mit intelligenten AI-Systemen — alles aus einer Hand, damit Ihr Unternehmen digital sichtbar, schneller und produktiver wird.
+      - generic [ref=e68]: WEITER SCROLLEN
+      - generic [ref=e71]:
+        - article [ref=e72]:
+          - img [ref=e75]
+          - heading "Webentwicklung" [level=3] [ref=e79]
+          - paragraph [ref=e80]: Wir entwickeln moderne Webseiten, die nicht nur gut aussehen — sie performen. Schnell, präzise und exakt auf Ihre Zielgruppe zugeschnitten.
+          - list [ref=e81]:
+            - listitem [ref=e82]: Premium UI & UX Design
+            - listitem [ref=e83]: Performance & SEO
+            - listitem [ref=e84]: Mobile First & barrierearm
+        - article [ref=e85]:
+          - img [ref=e88]
+          - heading "AI-Berater" [level=3] [ref=e91]
+          - paragraph [ref=e92]: Intelligente Chat- und Sprachassistenten, die Ihre Kunden beraten, Termine vereinbaren und Anfragen automatisch qualifizieren — rund um die Uhr.
+          - list [ref=e93]:
+            - listitem [ref=e94]: Custom Chatbots
+            - listitem [ref=e95]: Wissensbasierte Antworten
+            - listitem [ref=e96]: Nahtlose Website-Integration
+        - article [ref=e97]:
+          - img [ref=e100]
+          - heading "Telefonische AI-Assistenten" [level=3] [ref=e102]
+          - paragraph [ref=e103]: Ihre Telefonzentrale — komplett automatisiert. Unsere Voice-Agents nehmen Anrufe an, klären Anliegen und übergeben relevante Calls an Ihr Team.
+          - list [ref=e104]:
+            - listitem [ref=e105]: 24/7 Erreichbarkeit
+            - listitem [ref=e106]: Natürliche Stimme
+            - listitem [ref=e107]: CRM-Anbindung
+        - article [ref=e108]:
+          - img [ref=e111]
+          - heading "Automatisierter Kundenservice" [level=3] [ref=e116]
+          - paragraph [ref=e117]: End-to-End Workflows, die Tickets klassifizieren, beantworten und bei Bedarf eskalieren. Weniger Aufwand, mehr Zufriedenheit.
+          - list [ref=e118]:
+            - listitem [ref=e119]: E-Mail & Ticket-Routing
+            - listitem [ref=e120]: Wissensdatenbank
+            - listitem [ref=e121]: Reporting & Analytics
+        - article [ref=e122]:
+          - img [ref=e125]
+          - heading "Image-Optimierung" [level=3] [ref=e128]
+          - paragraph [ref=e129]: Wir schärfen Ihre Marke digital — von Logo & Wording bis hin zu konsistenten Touchpoints, die Vertrauen und Wiedererkennung schaffen.
+          - list [ref=e130]:
+            - listitem [ref=e131]: Markenstrategie
+            - listitem [ref=e132]: Visuelle Identität
+            - listitem [ref=e133]: Content & Tonalität
+        - article [ref=e134]:
+          - heading "Ihr Projekt?" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Sprechen wir über Ihr Vorhaben — kostenlos & unverbindlich. In 30 Minuten skizzieren wir die beste Lösung für Sie.
+          - link "Erstgespräch sichern" [ref=e138] [cursor=pointer]:
+            - /url: "#kontakt"
+            - generic [ref=e139]: Erstgespräch sichern
+    - generic [ref=e142]:
+      - generic [ref=e143]: Über uns
+      - heading "Drei Köpfe. Eine Mission. Maximale Wirkung." [level=2] [ref=e144]:
+        - text: Drei Köpfe.
+        - text: Eine Mission.
+        - text: Maximale Wirkung.
+      - paragraph [ref=e145]: Jedes Unternehmen braucht einen starken digitalen Auftritt. Wir kombinieren erstklassiges Design, moderne Webentwicklung und KI-Automatisierung — pragmatisch umgesetzt, ohne Buzzwords, immer mit messbarem Ergebnis.
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - strong [ref=e148]: 50+ Projekte
+          - text: realisiert & live
+        - generic [ref=e149]:
+          - strong [ref=e150]: 24/7 Support
+          - text: via KI & Team
+        - generic [ref=e151]:
+          - strong [ref=e152]: Klein & agil
+          - text: persönliche Betreuung
+    - generic [ref=e155]:
+      - generic [ref=e156]:
+        - generic [ref=e157]: Unser Team
+        - heading "Die Köpfe hinter Flow State." [level=2] [ref=e158]
+      - generic [ref=e159]:
+        - article [ref=e160]:
+          - generic [ref=e162]: AP
+          - heading "Adrian Pötzinger" [level=4] [ref=e163]
+          - paragraph [ref=e164]: CEO & Strategie
+        - article [ref=e165]:
+          - generic [ref=e167]: BT
+          - heading "Bennet Tilinski" [level=4] [ref=e168]
+          - paragraph [ref=e169]: CTO & Architektur
+        - article [ref=e170]:
+          - generic [ref=e172]: DB
+          - heading "Damian Braun" [level=4] [ref=e173]
+          - paragraph [ref=e174]: Lead Developer
+    - generic [ref=e176]:
+      - generic [ref=e177]: Kontakt
+      - heading "Bereit für Ihr nächstes Level?" [level=2] [ref=e178]
+      - paragraph [ref=e179]: Lassen Sie uns über Ihr Projekt sprechen. Innerhalb von 24 Stunden hören Sie von uns.
+      - generic [ref=e180]:
+        - link "E-Mail flow-state@gmx.de" [ref=e181] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de
+          - img [ref=e182]
+          - generic [ref=e185]:
+            - generic [ref=e186]: E-Mail
+            - strong [ref=e187]: flow-state@gmx.de
+        - link "Telefon +49 178 1868874" [ref=e188] [cursor=pointer]:
+          - /url: tel:+491781868874
+          - img [ref=e189]
+          - generic [ref=e191]:
+            - generic [ref=e192]: Telefon
+            - strong [ref=e193]: +49 178 1868874
+      - generic [ref=e194]:
+        - link "Projekt anfragen" [ref=e195] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de?subject=Projektanfrage
+          - generic [ref=e196]: Projekt anfragen
+        - link "Jetzt anrufen" [ref=e197] [cursor=pointer]:
+          - /url: tel:+491781868874
+          - generic [ref=e198]: Jetzt anrufen
+  - contentinfo [ref=e199]:
+    - generic [ref=e200]:
+      - link "FlowState" [ref=e201] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e202]:
+          - text: Flow
+          - emphasis [ref=e203]: State
+      - navigation "Footer" [ref=e204]:
+        - link "Leistungen" [ref=e205] [cursor=pointer]:
+          - /url: "#leistungen"
+        - link "Team" [ref=e206] [cursor=pointer]:
+          - /url: "#team"
+        - link "Über uns" [ref=e207] [cursor=pointer]:
+          - /url: "#about"
+        - link "Kontakt" [ref=e208] [cursor=pointer]:
+          - /url: "#kontakt"
+    - generic [ref=e209]:
+      - generic [ref=e210]: © 2026 Flow State. Alle Rechte vorbehalten.
+      - generic [ref=e211]:
+        - link "Impressum" [ref=e212] [cursor=pointer]:
+          - /url: "#"
+        - link "Datenschutz" [ref=e213] [cursor=pointer]:
+          - /url: "#"
+        - link "Cookies" [ref=e214] [cursor=pointer]:
+          - /url: "#"

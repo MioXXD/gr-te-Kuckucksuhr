@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: SCUDERIA FRANKFURT
+      - generic [ref=e5]:
+        - generic [ref=e6]: location_on
+        - text: Frankfurt am Main
+    - generic [ref=e7]:
+      - link "Workshop" [ref=e8] [cursor=pointer]:
+        - /url: "#workshop"
+      - link "Restoration" [ref=e9] [cursor=pointer]:
+        - /url: "#restoration"
+      - link "Inventory" [ref=e10] [cursor=pointer]:
+        - /url: "#inventory"
+      - link "Heritage" [ref=e11] [cursor=pointer]:
+        - /url: "#heritage"
+    - button "BOOK SERVICE" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - generic:
+        - generic:
+          - generic: settings_suggest
+      - generic [ref=e16]:
+        - generic:
+          - heading "ENGINEERING" [level=1]
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - paragraph [ref=e19]: SERVICE BAY 01
+            - paragraph [ref=e20]: Diagnostics
+            - generic [ref=e23]: System Active
+          - generic [ref=e24]:
+            - paragraph [ref=e25]: SPECIFICATION
+            - paragraph [ref=e26]: 478 CV
+            - paragraph [ref=e27]: Factory Tolerance ±0.5%
+          - generic [ref=e28]:
+            - img "Ferrari F40" [ref=e30]
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - paragraph [ref=e33]: CYLINDERS
+                - paragraph [ref=e34]: V8 TWIN
+              - generic [ref=e36]:
+                - paragraph [ref=e37]: DISPLACEMENT
+                - paragraph [ref=e38]: 2936 CC
+              - generic [ref=e40]:
+                - paragraph [ref=e41]: STATE
+                - paragraph [ref=e42]: PERFECT
+        - generic [ref=e43]:
+          - heading "Specialist Engineering" [level=2] [ref=e44]
+          - paragraph [ref=e45]: Precision restoration for the Ferrari F40. Frankfurt's premier workshop dedicated to the technical preservation of Maranello's most iconic masterpiece.
+          - generic [ref=e46]:
+            - button "SCHEDULE MAINTENANCE" [ref=e47] [cursor=pointer]
+            - button "VIEW CAPABILITIES" [ref=e48] [cursor=pointer]
+    - generic [ref=e49]:
+      - generic:
+        - generic: handyman
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - text: Service Capabilities
+            - heading "The Workshop Standard." [level=2] [ref=e53]
+          - generic [ref=e54]:
+            - generic [ref=e55]: verified
+            - paragraph [ref=e56]:
+              - text: Original Parts
+              - text: Certified Specialists
+        - generic [ref=e57]:
+          - generic [ref=e59]:
+            - generic [ref=e60]: precision_manufacturing
+            - heading "Engine Rebuilding" [level=3] [ref=e61]
+            - paragraph [ref=e62]: Complete disassembly and blueprinting of the Tipo F120A V8. Restoring thermal efficiency and peak performance using original factory tolerances.
+            - list [ref=e63]:
+              - listitem [ref=e64]: • Turbocharger Balancing
+              - listitem [ref=e65]: • Gated Injection Calibration
+              - listitem [ref=e66]: • Valve Train Optimization
+          - generic [ref=e68]:
+            - generic [ref=e69]: architecture
+            - heading "Composite Restoration" [level=3] [ref=e70]
+            - paragraph [ref=e71]: Expert repair of Carbon-Kevlar and Nomex panels. Our structural technicians maintain the rigidity and weight-balance essential to the F40's soul.
+            - list [ref=e72]:
+              - listitem [ref=e73]: • Structural Integrity Checks
+              - listitem [ref=e74]: • Rosso Corsa Paint Matching
+              - listitem [ref=e75]: • Aerodynamic Re-alignment
+          - generic [ref=e77]:
+            - generic [ref=e78]: inventory_2
+            - heading "Original Sourcing" [level=3] [ref=e79]
+            - paragraph [ref=e80]: Access to an exclusive network of N.O.S (New Old Stock) components. We ensure every bolt, seal, and sensor is period-correct and authentic.
+            - list [ref=e81]:
+              - listitem [ref=e82]: • Periodic Archive Verification
+              - listitem [ref=e83]: • Global Parts Logistics
+              - listitem [ref=e84]: • Component Certification
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - img "High-speed blurred motion of a Ferrari on a race track at night" [ref=e89]
+        - generic [ref=e90]:
+          - text: Validation Standard
+          - heading "324 KM/H" [level=3] [ref=e91]
+          - paragraph [ref=e92]: Every restoration undergoes rigorous dyno testing and high-speed validation to ensure factory performance is exceeded, not just met.
+      - generic [ref=e93]:
+        - generic [ref=e94]: Workshop Capacity
+        - heading "4 BAY" [level=3] [ref=e95]
+        - paragraph [ref=e96]: Dedicated ultra-clean environment. Climate controlled storage and service zones for long-term restoration projects.
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic: STELVIO
+        - generic [ref=e100]:
+          - img "Close up detail of a vintage Ferrari engine block" [ref=e101]
+          - img "Interior cockpit of a classic race car" [ref=e102]
+      - generic [ref=e103]:
+        - text: Frankfurt Engineering Hub
+        - heading "Mastery of the Internal Combustion Soul." [level=2] [ref=e104]
+        - paragraph [ref=e105]: At Scuderia Frankfurt, we don't just fix cars; we archive history. Our technicians bridge the gap between era-defining engineering and modern longevity, operating out of our state-of-the-art facility in the heart of Germany's automotive core.
+        - button "Explore our Facility arrow_forward" [ref=e106] [cursor=pointer]:
+          - generic [ref=e107]: Explore our Facility
+          - generic [ref=e108]: arrow_forward
+    - generic [ref=e111]:
+      - generic [ref=e112]: format_quote
+      - paragraph [ref=e113]: “Scuderia Frankfurt doesn't just understand the machine; they respect the ghost of the driver. Their technical depth is unparalleled in Europe.”
+      - generic [ref=e114]:
+        - paragraph [ref=e115]: MAXIMILIAN VON WESTPHALEN
+        - paragraph [ref=e116]: CHAIRMAN, EURO CLASSIC COLLECTIVE
+    - generic [ref=e117]:
+      - generic:
+        - generic: REPAIR
+      - generic [ref=e118]:
+        - heading "Secure Your Service Slot" [level=2] [ref=e119]
+        - paragraph [ref=e120]: Priority maintenance for F40, F50, and Enzo platforms.
+        - generic [ref=e121]:
+          - textbox "CHASSIS NUMBER / EMAIL" [ref=e122]
+          - button "REQUEST ADMISSION" [ref=e123] [cursor=pointer]
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e126]: schedule
+            - text: MON-FRI 08:00 - 18:00
+          - generic [ref=e127]:
+            - generic [ref=e128]: call
+            - text: +49 (0) 69 555 1234
+          - generic [ref=e129]:
+            - generic [ref=e130]: location_on
+            - text: HANAUER LANDSTR. 291
+  - contentinfo [ref=e131]:
+    - generic [ref=e132]:
+      - generic [ref=e133]: SCUDERIA FRANKFURT
+      - paragraph [ref=e134]: © 2024 SCUDERIA FRANKFURT. AN INDEPENDENT SPECIALIST SERVICE STATION.
+    - generic [ref=e135]:
+      - link "Privacy Policy" [ref=e136] [cursor=pointer]:
+        - /url: "#"
+      - link "Terms of Service" [ref=e137] [cursor=pointer]:
+        - /url: "#"
+      - link "Legal" [ref=e138] [cursor=pointer]:
+        - /url: "#"
+      - link "Contact" [ref=e139] [cursor=pointer]:
+        - /url: "#"

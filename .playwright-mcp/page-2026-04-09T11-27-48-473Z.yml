@@ -1,0 +1,41 @@
+- generic [ref=e1]:
+  - dialog [ref=e2]:
+    - button "Schließen" [ref=e3] [cursor=pointer]:
+      - img [ref=e4]
+    - paragraph [ref=e6]:
+      - text: Unsplash verwendet Cookies und ähnliche Technologien, um unsere Webseite zu sichern, nützliche Funktionen für gebührenfreie und zahlende Nutzer bereitzustellen und um eine optimale Leistung zu gewährleisten. Wenn Sie auf „Alle Cookies akzeptieren“ klicken oder dieses Prompt schließen, stimmen Sie der Verwendung aller Cookies zu. Durch Klicken auf „Nur Unverzichtbare akzeptieren“ erklären Sie sich mit der Verwendung von Cookies einverstanden, die für die Funktion der Webseite unbedingt erforderlich sind. Weitere Informationen finden Sie in unseren
+      - link "Cookie-Richtlinien" [ref=e7] [cursor=pointer]:
+        - /url: /de/cookies
+      - text: .
+    - link "Cookies verwalten" [ref=e9] [cursor=pointer]:
+      - /url: /de/cookies#manage-consent
+    - generic [ref=e10]:
+      - button "Nur Unverzichtbare akzeptieren" [ref=e11] [cursor=pointer]
+      - button "Alle Cookies akzeptieren" [active] [ref=e12] [cursor=pointer]
+  - generic [ref=e16]:
+    - navigation [ref=e17]:
+      - link "Unsplash-Startseite" [ref=e20] [cursor=pointer]:
+        - /url: /de
+        - img "Unsplash-Startseite" [ref=e21]
+      - generic [ref=e23]:
+        - link "Anmelden / Registrieren" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fcar-workshop
+          - img [ref=e25]
+        - button "Sprache" [ref=e27] [cursor=pointer]:
+          - img [ref=e28]
+        - button "Menü" [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+    - generic [ref=e33]:
+      - navigation [ref=e35]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e37]:
+          - button "Unsplash suchen" [ref=e38] [cursor=pointer]:
+            - img [ref=e39]
+          - combobox [ref=e41]:
+            - searchbox "Unsplash suchen" [ref=e42]: car workshop
+            - listbox
+          - button "Löschen" [ref=e43] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Visuelle Suche" [ref=e47] [cursor=pointer]:
+            - img [ref=e48]
+      - generic:
+        - region "Notifications"

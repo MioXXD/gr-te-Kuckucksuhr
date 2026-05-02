@@ -1,0 +1,239 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+          - /url: /de
+          - img "Unsplash-Startseite" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /de
+          - img [ref=e12]
+        - link "Grafiken" [ref=e14] [cursor=pointer]:
+          - /url: /de/grafiken
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Entdecken" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - link "Kollektionen" [ref=e21] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fammonite-fossil
+          - img [ref=e22]
+        - link "Bisherige Downloads" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fdownloads
+          - img [ref=e25]
+      - link "Lesezeichen" [ref=e28] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fammonite-fossil
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Anmelden / Registrieren" [ref=e32] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fammonite-fossil
+        - img [ref=e33]
+      - button "Sprache" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menü" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - navigation [ref=e43]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e45]:
+          - button "Unsplash suchen" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+          - combobox [ref=e49]:
+            - searchbox "Unsplash suchen" [ref=e50]: ammonite fossil
+            - listbox
+          - button "Löschen" [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - button "Visuelle Suche" [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+        - generic [ref=e59]:
+          - link "Unsplash+ sichern" [ref=e60] [cursor=pointer]:
+            - /url: /de/plus
+          - link "Anmelden" [ref=e61] [cursor=pointer]:
+            - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fammonite-fossil
+        - button "Bild einreichen" [ref=e63] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Fotos 5907":
+                - /url: /de/s/fotos/ammonite-fossil
+                - img
+                - text: Fotos
+                - generic: "5907"
+            - listitem [ref=e73]:
+              - link "Grafiken 4" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/grafiken/ammonite-fossil
+                - img [ref=e75]
+                - text: Grafiken
+                - generic [ref=e77]: "4"
+            - listitem [ref=e78]:
+              - button "Mehr" [ref=e79] [cursor=pointer]
+          - generic [ref=e82]:
+            - button "Lizenz" [ref=e83] [cursor=pointer]:
+              - img [ref=e84]
+              - generic [ref=e86]: Lizenz
+              - img [ref=e87]
+            - button "Ausrichtung" [ref=e89] [cursor=pointer]:
+              - img [ref=e90]
+              - generic [ref=e92]: Ausrichtung
+              - img [ref=e93]
+            - button "Sortieren nach Relevanz" [ref=e95] [cursor=pointer]:
+              - img [ref=e96]
+              - generic [ref=e98]: Sortieren nach Relevanz
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "Ammonite fossil" [level=1] [ref=e103]
+          - generic [ref=e105]:
+            - button "Liste nach rechts verschieben" [ref=e107] [cursor=pointer]:
+              - img [ref=e108]
+            - generic [ref=e111]:
+              - link "Fossil" [ref=e113] [cursor=pointer]:
+                - /url: /de/s/fotos/fossil
+              - link "Ammonit" [ref=e115] [cursor=pointer]:
+                - /url: /de/s/fotos/ammonit
+              - link "Paläontologie" [ref=e117] [cursor=pointer]:
+                - /url: /de/s/fotos/pal%C3%A4ontologie
+              - link "Naturwissenschaft" [ref=e119] [cursor=pointer]:
+                - /url: /de/s/fotos/naturwissenschaft
+              - link "archivalisch" [ref=e121] [cursor=pointer]:
+                - /url: /de/s/fotos/archivalisch
+              - link "versteinert" [ref=e123] [cursor=pointer]:
+                - /url: /de/s/fotos/versteinert
+              - link "grau" [ref=e125] [cursor=pointer]:
+                - /url: /de/s/fotos/grau
+              - link "Spirale" [ref=e127] [cursor=pointer]:
+                - /url: /de/s/fotos/spirale
+              - link "Zubehör" [ref=e129] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Schmuck" [ref=e131] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+              - link "braun" [ref=e133] [cursor=pointer]:
+                - /url: /de/s/fotos/braun
+              - link "Edelstein" [ref=e135] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+        - generic [ref=e137]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - figure [ref=e143]:
+                - link "Eine Gruppe von Felsen, die auf einer weißen Oberfläche sitzen" [ref=e146]:
+                  - /url: /de/fotos/eine-gruppe-von-felsen-die-auf-einer-weissen-oberflache-sitzen-Tqa4gwpHNko
+                  - img "Eine Gruppe von Felsen, die auf einer weißen Oberfläche sitzen" [ref=e147]
+              - figure [ref=e148]:
+                - link "graue runde Betonwand mit Loch" [ref=e151]:
+                  - /url: /de/fotos/graue-runde-betonwand-mit-loch-uyRku9KF2N8
+                  - img "graue runde Betonwand mit Loch" [ref=e152]
+              - figure [ref=e153]:
+                - link "ein kreisförmiges Objekt aus Holzstäbchen" [ref=e156]:
+                  - /url: /de/fotos/ein-kreisformiges-objekt-aus-holzstabchen-f4X1KBQ_XK4
+                  - img "ein kreisförmiges Objekt aus Holzstäbchen" [ref=e157]
+              - figure [ref=e158]:
+                - link "Ein Stück Fels mit schwarzem Hintergrund" [ref=e161]:
+                  - /url: /de/fotos/ein-stuck-fels-mit-schwarzem-hintergrund-ByQfj2DiukM
+                  - img "Ein Stück Fels mit schwarzem Hintergrund" [ref=e162]
+              - figure [ref=e163]:
+                - link "Nahaufnahme einer strukturierten, porösen Korallenformation." [ref=e166]:
+                  - /url: /de/fotos/nahaufnahme-einer-strukturierten-porosen-korallenformation-NFK-eZMVSLU
+                  - img "Nahaufnahme einer strukturierten, porösen Korallenformation." [ref=e167]
+              - figure [ref=e168]:
+                - link "eine Person, die eine kleine Muschel in der Hand hält" [ref=e171]:
+                  - /url: /de/fotos/eine-person-die-eine-kleine-muschel-in-der-hand-halt-jX1AB82KdZM
+                  - img "eine Person, die eine kleine Muschel in der Hand hält" [ref=e172]
+              - figure [ref=e173]:
+                - link "eine Nahaufnahme eines Steinstücks mit Löchern darin" [ref=e176]:
+                  - /url: /de/fotos/eine-nahaufnahme-eines-steinstucks-mit-lochern-darin-YVNdGwaB1Po
+                  - img "eine Nahaufnahme eines Steinstücks mit Löchern darin" [ref=e177]
+            - generic [ref=e178]:
+              - figure [ref=e179]:
+                - link "ein Stein mit einer Muschel darauf" [ref=e182]:
+                  - /url: /de/fotos/ein-stein-mit-einer-muschel-darauf-cx-xL61MGWc
+                  - img "ein Stein mit einer Muschel darauf" [ref=e183]
+              - figure [ref=e184]:
+                - link "Nahaufnahme einer Muschel mit spiralförmigem Design" [ref=e187]:
+                  - /url: /de/fotos/nahaufnahme-einer-muschel-mit-spiralformigem-design-NzXFLzFwCzk
+                  - img "Nahaufnahme einer Muschel mit spiralförmigem Design" [ref=e188]
+              - figure [ref=e189]:
+                - link "Vier antike Ammonitfossilien auf weißem Grund" [ref=e192]:
+                  - /url: /de/fotos/vier-antike-ammonitfossilien-auf-weissem-grund-xP43Cs3bFDg
+                  - img "Vier antike Ammonitfossilien auf weißem Grund" [ref=e193]
+              - figure [ref=e194]:
+                - link "Eine Nahaufnahme eines Felsens mit vielen Löchern darin" [ref=e197]:
+                  - /url: /de/fotos/eine-nahaufnahme-eines-felsens-mit-vielen-lochern-darin-_HdUx-001oc
+                  - img "Eine Nahaufnahme eines Felsens mit vielen Löchern darin" [ref=e198]
+              - figure [ref=e199]:
+                - link "ein kunstvoll geschnitztes Stück Holz auf schwarzem Grund" [ref=e202]:
+                  - /url: /de/fotos/ein-kunstvoll-geschnitztes-stuck-holz-auf-schwarzem-grund-rJUw_UwK-44
+                  - img "ein kunstvoll geschnitztes Stück Holz auf schwarzem Grund" [ref=e203]
+              - figure [ref=e204]:
+                - link "Zwei Ammonitenfossilien auf einer strukturierten grauen Oberfläche" [ref=e207]:
+                  - /url: /de/fotos/zwei-ammonitenfossilien-auf-einer-strukturierten-grauen-oberflache-C82TuUyf6Uw
+                  - img "Zwei Ammonitenfossilien auf einer strukturierten grauen Oberfläche" [ref=e208]
+              - figure [ref=e209]:
+                - link "Eine Granate liegt neben anderen Muscheln auf dem Boden" [ref=e212]:
+                  - /url: /de/fotos/eine-granate-liegt-neben-anderen-muscheln-auf-dem-boden-xSWcwQoeDfA
+                  - img "Eine Granate liegt neben anderen Muscheln auf dem Boden" [ref=e213]
+              - figure [ref=e214]:
+                - link "eine Halskette mit einer Blume darauf, die auf einer Holzoberfläche sitzt" [ref=e217]:
+                  - /url: /de/fotos/eine-halskette-mit-einer-blume-darauf-die-auf-einer-holzoberflache-sitzt-_EDw7_T7g5c
+                  - img "eine Halskette mit einer Blume darauf, die auf einer Holzoberfläche sitzt" [ref=e218]
+            - generic [ref=e219]:
+              - contentinfo [ref=e224]:
+                - generic [ref=e230]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e232]:
+                - link "Nahaufnahme eines Steinobjekts auf schwarzem Hintergrund" [ref=e235]:
+                  - /url: /de/fotos/nahaufnahme-eines-steinobjekts-auf-schwarzem-hintergrund-PMlBcuUf81E
+                  - img "Nahaufnahme eines Steinobjekts auf schwarzem Hintergrund" [ref=e236]
+              - figure [ref=e237]:
+                - link "Ein Felsen mit einem spiralförmigen Design darauf" [ref=e240]:
+                  - /url: /de/fotos/ein-felsen-mit-einem-spiralformigen-design-darauf-7RQEMHyQIcw
+                  - img "Ein Felsen mit einem spiralförmigen Design darauf" [ref=e241]
+              - figure [ref=e242]:
+                - link "Eine Steinskulptur, umgeben von viel Grün in einem Garten" [ref=e245]:
+                  - /url: /de/fotos/eine-steinskulptur-umgeben-von-viel-grun-in-einem-garten-D_5hkwm61u4
+                  - img "Eine Steinskulptur, umgeben von viel Grün in einem Garten" [ref=e246]
+              - figure [ref=e247]:
+                - link "eine Halskette, die eine Muschel hat" [ref=e250]:
+                  - /url: /de/fotos/eine-halskette-die-eine-muschel-hat-SEmLO6SPRPA
+                  - img "eine Halskette, die eine Muschel hat" [ref=e251]
+              - figure [ref=e252]:
+                - link "eine Person, die eine kleine Muschel in der Hand hält" [ref=e255]:
+                  - /url: /de/fotos/eine-person-die-eine-kleine-muschel-in-der-hand-halt-PffXeXG8j2M
+                  - img "eine Person, die eine kleine Muschel in der Hand hält" [ref=e256]
+          - generic [ref=e259]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e260]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e261]: "| Jetzt Rabatt sichern"
+            - generic [ref=e263]:
+              - link "Schöner Ammonit im Gestein" [ref=e264] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-ammonite-in-rock-gm2237345171-652511549?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Schöner Ammonit im Gestein" [ref=e265]
+              - link "Menschliche Hand hält Ammonitenfossil. Symbol der Ewigkeit, des Aussterbens und der Evolution, Zeitkonzept." [ref=e266] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/human-hand-holding-ammonite-fossil-symbol-of-eternity-extinction-and-evolution-time-gm2233859851-649325082?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Menschliche Hand hält Ammonitenfossil. Symbol der Ewigkeit, des Aussterbens und der Evolution, Zeitkonzept." [ref=e267]
+              - link "Spiral-Ammonit-Fossil auf rostigem marokkanischen Boden" [ref=e268] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/spiral-ammonite-fossil-on-rusty-moroccan-ground-gm2257066006-670180633?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Spiral-Ammonit-Fossil auf rostigem marokkanischen Boden" [ref=e269]
+              - link "Ein Waldweg auf der Wanderung zu Ammonite Falls, Nanaimo, British Columbia, Kanada" [ref=e270] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/a-forest-path-on-the-hike-to-ammonite-falls-nanaimo-british-columbia-canada-gm2252050120-665545415?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Ein Waldweg auf der Wanderung zu Ammonite Falls, Nanaimo, British Columbia, Kanada" [ref=e271]
+              - link "Ammonit Hintergrund" [ref=e272] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/ammonite-background-gm503763380-82752271?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Ammonit Hintergrund" [ref=e273]
+              - link "Die uralten versteinerten Muster und komplizierten Texturen von Ammonitenkreaturen im Laufe der Zeit" [ref=e274] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/the-ancient-fossilized-patterns-and-intricate-textures-of-ammonite-creatures-through-gm2208556594-625713385?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Die uralten versteinerten Muster und komplizierten Texturen von Ammonitenkreaturen im Laufe der Zeit" [ref=e275]
+              - link "Schöner Ammonit im Gestein" [ref=e276] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-ammonite-in-rock-gm2237345088-652511551?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Schöner Ammonit im Gestein" [ref=e277]
+              - generic [ref=e278]:
+                - link "Buntes Spiral-Ammonit-Fossil auf marokkanischem Gestein" [ref=e279] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/colorful-spiral-ammonite-fossil-on-moroccan-rock-gm2257065736-670180372?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Buntes Spiral-Ammonit-Fossil auf marokkanischem Gestein" [ref=e280]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e281] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fammonite-fossil&utm_term=ammonite+fossil%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=ammonite+fossil&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e285] [cursor=pointer]
+          - generic [ref=e286]:
+            - link [ref=e287] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e288]
+            - paragraph [ref=e290]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

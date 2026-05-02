@@ -1,0 +1,244 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: raw mineral specimen
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 2436":
+                - /url: /de/s/fotos/raw-mineral-specimen
+                - img
+                - text: Fotos
+                - generic: "2436"
+            - listitem [ref=e48]:
+              - link "Grafiken 3" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/raw-mineral-specimen
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "3"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Raw mineral specimen" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "Mineral" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/mineral
+              - link "Edelstein" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "kristall" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Quarz" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/quarz
+              - link "Fel" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/fel
+              - link "Stein" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/stein
+              - link "Zubehör" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Schmuck" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+              - link "grau" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/grau
+              - link "Sammlung" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/sammlung
+              - link "Mineralstoffe" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/mineralstoffe
+              - link "Kristalle" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/kristalle
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "eine Nahaufnahme eines Essens auf schwarzem Hintergrund" [ref=e105]:
+                    - /url: /de/fotos/eine-nahaufnahme-eines-essens-auf-schwarzem-hintergrund-nTrTCJmZsIQ
+                    - img "eine Nahaufnahme eines Essens auf schwarzem Hintergrund" [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-nahaufnahme-eines-essens-auf-schwarzem-hintergrund-nTrTCJmZsIQ
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A315d48b4-6493-43cc-8379-8ccdab770483&phrase=raw+mineral+specimen&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - link "Pyrit-Ornament" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/pyrite-ornament-gm2241284762-655818003?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3Ae587125f-ad38-4f92-ba57-c4f8dff88306
+                    - img "Pyrit-Ornament" [ref=e118]
+                  - link "Goldener Baryt auf dunklem Hintergrund" [ref=e119] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/golden-baryte-on-dark-background-gm2245914234-659902072?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A8c926881-058e-480a-9dec-7c51938f370b
+                    - img "Goldener Baryt auf dunklem Hintergrund" [ref=e120]
+                  - link "Kristall rohes Erz" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/crystal-raw-ore-gm1380157775-442829156?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3Af8451400-6422-444a-91c2-6a2cf233fcae
+                    - img "Kristall rohes Erz" [ref=e122]
+                  - link "Roher Tigerauge-Edelstein" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/raw-tiger-eye-gemstone-gm1441739711-481357935?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A4bad59f0-2bee-4c52-970b-22cc7ff9ed1b
+                    - img "Roher Tigerauge-Edelstein" [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A315d48b4-6493-43cc-8379-8ccdab770483&phrase=raw+mineral+specimen&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e126]:
+                - generic [ref=e128]:
+                  - link "Ein Haufen Steine, die übereinander sitzen" [ref=e129]:
+                    - /url: /de/fotos/ein-haufen-steine-die-ubereinander-sitzen-17q_DWsAYO4
+                    - img "Ein Haufen Steine, die übereinander sitzen" [ref=e130]
+                  - link [ref=e131] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-haufen-steine-die-ubereinander-sitzen-17q_DWsAYO4
+                    - img [ref=e132]
+              - figure [ref=e134]:
+                - link "Ein kleiner lila Kristall ruht auf dunklem Gestein." [ref=e137]:
+                  - /url: /de/fotos/ein-kleiner-lila-kristall-ruht-auf-dunklem-gestein-vdOIc4T25m0
+                  - img "Ein kleiner lila Kristall ruht auf dunklem Gestein." [ref=e138]
+              - figure [ref=e139]:
+                - link "Eine Ansammlung von metallischen Mineralien mit braunen und grauen Kristallen." [ref=e142]:
+                  - /url: /de/fotos/eine-ansammlung-von-metallischen-mineralien-mit-braunen-und-grauen-kristallen-Ay-8VsuG_UA
+                  - img "Eine Ansammlung von metallischen Mineralien mit braunen und grauen Kristallen." [ref=e143]
+              - figure [ref=e144]:
+                - link "Ein auffälliges, mehrfarbiges Kristallexemplar mit scharfen Facetten." [ref=e147]:
+                  - /url: /de/fotos/ein-auffalliges-mehrfarbiges-kristallexemplar-mit-scharfen-facetten-hxnTazHHmqY
+                  - img "Ein auffälliges, mehrfarbiges Kristallexemplar mit scharfen Facetten." [ref=e148]
+              - figure [ref=e149]:
+                - link "Nahaufnahme eines Clusters aus beigefarbenen und rosa Kristallen." [ref=e152]:
+                  - /url: /de/fotos/nahaufnahme-eines-clusters-aus-beigefarbenen-und-rosa-kristallen--SQiGYPyFcE
+                  - img "Nahaufnahme eines Clusters aus beigefarbenen und rosa Kristallen." [ref=e153]
+            - generic [ref=e154]:
+              - figure [ref=e155]:
+                - link "Ein Cluster aus metallischem Mineralerz mit Quarzkristallen." [ref=e158]:
+                  - /url: /de/fotos/ein-cluster-aus-metallischem-mineralerz-mit-quarzkristallen-gqCxgeLOnPc
+                  - img "Ein Cluster aus metallischem Mineralerz mit Quarzkristallen." [ref=e159]
+              - figure [ref=e160]:
+                - link "Klare Quarzkristalle auf dunkler metallischer Mineralmatrix" [ref=e163]:
+                  - /url: /de/fotos/klare-quarzkristalle-auf-dunkler-metallischer-mineralmatrix-V0l3kUa6aBs
+                  - img "Klare Quarzkristalle auf dunkler metallischer Mineralmatrix" [ref=e164]
+              - figure [ref=e165]:
+                - link "Ein raues, strukturiertes Gesteinsexemplar auf weißem Hintergrund" [ref=e168]:
+                  - /url: /de/fotos/ein-raues-strukturiertes-gesteinsexemplar-auf-weissem-hintergrund-DKin-2Ioi7Y
+                  - img "Ein raues, strukturiertes Gesteinsexemplar auf weißem Hintergrund" [ref=e169]
+              - figure [ref=e170]:
+                - link "Die Hand hält ein kleines, dunkles, strukturiertes Objekt." [ref=e173]:
+                  - /url: /de/fotos/die-hand-halt-ein-kleines-dunkles-strukturiertes-objekt-XTvIdR-w8GU
+                  - img "Die Hand hält ein kleines, dunkles, strukturiertes Objekt." [ref=e174]
+              - figure [ref=e175]:
+                - generic [ref=e177]:
+                  - link "ein Haufen Steine, die auf dem Boden sitzen" [ref=e178]:
+                    - /url: /de/fotos/ein-haufen-steine-die-auf-dem-boden-sitzen-tsi_l0ifVtA
+                    - img "ein Haufen Steine, die auf dem Boden sitzen" [ref=e179]
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-haufen-steine-die-auf-dem-boden-sitzen-tsi_l0ifVtA
+                    - img [ref=e181]
+              - figure [ref=e183]:
+                - generic [ref=e185]:
+                  - link "Nahaufnahme eines Stücks gelben und weißen Materials" [ref=e186]:
+                    - /url: /de/fotos/nahaufnahme-eines-stucks-gelben-und-weissen-materials-L2Y43N68k4Y
+                    - img "Nahaufnahme eines Stücks gelben und weißen Materials" [ref=e187]
+                  - link [ref=e188] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fnahaufnahme-eines-stucks-gelben-und-weissen-materials-L2Y43N68k4Y
+                    - img [ref=e189]
+              - figure [ref=e191]:
+                - link "Ein großer Haufen silbermetallischer Kristalle" [ref=e194]:
+                  - /url: /de/fotos/ein-grosser-haufen-silbermetallischer-kristalle-H0auIR8PpZI
+                  - img "Ein großer Haufen silbermetallischer Kristalle" [ref=e195]
+            - generic [ref=e196]:
+              - contentinfo [ref=e201]:
+                - generic [ref=e207]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e209]:
+                - link "Bunte Mineralformationen mit unterschiedlichen Texturen" [ref=e212]:
+                  - /url: /de/fotos/bunte-mineralformationen-mit-unterschiedlichen-texturen-b-bv45qf8AU
+                  - img "Bunte Mineralformationen mit unterschiedlichen Texturen" [ref=e213]
+              - figure [ref=e214]:
+                - link "Ein leuchtend grünes Geodenexemplar mit kristallinem Inneren." [ref=e217]:
+                  - /url: /de/fotos/ein-leuchtend-grunes-geodenexemplar-mit-kristallinem-inneren-kPjjEdv3kwg
+                  - img "Ein leuchtend grünes Geodenexemplar mit kristallinem Inneren." [ref=e218]
+              - figure [ref=e219]:
+                - generic [ref=e221]:
+                  - link "Eine Nahaufnahme eines Haufens lila Felsen" [ref=e222]:
+                    - /url: /de/fotos/eine-nahaufnahme-eines-haufens-lila-felsen-hsqxE2Ti7TM
+                    - img "Eine Nahaufnahme eines Haufens lila Felsen" [ref=e223]
+                  - link [ref=e224] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-nahaufnahme-eines-haufens-lila-felsen-hsqxE2Ti7TM
+                    - img [ref=e225]
+              - figure [ref=e227]:
+                - link "Zwei rohe mineralische Proben auf schwarzem Hintergrund" [ref=e230]:
+                  - /url: /de/fotos/zwei-rohe-mineralische-proben-auf-schwarzem-hintergrund-dpmHnHxM8g4
+                  - img "Zwei rohe mineralische Proben auf schwarzem Hintergrund" [ref=e231]
+              - figure [ref=e232]:
+                - link "Eine Ansammlung verschiedener mineralischer Kristalle auf weißem Hintergrund." [ref=e235]:
+                  - /url: /de/fotos/eine-ansammlung-verschiedener-mineralischer-kristalle-auf-weissem-hintergrund-2-V8lhmrLAk
+                  - img "Eine Ansammlung verschiedener mineralischer Kristalle auf weißem Hintergrund." [ref=e236]
+              - figure [ref=e237]:
+                - link "Ein Haufen violetter Amethystkristalle auf einem Ständer." [ref=e240]:
+                  - /url: /de/fotos/ein-haufen-violetter-amethystkristalle-auf-einem-stander-O8bjaCcvr84
+                  - img "Ein Haufen violetter Amethystkristalle auf einem Ständer." [ref=e241]
+              - figure [ref=e242]:
+                - link "Nahaufnahme von klaren Kristallen, die auf metallischem Gestein wachsen" [ref=e245]:
+                  - /url: /de/fotos/nahaufnahme-von-klaren-kristallen-die-auf-metallischem-gestein-wachsen-CINUF3Rwoaw
+                  - img "Nahaufnahme von klaren Kristallen, die auf metallischem Gestein wachsen" [ref=e246]
+          - generic [ref=e249]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e250]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e251]: "| Jetzt Rabatt sichern"
+            - generic [ref=e253]:
+              - link "Roher polychromer Jaspis-Edelstein auf weißem Hintergrund" [ref=e254] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/raw-polychrome-jasper-gemstone-on-white-background-gm2271730746-684177794?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A1b339f08-dd31-491a-b0bf-6032e8c08a35
+                - img "Roher polychromer Jaspis-Edelstein auf weißem Hintergrund" [ref=e255]
+              - link "Erdinspirierte Steinarrangement-Präsentation. Lebendiges Mineralienexemplar mit strukturiertem organischem Muster" [ref=e256] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/earthinspired-stone-arrangement-showcase-vivid-mineral-specimen-with-textured-gm2271148192-683617566?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A087f7763-7f7f-4732-b43a-8a9f3537b734
+                - img "Erdinspirierte Steinarrangement-Präsentation. Lebendiges Mineralienexemplar mit strukturiertem organischem Muster" [ref=e257]
+              - link "Pyrit Rohstein" [ref=e258] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/pyrite-rough-stone-gm2168006937-588046696?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A77af7719-31ad-4f37-9e0d-60c203822796
+                - img "Pyrit Rohstein" [ref=e259]
+              - link "Almandin Granat in Schiefer Felsen vom Großglockner in Österreich." [ref=e260] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/almandine-garnet-in-slate-rock-from-grossglockner-in-austria-gm1088984374-292115793?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A80c813fe-60eb-46d1-a700-ac8fbd53bda8
+                - img "Almandin Granat in Schiefer Felsen vom Großglockner in Österreich." [ref=e261]
+              - link "Studiofotografie hebt reiche Farbvariationen und filigrane Oberflächendetails der Mineralprobe hervor" [ref=e262] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/studio-photography-highlights-rich-color-variations-and-intricate-surface-details-of-gm2271146809-683616258?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A36820cf5-bcef-4997-a89f-0300af07130e
+                - img "Studiofotografie hebt reiche Farbvariationen und filigrane Oberflächendetails der Mineralprobe hervor" [ref=e263]
+              - link "Achat-Roerz" [ref=e264] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/agate-raw-ore-gm1468491280-499990455?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A455296ef-56c3-4fbe-aa99-40821cd4193c
+                - img "Achat-Roerz" [ref=e265]
+              - link "Ein Stück roher Honig-Calcit, Karbonatmineral" [ref=e266] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/piece-of-raw-honey-calcite-carbonate-mineral-gm2271424162-683880599?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3A8a926c4b-f278-4485-8a11-186d2affada7
+                - img "Ein Stück roher Honig-Calcit, Karbonatmineral" [ref=e267]
+              - generic [ref=e268]:
+                - link "Stück rohen polychromen Jaspis-Edelsteins" [ref=e269] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/piece-of-raw-polychrome-jasper-gemstone-gm2271266212-683731327?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3Aa46fe8ce-48cb-4ade-a298-cf15004aeade
+                  - img "Stück rohen polychromen Jaspis-Edelsteins" [ref=e270]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e271] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fraw-mineral-specimen&utm_term=raw+mineral+specimen%3A%3Aaffiliate-layout-optim%3Acontrol%3Ab76bd694-e9ba-4001-863f-ae1feef50a3c&phrase=raw+mineral+specimen&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e275] [cursor=pointer]
+          - generic [ref=e276]:
+            - link [ref=e277] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e278]
+            - paragraph [ref=e280]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

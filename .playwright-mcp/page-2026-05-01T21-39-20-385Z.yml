@@ -1,0 +1,287 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+          - /url: /de
+          - img "Unsplash-Startseite" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /de
+          - img [ref=e12]
+        - link "Grafiken" [ref=e14] [cursor=pointer]:
+          - /url: /de/grafiken
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Entdecken" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - link "Kollektionen" [ref=e21] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry
+          - img [ref=e22]
+        - link "Bisherige Downloads" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fdownloads
+          - img [ref=e25]
+      - link "Lesezeichen" [ref=e28] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Anmelden / Registrieren" [ref=e32] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry
+        - img [ref=e33]
+      - button "Sprache" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menü" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - navigation [ref=e43]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e45]:
+          - button "Unsplash suchen" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+          - combobox [ref=e49]:
+            - searchbox "Unsplash suchen" [ref=e50]: gold ring jewelry
+            - listbox
+          - button "Löschen" [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - button "Visuelle Suche" [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+        - generic [ref=e59]:
+          - link "Unsplash+ sichern" [ref=e60] [cursor=pointer]:
+            - /url: /de/plus
+          - link "Anmelden" [ref=e61] [cursor=pointer]:
+            - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry
+        - button "Bild einreichen" [ref=e63] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Fotos 2588":
+                - /url: /de/s/fotos/gold-ring-jewelry
+                - img
+                - text: Fotos
+                - generic: "2588"
+            - listitem [ref=e73]:
+              - link "Grafiken 45" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/grafiken/gold-ring-jewelry
+                - img [ref=e75]
+                - text: Grafiken
+                - generic [ref=e77]: "45"
+            - listitem [ref=e78]:
+              - button "Mehr" [ref=e79] [cursor=pointer]
+          - generic [ref=e82]:
+            - button "Lizenz" [ref=e83] [cursor=pointer]:
+              - img [ref=e84]
+              - generic [ref=e86]: Lizenz
+              - img [ref=e87]
+            - button "Ausrichtung" [ref=e89] [cursor=pointer]:
+              - img [ref=e90]
+              - generic [ref=e92]: Ausrichtung
+              - img [ref=e93]
+            - button "Sortieren nach Relevanz" [ref=e95] [cursor=pointer]:
+              - img [ref=e96]
+              - generic [ref=e98]: Sortieren nach Relevanz
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "Gold ring jewelry" [level=1] [ref=e103]
+          - generic [ref=e105]:
+            - button "Liste nach rechts verschieben" [ref=e107] [cursor=pointer]:
+              - img [ref=e108]
+            - generic [ref=e111]:
+              - link "Schmuck" [ref=e113] [cursor=pointer]:
+                - /url: /de/s/fotos/schmuck
+              - link "Ring" [ref=e115] [cursor=pointer]:
+                - /url: /de/s/fotos/ring
+              - link "Gold" [ref=e117] [cursor=pointer]:
+                - /url: /de/s/fotos/gold
+              - link "Zubehör" [ref=e119] [cursor=pointer]:
+                - /url: /de/s/fotos/zubeh%C3%B6r
+              - link "Goldring" [ref=e121] [cursor=pointer]:
+                - /url: /de/s/fotos/goldring
+              - link "Goldschmuck" [ref=e123] [cursor=pointer]:
+                - /url: /de/s/fotos/goldschmuck
+              - link "Diamant" [ref=e125] [cursor=pointer]:
+                - /url: /de/s/fotos/diamant
+              - link "Edelstein" [ref=e127] [cursor=pointer]:
+                - /url: /de/s/fotos/edelstein
+              - link "Edelmetall" [ref=e129] [cursor=pointer]:
+                - /url: /de/s/fotos/edelmetall
+              - link "edler Schmuck" [ref=e131] [cursor=pointer]:
+                - /url: /de/s/fotos/edler-schmuck
+              - link "Luxu" [ref=e133] [cursor=pointer]:
+                - /url: /de/s/fotos/luxu
+              - link "lila" [ref=e135] [cursor=pointer]:
+                - /url: /de/s/fotos/lila
+        - generic [ref=e137]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - figure [ref=e143]:
+                - generic [ref=e145]:
+                  - link "Eine Gruppe goldener Ringe, die auf einer weißen Wand sitzen" [ref=e146]:
+                    - /url: /de/fotos/eine-gruppe-goldener-ringe-die-auf-einer-weissen-wand-sitzen-YpzSt6qJFlY
+                    - img "Eine Gruppe goldener Ringe, die auf einer weißen Wand sitzen" [ref=e147]
+                  - link [ref=e148] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-gruppe-goldener-ringe-die-auf-einer-weissen-wand-sitzen-YpzSt6qJFlY
+                    - img [ref=e149]
+              - generic [ref=e151]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e152]:
+                  - generic [ref=e153]: Gesponserte Bilder
+                  - link [ref=e154] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A857370eb-5e67-4214-9fb9-cc60dffb2316&phrase=gold+ring+jewelry&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e155]
+                - generic [ref=e157]:
+                  - link "Nahaufnahme der Hand einer Frau, die Ringe trägt" [ref=e158] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/close-up-of-womans-hand-wearing-rings-gm2212899185-629809758?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3Ab2045a6b-eaac-4785-b3fb-e951ec891c32
+                    - img "Nahaufnahme der Hand einer Frau, die Ringe trägt" [ref=e159]
+                  - link "Experte bewertet verschiedene Goldschmuckstücke mit Lupe und Pinzette" [ref=e160] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/expert-evaluates-various-gold-jewelry-pieces-with-magnifying-glass-and-tweezers-gm2212435893-629375525?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3Aedf593eb-697f-441a-b5ff-6c0bb62bf625
+                    - img "Experte bewertet verschiedene Goldschmuckstücke mit Lupe und Pinzette" [ref=e161]
+                  - link "Schmuck" [ref=e162] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/jewelry-gm118199633-9654794?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A83fc96a3-6845-494b-8044-b7f07085fb27
+                    - img "Schmuck" [ref=e163]
+                  - link "Gold Ringe" [ref=e164] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/gold-rings-gm182385219-11598706?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3Ad3dcc73d-c355-43e8-bce2-fe3b7ee927f2
+                    - img "Gold Ringe" [ref=e165]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e166] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A857370eb-5e67-4214-9fb9-cc60dffb2316&phrase=gold+ring+jewelry&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e167]:
+                - link "Mehrere verzierte Goldringe, die auf weißen Ständern ausgestellt sind." [ref=e170]:
+                  - /url: /de/fotos/mehrere-verzierte-goldringe-die-auf-weissen-standern-ausgestellt-sind-6T4Z_YqOXyg
+                  - img "Mehrere verzierte Goldringe, die auf weißen Ständern ausgestellt sind." [ref=e171]
+              - figure [ref=e172]:
+                - link "Ein goldener Ring sitzt auf einer weißen Schachtel" [ref=e175]:
+                  - /url: /de/fotos/ein-goldener-ring-sitzt-auf-einer-weissen-schachtel-VAlSOR3jRgg
+                  - img "Ein goldener Ring sitzt auf einer weißen Schachtel" [ref=e176]
+              - figure [ref=e177]:
+                - link "Ein aufgeschlagenes Buch mit einem Ring darauf" [ref=e180]:
+                  - /url: /de/fotos/ein-aufgeschlagenes-buch-mit-einem-ring-darauf-7-E18X1edws
+                  - img "Ein aufgeschlagenes Buch mit einem Ring darauf" [ref=e181]
+              - figure [ref=e182]:
+                - generic [ref=e184]:
+                  - link "Nahaufnahme einer Person, die einen Ring trägt" [ref=e185]:
+                    - /url: /de/fotos/nahaufnahme-einer-person-die-einen-ring-tragt-dxsuuCpHCk4
+                    - img "Nahaufnahme einer Person, die einen Ring trägt" [ref=e186]
+                  - link [ref=e187] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fnahaufnahme-einer-person-die-einen-ring-tragt-dxsuuCpHCk4
+                    - img [ref=e188]
+              - figure [ref=e190]:
+                - link "Silberner und goldener Ehering auf weißer Oberfläche" [ref=e193]:
+                  - /url: /de/fotos/silberner-und-goldener-ehering-auf-weisser-oberflache-JZs-_xFIDV0
+                  - img "Silberner und goldener Ehering auf weißer Oberfläche" [ref=e194]
+            - generic [ref=e195]:
+              - figure [ref=e196]:
+                - link "ein Ring auf einer Oberfläche" [ref=e199]:
+                  - /url: /de/fotos/ein-ring-auf-einer-oberflache-XPGYG0OxZnk
+                  - img "ein Ring auf einer Oberfläche" [ref=e200]
+              - figure [ref=e201]:
+                - link "eine Nahaufnahme einer Person, die Ringe und eine Halskette trägt" [ref=e204]:
+                  - /url: /de/fotos/eine-nahaufnahme-einer-person-die-ringe-und-eine-halskette-tragt-NsH-CvU0deg
+                  - img "eine Nahaufnahme einer Person, die Ringe und eine Halskette trägt" [ref=e205]
+              - figure [ref=e206]:
+                - generic [ref=e208]:
+                  - link "Zwei Hände, die sich gegenseitig entgegenstrecken" [ref=e209]:
+                    - /url: /de/fotos/zwei-hande-die-sich-gegenseitig-entgegenstrecken-GK3e1sfT4aw
+                    - img "Zwei Hände, die sich gegenseitig entgegenstrecken" [ref=e210]
+                  - link [ref=e211] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fzwei-hande-die-sich-gegenseitig-entgegenstrecken-GK3e1sfT4aw
+                    - img [ref=e212]
+              - figure [ref=e214]:
+                - generic [ref=e216]:
+                  - link "ein goldener Ring auf rosa Hintergrund" [ref=e217]:
+                    - /url: /de/fotos/ein-goldener-ring-auf-rosa-hintergrund-PvmuGVDmA5s
+                    - img "ein goldener Ring auf rosa Hintergrund" [ref=e218]
+                  - link [ref=e219] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-goldener-ring-auf-rosa-hintergrund-PvmuGVDmA5s
+                    - img [ref=e220]
+              - figure [ref=e222]:
+                - link "Silberner Diamantring auf Box" [ref=e225]:
+                  - /url: /de/fotos/silberner-diamantring-auf-box-PcxHabHEsGI
+                  - img "Silberner Diamantring auf Box" [ref=e226]
+              - figure [ref=e227]:
+                - link "Eine Frauenhand mit einem Ring darauf" [ref=e230]:
+                  - /url: /de/fotos/eine-frauenhand-mit-einem-ring-darauf-D9q54mywmhc
+                  - img "Eine Frauenhand mit einem Ring darauf" [ref=e231]
+              - figure [ref=e232]:
+                - link "Silberring auf weißem Schnee" [ref=e235]:
+                  - /url: /de/fotos/silberring-auf-weissem-schnee-DXmaa_45c2g
+                  - img "Silberring auf weißem Schnee" [ref=e236]
+            - generic [ref=e237]:
+              - link "The best in on-brand content creation Learn More" [ref=e240] [cursor=pointer]:
+                - /url: https://e-10457.adzerk.net/r?e=eyJ2IjoiMS4xNCIsImF2Ijo4MjM1NTIsImF0Ijo1LCJidCI6MCwiY20iOjk0ODU5NTcsImNoIjo0NTE2MywiY2siOnt9LCJjciI6MzY0OTkzNjEyLCJkaSI6ImJiM2ViNTJjNzA3YTQ3MTViZTQwOTQ2MTlmMDIxYmE4IiwiZGoiOjAsImlpIjoiZDQ1NTg4OGU0YWJmNDUxODk1NDk3MzI0OGYzNjdmNjMiLCJkbSI6MywiZmMiOjU0MDEzMDcyMiwiZmwiOjU1ODQ4Njg0LCJpcCI6Ijg5LjI0NC44My4zNyIsIm53IjoxMDQ1NywicGMiOjAsIm9wIjowLCJtcCI6MCwiZWMiOjAsImdtIjowLCJlcCI6bnVsbCwicHIiOjIwODI4MywicnQiOjEsInJzIjo1MDAsInNhIjoiOTYiLCJzYiI6ImktMDBjMGE1M2FlYmQxNTUzNmIiLCJzcCI6MTcxNjU5Mywic3QiOjExMjE5NTQsInVrIjoiOWU2MjAxYjktYzc2Ny00ZDVlLTliODItODE4NmZkOGVjODNiIiwiem4iOjI0MTM0OCwiem0iOlsyNDEzNDhdLCJ0cyI6MTc3NzY3MTU1OTg2NSwicG4iOiJzZWFyY2gtaW4tZmVlZCIsImdyIjp0cnVlLCJnYyI6dHJ1ZSwiZ0MiOnRydWUsImdpIjp0cnVlLCJncyI6InJlcSIsInR6IjoiQW1lcmljYS9OZXdfWW9yayIsInVyIjoiaHR0cHM6Ly91bnNwbGFzaC5jb20vc3R1ZGlvIn0&s=CO5XtcW-gSXb6uLMH1E41jhCPd8
+                - generic [ref=e241]:
+                  - img [ref=e243]
+                  - contentinfo [ref=e244]:
+                    - generic [ref=e245]:
+                      - img [ref=e247]
+                      - generic [ref=e251]: The best in on-brand content creation
+                    - generic [ref=e252]: Learn More
+              - figure [ref=e253]:
+                - link "ein Paar goldene Ringe, die auf einer weißen Decke sitzen" [ref=e256]:
+                  - /url: /de/fotos/ein-paar-goldene-ringe-die-auf-einer-weissen-decke-sitzen-dXfhXa49gnU
+                  - img "ein Paar goldene Ringe, die auf einer weißen Decke sitzen" [ref=e257]
+              - figure [ref=e258]:
+                - link "Nahaufnahme eines Rings auf einer Blume" [ref=e261]:
+                  - /url: /de/fotos/nahaufnahme-eines-rings-auf-einer-blume-Gsxf9G-7Dgo
+                  - img "Nahaufnahme eines Rings auf einer Blume" [ref=e262]
+              - figure [ref=e263]:
+                - link "Hände mit klobigen goldenen Ringen und Armbändern geschmückt." [ref=e266]:
+                  - /url: /de/fotos/hande-mit-klobigen-goldenen-ringen-und-armbandern-geschmuckt-9b9SCjrZkXY
+                  - img "Hände mit klobigen goldenen Ringen und Armbändern geschmückt." [ref=e267]
+              - figure [ref=e268]:
+                - link "Ein Ring mit roten Kugeln" [ref=e271]:
+                  - /url: /de/fotos/ein-ring-mit-roten-kugeln-9svFC0tmf5E
+                  - img "Ein Ring mit roten Kugeln" [ref=e272]
+              - figure [ref=e273]:
+                - generic [ref=e275]:
+                  - link "Ein Perlenring ruht auf dunklen Trauben" [ref=e276]:
+                    - /url: /de/fotos/ein-perlenring-ruht-auf-dunklen-trauben-aeWPMhbnSaA
+                    - img "Ein Perlenring ruht auf dunklen Trauben" [ref=e277]
+                  - link [ref=e278] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-perlenring-ruht-auf-dunklen-trauben-aeWPMhbnSaA
+                    - img [ref=e279]
+              - figure [ref=e281]:
+                - link "Ein Goldring mit grünen Edelsteinen auf Holz" [ref=e284]:
+                  - /url: /de/fotos/ein-goldring-mit-grunen-edelsteinen-auf-holz-fkh6kE7jj6g
+                  - img "Ein Goldring mit grünen Edelsteinen auf Holz" [ref=e285]
+              - figure [ref=e286]:
+                - link "Goldkette Halskette auf weißer Oberfläche" [ref=e289]:
+                  - /url: /de/fotos/goldkette-halskette-auf-weisser-oberflache-aldDZePniqg
+                  - img "Goldkette Halskette auf weißer Oberfläche" [ref=e290]
+          - generic [ref=e293]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e294]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e295]: "| Jetzt Rabatt sichern"
+            - generic [ref=e297]:
+              - link "Gold Runder Diamantring isoliert auf blauem Hintergrund 3D-Rendering" [ref=e298] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/gold-round-diamond-ring-isolated-on-blue-background-3d-rendering-gm2229952715-645641982?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A1e6c2228-0138-47a3-9d32-71601516748b
+                - img "Gold Runder Diamantring isoliert auf blauem Hintergrund 3D-Rendering" [ref=e299]
+              - link "Edelmetalle und Gold" [ref=e300] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/precious-metals-and-gold-gm2228788953-644552132?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A7734c72a-6f0b-4fc3-902b-4fae848a3799
+                - img "Edelmetalle und Gold" [ref=e301]
+              - link "Drei weiße gold diamond Ringe auf schwarzem Hintergrund" [ref=e302] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/three-white-gold-diamond-rings-on-black-background-gm108222426-7891859?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A76b19e8f-d612-4821-8886-7bbc485fcd83
+                - img "Drei weiße gold diamond Ringe auf schwarzem Hintergrund" [ref=e303]
+              - link "Ich pinky versprechen, ich werde an Ihrer Seite für immer sein" [ref=e304] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/i-pinky-promise-ill-be-by-your-side-forever-gm1181587386-331460876?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A23e652d7-2f99-4539-8ce2-d4192de17e4a
+                - img "Ich pinky versprechen, ich werde an Ihrer Seite für immer sein" [ref=e305]
+              - link "Schmuck" [ref=e306] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/six-diamond-rings-isolated-on-white-gm154960096-16312461?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A263f55f2-a8b0-4888-8e12-c377bbdac746
+                - img "Schmuck" [ref=e307]
+              - link "Juwelier setzt einen leuchtenden Diamantstein auf den Ring in extremer Nahaufnahme." [ref=e308] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/jeweler-setting-bright-diamond-gemstone-onto-ring-extreme-close-up-gm2254646026-667950980?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3Aa120917b-c6ab-41bf-a400-deeb9662eded
+                - img "Juwelier setzt einen leuchtenden Diamantstein auf den Ring in extremer Nahaufnahme." [ref=e309]
+              - link "Eine Ausstellung von Ringen in einem Geschäft. Die Ringe sind in verschiedenen Größen und Farben erhältlich" [ref=e310] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/a-display-of-rings-in-a-store-the-rings-are-of-different-sizes-and-colors-gm2232643594-648191404?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A3736e293-fb62-4a03-8869-c7c177a558ae
+                - img "Eine Ausstellung von Ringen in einem Geschäft. Die Ringe sind in verschiedenen Größen und Farben erhältlich" [ref=e311]
+              - generic [ref=e312]:
+                - link "Eleganter Ring aus Gold mit Diamanten auf kontrastreichem Hintergrund" [ref=e313] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/elegant-gold-diamond-ring-on-contrasting-background-gm2215090351-631855090?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3Aaa0b003d-1bd0-4d51-92dc-3418d3e732bc
+                  - img "Eleganter Ring aus Gold mit Diamanten auf kontrastreichem Hintergrund" [ref=e314]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e315] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fgold-ring-jewelry&utm_term=gold+ring+jewelry%3A%3Aaffiliate-layout-optim%3Acontrol%3A2209e113-33c4-42db-8498-1bcc149a4214&phrase=gold+ring+jewelry&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e319] [cursor=pointer]
+          - generic [ref=e320]:
+            - link [ref=e321] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e322]
+            - paragraph [ref=e324]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

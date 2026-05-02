@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic: Süß & Satt
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "Süß & Satt" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e5]:
+        - link "Menu" [ref=e6] [cursor=pointer]:
+          - /url: "#menu"
+        - link "About" [ref=e7] [cursor=pointer]:
+          - /url: "#philosophy"
+        - link "Gallery" [ref=e8] [cursor=pointer]:
+          - /url: "#gallery"
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: "#location"
+      - link "Get Early Access" [ref=e10] [cursor=pointer]:
+        - /url: "#location"
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - paragraph [ref=e17]: Opening Spring 2026
+            - generic [ref=e20]: Handcrafted in Wiesbaden
+          - heading "Fresh Food Daily Harvest" [level=1] [ref=e21]:
+            - generic [ref=e22]: Fresh Food
+            - generic [ref=e23]: Daily Harvest
+          - paragraph [ref=e24]: Açaí Bowls, Paninis & fresh juices — crafted for the urban lifestyle in Bärenstraße 2.
+          - generic [ref=e25]:
+            - link "View Menu" [ref=e26] [cursor=pointer]:
+              - /url: "#menu"
+            - link "Get Notified" [ref=e27] [cursor=pointer]:
+              - /url: "#location"
+        - generic [ref=e28]:
+          - generic:
+            - generic: AÇAÍ
+          - generic [ref=e29]:
+            - generic [ref=e32]: eco
+            - generic [ref=e34]: eco
+            - generic [ref=e35]:
+              - paragraph [ref=e36]: Signature
+              - paragraph [ref=e37]: Wild Berry Açaí
+      - generic [ref=e39]: Scroll
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e44]: Açaí Bowls
+        - generic [ref=e46]: Artisanal Paninis
+        - generic [ref=e48]: Fresh Juices
+        - generic [ref=e50]: Daily Harvest
+        - generic [ref=e52]: Handcrafted
+        - generic [ref=e54]: Wiesbaden
+        - generic [ref=e56]: 100% Natural
+        - generic [ref=e58]: Opening Soon
+      - generic [ref=e60]:
+        - generic [ref=e61]: Açaí Bowls
+        - generic [ref=e63]: Artisanal Paninis
+        - generic [ref=e65]: Fresh Juices
+        - generic [ref=e67]: Daily Harvest
+        - generic [ref=e69]: Handcrafted
+        - generic [ref=e71]: Wiesbaden
+        - generic [ref=e73]: 100% Natural
+        - generic [ref=e75]: Opening Soon
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - heading "Our Daily Harvest" [level=2] [ref=e80]:
+          - text: Our Daily
+          - text: Harvest
+        - paragraph [ref=e81]: Premium ingredients, intentional plating. Freshness you can see and taste in every single bite.
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - img "Frisch gegrilltes Panini mit Sauerteigbrot" [ref=e85]
+          - generic [ref=e86]:
+            - heading "Artisanal Paninis" [level=3] [ref=e87]
+            - paragraph [ref=e88]: Toasted sourdough with curated fillings from local suppliers.
+            - generic [ref=e89]: arrow_forward
+        - generic [ref=e90]:
+          - img "Frisch gepresste Säfte in Glasflaschen" [ref=e92]
+          - generic [ref=e93]:
+            - heading "Pressed Daily" [level=3] [ref=e94]
+            - paragraph [ref=e95]: Cold-pressed nutrients with absolutely no added sugars.
+            - text: New Flavors Daily
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e101]: Our Philosophy
+        - heading "We believe fast food should be real food." [level=2] [ref=e103]:
+          - text: We believe fast food
+          - text: should be real food.
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - paragraph [ref=e106]: 0%
+            - paragraph [ref=e107]: Natural Ingredients
+          - generic [ref=e108]:
+            - paragraph [ref=e109]: —
+            - paragraph [ref=e110]: Freshly Pressed
+        - paragraph [ref=e111]: Süß & Satt was born from a passion for honest ingredients and urban aesthetics. Every bowl, every juice, every panini — crafted with intention.
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - img "Frische Zutaten" [ref=e115]
+          - img "Gesundes Gericht" [ref=e117]
+        - generic [ref=e118]:
+          - img "Gegrilltes Gemüse" [ref=e120]
+          - img "Modernes Interior" [ref=e122]
+        - generic:
+          - generic: eco
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - heading "The Harvest Gallery" [level=2] [ref=e128]:
+          - text: The Harvest
+          - text: Gallery
+        - generic [ref=e129]: Scroll to explore →
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - img "Artisanal Panini" [ref=e132]
+          - generic [ref=e133]: Sourdough Panini
+        - generic [ref=e134]:
+          - img "Fresh Pressed Juice" [ref=e135]
+          - generic [ref=e136]: Cold Pressed
+        - generic [ref=e137]:
+          - img "Açaí Bowl" [ref=e138]
+          - generic [ref=e139]: Signature Açaí
+        - generic [ref=e140]:
+          - img "Fresh Ingredients" [ref=e141]
+          - generic [ref=e142]: Local Ingredients
+        - generic [ref=e143]:
+          - img "Grilled Vegetables" [ref=e144]
+          - generic [ref=e145]: Seasonal Harvest
+        - generic [ref=e146]:
+          - img "Restaurant Interior" [ref=e147]
+          - generic [ref=e148]: Bärenstraße 2
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - heading "Be the first to taste." [level=2] [ref=e153]:
+          - text: Be the first
+          - text: to taste.
+        - paragraph [ref=e154]: We're opening in Spring 2026. Sign up for early access — the first 50 get a free signature bowl on opening day.
+        - generic [ref=e155]:
+          - textbox "Your email address" [ref=e156]
+          - button "Sign Up" [ref=e157] [cursor=pointer]
+        - generic [ref=e158]:
+          - generic [ref=e160]: location_on
+          - generic [ref=e161]:
+            - paragraph [ref=e162]: Bärenstraße 2
+            - paragraph [ref=e163]: 65183 Wiesbaden, Germany
+      - img "Straßenansicht Wiesbaden" [ref=e165]
+  - contentinfo [ref=e167]:
+    - generic [ref=e168]:
+      - link "Süß & Satt" [ref=e170] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - paragraph [ref=e173]: Location
+          - paragraph [ref=e174]: Bärenstraße 2
+          - paragraph [ref=e175]: 65183 Wiesbaden
+          - paragraph [ref=e176]: Germany
+        - generic [ref=e177]:
+          - paragraph [ref=e178]: Follow
+          - link "Instagram" [ref=e179] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook" [ref=e180] [cursor=pointer]:
+            - /url: "#"
+          - link "Pinterest" [ref=e181] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e182]:
+          - paragraph [ref=e183]: Legal
+          - link "Impressum" [ref=e184] [cursor=pointer]:
+            - /url: "#"
+          - link "Datenschutz" [ref=e185] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e186]:
+        - paragraph [ref=e187]: © 2026 Süß & Satt. Handcrafted in Wiesbaden.
+        - paragraph [ref=e188]: Opening Spring 2026

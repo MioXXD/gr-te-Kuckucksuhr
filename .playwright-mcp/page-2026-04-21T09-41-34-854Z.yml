@@ -1,0 +1,1922 @@
+- generic [active] [ref=e1]:
+  - region "We value your privacy" [ref=e2]:
+    - generic [ref=e4]:
+      - heading "We value your privacy" [level=2] [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e8]: We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking "Accept All", you consent to our use of cookies.
+        - generic [ref=e9]:
+          - button "Customise" [ref=e10] [cursor=pointer]
+          - button "Reject All" [ref=e11] [cursor=pointer]
+          - button "Accept All" [ref=e12] [cursor=pointer]
+  - generic [ref=e13]:
+    - generic [ref=e15]:
+      - paragraph [ref=e16]: "Streamline your search for the next agency. 🚀 See the teams behind this year’s most impactful work in “Dribbble Select: Best Shots of 2026.” 🙌 🥳"
+      - link "Explore Top Agency Shots" [ref=e17] [cursor=pointer]:
+        - /url: https://dribbble.com/resources/agencies/ultimate-dribbble-select-best-shots
+    - button "close" [ref=e18] [cursor=pointer]:
+      - img [ref=e19]
+  - generic [ref=e22]:
+    - link "Back to home page" [ref=e23] [cursor=pointer]:
+      - /url: /
+      - 'img "Dribbble: the community for graphic design" [ref=e24]'
+    - generic [ref=e27]:
+      - combobox "Submit" [ref=e29]:
+        - search [ref=e30]:
+          - searchbox "Submit" [ref=e32]: jewelry website
+      - generic "Change search type" [ref=e33]:
+        - generic:
+          - generic:
+            - button "Shots" [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: Shots
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Shots
+                  - generic: Designers
+                  - generic: Services
+      - button "Search" [ref=e36] [cursor=pointer]:
+        - img [ref=e37]
+    - navigation [ref=e39]:
+      - list [ref=e41]:
+        - listitem [ref=e42]:
+          - link "Explore" [ref=e43] [cursor=pointer]:
+            - /url: /shots/popular
+        - listitem [ref=e44]:
+          - link "Hire Talent" [ref=e45] [cursor=pointer]:
+            - /url: /designers
+        - listitem [ref=e46]:
+          - link "Get Hired" [ref=e47] [cursor=pointer]:
+            - /url: /browse-project-briefs
+        - listitem [ref=e48]:
+          - link "Community" [ref=e49] [cursor=pointer]:
+            - /url: /stories
+    - generic [ref=e50]:
+      - link "Sign up" [ref=e51] [cursor=pointer]:
+        - /url: /signups/new
+      - link "Log in" [ref=e52] [cursor=pointer]:
+        - /url: /session/new
+  - generic [ref=e53]:
+    - generic [ref=e55]:
+      - heading "jewelry website" [level=1] [ref=e56]
+      - paragraph [ref=e57]: Unique jewelry website designs
+      - list [ref=e58]:
+        - listitem [ref=e59]: "Related:"
+        - listitem [ref=e60]:
+          - link "jewellery" [ref=e61] [cursor=pointer]:
+            - /url: /search/jewellery
+        - listitem [ref=e62]:
+          - link "web" [ref=e63] [cursor=pointer]:
+            - /url: /search/web
+        - listitem [ref=e64]:
+          - link "landing page" [ref=e65] [cursor=pointer]:
+            - /url: /search/landing%20page
+        - listitem [ref=e66]:
+          - link "webdesign" [ref=e67] [cursor=pointer]:
+            - /url: /search/webdesign
+        - listitem [ref=e68]:
+          - link "jewel" [ref=e69] [cursor=pointer]:
+            - /url: /search/jewel
+        - listitem [ref=e70]:
+          - link "ux" [ref=e71] [cursor=pointer]:
+            - /url: /search/ux
+    - generic [ref=e73]:
+      - link "Popular" [ref=e76] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e77]
+        - generic [ref=e79]: Popular
+      - generic [ref=e80]:
+        - link [ref=e81] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e82]
+        - list [ref=e84]:
+          - listitem [ref=e85]:
+            - link "Discover" [ref=e86] [cursor=pointer]:
+              - /url: /search/shots/popular/?q=jewelry+website
+          - listitem [ref=e87]:
+            - link "Animation" [ref=e88] [cursor=pointer]:
+              - /url: /search/shots/popular/animation?q=jewelry+website
+          - listitem [ref=e89]:
+            - link "Branding" [ref=e90] [cursor=pointer]:
+              - /url: /search/shots/popular/branding?q=jewelry+website
+          - listitem [ref=e91]:
+            - link "Illustration" [ref=e92] [cursor=pointer]:
+              - /url: /search/shots/popular/illustration?q=jewelry+website
+          - listitem [ref=e93]:
+            - link "Mobile" [ref=e94] [cursor=pointer]:
+              - /url: /search/shots/popular/mobile?q=jewelry+website
+          - listitem [ref=e95]:
+            - link "Print" [ref=e96] [cursor=pointer]:
+              - /url: /search/shots/popular/print?q=jewelry+website
+          - listitem [ref=e97]:
+            - link "Product Design" [ref=e98] [cursor=pointer]:
+              - /url: /search/shots/popular/product-design?q=jewelry+website
+          - listitem [ref=e99]:
+            - link "Typography" [ref=e100] [cursor=pointer]:
+              - /url: /search/shots/popular/typography?q=jewelry+website
+          - listitem [ref=e101]:
+            - link "Web Design" [ref=e102] [cursor=pointer]:
+              - /url: /search/shots/popular/web-design?q=jewelry+website
+      - link "Filters" [ref=e104] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e105]
+        - text: Filters
+    - main [ref=e108]:
+      - generic [ref=e109]:
+        - list [ref=e110]:
+          - listitem [ref=e111]:
+            - generic [ref=e112]:
+              - figure [ref=e113]:
+                - img "Jewellery Web Design diamon jewellery website gold jewellery website home page jewellery jewellery website jewelry jewelry website landing page ui uiux web design web ux website website design" [ref=e114]
+              - link "View Jewellery Web Design" [ref=e116] [cursor=pointer]:
+                - /url: /shots/25024660-Jewellery-Web-Design
+                - generic: View Jewellery Web Design
+              - generic:
+                - generic:
+                  - generic: Jewellery Web Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e117] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e118]
+                    - button [ref=e120] [cursor=pointer]:
+                      - img [ref=e121]
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - 'link "Orizon: UI/UX Design Agency Orizon: UI/UX Design Agency" [ref=e125] [cursor=pointer]':
+                  - /url: /Orizon
+                  - 'img "Orizon: UI/UX Design Agency" [ref=e126]'
+                  - generic [ref=e127]: "Orizon: UI/UX Design Agency"
+                - link "Pro user" [ref=e129] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e130]:
+                - generic [ref=e132]:
+                  - generic:
+                    - button [ref=e133] [cursor=pointer]:
+                      - img [ref=e134]
+                    - generic [ref=e136]: "106"
+                - generic [ref=e137]:
+                  - img [ref=e138]
+                  - generic [ref=e141]: 48.4k
+          - listitem [ref=e142]:
+            - generic [ref=e143]:
+              - figure [ref=e144]:
+                - img "Jewelry Website Design best jewelry website design design ecommerce website figma design jewelry design jewelry ecommerce jewelry shop jewelry template website jewelry website jewelry website design oripio shop shopping website top design ui ux designer website design" [ref=e145]
+              - link "View Jewelry Website Design" [ref=e147] [cursor=pointer]:
+                - /url: /shots/24793667-Jewelry-Website-Design
+                - generic: View Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e148] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e149]
+                    - button [ref=e151] [cursor=pointer]:
+                      - img [ref=e152]
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - link "Oripio Oripio" [ref=e156] [cursor=pointer]:
+                  - /url: /oripio
+                  - img "Oripio" [ref=e157]
+                  - generic [ref=e158]: Oripio
+                - link "Pro user" [ref=e160] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - generic:
+                    - button [ref=e164] [cursor=pointer]:
+                      - img [ref=e165]
+                    - generic [ref=e167]: "57"
+                - generic [ref=e168]:
+                  - img [ref=e169]
+                  - generic [ref=e172]: 20.7k
+          - listitem [ref=e173]:
+            - generic [ref=e174]:
+              - figure [ref=e175]:
+                - img "Jewelry Website ecommerce ecommerce website jewelry jewelry shop jewelry website jewelry website design landingpage modern online shop product design ui uiux user interface web design website design" [ref=e176]
+              - link "View Jewelry Website" [ref=e178] [cursor=pointer]:
+                - /url: /shots/23801669-Jewelry-Website
+                - generic: View Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e179] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e180]
+                    - button [ref=e182] [cursor=pointer]:
+                      - img [ref=e183]
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - link "Ismail Nahid Ismail Nahid" [ref=e187] [cursor=pointer]:
+                  - /url: /IsmailNahid
+                  - img "Ismail Nahid" [ref=e188]
+                  - generic [ref=e189]: Ismail Nahid
+                - link "Pro user" [ref=e191] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e192]:
+                - generic [ref=e194]:
+                  - generic:
+                    - button [ref=e195] [cursor=pointer]:
+                      - img [ref=e196]
+                    - generic [ref=e198]: "161"
+                - generic [ref=e199]:
+                  - img [ref=e200]
+                  - generic [ref=e203]: 42.9k
+          - listitem [ref=e204]:
+            - generic [ref=e205]:
+              - figure [ref=e206]:
+                - img "Jewelry Website design e commerce ecommerce ecommerce design ecommerce landing page ecommerce shop ecommerce website ecommerce website design homepage jewellery jewelry website landing page landing page design minimal typography ux web web design website website design" [ref=e207]
+              - link "View Jewelry Website" [ref=e209] [cursor=pointer]:
+                - /url: /shots/21152863-Jewelry-Website
+                - generic: View Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e210] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e211]
+                    - button [ref=e213] [cursor=pointer]:
+                      - img [ref=e214]
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - 'link "Orizon: UI/UX Design Agency Orizon: UI/UX Design Agency" [ref=e218] [cursor=pointer]':
+                  - /url: /Orizon
+                  - 'img "Orizon: UI/UX Design Agency" [ref=e219]'
+                  - generic [ref=e220]: "Orizon: UI/UX Design Agency"
+                - link "Pro user" [ref=e222] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e223]:
+                - generic [ref=e225]:
+                  - generic:
+                    - button [ref=e226] [cursor=pointer]:
+                      - img [ref=e227]
+                    - generic [ref=e229]: "491"
+                - generic [ref=e230]:
+                  - img [ref=e231]
+                  - generic [ref=e234]: 193k
+          - listitem [ref=e235]:
+            - generic [ref=e236]:
+              - figure [ref=e237]:
+                - img "Jewelry Website UI Design branding design jewelry jewelry website modern design ui ui design uiux uiux design user interface website" [ref=e238]
+              - link "View Jewelry Website UI Design" [ref=e240] [cursor=pointer]:
+                - /url: /shots/25872334-Jewelry-Website-UI-Design
+                - generic: View Jewelry Website UI Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website UI Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e241] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e242]
+                    - button [ref=e244] [cursor=pointer]:
+                      - img [ref=e245]
+            - generic [ref=e247]:
+              - link "Md Takrimul Alam Md Takrimul Alam" [ref=e249] [cursor=pointer]:
+                - /url: /Rafi000007
+                - img "Md Takrimul Alam" [ref=e250]
+                - generic [ref=e251]: Md Takrimul Alam
+              - generic [ref=e252]:
+                - generic [ref=e254]:
+                  - generic:
+                    - button [ref=e255] [cursor=pointer]:
+                      - img [ref=e256]
+                    - generic [ref=e258]: "3"
+                - generic [ref=e259]:
+                  - img [ref=e260]
+                  - generic [ref=e263]: 2.4k
+          - listitem [ref=e264]:
+            - generic [ref=e265]:
+              - figure [ref=e266]:
+                - img "Jewelry Website Landing Page Design clean e commerce ecommerce ecommerce website fashion homepage jewelry jewelry website landing page minimal onlione shop store ui ui design ux web web design web designer" [ref=e267]
+              - link "View Jewelry Website Landing Page Design" [ref=e269] [cursor=pointer]:
+                - /url: /shots/19180899-Jewelry-Website-Landing-Page-Design
+                - generic: View Jewelry Website Landing Page Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Landing Page Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e270] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e271]
+                    - button [ref=e273] [cursor=pointer]:
+                      - img [ref=e274]
+            - generic [ref=e276]:
+              - generic [ref=e277]:
+                - link "Shuvo Shuvo" [ref=e278] [cursor=pointer]:
+                  - /url: /uixshuvo
+                  - img "Shuvo" [ref=e279]
+                  - generic [ref=e280]: Shuvo
+                - link "Pro user" [ref=e282] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e283]:
+                - generic [ref=e285]:
+                  - generic:
+                    - button [ref=e286] [cursor=pointer]:
+                      - img [ref=e287]
+                    - generic [ref=e289]: "48"
+                - generic [ref=e290]:
+                  - img [ref=e291]
+                  - generic [ref=e294]: 12.5k
+          - listitem [ref=e295]:
+            - generic [ref=e296]:
+              - figure [ref=e297]:
+                - img "Jewelry Website Landing-Page Design jewelry jewelry design jewelry photography jewelry website jewelrystore ui ui design visula design web design webdesign website website design" [ref=e298]
+              - link "View Jewelry Website Landing-Page Design" [ref=e300] [cursor=pointer]:
+                - /url: /shots/25703276-Jewelry-Website-Landing-Page-Design
+                - generic: View Jewelry Website Landing-Page Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Landing-Page Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e301] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e302]
+                    - button [ref=e304] [cursor=pointer]:
+                      - img [ref=e305]
+            - generic [ref=e307]:
+              - link "UX UX" [ref=e309] [cursor=pointer]:
+                - /url: /UXSilas
+                - img "UX" [ref=e310]
+                - generic [ref=e311]: UX
+              - generic [ref=e312]:
+                - generic [ref=e314]:
+                  - generic:
+                    - button [ref=e315] [cursor=pointer]:
+                      - img [ref=e316]
+                    - generic [ref=e318]: "3"
+                - generic [ref=e319]:
+                  - img [ref=e320]
+                  - generic [ref=e323]: 2.6k
+          - listitem [ref=e324]:
+            - generic [ref=e325]:
+              - figure [ref=e326]:
+                - img "Blure - Jewelry Website aesthetic design figma homepage minimal product page ui ux website" [ref=e327]
+              - link "View Blure - Jewelry Website" [ref=e329] [cursor=pointer]:
+                - /url: /shots/25951614-Blure-Jewelry-Website
+                - generic: View Blure - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Blure - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e330] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e331]
+                    - button [ref=e333] [cursor=pointer]:
+                      - img [ref=e334]
+            - generic [ref=e336]:
+              - link "Emma Atoyan Emma Atoyan" [ref=e338] [cursor=pointer]:
+                - /url: /Emul
+                - img "Emma Atoyan" [ref=e339]
+                - generic [ref=e340]: Emma Atoyan
+              - generic [ref=e341]:
+                - generic [ref=e343]:
+                  - generic:
+                    - button [ref=e344] [cursor=pointer]:
+                      - img [ref=e345]
+                    - generic [ref=e347]: "6"
+                - generic [ref=e348]:
+                  - img [ref=e349]
+                  - generic [ref=e352]: 2.2k
+          - listitem [ref=e353]:
+            - generic [ref=e354]:
+              - figure [ref=e355]:
+                - img "Jewelry Website Design business ecommerce ecommerce landing page ecommerce shop ecommerce shop website ecommerce web 2024 ecommerce website golden ring website jewellery jewelry jewelry landing page jewelry product website jewelry shop website jewelry website landing page design ui uidesign uiux design webdesign" [ref=e356]
+              - link "View Jewelry Website Design" [ref=e358] [cursor=pointer]:
+                - /url: /shots/25158105-Jewelry-Website-Design
+                - generic: View Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e359] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e360]
+                    - button [ref=e362] [cursor=pointer]:
+                      - img [ref=e363]
+            - generic [ref=e365]:
+              - link "MA Ahmed ✪ MA Ahmed ✪" [ref=e367] [cursor=pointer]:
+                - /url: /usamaahmed0790
+                - img "MA Ahmed ✪" [ref=e368]
+                - generic [ref=e369]: MA Ahmed ✪
+              - generic [ref=e370]:
+                - generic [ref=e372]:
+                  - generic:
+                    - button [ref=e373] [cursor=pointer]:
+                      - img [ref=e374]
+                    - generic [ref=e376]: "13"
+                - generic [ref=e377]:
+                  - img [ref=e378]
+                  - generic [ref=e381]: 7.6k
+          - listitem [ref=e382]:
+            - generic [ref=e383]:
+              - figure [ref=e384]:
+                - img "nabigold.com - jewelry website clean gold gold webstore jewellery jewellery ecommerce jewelry jewelry design jewelry store jewelry ui jewelry web design jewelry website landing minimal ui ux web design web site webdesign" [ref=e385]
+              - link "View nabigold.com - jewelry website" [ref=e387] [cursor=pointer]:
+                - /url: /shots/23570811-nabigold-com-jewelry-website
+                - generic: View nabigold.com - jewelry website
+              - generic:
+                - generic:
+                  - generic: nabigold.com - jewelry website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e388] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e389]
+                    - button [ref=e391] [cursor=pointer]:
+                      - img [ref=e392]
+            - generic [ref=e394]:
+              - link "Ehsan Gholampour Ehsan Gholampour" [ref=e396] [cursor=pointer]:
+                - /url: /iamehsan
+                - img "Ehsan Gholampour" [ref=e397]
+                - generic [ref=e398]: Ehsan Gholampour
+              - generic [ref=e399]:
+                - generic [ref=e401]:
+                  - generic:
+                    - button [ref=e402] [cursor=pointer]:
+                      - img [ref=e403]
+                    - generic [ref=e405]: "42"
+                - generic [ref=e406]:
+                  - img [ref=e407]
+                  - generic [ref=e410]: 17.5k
+          - listitem [ref=e411]:
+            - generic [ref=e412]:
+              - figure [ref=e413]:
+                - img "ORE Jewelry Website folio synchronized ui ux video web zhenyary" [ref=e414]
+              - generic [ref=e415]:
+                - img [ref=e417]
+                - link "Shot Link":
+                  - /url: /shots/18694345-ORE-Jewelry-Website
+                  - generic: Shot Link
+              - link "View ORE Jewelry Website" [ref=e420] [cursor=pointer]:
+                - /url: /shots/18694345-ORE-Jewelry-Website
+                - generic: View ORE Jewelry Website
+              - generic:
+                - generic:
+                  - generic: ORE Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e421] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e422]
+                    - button [ref=e424] [cursor=pointer]:
+                      - img [ref=e425]
+            - generic [ref=e427]:
+              - generic [ref=e428]:
+                - link "Synchronized Synchronized" [ref=e429] [cursor=pointer]:
+                  - /url: /Synchronized
+                  - img "Synchronized" [ref=e430]
+                  - generic [ref=e431]: Synchronized
+                - link "Pro user" [ref=e433] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e434]:
+                - generic [ref=e436]:
+                  - generic:
+                    - button [ref=e437] [cursor=pointer]:
+                      - img [ref=e438]
+                    - generic [ref=e440]: "466"
+                - generic [ref=e441]:
+                  - img [ref=e442]
+                  - generic [ref=e445]: 129k
+          - listitem [ref=e446]:
+            - generic [ref=e447]:
+              - figure [ref=e448]:
+                - img "Zahabiya - Ecommerce Jewelry Website beauty beauty product design diamond ecommerce jewelry landing page luxury marketplace online shop product ring store ui ui design web web design website" [ref=e449]
+              - generic [ref=e451]:
+                - img [ref=e452]
+                - generic [ref=e454]: "3"
+              - link "View Zahabiya - Ecommerce Jewelry Website" [ref=e455] [cursor=pointer]:
+                - /url: /shots/25104649-Zahabiya-Ecommerce-Jewelry-Website
+                - generic: View Zahabiya - Ecommerce Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Zahabiya - Ecommerce Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e456] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e457]
+                    - button [ref=e459] [cursor=pointer]:
+                      - img [ref=e460]
+            - generic [ref=e462]:
+              - generic [ref=e463]:
+                - link "Korsa Korsa" [ref=e464] [cursor=pointer]:
+                  - /url: /korsaagency
+                  - img "Korsa" [ref=e465]
+                  - generic [ref=e466]: Korsa
+                - link "Pro user" [ref=e468] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e469]:
+                - generic [ref=e471]:
+                  - generic:
+                    - button [ref=e472] [cursor=pointer]:
+                      - img [ref=e473]
+                    - generic [ref=e475]: "132"
+                - generic [ref=e476]:
+                  - img [ref=e477]
+                  - generic [ref=e480]: 23.8k
+          - listitem [ref=e481]:
+            - generic [ref=e482]:
+              - figure [ref=e483]:
+                - img "Gemoria – A Timeless Jewelry Website Design ai design artificial inteligence branding creative ui dribbbleshowcase ecommerce elegantaesthetics hero section inspiration jewelry ecommerce jewelry website jewelrydesign onlineshop responsive desgin ui ui design user experience user experience design user interface ux web design inspiration" [ref=e484]
+              - link "View Gemoria – A Timeless Jewelry Website Design" [ref=e486] [cursor=pointer]:
+                - /url: /shots/25253117-Gemoria-A-Timeless-Jewelry-Website-Design
+                - generic: View Gemoria – A Timeless Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Gemoria – A Timeless Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e487] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e488]
+                    - button [ref=e490] [cursor=pointer]:
+                      - img [ref=e491]
+            - generic [ref=e493]:
+              - generic [ref=e494]:
+                - link "Emon | UIUX & Web Design Emon | UIUX & Web Design" [ref=e495] [cursor=pointer]:
+                  - /url: /helloeemon
+                  - img "Emon | UIUX & Web Design" [ref=e496]
+                  - generic [ref=e497]: Emon | UIUX & Web Design
+                - link "Pro user" [ref=e499] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e500]:
+                - generic [ref=e502]:
+                  - generic:
+                    - button [ref=e503] [cursor=pointer]:
+                      - img [ref=e504]
+                    - generic [ref=e506]: "7"
+                - generic [ref=e507]:
+                  - img [ref=e508]
+                  - generic [ref=e511]: 3.8k
+          - listitem [ref=e512]:
+            - generic [ref=e513]:
+              - figure [ref=e514]:
+                - img "Lustra - Jewelry Website Design (Landing Page Design) aesthetic branding design fashion figma jewelry landing page ring ui uiux website" [ref=e515]
+              - link "View Lustra - Jewelry Website Design (Landing Page Design)" [ref=e517] [cursor=pointer]:
+                - /url: /shots/26093080-Lustra-Jewelry-Website-Design-Landing-Page-Design
+                - generic: View Lustra - Jewelry Website Design (Landing Page Design)
+              - generic:
+                - generic:
+                  - generic: Lustra - Jewelry Website Design (Landing Page Design)
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e518] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e519]
+                    - button [ref=e521] [cursor=pointer]:
+                      - img [ref=e522]
+            - generic [ref=e524]:
+              - link "Abu Bokor Siddiq Abu Bokor Siddiq" [ref=e526] [cursor=pointer]:
+                - /url: /ideadotz_ui
+                - img "Abu Bokor Siddiq" [ref=e527]
+                - generic [ref=e528]: Abu Bokor Siddiq
+              - generic [ref=e529]:
+                - generic [ref=e531]:
+                  - generic:
+                    - button [ref=e532] [cursor=pointer]:
+                      - img [ref=e533]
+                    - generic [ref=e535]: "8"
+                - generic [ref=e536]:
+                  - img [ref=e537]
+                  - generic [ref=e540]: 2.2k
+          - listitem [ref=e541]:
+            - generic [ref=e542]:
+              - figure [ref=e543]:
+                - img "Savani Jewelry Website Homepage & landing page e commerce e commerce website fine jewelry indian jewellery jewellery website landing page design luxury brand website luxury jewellery mobile optimization online shopping product descriptions product page design product photography responsive design savani jewellery seo shopify development shopify theme social media integration uiux design" [ref=e544]
+              - link "View Savani Jewelry Website Homepage & landing page" [ref=e546] [cursor=pointer]:
+                - /url: /shots/24890411-Savani-Jewelry-Website-Homepage-landing-page
+                - generic: View Savani Jewelry Website Homepage & landing page
+              - generic:
+                - generic:
+                  - generic: Savani Jewelry Website Homepage & landing page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e547] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e548]
+                    - button [ref=e550] [cursor=pointer]:
+                      - img [ref=e551]
+            - generic [ref=e553]:
+              - generic [ref=e554]:
+                - link "Abox Agency Abox Agency" [ref=e555] [cursor=pointer]:
+                  - /url: /aboxagency
+                  - img "Abox Agency" [ref=e556]
+                  - generic [ref=e557]: Abox Agency
+                - link "Pro user" [ref=e559] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e560]:
+                - generic [ref=e562]:
+                  - generic:
+                    - button [ref=e563] [cursor=pointer]:
+                      - img [ref=e564]
+                    - generic [ref=e566]: "23"
+                - generic [ref=e567]:
+                  - img [ref=e568]
+                  - generic [ref=e571]: 9.1k
+          - listitem [ref=e572]:
+            - generic [ref=e573]:
+              - figure [ref=e574]:
+                - img "Jewelry Website Landing page animated website animation animation design ecommerce ecommerce website jewelry online shop jewelry shop jewelry website jewelry website design landing page motion motion graphics onlineshop pixelean ui uiux web design website" [ref=e575]
+              - generic [ref=e576]:
+                - img [ref=e578]
+                - link "Shot Link":
+                  - /url: /shots/23900306-Jewelry-Website-Landing-page
+                  - generic: Shot Link
+              - link "View Jewelry Website Landing page" [ref=e581] [cursor=pointer]:
+                - /url: /shots/23900306-Jewelry-Website-Landing-page
+                - generic: View Jewelry Website Landing page
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Landing page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e582] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e583]
+                    - button [ref=e585] [cursor=pointer]:
+                      - img [ref=e586]
+            - generic [ref=e588]:
+              - generic [ref=e589]:
+                - link "Ismail Nahid Ismail Nahid" [ref=e590] [cursor=pointer]:
+                  - /url: /IsmailNahid
+                  - img "Ismail Nahid" [ref=e591]
+                  - generic [ref=e592]: Ismail Nahid
+                - link "Pro user" [ref=e594] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e595]:
+                - generic [ref=e597]:
+                  - generic:
+                    - button [ref=e598] [cursor=pointer]:
+                      - img [ref=e599]
+                    - generic [ref=e601]: "65"
+                - generic [ref=e602]:
+                  - img [ref=e603]
+                  - generic [ref=e606]: 14.9k
+          - listitem [ref=e607]:
+            - generic [ref=e608]:
+              - figure [ref=e609]:
+                - img "Jewelry website bracelet branding design earrings gold jewelry minimal necklace ring trend ui ui design web web design website" [ref=e610]
+              - link "View Jewelry website" [ref=e612] [cursor=pointer]:
+                - /url: /shots/25768638-Jewelry-website
+                - generic: View Jewelry website
+              - generic:
+                - generic:
+                  - generic: Jewelry website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e613] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e614]
+                    - button [ref=e616] [cursor=pointer]:
+                      - img [ref=e617]
+            - generic [ref=e619]:
+              - link "Milad Raoufi Milad Raoufi" [ref=e621] [cursor=pointer]:
+                - /url: /rmilad24
+                - img "Milad Raoufi" [ref=e622]
+                - generic [ref=e623]: Milad Raoufi
+              - generic [ref=e624]:
+                - generic [ref=e626]:
+                  - generic:
+                    - button [ref=e627] [cursor=pointer]:
+                      - img [ref=e628]
+                    - generic [ref=e630]: "13"
+                - generic [ref=e631]:
+                  - img [ref=e632]
+                  - generic [ref=e635]: 4.1k
+          - listitem [ref=e636]:
+            - generic [ref=e637]:
+              - figure [ref=e638]:
+                - img "Jewelry Website best web design business website cool website ecommerce ecommerce website jewelry website modern ui modern website professional website ui ui design ui ux ui ux design ux web design web interface design web ui web ui design webdesign" [ref=e639]
+              - link "View Jewelry Website" [ref=e641] [cursor=pointer]:
+                - /url: /shots/25361199-Jewelry-Website
+                - generic: View Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e642] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e643]
+                    - button [ref=e645] [cursor=pointer]:
+                      - img [ref=e646]
+            - generic [ref=e648]:
+              - generic [ref=e649]:
+                - link "Ronas IT | UI/UX Team Ronas IT | UI/UX Team" [ref=e650] [cursor=pointer]:
+                  - /url: /ronasit
+                  - img "Ronas IT | UI/UX Team" [ref=e651]
+                  - generic [ref=e652]: Ronas IT | UI/UX Team
+                - link "Pro user" [ref=e654] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e655]: +
+              - generic [ref=e656]:
+                - generic [ref=e658]:
+                  - generic:
+                    - button [ref=e659] [cursor=pointer]:
+                      - img [ref=e660]
+                    - generic [ref=e662]: "312"
+                - generic [ref=e663]:
+                  - img [ref=e664]
+                  - generic [ref=e667]: 101k
+          - listitem [ref=e668]:
+            - generic [ref=e669]:
+              - figure [ref=e670]:
+                - img "HL - Bold Minimalist Fashion Jewelry Website Design - About Page about us about us page awwwards bold branding case study company profile ecommerce elegant fashion jewelry landing page minimalist personal website timeless ui ux web design website website design" [ref=e671]
+              - link "View HL - Bold Minimalist Fashion Jewelry Website Design - About Page" [ref=e673] [cursor=pointer]:
+                - /url: /shots/25833454-HL-Bold-Minimalist-Fashion-Jewelry-Website-Design-About-Page
+                - generic: View HL - Bold Minimalist Fashion Jewelry Website Design - About Page
+              - generic:
+                - generic:
+                  - generic: HL - Bold Minimalist Fashion Jewelry Website Design - About Page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e674] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e675]
+                    - button [ref=e677] [cursor=pointer]:
+                      - img [ref=e678]
+            - generic [ref=e680]:
+              - generic [ref=e681]:
+                - link "LAIN LAIN" [ref=e682] [cursor=pointer]:
+                  - /url: /laingroup
+                  - img "LAIN" [ref=e683]
+                  - generic [ref=e684]: LAIN
+                - link "Pro user" [ref=e686] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e687]:
+                - generic [ref=e689]:
+                  - generic:
+                    - button [ref=e690] [cursor=pointer]:
+                      - img [ref=e691]
+                    - generic [ref=e693]: "148"
+                - generic [ref=e694]:
+                  - img [ref=e695]
+                  - generic [ref=e698]: 96.1k
+          - listitem [ref=e699]:
+            - generic [ref=e700]:
+              - figure [ref=e701]:
+                - img "ORE Jewelry Website folio grid synchronized ui ux video web website zhenyary" [ref=e702]
+              - generic [ref=e703]:
+                - img [ref=e705]
+                - link "Shot Link":
+                  - /url: /shots/18757727-ORE-Jewelry-Website
+                  - generic: Shot Link
+              - link "View ORE Jewelry Website" [ref=e708] [cursor=pointer]:
+                - /url: /shots/18757727-ORE-Jewelry-Website
+                - generic: View ORE Jewelry Website
+              - generic:
+                - generic:
+                  - generic: ORE Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e709] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e710]
+                    - button [ref=e712] [cursor=pointer]:
+                      - img [ref=e713]
+            - generic [ref=e715]:
+              - generic [ref=e716]:
+                - link "Synchronized Synchronized" [ref=e717] [cursor=pointer]:
+                  - /url: /Synchronized
+                  - img "Synchronized" [ref=e718]
+                  - generic [ref=e719]: Synchronized
+                - link "Pro user" [ref=e721] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e722]:
+                - generic [ref=e724]:
+                  - generic:
+                    - button [ref=e725] [cursor=pointer]:
+                      - img [ref=e726]
+                    - generic [ref=e728]: "209"
+                - generic [ref=e729]:
+                  - img [ref=e730]
+                  - generic [ref=e733]: 48.2k
+          - listitem [ref=e734]:
+            - generic [ref=e735]:
+              - figure [ref=e736]:
+                - img "Jewelry Website designs | Website Design Company appui branding design designinspiration jewellery website design jewelry jewelry website designs jewelry website theme uiux userexperience uxdesign website design website design company website development website development company website uiux website uiux company" [ref=e737]
+              - link "View Jewelry Website designs | Website Design Company" [ref=e739] [cursor=pointer]:
+                - /url: /shots/25774829-Jewelry-Website-designs-Website-Design-Company
+                - generic: View Jewelry Website designs | Website Design Company
+              - generic:
+                - generic:
+                  - generic: Jewelry Website designs | Website Design Company
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e740] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e741]
+                    - button [ref=e743] [cursor=pointer]:
+                      - img [ref=e744]
+            - generic [ref=e746]:
+              - generic [ref=e747]:
+                - link "NETCLUES NETCLUES" [ref=e748] [cursor=pointer]:
+                  - /url: /netclues
+                  - img "NETCLUES" [ref=e749]
+                  - generic [ref=e750]: NETCLUES
+                - link "Pro user" [ref=e752] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e753]:
+                - generic [ref=e755]:
+                  - generic:
+                    - button [ref=e756] [cursor=pointer]:
+                      - img [ref=e757]
+                    - generic [ref=e759]: "21"
+                - generic [ref=e760]:
+                  - img [ref=e761]
+                  - generic [ref=e764]: 23.4k
+          - listitem [ref=e765]:
+            - generic [ref=e766]:
+              - figure [ref=e767]:
+                - img "Sorrow™ - Jewelry Website design e commerce website ecommerce jewellery jewelry jewelry design jewelry landing page jewelry website landing page market marketplace online shop product design store ui ui design uiux web design website website sections" [ref=e768]
+              - img [ref=e771]
+              - link "View Sorrow™ - Jewelry Website" [ref=e773] [cursor=pointer]:
+                - /url: /shots/23207349-Sorrow-Jewelry-Website
+                - generic: View Sorrow™ - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Sorrow™ - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e774] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e775]
+                    - button [ref=e777] [cursor=pointer]:
+                      - img [ref=e778]
+            - generic [ref=e780]:
+              - generic [ref=e781]:
+                - link "Nija Works Nija Works" [ref=e782] [cursor=pointer]:
+                  - /url: /nijaworks
+                  - img "Nija Works" [ref=e783]
+                  - generic [ref=e784]: Nija Works
+                - link "Pro user" [ref=e786] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e787]: +
+              - generic [ref=e788]:
+                - generic [ref=e790]:
+                  - generic:
+                    - button [ref=e791] [cursor=pointer]:
+                      - img [ref=e792]
+                    - generic [ref=e794]: "131"
+                - generic [ref=e795]:
+                  - img [ref=e796]
+                  - generic [ref=e799]: 41k
+          - listitem [ref=e800]:
+            - generic [ref=e801]:
+              - figure [ref=e802]:
+                - img "Jewelry Website Design ecommerce website figma design jewelary ecommerce ui jewellry jewelry ecommerce jewelry shop jewelry website design jewerlly ecommerce design jewerlly website landing page online jewelry store oripio ui design website design women jewelry shop woo commerce jewelry shop" [ref=e803]
+              - link "View Jewelry Website Design" [ref=e805] [cursor=pointer]:
+                - /url: /shots/24820850-Jewelry-Website-Design
+                - generic: View Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e806] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e807]
+                    - button [ref=e809] [cursor=pointer]:
+                      - img [ref=e810]
+            - generic [ref=e812]:
+              - generic [ref=e813]:
+                - link "Sujon Hossain Sujon Hossain" [ref=e814] [cursor=pointer]:
+                  - /url: /sujon_co
+                  - img "Sujon Hossain" [ref=e815]
+                  - generic [ref=e816]: Sujon Hossain
+                - link "Pro user" [ref=e818] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e819]:
+                - generic [ref=e821]:
+                  - generic:
+                    - button [ref=e822] [cursor=pointer]:
+                      - img [ref=e823]
+                    - generic [ref=e825]: "38"
+                - generic [ref=e826]:
+                  - img [ref=e827]
+                  - generic [ref=e830]: 7.2k
+          - listitem [ref=e831]:
+            - generic [ref=e832]:
+              - figure [ref=e833]:
+                - img "Jewelry Website - Wangun beauty website closeup design ecommerce fashion hero section jewelry luxury website nozaracy ui user experience user interface ux web design website" [ref=e834]
+              - link "View Jewelry Website - Wangun" [ref=e836] [cursor=pointer]:
+                - /url: /shots/23416802-Jewelry-Website-Wangun
+                - generic: View Jewelry Website - Wangun
+              - generic:
+                - generic:
+                  - generic: Jewelry Website - Wangun
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e837] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e838]
+                    - button [ref=e840] [cursor=pointer]:
+                      - img [ref=e841]
+            - generic [ref=e843]:
+              - generic [ref=e844]:
+                - link "Nozaracy Nozaracy" [ref=e845] [cursor=pointer]:
+                  - /url: /Nozaracy
+                  - img "Nozaracy" [ref=e846]
+                  - generic [ref=e847]: Nozaracy
+                - link "Pro user" [ref=e849] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e850]:
+                - generic [ref=e852]:
+                  - generic:
+                    - button [ref=e853] [cursor=pointer]:
+                      - img [ref=e854]
+                    - generic [ref=e856]: "142"
+                - generic [ref=e857]:
+                  - img [ref=e858]
+                  - generic [ref=e861]: 29.4k
+          - listitem [ref=e862]:
+            - generic [ref=e863]:
+              - figure [ref=e864]:
+                - img "Sorrow™ - Jewelry Website Detail Page cart design e commerce e commerce website jewellery jewelry jewelry website market marketplace online store product design product detail product detail page product website store ui ui design uiux web design website" [ref=e865]
+              - img [ref=e868]
+              - link "View Sorrow™ - Jewelry Website Detail Page" [ref=e870] [cursor=pointer]:
+                - /url: /shots/23222530-Sorrow-Jewelry-Website-Detail-Page
+                - generic: View Sorrow™ - Jewelry Website Detail Page
+              - generic:
+                - generic:
+                  - generic: Sorrow™ - Jewelry Website Detail Page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e871] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e872]
+                    - button [ref=e874] [cursor=pointer]:
+                      - img [ref=e875]
+            - generic [ref=e877]:
+              - generic [ref=e878]:
+                - link "Nija Works Nija Works" [ref=e879] [cursor=pointer]:
+                  - /url: /nijaworks
+                  - img "Nija Works" [ref=e880]
+                  - generic [ref=e881]: Nija Works
+                - link "Pro user" [ref=e883] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e884]: +
+              - generic [ref=e885]:
+                - generic [ref=e887]:
+                  - generic:
+                    - button [ref=e888] [cursor=pointer]:
+                      - img [ref=e889]
+                    - generic [ref=e891]: "86"
+                - generic [ref=e892]:
+                  - img [ref=e893]
+                  - generic [ref=e896]: 47.8k
+          - listitem [ref=e897]:
+            - generic [ref=e898]:
+              - figure [ref=e899]:
+                - img "HL - Highend Bold Luxury Jewelry Website Design - Contact Page awwwards bold company profile contact contact us ecommerce fashion get in touch jewelry landing page luxury minimal minimalist modern ui user interface ux web design website website design" [ref=e900]
+              - link "View HL - Highend Bold Luxury Jewelry Website Design - Contact Page" [ref=e902] [cursor=pointer]:
+                - /url: /shots/25854775-HL-Highend-Bold-Luxury-Jewelry-Website-Design-Contact-Page
+                - generic: View HL - Highend Bold Luxury Jewelry Website Design - Contact Page
+              - generic:
+                - generic:
+                  - generic: HL - Highend Bold Luxury Jewelry Website Design - Contact Page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e903] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e904]
+                    - button [ref=e906] [cursor=pointer]:
+                      - img [ref=e907]
+            - generic [ref=e909]:
+              - generic [ref=e910]:
+                - link "LAIN LAIN" [ref=e911] [cursor=pointer]:
+                  - /url: /laingroup
+                  - img "LAIN" [ref=e912]
+                  - generic [ref=e913]: LAIN
+                - link "Pro user" [ref=e915] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e916]:
+                - generic [ref=e918]:
+                  - generic:
+                    - button [ref=e919] [cursor=pointer]:
+                      - img [ref=e920]
+                    - generic [ref=e922]: "99"
+                - generic [ref=e923]:
+                  - img [ref=e924]
+                  - generic [ref=e927]: 41.5k
+          - listitem [ref=e928]:
+            - generic [ref=e929]:
+              - figure [ref=e930]:
+                - img "Craft Jewelry Website Hero Section accesso accessories catalog craft jewelery dark theme hero section jewelery lumunous mesh gradient shop ui web design website" [ref=e931]
+              - link "View Craft Jewelry Website Hero Section" [ref=e933] [cursor=pointer]:
+                - /url: /shots/25390674-Craft-Jewelry-Website-Hero-Section
+                - generic: View Craft Jewelry Website Hero Section
+              - generic:
+                - generic:
+                  - generic: Craft Jewelry Website Hero Section
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e934] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e935]
+                    - button [ref=e937] [cursor=pointer]:
+                      - img [ref=e938]
+            - generic [ref=e940]:
+              - link "EGO CREATIVE INNOVATIONS EGO CREATIVE INNOVATIONS" [ref=e942] [cursor=pointer]:
+                - /url: /ego_creative
+                - img "EGO CREATIVE INNOVATIONS" [ref=e943]
+                - generic [ref=e944]: EGO CREATIVE INNOVATIONS
+              - generic [ref=e945]:
+                - generic [ref=e947]:
+                  - generic:
+                    - button [ref=e948] [cursor=pointer]:
+                      - img [ref=e949]
+                    - generic [ref=e951]: "46"
+                - generic [ref=e952]:
+                  - img [ref=e953]
+                  - generic [ref=e956]: 8.2k
+          - listitem [ref=e957]:
+            - generic [ref=e958]:
+              - figure [ref=e959]:
+                - img "💎 DUSTS – Luxury Jewelry Website UI creativedesign darkmode dribbbleshots ecommerce jewelrydesign luxurybrand minimalistdesign typography ui uiux userexperience ux webdesign" [ref=e960]
+              - link "View 💎 DUSTS – Luxury Jewelry Website UI" [ref=e962] [cursor=pointer]:
+                - /url: /shots/25823993--DUSTS-Luxury-Jewelry-Website-UI
+                - generic: View 💎 DUSTS – Luxury Jewelry Website UI
+              - generic:
+                - generic:
+                  - generic: 💎 DUSTS – Luxury Jewelry Website UI
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e963] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e964]
+                    - button [ref=e966] [cursor=pointer]:
+                      - img [ref=e967]
+            - generic [ref=e969]:
+              - link "Hasty Head Ltd Hasty Head Ltd" [ref=e971] [cursor=pointer]:
+                - /url: /Hastyheadltd
+                - img "Hasty Head Ltd" [ref=e972]
+                - generic [ref=e973]: Hasty Head Ltd
+              - generic [ref=e974]:
+                - generic [ref=e976]:
+                  - generic:
+                    - button [ref=e977] [cursor=pointer]:
+                      - img [ref=e978]
+                    - generic [ref=e980]: "10"
+                - generic [ref=e981]:
+                  - img [ref=e982]
+                  - generic [ref=e985]: 4.8k
+          - listitem [ref=e986]:
+            - generic [ref=e987]:
+              - figure [ref=e988]:
+                - img "Presenting our latest jewelry website landing page design jewelry landing page ui" [ref=e989]
+              - link "View Presenting our latest jewelry website landing page design" [ref=e991] [cursor=pointer]:
+                - /url: /shots/25822076-Presenting-our-latest-jewelry-website-landing-page-design
+                - generic: View Presenting our latest jewelry website landing page design
+              - generic:
+                - generic:
+                  - generic: Presenting our latest jewelry website landing page design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e992] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e993]
+                    - button [ref=e995] [cursor=pointer]:
+                      - img [ref=e996]
+            - generic [ref=e998]:
+              - link "Anjum Jarif Anjum Jarif" [ref=e1000] [cursor=pointer]:
+                - /url: /jarifPM
+                - img "Anjum Jarif" [ref=e1001]
+                - generic [ref=e1002]: Anjum Jarif
+              - generic [ref=e1003]:
+                - generic [ref=e1005]:
+                  - generic:
+                    - button [ref=e1006] [cursor=pointer]:
+                      - img [ref=e1007]
+                    - generic [ref=e1009]: "13"
+                - generic [ref=e1010]:
+                  - img [ref=e1011]
+                  - generic [ref=e1014]: 4.5k
+          - listitem [ref=e1015]:
+            - generic [ref=e1016]:
+              - figure [ref=e1017]:
+                - img "Jewelry Website Homepage(Animated Version) animation awe diamond e commerce e commerce template ecommerce ecommerce website jewel jewelery jewellery jewellery shop jewelry motion graphics online shopping typography web website" [ref=e1018]
+              - generic [ref=e1019]:
+                - img [ref=e1021]
+                - link "Shot Link":
+                  - /url: /shots/21711880-Jewelry-Website-Homepage-Animated-Version
+                  - generic: Shot Link
+              - link "View Jewelry Website Homepage(Animated Version)" [ref=e1024] [cursor=pointer]:
+                - /url: /shots/21711880-Jewelry-Website-Homepage-Animated-Version
+                - generic: View Jewelry Website Homepage(Animated Version)
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Homepage(Animated Version)
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1025] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1026]
+                    - button [ref=e1028] [cursor=pointer]:
+                      - img [ref=e1029]
+            - generic [ref=e1031]:
+              - generic [ref=e1032]:
+                - link "Awe Design Studio Awe Design Studio" [ref=e1033] [cursor=pointer]:
+                  - /url: /awedesign_studio
+                  - img "Awe Design Studio" [ref=e1034]
+                  - generic [ref=e1035]: Awe Design Studio
+                - link "Pro user" [ref=e1037] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1038]:
+                - generic [ref=e1040]:
+                  - generic:
+                    - button [ref=e1041] [cursor=pointer]:
+                      - img [ref=e1042]
+                    - generic [ref=e1044]: "141"
+                - generic [ref=e1045]:
+                  - img [ref=e1046]
+                  - generic [ref=e1049]: 32.3k
+          - listitem [ref=e1050]:
+            - generic [ref=e1051]:
+              - figure [ref=e1052]:
+                - img "PANDORA - Jewelry Website Design design ecommerce jewelry jewelry shop jewelry store landing page shop shopping store web web design website website design" [ref=e1053]
+              - link "View PANDORA - Jewelry Website Design" [ref=e1055] [cursor=pointer]:
+                - /url: /shots/24124059-PANDORA-Jewelry-Website-Design
+                - generic: View PANDORA - Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: PANDORA - Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1056] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1057]
+                    - button [ref=e1059] [cursor=pointer]:
+                      - img [ref=e1060]
+            - generic [ref=e1062]:
+              - generic [ref=e1063]:
+                - link "Hatypo Studio Hatypo Studio" [ref=e1064] [cursor=pointer]:
+                  - /url: /hatypostudio
+                  - img "Hatypo Studio" [ref=e1065]
+                  - generic [ref=e1066]: Hatypo Studio
+                - link "Pro user" [ref=e1068] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1069]:
+                - generic [ref=e1071]:
+                  - generic:
+                    - button [ref=e1072] [cursor=pointer]:
+                      - img [ref=e1073]
+                    - generic [ref=e1075]: "125"
+                - generic [ref=e1076]:
+                  - img [ref=e1077]
+                  - generic [ref=e1080]: 21.5k
+          - listitem [ref=e1081]:
+            - generic [ref=e1082]:
+              - figure [ref=e1083]:
+                - img "Essend - Jewelry Website clear design ecommerce fashion home page jewelry landing page minimalist style ui uidesign web design website women" [ref=e1084]
+              - link "View Essend - Jewelry Website" [ref=e1086] [cursor=pointer]:
+                - /url: /shots/23408804-Essend-Jewelry-Website
+                - generic: View Essend - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Essend - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1087] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1088]
+                    - button [ref=e1090] [cursor=pointer]:
+                      - img [ref=e1091]
+            - generic [ref=e1093]:
+              - generic [ref=e1094]:
+                - link "Norch Studio Norch Studio" [ref=e1095] [cursor=pointer]:
+                  - /url: /StudioNorch
+                  - img "Norch Studio" [ref=e1096]
+                  - generic [ref=e1097]: Norch Studio
+                - link "Pro user" [ref=e1099] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1100]:
+                - generic [ref=e1102]:
+                  - generic:
+                    - button [ref=e1103] [cursor=pointer]:
+                      - img [ref=e1104]
+                    - generic [ref=e1106]: "149"
+                - generic [ref=e1107]:
+                  - img [ref=e1108]
+                  - generic [ref=e1111]: 26.4k
+          - listitem [ref=e1112]:
+            - generic [ref=e1113]:
+              - figure [ref=e1114]:
+                - img "Sorrow™ - Jewelry Website design e commerce e commerce website ecommerce hero section jewellery jewelry jewelry landing page jewelry website landing page market marketplace online shop product design store ui ui design uiux web design website" [ref=e1115]
+              - generic [ref=e1117]:
+                - img [ref=e1118]
+                - generic [ref=e1120]: "2"
+              - link "View Sorrow™ - Jewelry Website" [ref=e1121] [cursor=pointer]:
+                - /url: /shots/23199497-Sorrow-Jewelry-Website
+                - generic: View Sorrow™ - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Sorrow™ - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1122] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1123]
+                    - button [ref=e1125] [cursor=pointer]:
+                      - img [ref=e1126]
+            - generic [ref=e1128]:
+              - generic [ref=e1129]:
+                - link "Nija Works Nija Works" [ref=e1130] [cursor=pointer]:
+                  - /url: /nijaworks
+                  - img "Nija Works" [ref=e1131]
+                  - generic [ref=e1132]: Nija Works
+                - link "Pro user" [ref=e1134] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e1135]: +
+              - generic [ref=e1136]:
+                - generic [ref=e1138]:
+                  - generic:
+                    - button [ref=e1139] [cursor=pointer]:
+                      - img [ref=e1140]
+                    - generic [ref=e1142]: "153"
+                - generic [ref=e1143]:
+                  - img [ref=e1144]
+                  - generic [ref=e1147]: 37.6k
+          - listitem [ref=e1148]:
+            - generic [ref=e1149]:
+              - figure [ref=e1150]:
+                - img "Blure - Jewelry Website design homepage product page ui ux website" [ref=e1151]
+              - generic [ref=e1152]:
+                - img [ref=e1154]
+                - link "Shot Link":
+                  - /url: /shots/25955738-Blure-Jewelry-Website
+                  - generic: Shot Link
+              - link "View Blure - Jewelry Website" [ref=e1157] [cursor=pointer]:
+                - /url: /shots/25955738-Blure-Jewelry-Website
+                - generic: View Blure - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Blure - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1158] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1159]
+                    - button [ref=e1161] [cursor=pointer]:
+                      - img [ref=e1162]
+            - generic [ref=e1164]:
+              - link "Emma Atoyan Emma Atoyan" [ref=e1166] [cursor=pointer]:
+                - /url: /Emul
+                - img "Emma Atoyan" [ref=e1167]
+                - generic [ref=e1168]: Emma Atoyan
+              - generic [ref=e1169]:
+                - generic [ref=e1171]:
+                  - generic:
+                    - button [ref=e1172] [cursor=pointer]:
+                      - img [ref=e1173]
+                    - generic [ref=e1175]: "9"
+                - generic [ref=e1176]:
+                  - img [ref=e1177]
+                  - generic [ref=e1180]: 3.7k
+          - listitem [ref=e1181]:
+            - generic [ref=e1182]:
+              - figure [ref=e1183]:
+                - img "jewelry website landing page 3d branding design graphic design illustration logo typography ui ux vector" [ref=e1184]
+              - link "View jewelry website landing page" [ref=e1186] [cursor=pointer]:
+                - /url: /shots/26078291-jewelry-website-landing-page
+                - generic: View jewelry website landing page
+              - generic:
+                - generic:
+                  - generic: jewelry website landing page
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1187] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1188]
+                    - button [ref=e1190] [cursor=pointer]:
+                      - img [ref=e1191]
+            - generic [ref=e1193]:
+              - link "Ali Haider Nadeem Ali Haider Nadeem" [ref=e1195] [cursor=pointer]:
+                - /url: /ahn_uiuxdesigner
+                - img "Ali Haider Nadeem" [ref=e1196]
+                - generic [ref=e1197]: Ali Haider Nadeem
+              - generic [ref=e1198]:
+                - generic [ref=e1200]:
+                  - generic:
+                    - button [ref=e1201] [cursor=pointer]:
+                      - img [ref=e1202]
+                    - generic [ref=e1204]: "1"
+                - generic [ref=e1205]:
+                  - img [ref=e1206]
+                  - generic [ref=e1209]: 1.2k
+          - listitem [ref=e1210]:
+            - generic [ref=e1211]:
+              - figure [ref=e1212]:
+                - img "D’Mansion – Luxury Jewelry Website app branding elegant design fashion tech figma graphic design jewelry jewelry website luxury luxury brand luxury design minimalist ui ui uiux uiux design uxui design web website" [ref=e1213]
+              - link "View D’Mansion – Luxury Jewelry Website" [ref=e1215] [cursor=pointer]:
+                - /url: /shots/26012343-D-Mansion-Luxury-Jewelry-Website
+                - generic: View D’Mansion – Luxury Jewelry Website
+              - generic:
+                - generic:
+                  - generic: D’Mansion – Luxury Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1216] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1217]
+                    - button [ref=e1219] [cursor=pointer]:
+                      - img [ref=e1220]
+            - generic [ref=e1222]:
+              - link "Ginanjar Putra Ginanjar Putra" [ref=e1224] [cursor=pointer]:
+                - /url: /GinanjarPutra
+                - img "Ginanjar Putra" [ref=e1225]
+                - generic [ref=e1226]: Ginanjar Putra
+              - generic [ref=e1227]:
+                - generic [ref=e1229]:
+                  - generic:
+                    - button [ref=e1230] [cursor=pointer]:
+                      - img [ref=e1231]
+                    - generic [ref=e1233]: "6"
+                - generic [ref=e1234]:
+                  - img [ref=e1235]
+                  - generic [ref=e1238]: 3.5k
+          - listitem [ref=e1239]:
+            - generic [ref=e1240]:
+              - figure [ref=e1241]:
+                - img "Jewelry WEBSITE" [ref=e1242]
+              - generic [ref=e1243]:
+                - img [ref=e1245]
+                - link "Shot Link":
+                  - /url: /shots/26030421-Jewelry-WEBSITE
+                  - generic: Shot Link
+              - link "View Jewelry WEBSITE" [ref=e1248] [cursor=pointer]:
+                - /url: /shots/26030421-Jewelry-WEBSITE
+                - generic: View Jewelry WEBSITE
+              - generic:
+                - generic:
+                  - generic: Jewelry WEBSITE
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1249] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1250]
+                    - button [ref=e1252] [cursor=pointer]:
+                      - img [ref=e1253]
+            - generic [ref=e1255]:
+              - link "Nourhan Morsal Nourhan Morsal" [ref=e1257] [cursor=pointer]:
+                - /url: /Nourhanmorsal
+                - img "Nourhan Morsal" [ref=e1258]
+                - generic [ref=e1259]: Nourhan Morsal
+              - generic [ref=e1260]:
+                - generic [ref=e1262]:
+                  - generic:
+                    - button [ref=e1263] [cursor=pointer]:
+                      - img [ref=e1264]
+                    - generic [ref=e1266]: "0"
+                - generic [ref=e1267]:
+                  - img [ref=e1268]
+                  - generic [ref=e1271]: 1.4k
+          - listitem [ref=e1272]:
+            - generic [ref=e1273]:
+              - figure [ref=e1274]:
+                - img "Enchantique Jewelry Website Design design jewelryui luxuryweb ui uidesign uiux userexperience ux uxdesign webdesign" [ref=e1275]
+              - link "View Enchantique Jewelry Website Design" [ref=e1277] [cursor=pointer]:
+                - /url: /shots/23036265-Enchantique-Jewelry-Website-Design
+                - generic: View Enchantique Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Enchantique Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1278] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1279]
+                    - button [ref=e1281] [cursor=pointer]:
+                      - img [ref=e1282]
+            - generic [ref=e1284]:
+              - link "Mona Nikkhah Mona Nikkhah" [ref=e1286] [cursor=pointer]:
+                - /url: /MonaNiikkhah
+                - img "Mona Nikkhah" [ref=e1287]
+                - generic [ref=e1288]: Mona Nikkhah
+              - generic [ref=e1289]:
+                - generic [ref=e1291]:
+                  - generic:
+                    - button [ref=e1292] [cursor=pointer]:
+                      - img [ref=e1293]
+                    - generic [ref=e1295]: "2"
+                - generic [ref=e1296]:
+                  - img [ref=e1297]
+                  - generic [ref=e1300]: 1.2k
+          - listitem [ref=e1301]:
+            - generic [ref=e1302]:
+              - figure [ref=e1303]:
+                - img "JIWE - Jewelry Website Concept closeup design e commerce fashion graphic design homepage jewelry landing page minimalist product page ui uidesign user experience userinterface web design website" [ref=e1304]
+              - link "View JIWE - Jewelry Website Concept" [ref=e1306] [cursor=pointer]:
+                - /url: /shots/23138858-JIWE-Jewelry-Website-Concept
+                - generic: View JIWE - Jewelry Website Concept
+              - generic:
+                - generic:
+                  - generic: JIWE - Jewelry Website Concept
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1307] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1308]
+                    - button [ref=e1310] [cursor=pointer]:
+                      - img [ref=e1311]
+            - generic [ref=e1313]:
+              - generic [ref=e1314]:
+                - link "One Week Wonders One Week Wonders" [ref=e1315] [cursor=pointer]:
+                  - /url: /oneweekwonders
+                  - img "One Week Wonders" [ref=e1316]
+                  - generic [ref=e1317]: One Week Wonders
+                - link "Pro user" [ref=e1319] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e1320]: +
+              - generic [ref=e1321]:
+                - generic [ref=e1323]:
+                  - generic:
+                    - button [ref=e1324] [cursor=pointer]:
+                      - img [ref=e1325]
+                    - generic [ref=e1327]: "421"
+                - generic [ref=e1328]:
+                  - img [ref=e1329]
+                  - generic [ref=e1332]: 108k
+          - listitem [ref=e1333]:
+            - generic [ref=e1334]:
+              - figure [ref=e1335]:
+                - img "Jewelry website accessory branding card concept desktop earing font fontography gold hero jewelery jewellery landing page light mode minimal online shop store ui ux website" [ref=e1336]
+              - link "View Jewelry website" [ref=e1338] [cursor=pointer]:
+                - /url: /shots/21339351-Jewelry-website
+                - generic: View Jewelry website
+              - generic:
+                - generic:
+                  - generic: Jewelry website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1339] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1340]
+                    - button [ref=e1342] [cursor=pointer]:
+                      - img [ref=e1343]
+            - generic [ref=e1345]:
+              - link "Mahdieh Movahedi Mahdieh Movahedi" [ref=e1347] [cursor=pointer]:
+                - /url: /mahdie_mvi
+                - img "Mahdieh Movahedi" [ref=e1348]
+                - generic [ref=e1349]: Mahdieh Movahedi
+              - generic [ref=e1350]:
+                - generic [ref=e1352]:
+                  - generic:
+                    - button [ref=e1353] [cursor=pointer]:
+                      - img [ref=e1354]
+                    - generic [ref=e1356]: "78"
+                - generic [ref=e1357]:
+                  - img [ref=e1358]
+                  - generic [ref=e1361]: 15.2k
+          - listitem [ref=e1362]:
+            - generic [ref=e1363]:
+              - figure [ref=e1364]:
+                - img "Jewelry Website Concept dark jewelry mobile ui" [ref=e1365]
+              - link "View Jewelry Website Concept" [ref=e1367] [cursor=pointer]:
+                - /url: /shots/18915271-Jewelry-Website-Concept
+                - generic: View Jewelry Website Concept
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Concept
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1368] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1369]
+                    - button [ref=e1371] [cursor=pointer]:
+                      - img [ref=e1372]
+            - generic [ref=e1374]:
+              - link "Victoria Kishkova Victoria Kishkova" [ref=e1376] [cursor=pointer]:
+                - /url: /VictoriaKishkova
+                - img "Victoria Kishkova" [ref=e1377]
+                - generic [ref=e1378]: Victoria Kishkova
+              - generic [ref=e1379]:
+                - generic [ref=e1381]:
+                  - generic:
+                    - button [ref=e1382] [cursor=pointer]:
+                      - img [ref=e1383]
+                    - generic [ref=e1385]: "21"
+                - generic [ref=e1386]:
+                  - img [ref=e1387]
+                  - generic [ref=e1390]: 2.8k
+          - listitem [ref=e1391]:
+            - generic [ref=e1392]:
+              - figure [ref=e1393]:
+                - img "Golden Glow - Jewelry Website branding designer jewelry jewelrywebsite jewelrywebsitedesign landingpage landingpagedesigner landingpagedesigning productdesigner ui uiux uiuxdesigner ux website websitedesign websitedesigner" [ref=e1394]
+              - link "View Golden Glow - Jewelry Website" [ref=e1396] [cursor=pointer]:
+                - /url: /shots/25379248-Golden-Glow-Jewelry-Website
+                - generic: View Golden Glow - Jewelry Website
+              - generic:
+                - generic:
+                  - generic: Golden Glow - Jewelry Website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1397] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1398]
+                    - button [ref=e1400] [cursor=pointer]:
+                      - img [ref=e1401]
+            - generic [ref=e1403]:
+              - link "Uix Oishy Uix Oishy" [ref=e1405] [cursor=pointer]:
+                - /url: /uixoishy
+                - img "Uix Oishy" [ref=e1406]
+                - generic [ref=e1407]: Uix Oishy
+              - generic [ref=e1408]:
+                - generic [ref=e1410]:
+                  - generic:
+                    - button [ref=e1411] [cursor=pointer]:
+                      - img [ref=e1412]
+                    - generic [ref=e1414]: "8"
+                - generic [ref=e1415]:
+                  - img [ref=e1416]
+                  - generic [ref=e1419]: 5.8k
+          - listitem [ref=e1420]:
+            - generic [ref=e1421]:
+              - figure [ref=e1422]:
+                - img "Limnia Fine Jewelry Website on AWWWARDS animation interaction motion promo typography ui ux video web website" [ref=e1423]
+              - generic [ref=e1424]:
+                - img [ref=e1426]
+                - img [ref=e1429]
+                - link "Shot Link":
+                  - /url: /shots/8723208-Limnia-Fine-Jewelry-Website-on-AWWWARDS
+                  - generic: Shot Link
+              - link "View Limnia Fine Jewelry Website on AWWWARDS" [ref=e1432] [cursor=pointer]:
+                - /url: /shots/8723208-Limnia-Fine-Jewelry-Website-on-AWWWARDS
+                - generic: View Limnia Fine Jewelry Website on AWWWARDS
+              - generic:
+                - generic:
+                  - generic: Limnia Fine Jewelry Website on AWWWARDS
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1433] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1434]
+                    - button [ref=e1436] [cursor=pointer]:
+                      - img [ref=e1437]
+            - generic [ref=e1439]:
+              - generic [ref=e1440]:
+                - link "Synchronized Synchronized" [ref=e1441] [cursor=pointer]:
+                  - /url: /Synchronized
+                  - img "Synchronized" [ref=e1442]
+                  - generic [ref=e1443]: Synchronized
+                - link "Pro user" [ref=e1445] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1446]:
+                - generic [ref=e1448]:
+                  - generic:
+                    - button [ref=e1449] [cursor=pointer]:
+                      - img [ref=e1450]
+                    - generic [ref=e1452]: "791"
+                - generic [ref=e1453]:
+                  - img [ref=e1454]
+                  - generic [ref=e1457]: 134k
+          - listitem [ref=e1458]:
+            - generic [ref=e1459]:
+              - figure [ref=e1460]:
+                - img "Modern jewelry website design e commerce fashion golden canon grid icons jewelry light minimal typography ui website" [ref=e1461]
+              - link "View Modern jewelry website" [ref=e1463] [cursor=pointer]:
+                - /url: /shots/16942081-Modern-jewelry-website
+                - generic: View Modern jewelry website
+              - generic:
+                - generic:
+                  - generic: Modern jewelry website
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1464] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1465]
+                    - button [ref=e1467] [cursor=pointer]:
+                      - img [ref=e1468]
+            - generic [ref=e1470]:
+              - link "Anastasiia Razumna Anastasiia Razumna" [ref=e1472] [cursor=pointer]:
+                - /url: /Anraz
+                - img "Anastasiia Razumna" [ref=e1473]
+                - generic [ref=e1474]: Anastasiia Razumna
+              - generic [ref=e1475]:
+                - generic [ref=e1477]:
+                  - generic:
+                    - button [ref=e1478] [cursor=pointer]:
+                      - img [ref=e1479]
+                    - generic [ref=e1481]: "10"
+                - generic [ref=e1482]:
+                  - img [ref=e1483]
+                  - generic [ref=e1486]: 1.8k
+          - listitem [ref=e1487]:
+            - generic [ref=e1488]:
+              - figure [ref=e1489]:
+                - img "Sieaden - Jewelry Website Design design ecommerce homepage jewelry jewelry landing page jewelry website landing page landingpage market marketplace online shop store ui ui design uiux web web design webpage website website design" [ref=e1490]
+              - link "View Sieaden - Jewelry Website Design" [ref=e1492] [cursor=pointer]:
+                - /url: /shots/20200747-Sieaden-Jewelry-Website-Design
+                - generic: View Sieaden - Jewelry Website Design
+              - generic:
+                - generic:
+                  - generic: Sieaden - Jewelry Website Design
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1493] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1494]
+                    - button [ref=e1496] [cursor=pointer]:
+                      - img [ref=e1497]
+            - generic [ref=e1499]:
+              - generic [ref=e1500]:
+                - link "Odama Odama" [ref=e1501] [cursor=pointer]:
+                  - /url: /odamastudio
+                  - img "Odama" [ref=e1502]
+                  - generic [ref=e1503]: Odama
+                - link "Pro user" [ref=e1505] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+                  - generic [ref=e1506]: +
+              - generic [ref=e1507]:
+                - generic [ref=e1509]:
+                  - generic:
+                    - button [ref=e1510] [cursor=pointer]:
+                      - img [ref=e1511]
+                    - generic [ref=e1513]: "243"
+                - generic [ref=e1514]:
+                  - img [ref=e1515]
+                  - generic [ref=e1518]: 78.9k
+          - listitem [ref=e1519]:
+            - generic [ref=e1520]:
+              - figure [ref=e1521]:
+                - img "Luxury Jewelry Website Redesign on Webflow 3 3d animation custom development design designstrategy graphic design hovereffects illustration immersiveui interactive design jewelry logo luxurybranding motion graphics parallaxscrolling responsivedesign ui ux webdesign" [ref=e1522]
+              - link "View Luxury Jewelry Website Redesign on Webflow" [ref=e1524] [cursor=pointer]:
+                - /url: /shots/26130310-Luxury-Jewelry-Website-Redesign-on-Webflow
+                - generic: View Luxury Jewelry Website Redesign on Webflow
+              - generic:
+                - generic:
+                  - generic: Luxury Jewelry Website Redesign on Webflow
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1525] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1526]
+                    - button [ref=e1528] [cursor=pointer]:
+                      - img [ref=e1529]
+            - generic [ref=e1531]:
+              - generic [ref=e1532]:
+                - link "Klimt Creations Klimt Creations" [ref=e1533] [cursor=pointer]:
+                  - /url: /klimtcreations
+                  - img "Klimt Creations" [ref=e1534]
+                  - generic [ref=e1535]: Klimt Creations
+                - link "Pro user" [ref=e1537] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1538]:
+                - generic [ref=e1540]:
+                  - generic:
+                    - button [ref=e1541] [cursor=pointer]:
+                      - img [ref=e1542]
+                    - generic [ref=e1544]: "2"
+                - generic [ref=e1545]:
+                  - img [ref=e1546]
+                  - generic [ref=e1549]: 3.5k
+          - listitem [ref=e1550]:
+            - generic [ref=e1551]:
+              - figure [ref=e1552]:
+                - img "Jewelry Website Homepage diamond e commerce ecommerce ecommerce design ecommerce landing page ecommerce shop ecommerce website ecommerce website design jewel jewelery jewellery jewellery shop jewelry minimal ring typography ui web web3 website" [ref=e1553]
+              - link "View Jewelry Website Homepage" [ref=e1555] [cursor=pointer]:
+                - /url: /shots/21317632-Jewelry-Website-Homepage
+                - generic: View Jewelry Website Homepage
+              - generic:
+                - generic:
+                  - generic: Jewelry Website Homepage
+                  - list:
+                    - listitem:
+                      - link "Save shot" [ref=e1556] [cursor=pointer]:
+                        - /url: /signups/new
+                        - img [ref=e1557]
+                    - button [ref=e1559] [cursor=pointer]:
+                      - img [ref=e1560]
+            - generic [ref=e1562]:
+              - generic [ref=e1563]:
+                - link "Awe Design Studio Awe Design Studio" [ref=e1564] [cursor=pointer]:
+                  - /url: /awedesign_studio
+                  - img "Awe Design Studio" [ref=e1565]
+                  - generic [ref=e1566]: Awe Design Studio
+                - link "Pro user" [ref=e1568] [cursor=pointer]:
+                  - /url: /pro
+                  - text: PRO
+              - generic [ref=e1569]:
+                - generic [ref=e1571]:
+                  - generic:
+                    - button [ref=e1572] [cursor=pointer]:
+                      - img [ref=e1573]
+                    - generic [ref=e1575]: "246"
+                - generic [ref=e1576]:
+                  - img [ref=e1577]
+                  - generic [ref=e1580]: 48.9k
+          - listitem [ref=e1581]:
+            - generic [ref=e1582]:
+              - figure [ref=e1583]
+              - generic:
+                - generic:
+                  - img
+                  - generic: bookbolt.io
+              - link "View Your artwork can sell" [ref=e1584] [cursor=pointer]:
+                - /url: https://bookbolt.io/?partner=dribble&utm_source=dribbble&utm_medium=referral
+                - generic: View Your artwork can sell
+              - generic:
+                - generic:
+                  - generic: Sell on Amazon with Book Bolt
+            - generic [ref=e1585]:
+              - link "Book Bolt Book Bolt" [ref=e1587] [cursor=pointer]:
+                - /url: /bookbolt
+                - img "Book Bolt" [ref=e1588]
+                - generic [ref=e1589]: Book Bolt
+              - generic [ref=e1590]:
+                - link "Hide ads" [ref=e1591] [cursor=pointer]:
+                  - /url: /pro
+                - generic [ref=e1592]: ●
+                - link "Advertise" [ref=e1593] [cursor=pointer]:
+                  - /url: /advertise
+        - link "Sign up to continue" [ref=e1595] [cursor=pointer]:
+          - /url: /signups/new
+        - link "Back to top" [ref=e1738] [cursor=pointer]:
+          - /url: "#"
+          - img "Back to top" [ref=e1739]
+  - contentinfo [ref=e1596]:
+    - generic [ref=e1599]:
+      - link "Illustration Illustration" [ref=e1600] [cursor=pointer]:
+        - /url: /shots/popular/illustration
+        - img "Illustration" [ref=e1603]
+        - generic [ref=e1604]: Illustration
+      - link "Branding Branding" [ref=e1605] [cursor=pointer]:
+        - /url: /shots/popular/branding
+        - img "Branding" [ref=e1608]
+        - generic [ref=e1609]: Branding
+      - link "Mobile Mobile" [ref=e1610] [cursor=pointer]:
+        - /url: /shots/popular/mobile
+        - img "Mobile" [ref=e1613]
+        - generic [ref=e1614]: Mobile
+      - link "Typography Typography" [ref=e1615] [cursor=pointer]:
+        - /url: /shots/popular/typography
+        - img "Typography" [ref=e1618]
+        - generic [ref=e1619]: Typography
+      - link "Animation Animation" [ref=e1620] [cursor=pointer]:
+        - /url: /shots/popular/animation
+        - img "Animation" [ref=e1623]
+        - generic [ref=e1624]: Animation
+      - link "Print Print" [ref=e1625] [cursor=pointer]:
+        - /url: /shots/popular/print
+        - img "Print" [ref=e1628]
+        - generic [ref=e1629]: Print
+      - link "Product Design Product Design" [ref=e1630] [cursor=pointer]:
+        - /url: /shots/popular/product-design
+        - img "Product Design" [ref=e1633]
+        - generic [ref=e1634]: Product Design
+      - link "Web Design Web Design" [ref=e1635] [cursor=pointer]:
+        - /url: /shots/popular/web-design
+        - img "Web Design" [ref=e1638]
+        - generic [ref=e1639]: Web Design
+      - link "Illustration Illustration" [ref=e1640] [cursor=pointer]:
+        - /url: /shots/popular/illustration
+        - img "Illustration" [ref=e1643]
+        - generic [ref=e1644]: Illustration
+      - link "Branding Branding" [ref=e1645] [cursor=pointer]:
+        - /url: /shots/popular/branding
+        - img "Branding" [ref=e1648]
+        - generic [ref=e1649]: Branding
+      - link "Mobile Mobile" [ref=e1650] [cursor=pointer]:
+        - /url: /shots/popular/mobile
+        - img "Mobile" [ref=e1653]
+        - generic [ref=e1654]: Mobile
+      - link "Typography Typography" [ref=e1655] [cursor=pointer]:
+        - /url: /shots/popular/typography
+        - img "Typography" [ref=e1658]
+        - generic [ref=e1659]: Typography
+      - link "Animation Animation" [ref=e1660] [cursor=pointer]:
+        - /url: /shots/popular/animation
+        - img "Animation" [ref=e1663]
+        - generic [ref=e1664]: Animation
+      - link "Print Print" [ref=e1665] [cursor=pointer]:
+        - /url: /shots/popular/print
+        - img "Print" [ref=e1668]
+        - generic [ref=e1669]: Print
+      - link "Product Design Product Design" [ref=e1670] [cursor=pointer]:
+        - /url: /shots/popular/product-design
+        - img "Product Design" [ref=e1673]
+        - generic [ref=e1674]: Product Design
+      - link "Web Design Web Design" [ref=e1675] [cursor=pointer]:
+        - /url: /shots/popular/web-design
+        - img "Web Design" [ref=e1678]
+        - generic [ref=e1679]: Web Design
+    - generic [ref=e1680]:
+      - generic [ref=e1681]:
+        - 'link "Dribbble: the community for graphic design Back to home page" [ref=e1682] [cursor=pointer]':
+          - /url: /
+          - 'img "Dribbble: the community for graphic design" [ref=e1683]'
+          - generic: Back to home page
+        - list [ref=e1685]:
+          - listitem [ref=e1686]:
+            - link "For designers" [ref=e1687] [cursor=pointer]:
+              - /url: /for-designers
+          - listitem [ref=e1688]:
+            - link "Hire talent" [ref=e1689] [cursor=pointer]:
+              - /url: /hiring
+          - listitem [ref=e1690]:
+            - link "Inspiration" [ref=e1691] [cursor=pointer]:
+              - /url: /shots/popular
+          - listitem [ref=e1692]:
+            - link "Advertising" [ref=e1693] [cursor=pointer]:
+              - /url: /advertise
+          - listitem [ref=e1694]:
+            - link "Blog" [ref=e1695] [cursor=pointer]:
+              - /url: /stories
+          - listitem [ref=e1696]:
+            - link "About" [ref=e1697] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e1698]:
+            - link "Careers" [ref=e1699] [cursor=pointer]:
+              - /url: /careers
+          - listitem [ref=e1700]:
+            - link "Support" [ref=e1701] [cursor=pointer]:
+              - /url: /contact
+        - generic [ref=e1702]:
+          - link "X" [ref=e1703] [cursor=pointer]:
+            - /url: http://x.com/dribbble
+            - img [ref=e1704]
+            - generic: X
+          - link "Facebook" [ref=e1706] [cursor=pointer]:
+            - /url: http://facebook.com/dribbble
+            - img [ref=e1707]
+            - generic: Facebook
+          - link "Instagram" [ref=e1709] [cursor=pointer]:
+            - /url: http://instagram.com/dribbble
+            - img [ref=e1710]
+            - generic: Instagram
+          - link "Pinterest" [ref=e1712] [cursor=pointer]:
+            - /url: http://www.pinterest.com/dribbble/
+            - img [ref=e1713]
+            - generic: Pinterest
+      - generic [ref=e1715]:
+        - list [ref=e1716]:
+          - listitem [ref=e1717]: © 2026 Dribbble
+          - listitem [ref=e1718]:
+            - link "Terms" [ref=e1719] [cursor=pointer]:
+              - /url: /terms
+          - listitem [ref=e1720]:
+            - link "Privacy" [ref=e1721] [cursor=pointer]:
+              - /url: /privacy
+          - listitem [ref=e1722]:
+            - link "Cookies" [ref=e1723] [cursor=pointer]:
+              - /url: /cookie-policy
+        - list [ref=e1724]:
+          - listitem [ref=e1725]:
+            - link "Jobs" [ref=e1726] [cursor=pointer]:
+              - /url: /directories/jobs
+          - listitem [ref=e1727]:
+            - link "Designers" [ref=e1728] [cursor=pointer]:
+              - /url: /directories/designers
+          - listitem [ref=e1729]:
+            - link "Freelancers" [ref=e1730] [cursor=pointer]:
+              - /url: /directories/freelance-designers
+          - listitem [ref=e1731]:
+            - link "Tags" [ref=e1732] [cursor=pointer]:
+              - /url: /tags
+          - listitem [ref=e1733]:
+            - link "Places" [ref=e1734] [cursor=pointer]:
+              - /url: /places
+          - listitem [ref=e1735]:
+            - link "Resources" [ref=e1736] [cursor=pointer]:
+              - /url: /resources
+  - generic:
+    - link "close":
+      - /url: "#"
+      - img

@@ -1,0 +1,77 @@
+[    1149ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  544018ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  544727ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  544797ms] [LOG] [Fast Refresh] done in 70ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  546396ms] [ERROR] ./app/page.js:1:1
+Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  555037ms] [LOG] [Fast Refresh] done in 10310ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  560463ms] [LOG] [Fast Refresh] done in 15736ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  561042ms] [ERROR] ./app/page.js:1:1
+Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:32
+[  562172ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=r3yhw:0
+[  562744ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=r3yhw:0
+[  563301ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=r3yhw:0
+[  563685ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[  565345ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///./node_modules/react-dom/cjs/react-dom.development.js:29889
+[  565502ms] Error: Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found
+
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at getNotFoundError (file://C:\Users\maykt\OneDrive\Documents\GitHub\ferrari-werkstatt-frankfurt\node_modules\next\dist\build\webpack\plugins\wellknown-errors-plugin\parseNotFoundError.js:124:16)
+    at async getModuleBuildError (file://C:\Users\maykt\OneDrive\Documents\GitHub\ferrari-werkstatt-frankfurt\node_modules\next\dist\build\webpack\plugins\wellknown-errors-plugin\webpackModuleError.js:104:27)
+    at async (file://C:\Users\maykt\OneDrive\Documents\GitHub\ferrari-werkstatt-frankfurt\node_modules\next\dist\build\webpack\plugins\wellknown-errors-plugin\index.js:29:49)
+    at async (file://C:\Users\maykt\OneDrive\Documents\GitHub\ferrari-werkstatt-frankfurt\node_modules\next\dist\build\webpack\plugins\wellknown-errors-plugin\index.js:27:21)
+[  565510ms] [LOG] [HMR] connected @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:45
+[  565517ms] [ERROR] ./app/page.js:1:1
+Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  566307ms] [ERROR] ./app/page.js:1:1
+Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  566578ms] [ERROR] ./app/page.js:1:1
+Module not found: Can't resolve '@/components/Hero3D'
+> 1 | import Hero3D from '@/components/Hero3D'
+    | ^
+  2 |
+  3 | export default function Home() {
+  4 |   return <Hero3D />
+
+https://nextjs.org/docs/messages/module-not-found @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  570220ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  572769ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  573916ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/_next/static/webpack/9ef6e2d09b4f4e74.webpack.hot-update.json:0
+[  573916ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///./node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:349
+[  577368ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  577705ms] [WARNING] Image with src "/f40-front-quarter.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15

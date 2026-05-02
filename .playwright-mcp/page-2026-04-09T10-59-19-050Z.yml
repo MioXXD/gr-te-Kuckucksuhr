@@ -1,0 +1,148 @@
+- generic [ref=e1]:
+  - dialog [ref=e2]:
+    - button "Schließen" [ref=e3] [cursor=pointer]:
+      - img [ref=e4]
+    - paragraph [ref=e6]:
+      - text: Unsplash verwendet Cookies und ähnliche Technologien, um unsere Webseite zu sichern, nützliche Funktionen für gebührenfreie und zahlende Nutzer bereitzustellen und um eine optimale Leistung zu gewährleisten. Wenn Sie auf „Alle Cookies akzeptieren“ klicken oder dieses Prompt schließen, stimmen Sie der Verwendung aller Cookies zu. Durch Klicken auf „Nur Unverzichtbare akzeptieren“ erklären Sie sich mit der Verwendung von Cookies einverstanden, die für die Funktion der Webseite unbedingt erforderlich sind. Weitere Informationen finden Sie in unseren
+      - link "Cookie-Richtlinien" [ref=e7] [cursor=pointer]:
+        - /url: /de/cookies
+      - text: .
+    - link "Cookies verwalten" [ref=e9] [cursor=pointer]:
+      - /url: /de/cookies#manage-consent
+    - generic [ref=e10]:
+      - button "Nur Unverzichtbare akzeptieren" [ref=e11] [cursor=pointer]
+      - button "Alle Cookies akzeptieren" [active] [ref=e12] [cursor=pointer]
+  - generic [ref=e15]:
+    - navigation [ref=e16]:
+      - link "Unsplash-Startseite" [ref=e19] [cursor=pointer]:
+        - /url: /de
+        - img "Unsplash-Startseite" [ref=e20]
+      - generic [ref=e22]:
+        - link "Anmelden / Registrieren" [ref=e23] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Ffotos%2Fein-roter-sportwagen-in-einem-schummrigen-raum-h5gJSIV6I-U
+          - img [ref=e24]
+        - button "Sprache" [ref=e26] [cursor=pointer]:
+          - img [ref=e27]
+        - button "Menü" [ref=e29] [cursor=pointer]:
+          - img [ref=e30]
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - navigation [ref=e34]:
+          - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e36]:
+            - button "Unsplash suchen" [ref=e37] [cursor=pointer]:
+              - img [ref=e38]
+            - combobox [ref=e40]:
+              - searchbox "Unsplash suchen" [ref=e41]
+              - listbox
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - banner [ref=e45]:
+              - generic [ref=e47]:
+                - link [ref=e48] [cursor=pointer]:
+                  - /url: /de/@anewevisual
+                - generic [ref=e51]:
+                  - link "Adrian Newell" [ref=e52] [cursor=pointer]:
+                    - /url: /de/@anewevisual
+                  - link "Für Anfragen verfügbar" [ref=e54] [cursor=pointer]:
+                    - /url: /de/@anewevisual
+                    - text: Für Anfragen verfügbar
+                    - img [ref=e55]
+              - generic [ref=e57]:
+                - button "Lesezeichen setzen" [ref=e58] [cursor=pointer]:
+                  - img [ref=e59]
+                - button "Zu Kollektion hinzufügen" [ref=e61] [cursor=pointer]:
+                  - img [ref=e62]
+                - link "Bild bearbeiten" [ref=e64] [cursor=pointer]:
+                  - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-roter-sportwagen-in-einem-schummrigen-raum-h5gJSIV6I-U
+                  - text: Bild bearbeiten
+                  - img [ref=e65]
+                - generic [ref=e68]:
+                  - link "Kostenlos herunterladen" [ref=e69] [cursor=pointer]:
+                    - /url: https://unsplash.com/photos/h5gJSIV6I-U/download?force=true
+                  - button "Downloadgröße auswählen" [ref=e71] [cursor=pointer]:
+                    - img [ref=e72]
+            - button "Dieses Bild heranzoomen" [disabled] [ref=e77]:
+              - img "Ein roter Sportwagen in einem schummrigen Raum" [ref=e78]
+            - generic [ref=e79]:
+              - generic [ref=e80]:
+                - generic [ref=e81]:
+                  - generic [ref=e82]:
+                    - generic [ref=e83]: ––– –– ––
+                    - text: ––– –––– ––––
+                  - generic [ref=e84]:
+                    - generic [ref=e85]: ––– –– ––
+                    - text: ––– –––– ––––
+                - generic [ref=e87]:
+                  - heading "Veröffentlicht in" [level=3] [ref=e88]
+                  - link "Fotos" [ref=e90] [cursor=pointer]:
+                    - /url: /de
+                - generic [ref=e91]:
+                  - button "Dieses Bild teilen" [ref=e92] [cursor=pointer]:
+                    - img [ref=e93]
+                    - generic [ref=e95]: Teilen
+                  - button "Statistiken zu diesem Bild" [ref=e96] [cursor=pointer]:
+                    - img [ref=e97]
+                    - generic [ref=e99]: Info
+                  - button "Weitere Aktionen" [ref=e100] [cursor=pointer]:
+                    - img [ref=e101]
+              - generic [ref=e104]:
+                - heading "Ein roter Sportwagen in einem schummrigen Raum" [level=1] [ref=e106]
+                - paragraph [ref=e110]: Laden Sie dieses kostenlose HD-Foto zum Thema hintergrundbild, autos, roter hintergrund und rot von Adrian Newell (@anewevisual) in Houston, United States herunter
+                - generic [ref=e112]:
+                  - generic [ref=e114]:
+                    - img [ref=e115]
+                    - generic [ref=e117]: Houston, TX, USA
+                  - generic [ref=e118]:
+                    - img [ref=e119]
+                    - generic [ref=e122]:
+                      - text: Veröffentlicht am
+                      - time [ref=e123]: 21. Februar 2024 (UTC)
+                  - generic [ref=e124]:
+                    - img [ref=e125]
+                    - button "Sony , A7R II" [ref=e128] [cursor=pointer]
+                  - generic [ref=e129]:
+                    - img [ref=e130]
+                    - generic [ref=e132]:
+                      - text: Kostenlos zu verwenden im Rahmen der
+                      - link "Unsplash Lizenz" [ref=e133] [cursor=pointer]:
+                        - /url: /de/lizenz
+              - generic [ref=e135]:
+                - link "hintergrundbild" [ref=e136] [cursor=pointer]:
+                  - /url: /de/s/fotos/hintergrundbild
+                - link "autos" [ref=e137] [cursor=pointer]:
+                  - /url: /de/s/fotos/autos
+                - link "roter hintergrund" [ref=e138] [cursor=pointer]:
+                  - /url: /de/s/fotos/roter-hintergrund
+                - link "rot" [ref=e139] [cursor=pointer]:
+                  - /url: /de/s/fotos/rot
+                - link "Minimalismus" [ref=e140] [cursor=pointer]:
+                  - /url: /de/s/fotos/minimalismus
+                - link "selbstfahrend" [ref=e141] [cursor=pointer]:
+                  - /url: /de/s/fotos/selbstfahrend
+                - link "Supersportwagen" [ref=e142] [cursor=pointer]:
+                  - /url: /de/s/fotos/supersportwagen
+                - link "Roter Ferrari" [ref=e143] [cursor=pointer]:
+                  - /url: /de/s/fotos/roter-ferrari
+                - link "Ferrari SF90" [ref=e144] [cursor=pointer]:
+                  - /url: /de/s/fotos/ferrari-sf90
+                - link "Sportwagen" [ref=e145] [cursor=pointer]:
+                  - /url: /de/s/fotos/sportwagen
+                - link "rote Lichter" [ref=e146] [cursor=pointer]:
+                  - /url: /de/s/fotos/rote-lichter
+                - link "Studiobeleuchtung" [ref=e147] [cursor=pointer]:
+                  - /url: /de/s/fotos/studiobeleuchtung
+                - link "SF90" [ref=e148] [cursor=pointer]:
+                  - /url: /de/s/fotos/sf90
+                - link "Hypercars" [ref=e149] [cursor=pointer]:
+                  - /url: /de/s/fotos/hypercars
+                - link "Fahrzeughintergründe" [ref=e150] [cursor=pointer]:
+                  - /url: /de/s/fotos/fahrzeughintergr%C3%BCnde
+                - link "USA" [ref=e151] [cursor=pointer]:
+                  - /url: /de/s/fotos/usa
+                - link "Ferrari" [ref=e152] [cursor=pointer]:
+                  - /url: /de/s/fotos/ferrari
+                - link "Houston" [ref=e153] [cursor=pointer]:
+                  - /url: /de/s/fotos/houston
+          - paragraph [ref=e159]: Ähnliche Premium-Bilder auf iStock durchsuchen | 20 % Rabatt mit Aktionscode UNSPLASH20
+      - generic:
+        - region "Notifications"

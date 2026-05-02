@@ -1,0 +1,53 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+          - /url: /de
+          - img "Unsplash-Startseite" [ref=e9]
+        - link "Fotos" [ref=e11] [cursor=pointer]:
+          - /url: /de
+          - img [ref=e12]
+        - link "Grafiken" [ref=e14] [cursor=pointer]:
+          - /url: /de/grafiken
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - button "Entdecken" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - link "Kollektionen" [ref=e21] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fjeweler-workshop
+          - img [ref=e22]
+        - link "Bisherige Downloads" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fdownloads
+          - img [ref=e25]
+      - link "Lesezeichen" [ref=e28] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fjeweler-workshop
+        - img [ref=e29]
+    - generic [ref=e31]:
+      - link "Anmelden / Registrieren" [ref=e32] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fjeweler-workshop
+        - img [ref=e33]
+      - button "Sprache" [ref=e35] [cursor=pointer]:
+        - img [ref=e36]
+      - button "Menü" [ref=e38] [cursor=pointer]:
+        - img [ref=e39]
+  - generic [ref=e41]:
+    - navigation [ref=e43]:
+      - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e45]:
+        - button "Unsplash suchen" [ref=e46] [cursor=pointer]:
+          - img [ref=e47]
+        - combobox [ref=e49]:
+          - searchbox "Unsplash suchen" [ref=e50]: jeweler workshop
+          - listbox
+        - button "Löschen" [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+        - button "Visuelle Suche" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+      - generic [ref=e59]:
+        - link "Unsplash+ sichern" [ref=e60] [cursor=pointer]:
+          - /url: /de/plus
+        - link "Anmelden" [ref=e61] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fjeweler-workshop
+      - button "Bild einreichen" [ref=e63] [cursor=pointer]
+    - generic:
+      - region "Notifications"

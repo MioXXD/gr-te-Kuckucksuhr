@@ -1,0 +1,467 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Karte·Mit den Pfeiltasten kannst du die Karte schwenken.·Details zu einem Ort kannst du durch Drücken der entsprechenden Zifferntaste aufrufen." [ref=e645]
+    - search [ref=e649]:
+      - generic [ref=e650]:
+        - combobox [ref=e652]: Bake & Brew
+        - button "Suchen" [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]: 
+        - button "Schließen" [ref=e657] [cursor=pointer]:
+          - generic [ref=e658]: 
+    - region "Für dieses Gebiet verfügbare Suchoptionen" [ref=e665]:
+      - generic [ref=e668]:
+        - button "Restaurants in der Nähe" [ref=e670] [cursor=pointer]:
+          - generic [ref=e671]:
+            - generic [ref=e673]: 
+            - generic [ref=e674]: Restaurants in der Nähe
+        - button "Hotels" [ref=e676] [cursor=pointer]:
+          - generic [ref=e677]:
+            - generic [ref=e679]: 
+            - generic [ref=e680]: Hotels
+        - button "Mögliche Aktivitäten" [ref=e682] [cursor=pointer]:
+          - generic [ref=e683]:
+            - generic [ref=e685]: 
+            - generic [ref=e686]: Mögliche Aktivitäten
+        - button "Bars" [ref=e688] [cursor=pointer]:
+          - generic [ref=e689]:
+            - generic [ref=e691]: 
+            - generic [ref=e692]: Bars
+        - button "Kaffee" [ref=e694] [cursor=pointer]:
+          - generic [ref=e695]:
+            - generic [ref=e697]: 
+            - generic [ref=e698]: Kaffee
+        - button "Zum Mitnehmen" [ref=e700] [cursor=pointer]:
+          - generic [ref=e701]:
+            - generic [ref=e703]: 
+            - generic [ref=e704]: Zum Mitnehmen
+        - button "Lebensmittel" [ref=e706] [cursor=pointer]:
+          - generic [ref=e707]:
+            - generic [ref=e709]: 
+            - generic [ref=e710]: Lebensmittel
+      - button "Nächste Seite" [ref=e711] [cursor=pointer]:
+        - generic [ref=e712]: 
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - button "Menü" [ref=e16] [cursor=pointer]:
+              - generic [ref=e18]: 
+          - listitem [ref=e19]:
+            - button "Gespeichert" [ref=e20] [cursor=pointer]:
+              - generic [ref=e22]: 
+              - generic [ref=e24]: Gespeichert
+          - listitem [ref=e25]:
+            - button "Zuletzt verwendet" [ref=e26] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - generic [ref=e30]: Zuletzt verwendet
+          - listitem [ref=e714]:
+            - button "Bake & Brew" [ref=e715] [cursor=pointer]:
+              - generic [ref=e721]: Bake & Brew
+          - listitem [ref=e32]:
+            - button "App herunterladen" [ref=e33] [cursor=pointer]:
+              - generic [ref=e35]: 
+              - generic [ref=e37]: App herunterladen
+        - main "Bake & Brew" [ref=e42]:
+          - generic [ref=e1495]:
+            - 'button "Foto von: Bake & Brew" [ref=e1497] [cursor=pointer]':
+              - img [ref=e1498]
+            - button "Fotos ansehen" [ref=e1499] [cursor=pointer]:
+              - generic [ref=e1500]: 
+              - generic [ref=e1501]: Fotos ansehen
+          - generic [ref=e1504]:
+            - heading "Bake & Brew" [level=1] [ref=e1506]: Bake & Brew
+            - generic [ref=e1508]:
+              - generic [ref=e1509]:
+                - generic [ref=e1510]:
+                  - generic [ref=e1511]:
+                    - text: 4,8
+                    - img "4,8 Sterne" [ref=e1512]
+                  - img "21 Rezensionen" [ref=e1520]: (21)
+                - button "Weitere Informationen zur gesetzlichen Offenlegung bei öffentlichen Rezensionen auf Google Maps" [ref=e1526]:
+                  - generic [ref=e1530]: 
+                - generic [ref=e1533]:
+                  - text: ·
+                  - generic [ref=e1535]: 1–10 €
+              - button "Café" [ref=e1539]
+          - tablist [ref=e90]:
+            - tab "Übersicht über Bake & Brew" [selected] [ref=e91]:
+              - generic [ref=e93]: Übersicht
+            - tab "Speisekarte" [active] [ref=e95]:
+              - generic [ref=e97]: Speisekarte
+            - tab "Rezensionen zu „Bake & Brew“" [ref=e99]:
+              - generic [ref=e101]: Rezensionen
+            - tab "Bake & Brew" [ref=e103]:
+              - generic [ref=e105]: Info
+          - region "Aktionen für „Bake & Brew“" [ref=e1540]:
+            - button "Routenplaner" [ref=e1542] [cursor=pointer]:
+              - generic [ref=e1544]: 
+              - generic [ref=e1545]: Routenplaner
+            - button "Speichern" [ref=e1547] [cursor=pointer]:
+              - generic [ref=e1549]: 
+              - generic [ref=e1550]: Speichern
+            - button "In der Nähe" [ref=e1552] [cursor=pointer]:
+              - generic [ref=e1554]: 
+              - generic [ref=e1555]: In der Nähe
+            - button "An Smartphone senden" [ref=e1557] [cursor=pointer]:
+              - generic [ref=e1559]: 
+              - generic [ref=e1560]: An Smartphone senden
+            - button "Teilen" [ref=e1562] [cursor=pointer]:
+              - generic [ref=e1564]: 
+              - generic [ref=e1565]: Teilen
+          - region "Informationen zu Bake & Brew" [ref=e1567]:
+            - button "Verzehr im Restaurant Speisen und Getränke auch zum Mitnehmen Kein Lieferdienst" [ref=e1568] [cursor=pointer]:
+              - generic [ref=e1570]:
+                - generic [ref=e1572]:
+                  - group "Verzehr im Restaurant" [ref=e1573]:
+                    - text: ·
+                    - generic [ref=e1574]: 
+                    - generic [ref=e1575]: Speisen vor Ort
+                  - group "Speisen und Getränke auch zum Mitnehmen" [ref=e1576]:
+                    - text: ·
+                    - generic [ref=e1577]: 
+                    - generic [ref=e1578]: Zum Mitnehmen
+                  - group "Kein Lieferdienst" [ref=e1579]:
+                    - text: ·
+                    - generic [ref=e1580]: 
+                    - generic [ref=e1581]: Lieferdienst
+                - generic [ref=e1582]: 
+          - region "Informationen zu „Bake & Brew“" [ref=e1585]:
+            - generic [ref=e1586]:
+              - 'button "Adresse: Stettiner Str. 10, 65203 Wiesbaden" [ref=e1587] [cursor=pointer]':
+                - generic [ref=e1588]:
+                  - generic [ref=e1590]: 
+                  - generic [ref=e1592]: Stettiner Str. 10, 65203 Wiesbaden
+              - button "Adresse kopieren" [ref=e1595] [cursor=pointer]:
+                - generic [ref=e1597]: 
+            - button "Öffnungszeiten Geschlossen · Öffnet Sa um 07:00 Öffnungszeiten für die Woche anzeigen Vor 12 Wochen durch dieses Unternehmen bestätigt" [ref=e1599] [cursor=pointer]:
+              - img "Öffnungszeiten" [ref=e1600]: 
+              - generic [ref=e1601]:
+                - generic [ref=e1602]:
+                  - generic [ref=e1604]: Geschlossen · Öffnet Sa um 07:00
+                  - img "Öffnungszeiten für die Woche anzeigen" [ref=e1605]: 
+                - generic [ref=e1606]: Vor 12 Wochen durch dieses Unternehmen bestätigt
+            - button "1–10 € pro Person Von 12 Personen gemeldet" [ref=e1609]:
+              - img [ref=e1611]
+              - generic [ref=e1614]:
+                - text: 1–10 € pro Person
+                - generic [ref=e1615]: Von 12 Personen gemeldet
+              - img [ref=e1617]
+            - generic [ref=e1619]:
+              - 'button "Plus Code: 26QQ+7V Wiesbaden" [ref=e1620] [cursor=pointer]':
+                - generic [ref=e1621]:
+                  - generic [ref=e1623]: 
+                  - generic [ref=e1625]: 26QQ+7V Wiesbaden
+              - generic [ref=e1626]:
+                - button "Plus Code kopieren" [ref=e1628] [cursor=pointer]:
+                  - generic [ref=e1630]: 
+                - button "Weitere Informationen zu Plus Codes" [ref=e1632] [cursor=pointer]:
+                  - generic [ref=e1634]: 
+          - button "Änderung vorschlagen" [ref=e1638] [cursor=pointer]:
+            - generic [ref=e1639]:
+              - generic [ref=e1640]: 
+              - generic [ref=e1641]: Änderung vorschlagen
+          - generic [ref=e1644]:
+            - heading "Fehlende Informationen hinzufügen" [level=2] [ref=e1645]
+            - button "Weitere Informationen" [ref=e1646] [cursor=pointer]:
+              - generic [ref=e1647]: 
+          - button "Telefonnummer hinzufügen" [ref=e1649]:
+            - generic [ref=e1650]:
+              - generic [ref=e1651]: 
+              - generic [ref=e1652]: Telefonnummer hinzufügen
+          - button "Website hinzufügen" [ref=e1654]:
+            - generic [ref=e1655]:
+              - generic [ref=e1656]: 
+              - generic [ref=e1657]: Website hinzufügen
+          - heading "Neuigkeiten von Kunden" [level=2] [ref=e1661]
+          - button "Sehr empfehlenswertes Café! Nettes Personal, leckerer Kaffee und Backwaren, faire Preise. Komme gerne wieder! vor 2 Wochen" [ref=e1663] [cursor=pointer]:
+            - generic [ref=e1665]:
+              - generic [ref=e1666]: Sehr empfehlenswertes Café! Nettes Personal, leckerer Kaffee und Backwaren, faire Preise. Komme gerne wieder!
+              - generic [ref=e1667]: vor 2 Wochen
+          - region "Stoßzeiten am Ort „Bake & Brew“" [ref=e1672]:
+            - generic [ref=e1673]:
+              - heading "Stoßzeiten" [level=2] [ref=e1674]
+              - button "Freitag" [ref=e1677] [cursor=pointer]:
+                - generic [ref=e1678]:
+                  - generic [ref=e1679]: Freitag
+                  - generic [ref=e1680]: 
+              - button "Informationen zu Stoßzeiten" [ref=e1681] [cursor=pointer]:
+                - generic [ref=e1682]: 
+            - button "Zum vorherigen Tag" [ref=e1684] [cursor=pointer]:
+              - generic [ref=e1685]: 
+            - generic [ref=e1686]:
+              - img "Um 04 Uhr zu 0 % ausgelastet." [ref=e1687]
+              - img "Um 05 Uhr zu 27 % ausgelastet." [ref=e1689]
+              - img "Um 06 Uhr zu 31 % ausgelastet." [ref=e1691]:
+                - generic [ref=e1693]: 06 Uhr
+              - img "Um 07 Uhr zu 22 % ausgelastet." [ref=e1694]
+              - img "Um 08 Uhr zu 22 % ausgelastet." [ref=e1696]
+              - img "Um 09 Uhr zu 40 % ausgelastet." [ref=e1698]:
+                - generic [ref=e1700]: 09 Uhr
+              - img "Um 10 Uhr zu 40 % ausgelastet." [ref=e1701]
+              - img "Um 11 Uhr zu 50 % ausgelastet." [ref=e1703]
+              - img "Um 12 Uhr zu 45 % ausgelastet." [ref=e1705]:
+                - generic [ref=e1707]: 12 Uhr
+              - img "Um 13 Uhr zu 50 % ausgelastet." [ref=e1708]
+              - img "Um 14 Uhr zu 45 % ausgelastet." [ref=e1710]
+              - img "Um 15 Uhr zu 45 % ausgelastet." [ref=e1712]:
+                - generic [ref=e1714]: 15 Uhr
+              - img "Um 16 Uhr zu 36 % ausgelastet." [ref=e1715]
+              - img "Um 17 Uhr zu 27 % ausgelastet." [ref=e1717]
+              - img "Um 18 Uhr zu 0 % ausgelastet." [ref=e1719]:
+                - generic [ref=e1721]: 18 Uhr
+              - img "Um 19 Uhr zu 0 % ausgelastet." [ref=e1722]
+              - img "Um 20 Uhr zu 0 % ausgelastet." [ref=e1724]
+              - img "Um 21 Uhr zu 0 % ausgelastet." [ref=e1726]:
+                - generic [ref=e1728]: 21 Uhr
+            - button "Zum nächsten Tag" [ref=e1729] [cursor=pointer]:
+              - generic [ref=e1730]: 
+          - heading "Speisekarte" [level=2] [ref=e1733]:
+            - generic [ref=e1734]: Speisekarte
+          - generic [ref=e1739] [cursor=pointer]:
+            - button "Foto 1 von 1" [ref=e1740]
+            - generic:
+              - generic:
+                - generic: 
+                - text: Speisekarte
+          - button "Mehr" [ref=e1745]:
+            - generic [ref=e1747] [cursor=pointer]: Mehr
+          - generic [ref=e1750]:
+            - heading "Fotos und Videos" [level=2] [ref=e1752]
+            - region "Fotos von Bake & Brew" [ref=e1753]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757] [cursor=pointer]:
+                  - button "Alle" [ref=e1758]
+                  - generic:
+                    - generic: Alle
+                - generic [ref=e1759] [cursor=pointer]:
+                  - button "Neueste·vor 11 Tagen" [ref=e1760]
+                  - generic:
+                    - generic: Neueste
+                    - generic: vor 11 Tagen
+                - generic [ref=e1761] [cursor=pointer]:
+                  - button "Speisekarte" [ref=e1762]
+                  - generic:
+                    - generic: Speisekarte
+                - generic [ref=e1763] [cursor=pointer]:
+                  - button "Essen und Trinken" [ref=e1764]
+                  - generic:
+                    - generic: Essen und Trinken
+                - generic [ref=e1765] [cursor=pointer]:
+                  - button "Kaffee" [ref=e1766]
+                  - generic:
+                    - generic: Kaffee
+                - generic [ref=e1767] [cursor=pointer]:
+                  - button "Vom Inhaber" [ref=e1768]
+                  - generic:
+                    - generic: Vom Inhaber
+                - generic [ref=e1769] [cursor=pointer]:
+                  - button "Street View & 360°-Fotos" [ref=e1770]
+                  - generic:
+                    - generic: Street View & 360°-Fotos
+          - button "Fotos und Videos hinzufügen" [ref=e1775] [cursor=pointer]:
+            - generic [ref=e1776]:
+              - generic [ref=e1777]: 
+              - generic [ref=e1778]: Fotos und Videos hinzufügen
+          - heading "Rezensionen" [level=2] [ref=e1782]
+          - generic [ref=e1784] [cursor=pointer]:
+            - table [ref=e1786]:
+              - rowgroup [ref=e1787]:
+                - img "5 Sterne,19 Rezensionen" [ref=e1788]: "5"
+                - img "4 Sterne,1 Rezension" [ref=e1791]: "4"
+                - img "3 Sterne,0 Rezensionen" [ref=e1794]: "3"
+                - img "2 Sterne,1 Rezension" [ref=e1797]: "2"
+                - img "1 Sterne,0 Rezensionen" [ref=e1800]: "1"
+            - generic [ref=e1803]:
+              - generic [ref=e1804]: 4,8
+              - img "4,8 Sterne" [ref=e1805]
+              - button "21 Berichte" [ref=e1811]:
+                - generic [ref=e1813]: 21 Berichte
+          - generic [ref=e1815]:
+            - generic [ref=e1816]: Rezensionen werden nicht überprüft
+            - button "Weitere Informationen zur gesetzlichen Offenlegung bei öffentlichen Rezensionen auf Google Maps" [ref=e1820]:
+              - generic [ref=e1824]: 
+          - generic [ref=e1826]:
+            - 'link "Foto vom Verfasser von: \"Nettes Personal, leckerer Kaffee und Backwaren, faire Preise.\"" [ref=e1827] [cursor=pointer]':
+              - /url: https://www.google.com/maps/contrib/117212807099081695565?hl=de-DE
+            - button "\"Nettes Personal, leckerer Kaffee und Backwaren, faire Preise.\"" [ref=e1828] [cursor=pointer]:
+              - generic [ref=e1829]: "\"Nettes Personal, leckerer Kaffee und Backwaren, faire Preise.\""
+          - generic [ref=e1831]:
+            - 'link "Foto vom Verfasser von: \"Sehr leckere (und hübsche) Kaffee und sehr nette Leute!\"" [ref=e1832] [cursor=pointer]':
+              - /url: https://www.google.com/maps/contrib/111622131296924405161?hl=de-DE
+            - button "\"Sehr leckere (und hübsche) Kaffee und sehr nette Leute!\"" [ref=e1833] [cursor=pointer]:
+              - generic [ref=e1834]: "\"Sehr leckere (und hübsche) Kaffee und sehr nette Leute!\""
+          - generic [ref=e1836]:
+            - 'link "Foto vom Verfasser von: \"Absolut empfehlenswert, ich komme sehr gerne wieder!!!\"" [ref=e1837] [cursor=pointer]':
+              - /url: https://www.google.com/maps/contrib/110936867702960841180?hl=de-DE
+            - button "\"Absolut empfehlenswert, ich komme sehr gerne wieder!!!\"" [ref=e1838] [cursor=pointer]:
+              - generic [ref=e1839]: "\"Absolut empfehlenswert, ich komme sehr gerne wieder!!!\""
+          - button "Rezension schreiben" [ref=e1843] [cursor=pointer]:
+            - generic [ref=e1844]:
+              - generic [ref=e1845]: 
+              - generic [ref=e1846]: Rezension schreiben
+          - generic [ref=e1849]:
+            - generic [ref=e1851]:
+              - heading "Rezensionen" [level=2] [ref=e1854]
+              - button "In Rezensionen suchen" [ref=e1857] [cursor=pointer]:
+                - generic [ref=e1859]: 
+            - button "Rezensionen sortieren" [ref=e1861] [cursor=pointer]:
+              - generic [ref=e1862]:
+                - generic [ref=e1863]: 
+                - generic [ref=e1864]: Sortieren
+          - radiogroup "Rezensionen filtern" [ref=e1865]:
+            - radio "Alle Rezensionen" [checked] [ref=e1867] [cursor=pointer]:
+              - generic [ref=e1868]:
+                - generic [ref=e1869]: 
+                - generic [ref=e1870]: Alle
+            - radio "auswahl, in 3 Rezensionen erwähnt" [ref=e1872] [cursor=pointer]:
+              - generic [ref=e1873]:
+                - generic [ref=e1874]: auswahl
+                - generic [ref=e1875]: "3"
+            - radio "backwaren, in 2 Rezensionen erwähnt" [ref=e1877] [cursor=pointer]:
+              - generic [ref=e1878]:
+                - generic [ref=e1879]: backwaren
+                - generic [ref=e1880]: "2"
+            - radio "atmosphäre, in 2 Rezensionen erwähnt" [ref=e1882] [cursor=pointer]:
+              - generic [ref=e1883]:
+                - generic [ref=e1884]: atmosphäre
+                - generic [ref=e1885]: "2"
+            - radio "cappuccino, in 2 Rezensionen erwähnt" [ref=e1887] [cursor=pointer]:
+              - generic [ref=e1888]:
+                - generic [ref=e1889]: cappuccino
+                - generic [ref=e1890]: "2"
+            - radio "preise, in 2 Rezensionen erwähnt" [ref=e1892] [cursor=pointer]:
+              - generic [ref=e1893]:
+                - generic [ref=e1894]: preise
+                - generic [ref=e1895]: "2"
+          - generic "Svetlana Galka" [ref=e1896]:
+            - generic [ref=e1898]:
+              - button "Foto von Svetlana Galka" [ref=e1899]
+              - generic [ref=e1901]:
+                - button "Svetlana Galka Local Guide · 27 Rezensionen · 57 Fotos" [ref=e1903]:
+                  - generic [ref=e1904]: Svetlana Galka
+                  - generic [ref=e1905]: Local Guide · 27 Rezensionen · 57 Fotos
+                - button "Aktionen für die Rezension von Svetlana Galka" [ref=e1906] [cursor=pointer]:
+                  - generic [ref=e1908]: 
+              - generic [ref=e1909]:
+                - generic [ref=e1910]:
+                  - img "5 Sterne" [ref=e1911]:
+                    - generic [ref=e1912]: 
+                    - generic [ref=e1913]: 
+                    - generic [ref=e1914]: 
+                    - generic [ref=e1915]: 
+                    - generic [ref=e1916]: 
+                  - generic [ref=e1917]: vor 2 Monaten
+                - generic [ref=e1919]:
+                  - text: Ich war heute auf Empfehlung einer Freundin im Back & Brave und bin positiv überrascht. Der Kaffee war wirklich lecker.Besonders gefallen hat mir auch das kleine …
+                  - button "Mehr anzeigen" [ref=e1921] [cursor=pointer]: Mehr
+                - generic [ref=e1922]:
+                  - button "Gefällt mir" [ref=e1923]:
+                    - generic [ref=e1924] [cursor=pointer]:
+                      - generic [ref=e1925]: 
+                      - generic [ref=e1927]: Gefällt mir
+                  - button "Rezension von Svetlana Galka teilen." [ref=e1928]:
+                    - generic [ref=e1929] [cursor=pointer]:
+                      - generic [ref=e1930]: 
+                      - generic [ref=e1931]: Teilen
+          - generic "Kyra" [ref=e1935]:
+            - generic [ref=e1937]:
+              - button "Foto von Kyra" [ref=e1938]
+              - generic [ref=e1940]:
+                - button "Kyra 5 Rezensionen" [ref=e1942]:
+                  - generic [ref=e1943]: Kyra
+                  - generic [ref=e1944]: 5 Rezensionen
+                - button "Aktionen für die Rezension von Kyra" [ref=e1945] [cursor=pointer]:
+                  - generic [ref=e1947]: 
+              - generic [ref=e1948]:
+                - generic [ref=e1949]:
+                  - img "5 Sterne" [ref=e1950]:
+                    - generic [ref=e1951]: 
+                    - generic [ref=e1952]: 
+                    - generic [ref=e1953]: 
+                    - generic [ref=e1954]: 
+                    - generic [ref=e1955]: 
+                  - generic [ref=e1956]: vor 4 Monaten
+                - generic [ref=e1958]:
+                  - text: Bake & Brew überzeugt, mit einer tollen Auswahl an frisch gebackenen Köstlichkeiten und hervorragend zubereitetem Kaffee. …
+                  - button "Mehr anzeigen" [ref=e1960] [cursor=pointer]: Mehr
+                - generic [ref=e1961]:
+                  - button "Gefällt mir" [ref=e1962]:
+                    - generic [ref=e1963] [cursor=pointer]:
+                      - generic [ref=e1964]: 
+                      - generic [ref=e1966]: Gefällt mir
+                  - button "Rezension von Kyra teilen." [ref=e1967]:
+                    - generic [ref=e1968] [cursor=pointer]:
+                      - generic [ref=e1969]: 
+                      - generic [ref=e1970]: Teilen
+          - generic "Iakovos Iakovidis" [ref=e1974]:
+            - generic [ref=e1976]:
+              - button "Foto von Iakovos Iakovidis" [ref=e1977]
+              - generic [ref=e1979]:
+                - button "Iakovos Iakovidis Local Guide · 46 Rezensionen · 4 Fotos" [ref=e1981]:
+                  - generic [ref=e1982]: Iakovos Iakovidis
+                  - generic [ref=e1983]: Local Guide · 46 Rezensionen · 4 Fotos
+                - button "Aktionen für die Rezension von Iakovos Iakovidis" [ref=e1984] [cursor=pointer]:
+                  - generic [ref=e1986]: 
+              - generic [ref=e1987]:
+                - generic [ref=e1988]:
+                  - img "5 Sterne" [ref=e1989]:
+                    - generic [ref=e1990]: 
+                    - generic [ref=e1991]: 
+                    - generic [ref=e1992]: 
+                    - generic [ref=e1993]: 
+                    - generic [ref=e1994]: 
+                  - generic [ref=e1995]: vor 6 Monaten
+                - generic [ref=e1997]:
+                  - text: Ein wunderschöner, gemütlicher kleiner Ort, an dem man sich entspannen und sein griechisches Lieblingsgebäck sowie eine Kaffeespezialität genießen kann. Raucherfrei, sodass man auch mit seinen Kindern getrost hingehen kann. Die Besitzer sind sehr lieb, und durch ihre herzliche Ausstrahlung komme ich immer wieder gern hierher.
+                  - button "Mehr anzeigen" [ref=e1999] [cursor=pointer]: Mehr
+                - generic [ref=e2000]:
+                  - button "Gefällt mir" [ref=e2001]:
+                    - generic [ref=e2002] [cursor=pointer]:
+                      - generic [ref=e2003]: 
+                      - generic [ref=e2005]: Gefällt mir
+                  - button "Rezension von Iakovos Iakovidis teilen." [ref=e2006]:
+                    - generic [ref=e2007] [cursor=pointer]:
+                      - generic [ref=e2008]: 
+                      - generic [ref=e2009]: Teilen
+          - button "Weitere Rezensionen (18)" [ref=e2013]:
+            - generic [ref=e2015] [cursor=pointer]: Weitere Rezensionen (18)
+          - heading "Webergebnisse" [level=2] [ref=e2019]
+          - region [ref=e2022]
+          - link "Erläuterungen zu diesen Daten" [ref=e2061] [cursor=pointer]:
+            - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=de
+            - generic [ref=e2063]: Erläuterungen zu diesen Daten
+          - heading "Die Möglichkeiten von Google Maps voll ausschöpfen Anmelden" [level=2] [ref=e2067]:
+            - generic [ref=e2068]: Die Möglichkeiten von Google Maps voll ausschöpfen
+            - button "Anmelden" [ref=e2071] [cursor=pointer]:
+              - generic [ref=e2073]: Anmelden
+      - button "Seitenleiste ausblenden" [ref=e642] [cursor=pointer]:
+        - generic [ref=e643]: 
+    - generic [ref=e726]:
+      - button "Google-Apps" [ref=e730] [cursor=pointer]:
+        - img [ref=e731]
+      - link "Anmelden" [ref=e734] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FBake%2B%2526%2BBrew%2F%4050.038162%2C8.239632%2C17z%2Fdata%3D!4m15!1m8!3m7!1s0x47bd976be2443b6f%3A0x7e0b9a3cefc43c68!2sBake%2B%2526%2BBrew!8m2!3d50.038162!4d8.239632!10e9!16s%252Fg%252F11xh29pbtt!3m5!1s0x47bd976be2443b6f%3A0x7e0b9a3cefc43c68!8m2!3d50.038162!4d8.239632!16s%252Fg%252F11xh29pbtt%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic [ref=e735]:
+      - generic:
+        - button "Deinen Standort anzeigen" [ref=e738] [cursor=pointer]:
+          - generic [ref=e740]: 
+        - generic [ref=e742] [cursor=pointer]:
+          - button "Heranzoomen" [ref=e743]
+          - button "Herauszoomen" [ref=e746]
+      - generic [ref=e752]:
+        - button "Street View-Bilder ansehen" [ref=e754]
+        - button "Street View" [ref=e756] [cursor=pointer]
+      - generic [ref=e764]:
+        - generic "Interaktive Karte" [ref=e765]
+        - generic [ref=e769] [cursor=pointer]:
+          - generic [ref=e770]: 
+          - generic [ref=e771]: Ebenen
+        - button "Ebenen" [ref=e772] [cursor=pointer]
+    - generic [ref=e774]:
+      - contentinfo [ref=e777]:
+        - text: Bilder © 2026 ,Kartendaten © 2026 GeoBasis-DE/BKG (©2009),Google
+        - button "Deutschland" [ref=e778] [cursor=pointer]
+        - button "Bedingungen" [ref=e779] [cursor=pointer]
+        - button "Datenschutz" [ref=e780] [cursor=pointer]
+        - button "Produktfeedback geben" [ref=e781] [cursor=pointer]
+      - button "50 m" [ref=e783] [cursor=pointer]: 50 m

@@ -1,0 +1,139 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Foto" [ref=e2074]
+    - search [ref=e649]:
+      - button "Zurück" [ref=e2076] [cursor=pointer]:
+        - generic [ref=e2077]: 
+      - generic [ref=e650]:
+        - combobox [ref=e652]: Bake & Brew
+        - button "Suchen" [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]: 
+        - button "Schließen" [ref=e657] [cursor=pointer]:
+          - generic [ref=e658]: 
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - button "Menü" [ref=e16] [cursor=pointer]:
+              - generic [ref=e18]: 
+          - listitem [ref=e19]:
+            - button "Gespeichert" [ref=e20] [cursor=pointer]:
+              - generic [ref=e22]: 
+              - generic [ref=e24]: Gespeichert
+          - listitem [ref=e25]:
+            - button "Zuletzt verwendet" [ref=e26] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - generic [ref=e30]: Zuletzt verwendet
+          - listitem [ref=e714]:
+            - button "Bake & Brew" [ref=e715] [cursor=pointer]:
+              - generic [ref=e721]: Bake & Brew
+          - listitem [ref=e32]:
+            - button "App herunterladen" [ref=e33] [cursor=pointer]:
+              - generic [ref=e35]: 
+              - generic [ref=e37]: App herunterladen
+        - main "Fotos von Bake & Brew" [ref=e2078]:
+          - button "Fotos und Videos hinzufügen" [ref=e2082] [cursor=pointer]:
+            - generic [ref=e2083]:
+              - generic [ref=e2084]: 
+              - generic [ref=e2085]: Fotos und Videos hinzufügen
+          - tablist [ref=e2088]:
+            - tab "Alle" [selected] [ref=e2089]:
+              - generic [ref=e2091]: Alle
+            - tab "Neueste" [ref=e2093]:
+              - generic [ref=e2095]: Neueste
+            - tab "Speisekarte" [ref=e2097]:
+              - generic [ref=e2099]: Speisekarte
+            - tab "Essen und Trinken" [ref=e2101]:
+              - generic [ref=e2103]: Essen und Trinken
+            - tab "Kaffee" [ref=e2105]:
+              - generic [ref=e2107]: Kaffee
+            - tab "Vom Inhaber" [ref=e2109]:
+              - generic [ref=e2111]: Vom Inhaber
+            - tab "Street View & 360°-Fotos" [ref=e2113]:
+              - generic [ref=e2115]: Street View & 360°-Fotos
+          - generic [ref=e2118]:
+            - link "Foto 1" [ref=e2119] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2120]
+            - link "Foto 2" [ref=e2123] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2124]
+            - link "Foto 3" [ref=e2126] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2127]
+            - link "Foto 4" [ref=e2129] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2130]
+            - link "Foto 5" [ref=e2132] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2133]
+            - link "Foto 6" [ref=e2135] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2136]
+            - link "Foto 7" [ref=e2138] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2139]
+            - link "Foto 8" [ref=e2141] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2142]
+            - link "Foto 9" [ref=e2144] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2145]
+            - link "Foto 10" [ref=e2147] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2148]
+            - link "Foto 11" [ref=e2150] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2151]
+            - link "Foto 12" [ref=e2153] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2154]
+            - link "Foto 13" [ref=e2156] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2157]
+            - link "Foto 14" [ref=e2159] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e2160]
+      - button "Seitenleiste ausblenden" [ref=e642] [cursor=pointer]:
+        - generic [ref=e643]: 
+    - navigation [ref=e2163]:
+      - generic [ref=e2164]:
+        - generic [ref=e2165]:
+          - generic [ref=e2168]:
+            - heading "Bake & Brew" [level=1] [ref=e2169]
+            - heading "Profil von George Dovas ansehen George Dovas" [level=2] [ref=e2171]:
+              - generic [ref=e2172]:
+                - link "Profil von George Dovas ansehen" [ref=e2173] [cursor=pointer]:
+                  - /url: //maps.google.com/maps/contrib/102934529261887237376
+                - link "George Dovas" [ref=e2175] [cursor=pointer]:
+                  - /url: //maps.google.com/maps/contrib/102934529261887237376
+          - generic [ref=e2177]: Foto - Sept. 2025
+        - button "Menü" [ref=e2178] [cursor=pointer]:
+          - generic [ref=e2179]: 
+    - generic:
+      - generic:
+        - button "Teilen" [ref=e2182] [cursor=pointer]:
+          - generic [ref=e2183]:
+            - generic [ref=e2184]: 
+            - generic [ref=e2185]: Teilen
+        - button "Schließen" [ref=e2188] [cursor=pointer]:
+          - generic [ref=e2190]: 
+    - generic:
+      - generic [ref=e742] [cursor=pointer]:
+        - button "Heranzoomen" [ref=e743]
+        - button "Herauszoomen" [disabled] [ref=e746]
+      - generic "Interaktive Karte" [ref=e765]
+      - generic:
+        - generic:
+          - button "Zurück" [disabled] [ref=e2192] [cursor=pointer]:
+            - generic [ref=e2194]: 
+          - button "Weiter" [ref=e2195] [cursor=pointer]:
+            - generic [ref=e2197]: 
+    - contentinfo [ref=e777]:
+      - generic [ref=e2200]: "Aufgenommen: Sept. 2025"
+      - generic [ref=e2203]: Die Bilder sind eventuell urheberrechtlich geschützt.
+      - button "Deutschland" [ref=e778] [cursor=pointer]
+      - button "Bedingungen" [ref=e779] [cursor=pointer]
+      - button "Datenschutz" [ref=e780] [cursor=pointer]
+      - link "Problem melden" [ref=e2204] [cursor=pointer]:
+        - /url: //www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIABIhDpH-AdqruWwW4RQsgNAwiZ&hl=de&gl=de&fid=0x47bd976be2443b6f%3A0x7e0b9a3cefc43c68

@@ -1,0 +1,178 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "+49 711 340 358-70" [ref=e5] [cursor=pointer]:
+        - /url: tel:+4971134035870
+      - generic [ref=e6]: ·
+      - link "termin@foqus-fellbach.de" [ref=e7] [cursor=pointer]:
+        - /url: mailto:termin@foqus-fellbach.de
+    - generic [ref=e8]:
+      - generic [ref=e9]: Stuttgarter Str. 26, Fellbach
+      - generic [ref=e10]: ·
+      - generic [ref=e11]: Alle Kassen & Privat
+  - banner [ref=e12]:
+    - generic [ref=e13]:
+      - link "FOQUS Fellbach Startseite" [ref=e14] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=e15]:
+          - img [ref=e16]
+          - img [ref=e19]
+        - generic [ref=e22]:
+          - text: FOQUS
+          - generic [ref=e23]: Fellbach · Augen & Haut
+      - navigation "Hauptnavigation" [ref=e24]:
+        - link "Fachbereiche ↓" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+        - link "Ärzte-Team" [ref=e27] [cursor=pointer]:
+          - /url: team.html
+        - link "Praxis" [ref=e28] [cursor=pointer]:
+          - /url: index.html#praxis
+        - link "Kontakt" [ref=e29] [cursor=pointer]:
+          - /url: kontakt.html
+        - link "Termin buchen →" [ref=e30] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin buchen
+          - generic [ref=e31]: →
+  - main [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]: Das Ärzte-Team
+      - heading "Zwei Fachärzte. Eine Haltung." [level=1] [ref=e37]:
+        - text: Zwei Fachärzte.
+        - emphasis [ref=e38]: Eine Haltung.
+      - paragraph [ref=e39]: Dr. med. Astrid Thode und Dr. Malte-Christian Thode leiten das FOQUS Fellbach gemeinsam — mit einem Anspruch, der medizinische Präzision mit persönlicher Patientenbegleitung verbindet.
+    - generic [ref=e42]:
+      - img "Portrait Dr. med. Astrid Thode" [ref=e44]
+      - generic [ref=e45]:
+        - generic [ref=e46]: Leitende Ärztin
+        - heading "Dr. med. Astrid Thode" [level=2] [ref=e47]:
+          - text: Dr. med.
+          - text: Astrid Thode
+        - generic [ref=e48]: Fachärztin für Dermatologie
+        - generic [ref=e49]:
+          - paragraph [ref=e50]: Schwerpunkte in allgemeiner und operativer Dermatologie, Hautkrebsvorsorge sowie ästhetischer Dermatologie. Die interdisziplinäre Zusammenarbeit mit der Augenheilkunde bildet für sie den Kern einer zeitgemäßen Facharztpraxis.
+          - paragraph [ref=e51]: Der persönliche Zugang zu jedem Patienten — ohne Zeitdruck, mit Blick für das Ganze — ist für Dr. Astrid Thode kein Zusatz, sondern medizinische Grundvoraussetzung.
+        - blockquote [ref=e52]: „Gute Medizin braucht Zeit, Präzision und das Vertrauen, dass beides zusammengehört."
+        - generic [ref=e53]:
+          - generic [ref=e54]: Dermatologie
+          - generic [ref=e56]: Dermatochirurgie
+          - generic [ref=e58]: Ästhetische Medizin
+          - generic [ref=e60]: Hautkrebsvorsorge
+    - generic [ref=e63]: — gemeinsam geführt —
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e68]: Leitender Arzt
+        - heading "Dr. Malte-Christian Thode" [level=2] [ref=e69]:
+          - text: Dr.
+          - text: Malte-Christian Thode
+        - generic [ref=e70]: Facharzt für Augenheilkunde
+        - generic [ref=e71]:
+          - paragraph [ref=e72]: Schwerpunkte in moderner Augenheilkunde, OCT-gestützter Diagnostik, Glaukom- und Makula-Therapie sowie operativer Lidchirurgie. Die präzise, technologiegestützte Untersuchung versteht er als Fundament für jede gute Therapieentscheidung.
+          - paragraph [ref=e73]: "In der Zusammenarbeit mit der dermatologischen Sprechstunde entsteht das, was FOQUS besonders macht: die Möglichkeit, Gesicht, Augen und Haut in einem Gedanken zu betrachten."
+        - blockquote [ref=e74]: „Der klinische Blick bleibt die wichtigste Diagnostik. Die Technik schärft ihn."
+        - generic [ref=e75]:
+          - generic [ref=e76]: Augenheilkunde
+          - generic [ref=e78]: OCT-Diagnostik
+          - generic [ref=e80]: Lidchirurgie
+          - generic [ref=e82]: Makula-Therapie
+      - img "Portrait Dr. Malte-Christian Thode" [ref=e85]
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]: Unsere Haltung
+        - heading "Medizin, die zuhört. Bevor sie spricht." [level=2] [ref=e90]:
+          - text: Medizin, die zuhört.
+          - emphasis [ref=e91]: Bevor sie spricht.
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]: "01"
+          - heading "Zeit als Qualität" [level=3] [ref=e95]
+          - paragraph [ref=e96]: Erstgespräche ohne Uhrzeiger. Wir nehmen uns, was Diagnose und Patient brauchen — nicht was der Taktplan erlaubt.
+        - generic [ref=e97]:
+          - generic [ref=e98]: "02"
+          - heading "Interdisziplinär" [level=3] [ref=e99]
+          - paragraph [ref=e100]: Haut und Augen in gemeinsamer Betrachtung — viele Befunde hängen zusammen und verlangen denselben Ort der Behandlung.
+        - generic [ref=e101]:
+          - generic [ref=e102]: "03"
+          - heading "Transparent" [level=3] [ref=e103]
+          - paragraph [ref=e104]: Jeder Befund wird verständlich erklärt. Jede Therapieoption offen besprochen — inklusive der Möglichkeit, abzuwarten.
+    - generic [ref=e106]:
+      - generic [ref=e107]:
+        - generic [ref=e108]: Das Praxis-Team
+        - heading "Medizinische Fachangestellte und Assistenz — der Rückhalt der täglichen Sprechstunde." [level=2] [ref=e109]:
+          - text: Medizinische Fachangestellte und Assistenz —
+          - emphasis [ref=e110]: der Rückhalt der täglichen Sprechstunde.
+      - paragraph [ref=e111]: Unser Praxis-Team empfängt Sie persönlich, begleitet Sie durch Diagnostik und Behandlung und ist für alle organisatorischen Fragen erreichbar — telefonisch, per E-Mail oder direkt vor Ort.
+    - generic [ref=e113]:
+      - heading "Lernen Sie uns persönlich kennen." [level=2] [ref=e114]:
+        - text: Lernen Sie uns
+        - emphasis [ref=e115]: persönlich kennen.
+      - paragraph [ref=e116]: Vereinbaren Sie ein Erstgespräch — online rund um die Uhr oder telefonisch während unserer Sprechzeiten.
+      - generic [ref=e117]:
+        - link "Termin online buchen →" [ref=e118] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin online buchen
+          - generic [ref=e119]: →
+        - link "+49 711 340 358-70" [ref=e120] [cursor=pointer]:
+          - /url: tel:+4971134035870
+  - contentinfo [ref=e121]:
+    - generic [ref=e122]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125]: FOQUS
+          - paragraph [ref=e126]: Medizinisches Zentrum für Augen und Haut in Fellbach. Fachärztliche Versorgung in Augenheilkunde und Dermatologie.
+        - generic [ref=e127]:
+          - heading "Fachbereiche" [level=4] [ref=e128]
+          - list [ref=e129]:
+            - listitem [ref=e130]:
+              - link "Augenheilkunde" [ref=e131] [cursor=pointer]:
+                - /url: augenheilkunde.html
+            - listitem [ref=e132]:
+              - link "Dermatologie" [ref=e133] [cursor=pointer]:
+                - /url: dermatologie.html
+            - listitem [ref=e134]:
+              - link "Ästhetik & Kosmetik" [ref=e135] [cursor=pointer]:
+                - /url: aesthetik.html
+            - listitem [ref=e136]:
+              - link "Dermatochirurgie" [ref=e137] [cursor=pointer]:
+                - /url: dermatochirurgie.html
+            - listitem [ref=e138]:
+              - link "Lasermedizin" [ref=e139] [cursor=pointer]:
+                - /url: lasermedizin.html
+        - generic [ref=e140]:
+          - heading "Praxis" [level=4] [ref=e141]
+          - list [ref=e142]:
+            - listitem [ref=e143]:
+              - link "Ärzte-Team" [ref=e144] [cursor=pointer]:
+                - /url: team.html
+            - listitem [ref=e145]:
+              - link "Anfahrt & Kontakt" [ref=e146] [cursor=pointer]:
+                - /url: kontakt.html
+            - listitem [ref=e147]:
+              - link "Termin buchen" [ref=e148] [cursor=pointer]:
+                - /url: https://app.arzt-direkt.de/foqus/booking
+        - generic [ref=e149]:
+          - heading "Kontakt" [level=4] [ref=e150]
+          - generic [ref=e151]:
+            - strong [ref=e152]: FOQUS Fellbach
+            - text: Stuttgarter Str. 26
+            - text: 70736 Fellbach
+            - link "+49 711 340 358-70" [ref=e153] [cursor=pointer]:
+              - /url: tel:+4971134035870
+            - link "termin@foqus-fellbach.de" [ref=e154] [cursor=pointer]:
+              - /url: mailto:termin@foqus-fellbach.de
+      - separator [ref=e155]
+      - generic [ref=e156]:
+        - generic [ref=e157]: © 2026 FOQUS Fellbach · Medizinisches Zentrum für Augen und Haut
+        - generic [ref=e158]:
+          - link "Impressum" [ref=e159] [cursor=pointer]:
+            - /url: "#"
+          - link "Datenschutz" [ref=e160] [cursor=pointer]:
+            - /url: "#"
+          - link "Barrierefreiheit" [ref=e161] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e162]:
+          - link "Instagram" [ref=e163] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e164]
+          - link "Facebook" [ref=e168] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e169]

@@ -1,0 +1,1893 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - main [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e8]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - generic [ref=e15]:
+                - generic [ref=e18]:
+                  - button "21st logo 21st" [ref=e20] [cursor=pointer]:
+                    - generic [ref=e21]:
+                      - generic [ref=e23]:
+                        - img "21st logo"
+                      - generic [ref=e25]: 21st
+                      - img
+                  - button "Close sidebar" [ref=e27] [cursor=pointer]:
+                    - img
+                - button "Components" [ref=e30] [cursor=pointer]:
+                  - img [ref=e31]
+                  - generic [ref=e33]: Components
+                - generic [ref=e36]:
+                  - img
+                  - textbox "Search" [ref=e37] [cursor=pointer]
+                  - generic:
+                    - img
+                    - generic: K
+              - generic [ref=e42]:
+                - generic [ref=e43]:
+                  - link "Featured" [ref=e44] [cursor=pointer]:
+                    - /url: /community/components/featured
+                    - img [ref=e45]
+                    - generic [ref=e48]: Featured
+                  - link "Newest" [ref=e49] [cursor=pointer]:
+                    - /url: /community/components/newest
+                    - img [ref=e50]
+                    - generic [ref=e53]: Newest
+                  - link "Best of the Week" [ref=e54] [cursor=pointer]:
+                    - /url: /community/components/week/2026-W17
+                    - img [ref=e55]
+                    - generic [ref=e68]: Best of the Week
+                  - link "Themes" [ref=e69] [cursor=pointer]:
+                    - /url: /community/themes
+                    - img [ref=e70]
+                    - generic [ref=e76]: Themes
+                  - link "Top Authors" [ref=e77] [cursor=pointer]:
+                    - /url: /community/authors
+                    - img [ref=e78]
+                    - generic [ref=e82]: Top Authors
+                - generic [ref=e83]:
+                  - heading "Marketing Blocks" [level=3] [ref=e85]
+                  - generic [ref=e86]:
+                    - link "Announcements 10" [ref=e87] [cursor=pointer]:
+                      - /url: /community/components/s/announcement
+                      - generic [ref=e88]: Announcements
+                      - generic [ref=e89]: "10"
+                    - link "Backgrounds 33" [ref=e90] [cursor=pointer]:
+                      - /url: /community/components/s/background
+                      - generic [ref=e91]: Backgrounds
+                      - generic [ref=e92]: "33"
+                    - link "Borders 12" [ref=e93] [cursor=pointer]:
+                      - /url: /community/components/s/border
+                      - generic [ref=e94]: Borders
+                      - generic [ref=e95]: "12"
+                    - link "Calls to Action 34" [ref=e96] [cursor=pointer]:
+                      - /url: /community/components/s/call-to-action
+                      - generic [ref=e97]: Calls to Action
+                      - generic [ref=e98]: "34"
+                    - link "Clients 16" [ref=e99] [cursor=pointer]:
+                      - /url: /community/components/s/clients
+                      - generic [ref=e100]: Clients
+                      - generic [ref=e101]: "16"
+                    - link "Comparisons 6" [ref=e102] [cursor=pointer]:
+                      - /url: /community/components/s/comparison
+                      - generic [ref=e103]: Comparisons
+                      - generic [ref=e104]: "6"
+                    - link "Docks 6" [ref=e105] [cursor=pointer]:
+                      - /url: /community/components/s/dock
+                      - generic [ref=e106]: Docks
+                      - generic [ref=e107]: "6"
+                    - link "Features 36" [ref=e108] [cursor=pointer]:
+                      - /url: /community/components/s/features
+                      - generic [ref=e109]: Features
+                      - generic [ref=e110]: "36"
+                    - link "Footers 14" [ref=e111] [cursor=pointer]:
+                      - /url: /community/components/s/footer
+                      - generic [ref=e112]: Footers
+                      - generic [ref=e113]: "14"
+                    - link "Heroes 73" [ref=e114] [cursor=pointer]:
+                      - /url: /community/components/s/hero
+                      - generic [ref=e115]: Heroes
+                      - generic [ref=e116]: "73"
+                    - link "Hooks 31" [ref=e117] [cursor=pointer]:
+                      - /url: /community/components/s/hook
+                      - generic [ref=e118]: Hooks
+                      - generic [ref=e119]: "31"
+                    - link "Images 26" [ref=e120] [cursor=pointer]:
+                      - /url: /community/components/s/image
+                      - generic [ref=e121]: Images
+                      - generic [ref=e122]: "26"
+                    - link "Maps 2" [ref=e123] [cursor=pointer]:
+                      - /url: /community/components/s/map
+                      - generic [ref=e124]: Maps
+                      - generic [ref=e125]: "2"
+                    - link "Navigation Menus 11" [ref=e126] [cursor=pointer]:
+                      - /url: /community/components/s/navbar-navigation
+                      - generic [ref=e127]: Navigation Menus
+                      - generic [ref=e128]: "11"
+                    - link "Pricing Sections 17" [ref=e129] [cursor=pointer]:
+                      - /url: /community/components/s/pricing-section
+                      - generic [ref=e130]: Pricing Sections
+                      - generic [ref=e131]: "17"
+                    - link "Scroll Areas 24" [ref=e132] [cursor=pointer]:
+                      - /url: /community/components/s/scroll-area
+                      - generic [ref=e133]: Scroll Areas
+                      - generic [ref=e134]: "24"
+                    - link "Shaders 15" [ref=e135] [cursor=pointer]:
+                      - /url: /community/components/s/shader
+                      - generic [ref=e136]: Shaders
+                      - generic [ref=e137]: "15"
+                    - link "Testimonials 15" [ref=e138] [cursor=pointer]:
+                      - /url: /community/components/s/testimonials
+                      - generic [ref=e139]: Testimonials
+                      - generic [ref=e140]: "15"
+                    - link "Texts 58" [ref=e141] [cursor=pointer]:
+                      - /url: /community/components/s/text
+                      - generic [ref=e142]: Texts
+                      - generic [ref=e143]: "58"
+                    - link "Videos 9" [ref=e144] [cursor=pointer]:
+                      - /url: /community/components/s/video
+                      - generic [ref=e145]: Videos
+                      - generic [ref=e146]: "9"
+                - generic [ref=e147]:
+                  - heading "UI Components" [level=3] [ref=e149]
+                  - generic [ref=e150]:
+                    - link "Accordions 40" [ref=e151] [cursor=pointer]:
+                      - /url: /community/components/s/accordion
+                      - generic [ref=e152]: Accordions
+                      - generic [ref=e153]: "40"
+                    - link "AI Chats 30" [ref=e154] [cursor=pointer]:
+                      - /url: /community/components/s/ai-chat
+                      - generic [ref=e155]: AI Chats
+                      - generic [ref=e156]: "30"
+                    - link "Alerts 23" [ref=e157] [cursor=pointer]:
+                      - /url: /community/components/s/alert
+                      - generic [ref=e158]: Alerts
+                      - generic [ref=e159]: "23"
+                    - link "Avatars 17" [ref=e160] [cursor=pointer]:
+                      - /url: /community/components/s/avatar
+                      - generic [ref=e161]: Avatars
+                      - generic [ref=e162]: "17"
+                    - link "Badges 25" [ref=e163] [cursor=pointer]:
+                      - /url: /community/components/s/badge
+                      - generic [ref=e164]: Badges
+                      - generic [ref=e165]: "25"
+                    - link "Buttons 130" [ref=e166] [cursor=pointer]:
+                      - /url: /community/components/s/button
+                      - generic [ref=e167]: Buttons
+                      - generic [ref=e168]: "130"
+                    - link "Calendars 34" [ref=e169] [cursor=pointer]:
+                      - /url: /community/components/s/calendar
+                      - generic [ref=e170]: Calendars
+                      - generic [ref=e171]: "34"
+                    - link "Cards 79" [ref=e172] [cursor=pointer]:
+                      - /url: /community/components/s/card
+                      - generic [ref=e173]: Cards
+                      - generic [ref=e174]: "79"
+                    - link "Carousels 16" [ref=e175] [cursor=pointer]:
+                      - /url: /community/components/s/carousel
+                      - generic [ref=e176]: Carousels
+                      - generic [ref=e177]: "16"
+                    - link "Checkboxes 19" [ref=e178] [cursor=pointer]:
+                      - /url: /community/components/s/checkbox
+                      - generic [ref=e179]: Checkboxes
+                      - generic [ref=e180]: "19"
+                    - link "Date Pickers 12" [ref=e181] [cursor=pointer]:
+                      - /url: /community/components/s/date-picker
+                      - generic [ref=e182]: Date Pickers
+                      - generic [ref=e183]: "12"
+                    - link "Dialogs / Modals 37" [ref=e184] [cursor=pointer]:
+                      - /url: /community/components/s/modal-dialog
+                      - generic [ref=e185]: Dialogs / Modals
+                      - generic [ref=e186]: "37"
+                    - link "Dropdowns 25" [ref=e187] [cursor=pointer]:
+                      - /url: /community/components/s/dropdown
+                      - generic [ref=e188]: Dropdowns
+                      - generic [ref=e189]: "25"
+                    - link "Empty States 1" [ref=e190] [cursor=pointer]:
+                      - /url: /community/components/s/empty-state
+                      - generic [ref=e191]: Empty States
+                      - generic [ref=e192]: "1"
+                    - link "File Trees 2" [ref=e193] [cursor=pointer]:
+                      - /url: /community/components/s/file-tree
+                      - generic [ref=e194]: File Trees
+                      - generic [ref=e195]: "2"
+                    - link "File Uploads 7" [ref=e196] [cursor=pointer]:
+                      - /url: /community/components/s/upload-download
+                      - generic [ref=e197]: File Uploads
+                      - generic [ref=e198]: "7"
+                    - link "Forms 23" [ref=e199] [cursor=pointer]:
+                      - /url: /community/components/s/form
+                      - generic [ref=e200]: Forms
+                      - generic [ref=e201]: "23"
+                    - link "Icons 10" [ref=e202] [cursor=pointer]:
+                      - /url: /community/components/s/icons
+                      - generic [ref=e203]: Icons
+                      - generic [ref=e204]: "10"
+                    - link "Inputs 102" [ref=e205] [cursor=pointer]:
+                      - /url: /community/components/s/input
+                      - generic [ref=e206]: Inputs
+                      - generic [ref=e207]: "102"
+                    - link "Links 13" [ref=e208] [cursor=pointer]:
+                      - /url: /community/components/s/link
+                      - generic [ref=e209]: Links
+                      - generic [ref=e210]: "13"
+                    - link "Menus 18" [ref=e211] [cursor=pointer]:
+                      - /url: /community/components/s/menu
+                      - generic [ref=e212]: Menus
+                      - generic [ref=e213]: "18"
+                    - link "Notifications 5" [ref=e214] [cursor=pointer]:
+                      - /url: /community/components/s/notification
+                      - generic [ref=e215]: Notifications
+                      - generic [ref=e216]: "5"
+                    - link "Numbers 18" [ref=e217] [cursor=pointer]:
+                      - /url: /community/components/s/number
+                      - generic [ref=e218]: Numbers
+                      - generic [ref=e219]: "18"
+                    - link "Paginations 20" [ref=e220] [cursor=pointer]:
+                      - /url: /community/components/s/pagination
+                      - generic [ref=e221]: Paginations
+                      - generic [ref=e222]: "20"
+                    - link "Popovers 23" [ref=e223] [cursor=pointer]:
+                      - /url: /community/components/s/popover
+                      - generic [ref=e224]: Popovers
+                      - generic [ref=e225]: "23"
+                    - link "Radio Groups 22" [ref=e226] [cursor=pointer]:
+                      - /url: /community/components/s/radio-group
+                      - generic [ref=e227]: Radio Groups
+                      - generic [ref=e228]: "22"
+                    - link "Selects 62" [ref=e229] [cursor=pointer]:
+                      - /url: /community/components/s/select
+                      - generic [ref=e230]: Selects
+                      - generic [ref=e231]: "62"
+                    - link "Sidebars 10" [ref=e232] [cursor=pointer]:
+                      - /url: /community/components/s/sidebar
+                      - generic [ref=e233]: Sidebars
+                      - generic [ref=e234]: "10"
+                    - link "Sign Ins 4" [ref=e235] [cursor=pointer]:
+                      - /url: /community/components/s/sign-in
+                      - generic [ref=e236]: Sign Ins
+                      - generic [ref=e237]: "4"
+                    - link "Sign ups 4" [ref=e238] [cursor=pointer]:
+                      - /url: /community/components/s/registration-signup
+                      - generic [ref=e239]: Sign ups
+                      - generic [ref=e240]: "4"
+                    - link "Sliders 45" [ref=e241] [cursor=pointer]:
+                      - /url: /community/components/s/slider
+                      - generic [ref=e242]: Sliders
+                      - generic [ref=e243]: "45"
+                    - link "Spinner Loaders 21" [ref=e244] [cursor=pointer]:
+                      - /url: /community/components/s/spinner-loader
+                      - generic [ref=e245]: Spinner Loaders
+                      - generic [ref=e246]: "21"
+                    - link "Tables 30" [ref=e247] [cursor=pointer]:
+                      - /url: /community/components/s/table
+                      - generic [ref=e248]: Tables
+                      - generic [ref=e249]: "30"
+                    - link "Tabs 38" [ref=e250] [cursor=pointer]:
+                      - /url: /community/components/s/tabs
+                      - generic [ref=e251]: Tabs
+                      - generic [ref=e252]: "38"
+                    - link "Tags 6" [ref=e253] [cursor=pointer]:
+                      - /url: /community/components/s/chip-tag
+                      - generic [ref=e254]: Tags
+                      - generic [ref=e255]: "6"
+                    - link "Text Areas 22" [ref=e256] [cursor=pointer]:
+                      - /url: /community/components/s/textarea
+                      - generic [ref=e257]: Text Areas
+                      - generic [ref=e258]: "22"
+                    - link "Toasts 2" [ref=e259] [cursor=pointer]:
+                      - /url: /community/components/s/toast
+                      - generic [ref=e260]: Toasts
+                      - generic [ref=e261]: "2"
+                    - link "Toggles 12" [ref=e262] [cursor=pointer]:
+                      - /url: /community/components/s/toggle
+                      - generic [ref=e263]: Toggles
+                      - generic [ref=e264]: "12"
+                    - link "Tooltips 28" [ref=e265] [cursor=pointer]:
+                      - /url: /community/components/s/tooltip
+                      - generic [ref=e266]: Tooltips
+                      - generic [ref=e267]: "28"
+              - generic [ref=e269]:
+                - generic [ref=e270]:
+                  - button "Toggle theme" [ref=e271] [cursor=pointer]:
+                    - img
+                  - button "Settings" [ref=e272] [cursor=pointer]:
+                    - img
+                - button "Log in" [ref=e273] [cursor=pointer]:
+                  - generic [ref=e274]: Log in
+            - button "Toggle Sidebar" [ref=e275] [cursor=pointer]
+          - generic [ref=e278]:
+            - generic [ref=e280]:
+              - generic [ref=e283]: Components
+              - generic [ref=e284]:
+                - generic:
+                  - button "Search":
+                    - img
+                    - generic: Search
+                    - generic:
+                      - img
+                      - generic: K
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - heading "Newest" [level=2] [ref=e290]
+                  - button "View all" [ref=e291] [cursor=pointer]:
+                    - generic [ref=e292]:
+                      - text: View all
+                      - img
+                - generic [ref=e293]:
+                  - generic [ref=e297]:
+                    - listitem [ref=e300]:
+                      - generic [ref=e301]:
+                        - link "File Card Collections" [ref=e302] [cursor=pointer]:
+                          - /url: /community/components/urmauur/file-card-collections/default
+                          - img "File Card Collections" [ref=e303]
+                        - generic [ref=e304]:
+                          - link "Faisal Amir" [ref=e305] [cursor=pointer]:
+                            - /url: /community/urmauur
+                            - img "Faisal Amir" [ref=e307]
+                          - paragraph [ref=e308]: File Card Collections
+                          - button "171" [ref=e309] [cursor=pointer]:
+                            - img [ref=e310]
+                            - generic [ref=e313]: "171"
+                    - listitem [ref=e316]:
+                      - generic [ref=e317]:
+                        - link "Material UI Dropdown Menu" [ref=e318] [cursor=pointer]:
+                          - /url: /community/components/easemize/material-ui-dropdown-menu/default
+                          - img "Material UI Dropdown Menu" [ref=e319]
+                        - generic [ref=e320]:
+                          - link "Hossain Jahed" [ref=e321] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e323]
+                          - paragraph [ref=e324]: Material UI Dropdown Menu
+                          - button "122" [ref=e325] [cursor=pointer]:
+                            - img [ref=e326]
+                            - generic [ref=e329]: "122"
+                    - listitem [ref=e332]:
+                      - generic [ref=e333]:
+                        - link "Glass Video Hero" [ref=e334] [cursor=pointer]:
+                          - /url: /community/components/rahil1202/glass-video-hero/default
+                          - img "Glass Video Hero" [ref=e335]
+                        - generic [ref=e336]:
+                          - link "Rahil Vahora" [ref=e337] [cursor=pointer]:
+                            - /url: /community/rahil1202
+                            - img "Rahil Vahora" [ref=e339]
+                          - paragraph [ref=e340]: Glass Video Hero
+                          - button "115" [ref=e341] [cursor=pointer]:
+                            - img [ref=e342]
+                            - generic [ref=e345]: "115"
+                    - listitem [ref=e348]:
+                      - generic [ref=e349]:
+                        - link "Editable Chip" [ref=e350] [cursor=pointer]:
+                          - /url: /community/components/quantvansh/editable-chip/default
+                          - img "Editable Chip" [ref=e351]
+                        - generic [ref=e352]:
+                          - link "vansh" [ref=e353] [cursor=pointer]:
+                            - /url: /community/quantvansh
+                            - img "vansh" [ref=e355]
+                          - paragraph [ref=e356]: Editable Chip
+                          - img [ref=e359]
+                          - button "68" [ref=e363] [cursor=pointer]:
+                            - img [ref=e364]
+                            - generic [ref=e367]: "68"
+                    - listitem [ref=e370]:
+                      - generic [ref=e371]:
+                        - link "Progress" [ref=e372] [cursor=pointer]:
+                          - /url: /community/components/jshguo/interfaces-progress/default
+                          - img "Progress" [ref=e373]
+                        - generic [ref=e374]:
+                          - link "J" [ref=e375] [cursor=pointer]:
+                            - /url: /community/jshguo
+                            - generic [ref=e377]: J
+                          - paragraph [ref=e378]: Progress
+                          - img [ref=e381]
+                          - button "77" [ref=e385] [cursor=pointer]:
+                            - img [ref=e386]
+                            - generic [ref=e389]: "77"
+                    - listitem [ref=e392]:
+                      - generic [ref=e393]:
+                        - link "Switch" [ref=e394] [cursor=pointer]:
+                          - /url: /community/components/reapollo/interfaces-switch/default
+                          - img "Switch" [ref=e395]
+                        - generic [ref=e396]:
+                          - link "David Hakobyan" [ref=e397] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e399]
+                          - paragraph [ref=e400]: Switch
+                          - img [ref=e403]
+                          - button "61" [ref=e407] [cursor=pointer]:
+                            - img [ref=e408]
+                            - generic [ref=e411]: "61"
+                    - listitem [ref=e414]:
+                      - generic [ref=e415]:
+                        - link "Select" [ref=e416] [cursor=pointer]:
+                          - /url: /community/components/reapollo/interfaces-select/default
+                          - img "Select" [ref=e417]
+                        - generic [ref=e418]:
+                          - link "David Hakobyan" [ref=e419] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e421]
+                          - paragraph [ref=e422]: Select
+                          - img [ref=e425]
+                          - button "49" [ref=e429] [cursor=pointer]:
+                            - img [ref=e430]
+                            - generic [ref=e433]: "49"
+                    - listitem [ref=e436]:
+                      - generic [ref=e437]:
+                        - link "Textarea" [ref=e438] [cursor=pointer]:
+                          - /url: /community/components/reapollo/interfaces-textarea/default
+                          - img "Textarea" [ref=e439]
+                        - generic [ref=e440]:
+                          - link "David Hakobyan" [ref=e441] [cursor=pointer]:
+                            - /url: /community/reapollo
+                            - img "David Hakobyan" [ref=e443]
+                          - paragraph [ref=e444]: Textarea
+                          - button "16" [ref=e445] [cursor=pointer]:
+                            - img [ref=e446]
+                            - generic [ref=e449]: "16"
+                    - listitem [ref=e452]:
+                      - generic [ref=e453]:
+                        - link "Input OTP" [ref=e454] [cursor=pointer]:
+                          - /url: /community/components/jshguo/interfaces-input-otp/default
+                          - img "Input OTP" [ref=e455]
+                        - generic [ref=e456]:
+                          - link "J" [ref=e457] [cursor=pointer]:
+                            - /url: /community/jshguo
+                            - generic [ref=e459]: J
+                          - paragraph [ref=e460]: Input OTP
+                          - button "77" [ref=e461] [cursor=pointer]:
+                            - img [ref=e462]
+                            - generic [ref=e465]: "77"
+                    - listitem [ref=e468]:
+                      - generic [ref=e469]:
+                        - link "Hover Card" [ref=e470] [cursor=pointer]:
+                          - /url: /community/components/jshguo/interfaces-hover-card/default
+                          - img "Hover Card" [ref=e471]
+                        - generic [ref=e472]:
+                          - link "J" [ref=e473] [cursor=pointer]:
+                            - /url: /community/jshguo
+                            - generic [ref=e475]: J
+                          - paragraph [ref=e476]: Hover Card
+                          - button "47" [ref=e477] [cursor=pointer]:
+                            - img [ref=e478]
+                            - generic [ref=e481]: "47"
+                  - button:
+                    - img
+                  - button [ref=e482] [cursor=pointer]:
+                    - img
+              - generic [ref=e483]:
+                - generic [ref=e484]:
+                  - heading "Popular" [level=2] [ref=e485]
+                  - button "View all" [ref=e486] [cursor=pointer]:
+                    - generic [ref=e487]:
+                      - text: View all
+                      - img
+                - generic [ref=e488]:
+                  - generic [ref=e492]:
+                    - listitem [ref=e495]:
+                      - generic [ref=e496]:
+                        - link "Spline Scene" [ref=e497] [cursor=pointer]:
+                          - /url: /community/components/serafim/splite/default
+                          - img "Spline Scene" [ref=e498]
+                        - generic [ref=e499]:
+                          - link "Serafim" [ref=e500] [cursor=pointer]:
+                            - /url: /community/serafim
+                            - img "Serafim" [ref=e502]
+                          - paragraph [ref=e503]: Spline Scene
+                          - button "942" [ref=e504] [cursor=pointer]:
+                            - img [ref=e505]
+                            - generic [ref=e508]: "942"
+                    - listitem [ref=e511]:
+                      - generic [ref=e512]:
+                        - link "Container Scroll Animation" [ref=e513] [cursor=pointer]:
+                          - /url: /community/components/aceternity/container-scroll-animation/default
+                          - img "Container Scroll Animation" [ref=e514]
+                        - generic [ref=e515]:
+                          - link "Aceternity UI" [ref=e516] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e518]
+                          - paragraph [ref=e519]: Container Scroll Animation
+                          - button "835" [ref=e520] [cursor=pointer]:
+                            - img [ref=e521]
+                            - generic [ref=e524]: "835"
+                    - listitem [ref=e527]:
+                      - generic [ref=e528]:
+                        - link "Animated hero" [ref=e529] [cursor=pointer]:
+                          - /url: /community/components/tommyjepsen/animated-hero/default
+                          - img "Animated hero" [ref=e530]
+                        - generic [ref=e531]:
+                          - link "Tommy Jepsen" [ref=e532] [cursor=pointer]:
+                            - /url: /community/tommyjepsen
+                            - img "Tommy Jepsen" [ref=e534]
+                          - paragraph [ref=e535]: Animated hero
+                          - button "824" [ref=e536] [cursor=pointer]:
+                            - img [ref=e537]
+                            - generic [ref=e540]: "824"
+                    - listitem [ref=e543]:
+                      - generic [ref=e544]:
+                        - link "Aurora Background" [ref=e545] [cursor=pointer]:
+                          - /url: /community/components/aceternity/aurora-background/default
+                          - img "Aurora Background" [ref=e546]
+                        - generic [ref=e547]:
+                          - link "Aceternity UI" [ref=e548] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e550]
+                          - paragraph [ref=e551]: Aurora Background
+                          - button "781" [ref=e552] [cursor=pointer]:
+                            - img [ref=e553]
+                            - generic [ref=e556]: "781"
+                    - listitem [ref=e559]:
+                      - generic [ref=e560]:
+                        - link "Sparkles" [ref=e561] [cursor=pointer]:
+                          - /url: /community/components/aceternity/sparkles/default
+                          - img "Sparkles" [ref=e562]
+                        - generic [ref=e563]:
+                          - link "Aceternity UI" [ref=e564] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e566]
+                          - paragraph [ref=e567]: Sparkles
+                          - button "664" [ref=e568] [cursor=pointer]:
+                            - img [ref=e569]
+                            - generic [ref=e572]: "664"
+                    - listitem [ref=e575]:
+                      - generic [ref=e576]:
+                        - link "Background Paths" [ref=e577] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/background-paths/default
+                          - img "Background Paths" [ref=e578]
+                        - generic [ref=e579]:
+                          - link "Kokonut UI" [ref=e580] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e582]
+                          - paragraph [ref=e583]: Background Paths
+                          - button "619" [ref=e584] [cursor=pointer]:
+                            - img [ref=e585]
+                            - generic [ref=e588]: "619"
+                    - listitem [ref=e591]:
+                      - generic [ref=e592]:
+                        - link "Shape Landing Hero" [ref=e593] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/shape-landing-hero/default
+                          - img "Shape Landing Hero" [ref=e594]
+                        - generic [ref=e595]:
+                          - link "Kokonut UI" [ref=e596] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e598]
+                          - paragraph [ref=e599]: Shape Landing Hero
+                          - button "593" [ref=e600] [cursor=pointer]:
+                            - img [ref=e601]
+                            - generic [ref=e604]: "593"
+                    - listitem [ref=e607]:
+                      - generic [ref=e608]:
+                        - link "Radial Orbital Timeline" [ref=e609] [cursor=pointer]:
+                          - /url: /community/components/jatin-yadav05/radial-orbital-timeline/default
+                          - img "Radial Orbital Timeline" [ref=e610]
+                        - generic [ref=e611]:
+                          - link "Jatin Yadav" [ref=e612] [cursor=pointer]:
+                            - /url: /community/jatin-yadav05
+                            - img "Jatin Yadav" [ref=e614]
+                          - paragraph [ref=e615]: Radial Orbital Timeline
+                          - button "566" [ref=e616] [cursor=pointer]:
+                            - img [ref=e617]
+                            - generic [ref=e620]: "566"
+                    - listitem [ref=e623]:
+                      - generic [ref=e624]:
+                        - link "Scroll media expansion hero" [ref=e625] [cursor=pointer]:
+                          - /url: /community/components/arunachalam0606/scroll-expansion-hero/default
+                          - img "Scroll media expansion hero" [ref=e626]
+                        - generic [ref=e627]:
+                          - link "Arunachalam" [ref=e628] [cursor=pointer]:
+                            - /url: /community/arunachalam0606
+                            - img "Arunachalam" [ref=e630]
+                          - paragraph [ref=e631]: Scroll media expansion hero
+                          - button "541" [ref=e632] [cursor=pointer]:
+                            - img [ref=e633]
+                            - generic [ref=e636]: "541"
+                    - listitem [ref=e639]:
+                      - generic [ref=e640]:
+                        - link "Lamp" [ref=e641] [cursor=pointer]:
+                          - /url: /community/components/aceternity/lamp/default
+                          - img "Lamp" [ref=e642]
+                        - generic [ref=e643]:
+                          - link "Aceternity UI" [ref=e644] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e646]
+                          - paragraph [ref=e647]: Lamp
+                          - button "529" [ref=e648] [cursor=pointer]:
+                            - img [ref=e649]
+                            - generic [ref=e652]: "529"
+                  - button:
+                    - img
+                  - button [ref=e653] [cursor=pointer]:
+                    - img
+              - generic [ref=e654]:
+                - generic [ref=e655]:
+                  - heading "Shaders" [level=2] [ref=e656]
+                  - button "View all" [ref=e657] [cursor=pointer]:
+                    - generic [ref=e658]:
+                      - text: View all
+                      - img
+                - generic [ref=e659]:
+                  - generic [ref=e663]:
+                    - listitem [ref=e666]:
+                      - generic [ref=e667]:
+                        - link "Shader Animation" [ref=e668] [cursor=pointer]:
+                          - /url: /community/components/aliimam/shader-animation/default
+                          - img "Shader Animation" [ref=e669]
+                        - generic [ref=e670]:
+                          - link "Ali Imam" [ref=e671] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e673]
+                          - paragraph [ref=e674]: Shader Animation
+                          - button "80" [ref=e675] [cursor=pointer]:
+                            - img [ref=e676]
+                            - generic [ref=e679]: "80"
+                    - listitem [ref=e682]:
+                      - generic [ref=e683]:
+                        - link "Animated Shader Background" [ref=e684] [cursor=pointer]:
+                          - /url: /community/components/thanh/animated-shader-background/default
+                          - img "Animated Shader Background" [ref=e685]
+                        - generic [ref=e686]:
+                          - link "Le Thanh" [ref=e687] [cursor=pointer]:
+                            - /url: /community/thanh
+                            - img "Le Thanh" [ref=e689]
+                          - paragraph [ref=e690]: Animated Shader Background
+                          - button "52" [ref=e691] [cursor=pointer]:
+                            - img [ref=e692]
+                            - generic [ref=e695]: "52"
+                    - listitem [ref=e698]:
+                      - generic [ref=e699]:
+                        - link "Shader Background" [ref=e700] [cursor=pointer]:
+                          - /url: /community/components/thanh/shader-background/default
+                          - img "Shader Background" [ref=e701]
+                        - generic [ref=e702]:
+                          - link "Le Thanh" [ref=e703] [cursor=pointer]:
+                            - /url: /community/thanh
+                            - img "Le Thanh" [ref=e705]
+                          - paragraph [ref=e706]: Shader Background
+                          - button "44" [ref=e707] [cursor=pointer]:
+                            - img [ref=e708]
+                            - generic [ref=e711]: "44"
+                    - listitem [ref=e714]:
+                      - generic [ref=e715]:
+                        - link "WebGL Shader" [ref=e716] [cursor=pointer]:
+                          - /url: /community/components/aliimam/web-gl-shader/default
+                          - img "WebGL Shader" [ref=e717]
+                        - generic [ref=e718]:
+                          - link "Ali Imam" [ref=e719] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e721]
+                          - paragraph [ref=e722]: WebGL Shader
+                          - button "27" [ref=e723] [cursor=pointer]:
+                            - img [ref=e724]
+                            - generic [ref=e727]: "27"
+                    - listitem [ref=e730]:
+                      - generic [ref=e731]:
+                        - link "Shader Lines" [ref=e732] [cursor=pointer]:
+                          - /url: /community/components/aliimam/shader-lines/default
+                          - img "Shader Lines" [ref=e733]
+                        - generic [ref=e734]:
+                          - link "Ali Imam" [ref=e735] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e737]
+                          - paragraph [ref=e738]: Shader Lines
+                          - button "24" [ref=e739] [cursor=pointer]:
+                            - img [ref=e740]
+                            - generic [ref=e743]: "24"
+                    - listitem [ref=e746]:
+                      - generic [ref=e747]:
+                        - link "Animated Shader Hero" [ref=e748] [cursor=pointer]:
+                          - /url: /community/components/ravikatiyar/animated-shader-hero/default
+                          - img "Animated Shader Hero" [ref=e749]
+                        - generic [ref=e750]:
+                          - link "Ravi Katiyar" [ref=e751] [cursor=pointer]:
+                            - /url: /community/ravikatiyar
+                            - img "Ravi Katiyar" [ref=e753]
+                          - paragraph [ref=e754]: Animated Shader Hero
+                          - button "20" [ref=e755] [cursor=pointer]:
+                            - img [ref=e756]
+                            - generic [ref=e759]: "20"
+                    - listitem [ref=e762]:
+                      - generic [ref=e763]:
+                        - link "Spooky Smoke Animation" [ref=e764] [cursor=pointer]:
+                          - /url: /community/components/easemize/spooky-smoke-animation/default
+                          - img "Spooky Smoke Animation" [ref=e765]
+                        - generic [ref=e766]:
+                          - link "Hossain Jahed" [ref=e767] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e769]
+                          - paragraph [ref=e770]: Spooky Smoke Animation
+                          - button "20" [ref=e771] [cursor=pointer]:
+                            - img [ref=e772]
+                            - generic [ref=e775]: "20"
+                    - listitem [ref=e778]:
+                      - generic [ref=e779]:
+                        - link "Background Paper Shaders" [ref=e780] [cursor=pointer]:
+                          - /url: /community/components/reuno-ui/background-paper-shaders/default
+                          - img "Background Paper Shaders" [ref=e781]
+                        - generic [ref=e782]:
+                          - link "R" [ref=e783] [cursor=pointer]:
+                            - /url: /community/reuno-ui
+                            - generic [ref=e785]: R
+                          - paragraph [ref=e786]: Background Paper Shaders
+                          - button "18" [ref=e787] [cursor=pointer]:
+                            - img [ref=e788]
+                            - generic [ref=e791]: "18"
+                    - listitem [ref=e794]:
+                      - generic [ref=e795]:
+                        - link "Shader Animation" [ref=e796] [cursor=pointer]:
+                          - /url: /community/components/Scottclayton3d/shader-animation/default
+                          - img "Shader Animation" [ref=e797]
+                        - generic [ref=e798]:
+                          - link "scott clayton" [ref=e799] [cursor=pointer]:
+                            - /url: /community/Scottclayton3d
+                            - img "scott clayton" [ref=e801]
+                          - paragraph [ref=e802]: Shader Animation
+                          - button "11" [ref=e803] [cursor=pointer]:
+                            - img [ref=e804]
+                            - generic [ref=e807]: "11"
+                    - listitem [ref=e810]:
+                      - generic [ref=e811]:
+                        - link "Falling Pattern" [ref=e812] [cursor=pointer]:
+                          - /url: /community/components/efferd/falling-pattern/default
+                          - img "Falling Pattern" [ref=e813]
+                        - generic [ref=e814]:
+                          - link "Efferd" [ref=e815] [cursor=pointer]:
+                            - /url: /community/efferd
+                            - img "Efferd" [ref=e817]
+                          - paragraph [ref=e818]: Falling Pattern
+                          - button "8" [ref=e819] [cursor=pointer]:
+                            - img [ref=e820]
+                            - generic [ref=e823]: "8"
+                  - button:
+                    - img
+                  - button [ref=e824] [cursor=pointer]:
+                    - img
+              - generic [ref=e825]:
+                - generic [ref=e826]:
+                  - heading "Heros" [level=2] [ref=e827]
+                  - button "View all" [ref=e828] [cursor=pointer]:
+                    - generic [ref=e829]:
+                      - text: View all
+                      - img
+                - generic [ref=e830]:
+                  - generic [ref=e834]:
+                    - listitem [ref=e837]:
+                      - generic [ref=e838]:
+                        - link "Spline Scene" [ref=e839] [cursor=pointer]:
+                          - /url: /community/components/serafim/splite/default
+                          - img "Spline Scene" [ref=e840]
+                        - generic [ref=e841]:
+                          - link "Serafim" [ref=e842] [cursor=pointer]:
+                            - /url: /community/serafim
+                            - img "Serafim" [ref=e844]
+                          - paragraph [ref=e845]: Spline Scene
+                          - button "942" [ref=e846] [cursor=pointer]:
+                            - img [ref=e847]
+                            - generic [ref=e850]: "942"
+                    - listitem [ref=e853]:
+                      - generic [ref=e854]:
+                        - link "Container Scroll Animation" [ref=e855] [cursor=pointer]:
+                          - /url: /community/components/aceternity/container-scroll-animation/default
+                          - img "Container Scroll Animation" [ref=e856]
+                        - generic [ref=e857]:
+                          - link "Aceternity UI" [ref=e858] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e860]
+                          - paragraph [ref=e861]: Container Scroll Animation
+                          - button "835" [ref=e862] [cursor=pointer]:
+                            - img [ref=e863]
+                            - generic [ref=e866]: "835"
+                    - listitem [ref=e869]:
+                      - generic [ref=e870]:
+                        - link "Animated hero" [ref=e871] [cursor=pointer]:
+                          - /url: /community/components/tommyjepsen/animated-hero/default
+                          - img "Animated hero" [ref=e872]
+                        - generic [ref=e873]:
+                          - link "Tommy Jepsen" [ref=e874] [cursor=pointer]:
+                            - /url: /community/tommyjepsen
+                            - img "Tommy Jepsen" [ref=e876]
+                          - paragraph [ref=e877]: Animated hero
+                          - button "824" [ref=e878] [cursor=pointer]:
+                            - img [ref=e879]
+                            - generic [ref=e882]: "824"
+                    - listitem [ref=e885]:
+                      - generic [ref=e886]:
+                        - link "Aurora Background" [ref=e887] [cursor=pointer]:
+                          - /url: /community/components/aceternity/aurora-background/default
+                          - img "Aurora Background" [ref=e888]
+                        - generic [ref=e889]:
+                          - link "Aceternity UI" [ref=e890] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e892]
+                          - paragraph [ref=e893]: Aurora Background
+                          - button "781" [ref=e894] [cursor=pointer]:
+                            - img [ref=e895]
+                            - generic [ref=e898]: "781"
+                    - listitem [ref=e901]:
+                      - generic [ref=e902]:
+                        - link "Sparkles" [ref=e903] [cursor=pointer]:
+                          - /url: /community/components/aceternity/sparkles/default
+                          - img "Sparkles" [ref=e904]
+                        - generic [ref=e905]:
+                          - link "Aceternity UI" [ref=e906] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e908]
+                          - paragraph [ref=e909]: Sparkles
+                          - button "664" [ref=e910] [cursor=pointer]:
+                            - img [ref=e911]
+                            - generic [ref=e914]: "664"
+                    - listitem [ref=e917]:
+                      - generic [ref=e918]:
+                        - link "Background Paths" [ref=e919] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/background-paths/default
+                          - img "Background Paths" [ref=e920]
+                        - generic [ref=e921]:
+                          - link "Kokonut UI" [ref=e922] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e924]
+                          - paragraph [ref=e925]: Background Paths
+                          - button "619" [ref=e926] [cursor=pointer]:
+                            - img [ref=e927]
+                            - generic [ref=e930]: "619"
+                    - listitem [ref=e933]:
+                      - generic [ref=e934]:
+                        - link "Shape Landing Hero" [ref=e935] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/shape-landing-hero/default
+                          - img "Shape Landing Hero" [ref=e936]
+                        - generic [ref=e937]:
+                          - link "Kokonut UI" [ref=e938] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e940]
+                          - paragraph [ref=e941]: Shape Landing Hero
+                          - button "593" [ref=e942] [cursor=pointer]:
+                            - img [ref=e943]
+                            - generic [ref=e946]: "593"
+                    - listitem [ref=e949]:
+                      - generic [ref=e950]:
+                        - link "Scroll media expansion hero" [ref=e951] [cursor=pointer]:
+                          - /url: /community/components/arunachalam0606/scroll-expansion-hero/default
+                          - img "Scroll media expansion hero" [ref=e952]
+                        - generic [ref=e953]:
+                          - link "Arunachalam" [ref=e954] [cursor=pointer]:
+                            - /url: /community/arunachalam0606
+                            - img "Arunachalam" [ref=e956]
+                          - paragraph [ref=e957]: Scroll media expansion hero
+                          - button "541" [ref=e958] [cursor=pointer]:
+                            - img [ref=e959]
+                            - generic [ref=e962]: "541"
+                    - listitem [ref=e965]:
+                      - generic [ref=e966]:
+                        - link "Lamp" [ref=e967] [cursor=pointer]:
+                          - /url: /community/components/aceternity/lamp/default
+                          - img "Lamp" [ref=e968]
+                        - generic [ref=e969]:
+                          - link "Aceternity UI" [ref=e970] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e972]
+                          - paragraph [ref=e973]: Lamp
+                          - button "529" [ref=e974] [cursor=pointer]:
+                            - img [ref=e975]
+                            - generic [ref=e978]: "529"
+                    - listitem [ref=e981]:
+                      - generic [ref=e982]:
+                        - link "Gooey Text Morphing" [ref=e983] [cursor=pointer]:
+                          - /url: /community/components/victorwelander/gooey-text-morphing/default
+                          - img "Gooey Text Morphing" [ref=e984]
+                        - generic [ref=e985]:
+                          - link "Victor Welander" [ref=e986] [cursor=pointer]:
+                            - /url: /community/victorwelander
+                            - img "Victor Welander" [ref=e988]
+                          - paragraph [ref=e989]: Gooey Text Morphing
+                          - button "521" [ref=e990] [cursor=pointer]:
+                            - img [ref=e991]
+                            - generic [ref=e994]: "521"
+                  - button:
+                    - img
+                  - button [ref=e995] [cursor=pointer]:
+                    - img
+              - generic [ref=e996]:
+                - generic [ref=e997]:
+                  - heading "Features" [level=2] [ref=e998]
+                  - button "View all" [ref=e999] [cursor=pointer]:
+                    - generic [ref=e1000]:
+                      - text: View all
+                      - img
+                - generic [ref=e1001]:
+                  - generic [ref=e1005]:
+                    - listitem [ref=e1008]:
+                      - generic [ref=e1009]:
+                        - link "Radial Orbital Timeline" [ref=e1010] [cursor=pointer]:
+                          - /url: /community/components/jatin-yadav05/radial-orbital-timeline/default
+                          - img "Radial Orbital Timeline" [ref=e1011]
+                        - generic [ref=e1012]:
+                          - link "Jatin Yadav" [ref=e1013] [cursor=pointer]:
+                            - /url: /community/jatin-yadav05
+                            - img "Jatin Yadav" [ref=e1015]
+                          - paragraph [ref=e1016]: Radial Orbital Timeline
+                          - button "566" [ref=e1017] [cursor=pointer]:
+                            - img [ref=e1018]
+                            - generic [ref=e1021]: "566"
+                    - listitem [ref=e1024]:
+                      - generic [ref=e1025]:
+                        - link "Bento Grid" [ref=e1026] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/bento-grid/default
+                          - img "Bento Grid" [ref=e1027]
+                        - generic [ref=e1028]:
+                          - link "Kokonut UI" [ref=e1029] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1031]
+                          - paragraph [ref=e1032]: Bento Grid
+                          - button "338" [ref=e1033] [cursor=pointer]:
+                            - img [ref=e1034]
+                            - generic [ref=e1037]: "338"
+                    - listitem [ref=e1040]:
+                      - generic [ref=e1041]:
+                        - link "CPU Architecture" [ref=e1042] [cursor=pointer]:
+                          - /url: /community/components/svg-ui/cpu-architecture/default
+                          - img "CPU Architecture" [ref=e1043]
+                        - generic [ref=e1044]:
+                          - link "SU" [ref=e1045] [cursor=pointer]:
+                            - /url: /community/svg-ui
+                            - generic [ref=e1047]: SU
+                          - paragraph [ref=e1048]: CPU Architecture
+                          - button "308" [ref=e1049] [cursor=pointer]:
+                            - img [ref=e1050]
+                            - generic [ref=e1053]: "308"
+                    - listitem [ref=e1056]:
+                      - generic [ref=e1057]:
+                        - link "Gallery with image cards" [ref=e1058] [cursor=pointer]:
+                          - /url: /community/components/shadcnblockscom/gallery4/default
+                          - img "Gallery with image cards" [ref=e1059]
+                        - generic [ref=e1060]:
+                          - link "Shadcnblocks.com" [ref=e1061] [cursor=pointer]:
+                            - /url: /community/shadcnblockscom
+                            - img "Shadcnblocks.com" [ref=e1063]
+                          - paragraph [ref=e1064]: Gallery with image cards
+                          - button "291" [ref=e1065] [cursor=pointer]:
+                            - img [ref=e1066]
+                            - generic [ref=e1069]: "291"
+                    - listitem [ref=e1072]:
+                      - generic [ref=e1073]:
+                        - link "Features 8" [ref=e1074] [cursor=pointer]:
+                          - /url: /community/components/tailark/features-8/default
+                          - img "Features 8" [ref=e1075]
+                        - generic [ref=e1076]:
+                          - link "Tailark" [ref=e1077] [cursor=pointer]:
+                            - /url: /community/tailark
+                            - img "Tailark" [ref=e1079]
+                          - paragraph [ref=e1080]: Features 8
+                          - button "269" [ref=e1081] [cursor=pointer]:
+                            - img [ref=e1082]
+                            - generic [ref=e1085]: "269"
+                    - listitem [ref=e1088]:
+                      - generic [ref=e1089]:
+                        - link "Sparkles Text" [ref=e1090] [cursor=pointer]:
+                          - /url: /community/components/magicui/sparkles-text/default
+                          - img "Sparkles Text" [ref=e1091]
+                        - generic [ref=e1092]:
+                          - link "Magic UI" [ref=e1093] [cursor=pointer]:
+                            - /url: /community/magicui
+                            - img "Magic UI" [ref=e1095]
+                          - paragraph [ref=e1096]: Sparkles Text
+                          - button "261" [ref=e1097] [cursor=pointer]:
+                            - img [ref=e1098]
+                            - generic [ref=e1101]: "261"
+                    - listitem [ref=e1104]:
+                      - generic [ref=e1105]:
+                        - link "Feature 108" [ref=e1106] [cursor=pointer]:
+                          - /url: /community/components/shadcnblockscom/shadcnblocks-com-feature108/default
+                          - img "Feature 108" [ref=e1107]
+                        - generic [ref=e1108]:
+                          - link "Shadcnblocks.com" [ref=e1109] [cursor=pointer]:
+                            - /url: /community/shadcnblockscom
+                            - img "Shadcnblocks.com" [ref=e1111]
+                          - paragraph [ref=e1112]: Feature 108
+                          - button "200" [ref=e1113] [cursor=pointer]:
+                            - img [ref=e1114]
+                            - generic [ref=e1117]: "200"
+                    - listitem [ref=e1120]:
+                      - generic [ref=e1121]:
+                        - link "Section With Mockup" [ref=e1122] [cursor=pointer]:
+                          - /url: /community/components/erikx/section-with-mockup/default
+                          - img "Section With Mockup" [ref=e1123]
+                        - generic [ref=e1124]:
+                          - link "Erik X" [ref=e1125] [cursor=pointer]:
+                            - /url: /community/erikx
+                            - img "Erik X" [ref=e1127]
+                          - paragraph [ref=e1128]: Section With Mockup
+                          - button "170" [ref=e1129] [cursor=pointer]:
+                            - img [ref=e1130]
+                            - generic [ref=e1133]: "170"
+                    - listitem [ref=e1136]:
+                      - generic [ref=e1137]:
+                        - link "Grid Feature Cards" [ref=e1138] [cursor=pointer]:
+                          - /url: /community/components/efferd/grid-feature-cards/default
+                          - img "Grid Feature Cards" [ref=e1139]
+                        - generic [ref=e1140]:
+                          - link "Efferd" [ref=e1141] [cursor=pointer]:
+                            - /url: /community/efferd
+                            - img "Efferd" [ref=e1143]
+                          - paragraph [ref=e1144]: Grid Feature Cards
+                          - button "116" [ref=e1145] [cursor=pointer]:
+                            - img [ref=e1146]
+                            - generic [ref=e1149]: "116"
+                    - listitem [ref=e1152]:
+                      - generic [ref=e1153]:
+                        - link "Features 10" [ref=e1154] [cursor=pointer]:
+                          - /url: /community/components/tailark/features-10/default
+                          - img "Features 10" [ref=e1155]
+                        - generic [ref=e1156]:
+                          - link "Tailark" [ref=e1157] [cursor=pointer]:
+                            - /url: /community/tailark
+                            - img "Tailark" [ref=e1159]
+                          - paragraph [ref=e1160]: Features 10
+                          - button "109" [ref=e1161] [cursor=pointer]:
+                            - img [ref=e1162]
+                            - generic [ref=e1165]: "109"
+                  - button:
+                    - img
+                  - button [ref=e1166] [cursor=pointer]:
+                    - img
+              - generic [ref=e1167]:
+                - generic [ref=e1168]:
+                  - heading "AI Chat Components" [level=2] [ref=e1169]
+                  - button "View all" [ref=e1170] [cursor=pointer]:
+                    - generic [ref=e1171]:
+                      - text: View all
+                      - img
+                - generic [ref=e1172]:
+                  - generic [ref=e1176]:
+                    - listitem [ref=e1179]:
+                      - generic [ref=e1180]:
+                        - link "AI prompt Box" [ref=e1181] [cursor=pointer]:
+                          - /url: /community/components/easemize/ai-prompt-box/default
+                          - img "AI prompt Box" [ref=e1182]
+                        - generic [ref=e1183]:
+                          - link "Hossain Jahed" [ref=e1184] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e1186]
+                          - paragraph [ref=e1187]: AI prompt Box
+                          - button "275" [ref=e1188] [cursor=pointer]:
+                            - img [ref=e1189]
+                            - generic [ref=e1192]: "275"
+                    - listitem [ref=e1195]:
+                      - generic [ref=e1196]:
+                        - link "V0 AI Chat" [ref=e1197] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/v0-ai-chat/default
+                          - img "V0 AI Chat" [ref=e1198]
+                        - generic [ref=e1199]:
+                          - link "Kokonut UI" [ref=e1200] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1202]
+                          - paragraph [ref=e1203]: V0 AI Chat
+                          - button "265" [ref=e1204] [cursor=pointer]:
+                            - img [ref=e1205]
+                            - generic [ref=e1208]: "265"
+                    - listitem [ref=e1211]:
+                      - generic [ref=e1212]:
+                        - link "Animated AI Chat" [ref=e1213] [cursor=pointer]:
+                          - /url: /community/components/jatin-yadav05/animated-ai-chat/default
+                          - img "Animated AI Chat" [ref=e1214]
+                        - generic [ref=e1215]:
+                          - link "Jatin Yadav" [ref=e1216] [cursor=pointer]:
+                            - /url: /community/jatin-yadav05
+                            - img "Jatin Yadav" [ref=e1218]
+                          - paragraph [ref=e1219]: Animated AI Chat
+                          - button "236" [ref=e1220] [cursor=pointer]:
+                            - img [ref=e1221]
+                            - generic [ref=e1224]: "236"
+                    - listitem [ref=e1227]:
+                      - generic [ref=e1228]:
+                        - link "Agent Plan" [ref=e1229] [cursor=pointer]:
+                          - /url: /community/components/isaiahbjork/agent-plan/default
+                          - img "Agent Plan" [ref=e1230]
+                        - generic [ref=e1231]:
+                          - link "Isaiah" [ref=e1232] [cursor=pointer]:
+                            - /url: /community/isaiahbjork
+                            - img "Isaiah" [ref=e1234]
+                          - paragraph [ref=e1235]: Agent Plan
+                          - button "215" [ref=e1236] [cursor=pointer]:
+                            - img [ref=e1237]
+                            - generic [ref=e1240]: "215"
+                    - listitem [ref=e1243]:
+                      - generic [ref=e1244]:
+                        - link "Chatgpt Prompt Input" [ref=e1245] [cursor=pointer]:
+                          - /url: /community/components/easemize/chatgpt-prompt-input/default
+                          - img "Chatgpt Prompt Input" [ref=e1246]
+                        - generic [ref=e1247]:
+                          - link "Hossain Jahed" [ref=e1248] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e1250]
+                          - paragraph [ref=e1251]: Chatgpt Prompt Input
+                          - button "141" [ref=e1252] [cursor=pointer]:
+                            - img [ref=e1253]
+                            - generic [ref=e1256]: "141"
+                    - listitem [ref=e1259]:
+                      - generic [ref=e1260]:
+                        - link "AI Gen" [ref=e1261] [cursor=pointer]:
+                          - /url: /community/components/aliimam/ai-gen/default
+                          - img "AI Gen" [ref=e1262]
+                        - generic [ref=e1263]:
+                          - link "Ali Imam" [ref=e1264] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e1266]
+                          - paragraph [ref=e1267]: AI Gen
+                          - button "101" [ref=e1268] [cursor=pointer]:
+                            - img [ref=e1269]
+                            - generic [ref=e1272]: "101"
+                    - listitem [ref=e1275]:
+                      - generic [ref=e1276]:
+                        - link "Animated AI Input" [ref=e1277] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/animated-ai-input/default
+                          - img "Animated AI Input" [ref=e1278]
+                        - generic [ref=e1279]:
+                          - link "Kokonut UI" [ref=e1280] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1282]
+                          - paragraph [ref=e1283]: Animated AI Input
+                          - button "96" [ref=e1284] [cursor=pointer]:
+                            - img [ref=e1285]
+                            - generic [ref=e1288]: "96"
+                    - listitem [ref=e1291]:
+                      - generic [ref=e1292]:
+                        - link "Message Dock" [ref=e1293] [cursor=pointer]:
+                          - /url: /community/components/isaiahbjork/message-dock/default
+                          - img "Message Dock" [ref=e1294]
+                        - generic [ref=e1295]:
+                          - link "Isaiah" [ref=e1296] [cursor=pointer]:
+                            - /url: /community/isaiahbjork
+                            - img "Isaiah" [ref=e1298]
+                          - paragraph [ref=e1299]: Message Dock
+                          - button "85" [ref=e1300] [cursor=pointer]:
+                            - img [ref=e1301]
+                            - generic [ref=e1304]: "85"
+                    - listitem [ref=e1307]:
+                      - generic [ref=e1308]:
+                        - link "AI Chat Input" [ref=e1309] [cursor=pointer]:
+                          - /url: /community/components/hextaui/ai-chat-input/default
+                          - img "AI Chat Input" [ref=e1310]
+                        - generic [ref=e1311]:
+                          - link "HextaUI" [ref=e1312] [cursor=pointer]:
+                            - /url: /community/hextaui
+                            - img "HextaUI" [ref=e1314]
+                          - paragraph [ref=e1315]: AI Chat Input
+                          - button "78" [ref=e1316] [cursor=pointer]:
+                            - img [ref=e1317]
+                            - generic [ref=e1320]: "78"
+                    - listitem [ref=e1323]:
+                      - generic [ref=e1324]:
+                        - link "Hero 1" [ref=e1325] [cursor=pointer]:
+                          - /url: /community/components/hextaui/hero-1/default
+                          - img "Hero 1" [ref=e1326]
+                        - generic [ref=e1327]:
+                          - link "HextaUI" [ref=e1328] [cursor=pointer]:
+                            - /url: /community/hextaui
+                            - img "HextaUI" [ref=e1330]
+                          - paragraph [ref=e1331]: Hero 1
+                          - button "69" [ref=e1332] [cursor=pointer]:
+                            - img [ref=e1333]
+                            - generic [ref=e1336]: "69"
+                  - button:
+                    - img
+                  - button [ref=e1337] [cursor=pointer]:
+                    - img
+              - generic [ref=e1338]:
+                - generic [ref=e1339]:
+                  - heading "Calls to Action" [level=2] [ref=e1340]
+                  - button "View all" [ref=e1341] [cursor=pointer]:
+                    - generic [ref=e1342]:
+                      - text: View all
+                      - img
+                - generic [ref=e1343]:
+                  - generic [ref=e1347]:
+                    - listitem [ref=e1350]:
+                      - generic [ref=e1351]:
+                        - link "Sparkles" [ref=e1352] [cursor=pointer]:
+                          - /url: /community/components/aceternity/sparkles/default
+                          - img "Sparkles" [ref=e1353]
+                        - generic [ref=e1354]:
+                          - link "Aceternity UI" [ref=e1355] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e1357]
+                          - paragraph [ref=e1358]: Sparkles
+                          - button "664" [ref=e1359] [cursor=pointer]:
+                            - img [ref=e1360]
+                            - generic [ref=e1363]: "664"
+                    - listitem [ref=e1366]:
+                      - generic [ref=e1367]:
+                        - link "Background Paths" [ref=e1368] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/background-paths/default
+                          - img "Background Paths" [ref=e1369]
+                        - generic [ref=e1370]:
+                          - link "Kokonut UI" [ref=e1371] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1373]
+                          - paragraph [ref=e1374]: Background Paths
+                          - button "619" [ref=e1375] [cursor=pointer]:
+                            - img [ref=e1376]
+                            - generic [ref=e1379]: "619"
+                    - listitem [ref=e1382]:
+                      - generic [ref=e1383]:
+                        - link "Background Gradient Animation" [ref=e1384] [cursor=pointer]:
+                          - /url: /community/components/aceternity/background-gradient-animation/default
+                          - img "Background Gradient Animation" [ref=e1385]
+                        - generic [ref=e1386]:
+                          - link "Aceternity UI" [ref=e1387] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e1389]
+                          - paragraph [ref=e1390]: Background Gradient Animation
+                          - button "317" [ref=e1391] [cursor=pointer]:
+                            - img [ref=e1392]
+                            - generic [ref=e1395]: "317"
+                    - listitem [ref=e1398]:
+                      - generic [ref=e1399]:
+                        - link "V0 AI Chat" [ref=e1400] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/v0-ai-chat/default
+                          - img "V0 AI Chat" [ref=e1401]
+                        - generic [ref=e1402]:
+                          - link "Kokonut UI" [ref=e1403] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1405]
+                          - paragraph [ref=e1406]: V0 AI Chat
+                          - button "265" [ref=e1407] [cursor=pointer]:
+                            - img [ref=e1408]
+                            - generic [ref=e1411]: "265"
+                    - listitem [ref=e1414]:
+                      - generic [ref=e1415]:
+                        - link "Action Search Bar" [ref=e1416] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/action-search-bar/default
+                          - img "Action Search Bar" [ref=e1417]
+                        - generic [ref=e1418]:
+                          - link "Kokonut UI" [ref=e1419] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1421]
+                          - paragraph [ref=e1422]: Action Search Bar
+                          - button "204" [ref=e1423] [cursor=pointer]:
+                            - img [ref=e1424]
+                            - generic [ref=e1427]: "204"
+                    - listitem [ref=e1430]:
+                      - generic [ref=e1431]:
+                        - link "Background Boxes" [ref=e1432] [cursor=pointer]:
+                          - /url: /community/components/aceternity/background-boxes/default
+                          - img "Background Boxes" [ref=e1433]
+                        - generic [ref=e1434]:
+                          - link "Aceternity UI" [ref=e1435] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e1437]
+                          - paragraph [ref=e1438]: Background Boxes
+                          - button "179" [ref=e1439] [cursor=pointer]:
+                            - img [ref=e1440]
+                            - generic [ref=e1443]: "179"
+                    - listitem [ref=e1446]:
+                      - generic [ref=e1447]:
+                        - link "Pulse Beams" [ref=e1448] [cursor=pointer]:
+                          - /url: /community/components/aceternity/pulse-beams/default
+                          - img "Pulse Beams" [ref=e1449]
+                        - generic [ref=e1450]:
+                          - link "Aceternity UI" [ref=e1451] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e1453]
+                          - paragraph [ref=e1454]: Pulse Beams
+                          - button "151" [ref=e1455] [cursor=pointer]:
+                            - img [ref=e1456]
+                            - generic [ref=e1459]: "151"
+                    - listitem [ref=e1462]:
+                      - generic [ref=e1463]:
+                        - link "Hand Writing Text" [ref=e1464] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/hand-writing-text/default
+                          - img "Hand Writing Text" [ref=e1465]
+                        - generic [ref=e1466]:
+                          - link "Kokonut UI" [ref=e1467] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1469]
+                          - paragraph [ref=e1470]: Hand Writing Text
+                          - button "151" [ref=e1471] [cursor=pointer]:
+                            - img [ref=e1472]
+                            - generic [ref=e1475]: "151"
+                    - listitem [ref=e1478]:
+                      - generic [ref=e1479]:
+                        - link "Typewriter Effect" [ref=e1480] [cursor=pointer]:
+                          - /url: /community/components/aceternity/typewriter-effect/default
+                          - img "Typewriter Effect" [ref=e1481]
+                        - generic [ref=e1482]:
+                          - link "Aceternity UI" [ref=e1483] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e1485]
+                          - paragraph [ref=e1486]: Typewriter Effect
+                          - button "117" [ref=e1487] [cursor=pointer]:
+                            - img [ref=e1488]
+                            - generic [ref=e1491]: "117"
+                    - listitem [ref=e1494]:
+                      - generic [ref=e1495]:
+                        - link "Floating Action Menu" [ref=e1496] [cursor=pointer]:
+                          - /url: /community/components/chetanverma16/floating-action-menu/default
+                          - img "Floating Action Menu" [ref=e1497]
+                        - generic [ref=e1498]:
+                          - link "Chetan Verma" [ref=e1499] [cursor=pointer]:
+                            - /url: /community/chetanverma16
+                            - img "Chetan Verma" [ref=e1501]
+                          - paragraph [ref=e1502]: Floating Action Menu
+                          - button "106" [ref=e1503] [cursor=pointer]:
+                            - img [ref=e1504]
+                            - generic [ref=e1507]: "106"
+                  - button:
+                    - img
+                  - button [ref=e1508] [cursor=pointer]:
+                    - img
+              - generic [ref=e1509]:
+                - generic [ref=e1510]:
+                  - heading "Buttons" [level=2] [ref=e1511]
+                  - button "View all" [ref=e1512] [cursor=pointer]:
+                    - generic [ref=e1513]:
+                      - text: View all
+                      - img
+                - generic [ref=e1514]:
+                  - generic [ref=e1518]:
+                    - listitem [ref=e1521]:
+                      - generic [ref=e1522]:
+                        - link "Sign In Flow" [ref=e1523] [cursor=pointer]:
+                          - /url: /community/components/erikx/sign-in-flow-1/default
+                          - img "Sign In Flow" [ref=e1524]
+                        - generic [ref=e1525]:
+                          - link "Erik X" [ref=e1526] [cursor=pointer]:
+                            - /url: /community/erikx
+                            - img "Erik X" [ref=e1528]
+                          - paragraph [ref=e1529]: Sign In Flow
+                          - button "315" [ref=e1530] [cursor=pointer]:
+                            - img [ref=e1531]
+                            - generic [ref=e1534]: "315"
+                    - listitem [ref=e1537]:
+                      - generic [ref=e1538]:
+                        - link "Liquid Glass Button" [ref=e1539] [cursor=pointer]:
+                          - /url: /community/components/aliimam/liquid-glass-button/default
+                          - img "Liquid Glass Button" [ref=e1540]
+                        - generic [ref=e1541]:
+                          - link "Ali Imam" [ref=e1542] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e1544]
+                          - paragraph [ref=e1545]: Liquid Glass Button
+                          - button "205" [ref=e1546] [cursor=pointer]:
+                            - img [ref=e1547]
+                            - generic [ref=e1550]: "205"
+                    - listitem [ref=e1553]:
+                      - generic [ref=e1554]:
+                        - link "Liquid Glass" [ref=e1555] [cursor=pointer]:
+                          - /url: /community/components/suraj-xd/liquid-glass/default
+                          - img "Liquid Glass" [ref=e1556]
+                        - generic [ref=e1557]:
+                          - link "Suraj Gaud" [ref=e1558] [cursor=pointer]:
+                            - /url: /community/suraj-xd
+                            - img "Suraj Gaud" [ref=e1560]
+                          - paragraph [ref=e1561]: Liquid Glass
+                          - button "145" [ref=e1562] [cursor=pointer]:
+                            - img [ref=e1563]
+                            - generic [ref=e1566]: "145"
+                    - listitem [ref=e1569]:
+                      - generic [ref=e1570]:
+                        - link "Floating Action Menu" [ref=e1571] [cursor=pointer]:
+                          - /url: /community/components/chetanverma16/floating-action-menu/default
+                          - img "Floating Action Menu" [ref=e1572]
+                        - generic [ref=e1573]:
+                          - link "Chetan Verma" [ref=e1574] [cursor=pointer]:
+                            - /url: /community/chetanverma16
+                            - img "Chetan Verma" [ref=e1576]
+                          - paragraph [ref=e1577]: Floating Action Menu
+                          - button "106" [ref=e1578] [cursor=pointer]:
+                            - img [ref=e1579]
+                            - generic [ref=e1582]: "106"
+                    - listitem [ref=e1585]:
+                      - generic [ref=e1586]:
+                        - link "Button Colorful with Hover Effect" [ref=e1587] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/button-colorful/default
+                          - img "Button Colorful with Hover Effect" [ref=e1588]
+                        - generic [ref=e1589]:
+                          - link "Kokonut UI" [ref=e1590] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1592]
+                          - paragraph [ref=e1593]: Button Colorful with Hover Effect
+                          - button "100" [ref=e1594] [cursor=pointer]:
+                            - img [ref=e1595]
+                            - generic [ref=e1598]: "100"
+                    - listitem [ref=e1601]:
+                      - generic [ref=e1602]:
+                        - link "Neon Button" [ref=e1603] [cursor=pointer]:
+                          - /url: /community/components/cybergaz/neon-button/default
+                          - img "Neon Button" [ref=e1604]
+                        - generic [ref=e1605]:
+                          - link "Gaz" [ref=e1606] [cursor=pointer]:
+                            - /url: /community/cybergaz
+                            - img "Gaz" [ref=e1608]
+                          - paragraph [ref=e1609]: Neon Button
+                          - button "90" [ref=e1610] [cursor=pointer]:
+                            - img [ref=e1611]
+                            - generic [ref=e1614]: "90"
+                    - listitem [ref=e1617]:
+                      - generic [ref=e1618]:
+                        - link "Slide Button" [ref=e1619] [cursor=pointer]:
+                          - /url: /community/components/reuno-ui/slide-button/default
+                          - img "Slide Button" [ref=e1620]
+                        - generic [ref=e1621]:
+                          - link "R" [ref=e1622] [cursor=pointer]:
+                            - /url: /community/reuno-ui
+                            - generic [ref=e1624]: R
+                          - paragraph [ref=e1625]: Slide Button
+                          - button "86" [ref=e1626] [cursor=pointer]:
+                            - img [ref=e1627]
+                            - generic [ref=e1630]: "86"
+                    - listitem [ref=e1633]:
+                      - generic [ref=e1634]:
+                        - link "Hover Button" [ref=e1635] [cursor=pointer]:
+                          - /url: /community/components/serafim/hover-button/default
+                          - img "Hover Button" [ref=e1636]
+                        - generic [ref=e1637]:
+                          - link "Serafim" [ref=e1638] [cursor=pointer]:
+                            - /url: /community/serafim
+                            - img "Serafim" [ref=e1640]
+                          - paragraph [ref=e1641]: Hover Button
+                          - button "83" [ref=e1642] [cursor=pointer]:
+                            - img [ref=e1643]
+                            - generic [ref=e1646]: "83"
+                    - listitem [ref=e1649]:
+                      - generic [ref=e1650]:
+                        - link "Single Pricing Card" [ref=e1651] [cursor=pointer]:
+                          - /url: /community/components/efferd/single-pricing-card-1/default
+                          - img "Single Pricing Card" [ref=e1652]
+                        - generic [ref=e1653]:
+                          - link "Efferd" [ref=e1654] [cursor=pointer]:
+                            - /url: /community/efferd
+                            - img "Efferd" [ref=e1656]
+                          - paragraph [ref=e1657]: Single Pricing Card
+                          - button "80" [ref=e1658] [cursor=pointer]:
+                            - img [ref=e1659]
+                            - generic [ref=e1662]: "80"
+                    - listitem [ref=e1665]:
+                      - generic [ref=e1666]:
+                        - link "Gradient Menu" [ref=e1667] [cursor=pointer]:
+                          - /url: /community/components/thanh/gradient-menu/default
+                          - img "Gradient Menu" [ref=e1668]
+                        - generic [ref=e1669]:
+                          - link "Le Thanh" [ref=e1670] [cursor=pointer]:
+                            - /url: /community/thanh
+                            - img "Le Thanh" [ref=e1672]
+                          - paragraph [ref=e1673]: Gradient Menu
+                          - button "76" [ref=e1674] [cursor=pointer]:
+                            - img [ref=e1675]
+                            - generic [ref=e1678]: "76"
+                  - button:
+                    - img
+                  - button [ref=e1679] [cursor=pointer]:
+                    - img
+              - generic [ref=e1680]:
+                - generic [ref=e1681]:
+                  - heading "Testimonials" [level=2] [ref=e1682]
+                  - button "View all" [ref=e1683] [cursor=pointer]:
+                    - generic [ref=e1684]:
+                      - text: View all
+                      - img
+                - generic [ref=e1685]:
+                  - generic [ref=e1689]:
+                    - listitem [ref=e1692]:
+                      - generic [ref=e1693]:
+                        - link "Testimonials Columns" [ref=e1694] [cursor=pointer]:
+                          - /url: /community/components/efferd/testimonials-columns-1/default
+                          - img "Testimonials Columns" [ref=e1695]
+                        - generic [ref=e1696]:
+                          - link "Efferd" [ref=e1697] [cursor=pointer]:
+                            - /url: /community/efferd
+                            - img "Efferd" [ref=e1699]
+                          - paragraph [ref=e1700]: Testimonials Columns
+                          - button "470" [ref=e1701] [cursor=pointer]:
+                            - img [ref=e1702]
+                            - generic [ref=e1705]: "470"
+                    - listitem [ref=e1708]:
+                      - generic [ref=e1709]:
+                        - link "Testimonial Cards" [ref=e1710] [cursor=pointer]:
+                          - /url: /community/components/vaib215/testimonial-cards/default
+                          - img "Testimonial Cards" [ref=e1711]
+                        - generic [ref=e1712]:
+                          - link "Vaibhav Kumar Singh" [ref=e1713] [cursor=pointer]:
+                            - /url: /community/vaib215
+                            - img "Vaibhav Kumar Singh" [ref=e1715]
+                          - paragraph [ref=e1716]: Testimonial Cards
+                          - button "143" [ref=e1717] [cursor=pointer]:
+                            - img [ref=e1718]
+                            - generic [ref=e1721]: "143"
+                    - listitem [ref=e1724]:
+                      - generic [ref=e1725]:
+                        - link "Animated Testimonials" [ref=e1726] [cursor=pointer]:
+                          - /url: /community/components/bankkroll/animated-testimonials/animated-testimonials
+                          - img "Animated Testimonials" [ref=e1727]
+                        - generic [ref=e1728]:
+                          - link "Bankk" [ref=e1729] [cursor=pointer]:
+                            - /url: /community/bankkroll
+                            - img "Bankk" [ref=e1731]
+                          - paragraph [ref=e1732]: Animated Testimonials
+                          - button "142" [ref=e1733] [cursor=pointer]:
+                            - img [ref=e1734]
+                            - generic [ref=e1737]: "142"
+                    - listitem [ref=e1740]:
+                      - generic [ref=e1741]:
+                        - link "Circular Testimonials" [ref=e1742] [cursor=pointer]:
+                          - /url: /community/components/Northstrix/circular-testimonials/default
+                          - img "Circular Testimonials" [ref=e1743]
+                        - generic [ref=e1744]:
+                          - link "Maxim Bortnikov" [ref=e1745] [cursor=pointer]:
+                            - /url: /community/Northstrix
+                            - img "Maxim Bortnikov" [ref=e1747]
+                          - paragraph [ref=e1748]: Circular Testimonials
+                          - button "115" [ref=e1749] [cursor=pointer]:
+                            - img [ref=e1750]
+                            - generic [ref=e1753]: "115"
+                    - listitem [ref=e1756]:
+                      - generic [ref=e1757]:
+                        - link "Stagger Testimonials" [ref=e1758] [cursor=pointer]:
+                          - /url: /community/components/vaib215/stagger-testimonials/default
+                          - img "Stagger Testimonials" [ref=e1759]
+                        - generic [ref=e1760]:
+                          - link "Vaibhav Kumar Singh" [ref=e1761] [cursor=pointer]:
+                            - /url: /community/vaib215
+                            - img "Vaibhav Kumar Singh" [ref=e1763]
+                          - paragraph [ref=e1764]: Stagger Testimonials
+                          - button "101" [ref=e1765] [cursor=pointer]:
+                            - img [ref=e1766]
+                            - generic [ref=e1769]: "101"
+                    - listitem [ref=e1772]:
+                      - generic [ref=e1773]:
+                        - link "Animated Cards Stack" [ref=e1774] [cursor=pointer]:
+                          - /url: /community/components/YoucefBnm/animated-cards-stack/default
+                          - img "Animated Cards Stack" [ref=e1775]
+                        - generic [ref=e1776]:
+                          - link "Systaliko UI" [ref=e1777] [cursor=pointer]:
+                            - /url: /community/YoucefBnm
+                            - img "Systaliko UI" [ref=e1779]
+                          - paragraph [ref=e1780]: Animated Cards Stack
+                          - button "90" [ref=e1781] [cursor=pointer]:
+                            - img [ref=e1782]
+                            - generic [ref=e1785]: "90"
+                    - listitem [ref=e1788]:
+                      - generic [ref=e1789]:
+                        - link "3D Testimonails" [ref=e1790] [cursor=pointer]:
+                          - /url: /community/components/reui/3d-testimonails/default
+                          - img "3D Testimonails" [ref=e1791]
+                        - generic [ref=e1792]:
+                          - link "ReUI" [ref=e1793] [cursor=pointer]:
+                            - /url: /community/reui
+                            - img "ReUI" [ref=e1795]
+                          - paragraph [ref=e1796]: 3D Testimonails
+                          - button "82" [ref=e1797] [cursor=pointer]:
+                            - img [ref=e1798]
+                            - generic [ref=e1801]: "82"
+                    - listitem [ref=e1804]:
+                      - generic [ref=e1805]:
+                        - link "Avatar" [ref=e1806] [cursor=pointer]:
+                          - /url: /community/components/originui/avatar/testimonial-badge
+                          - img "Avatar" [ref=e1807]
+                        - generic [ref=e1808]:
+                          - link "Origin UI" [ref=e1809] [cursor=pointer]:
+                            - /url: /community/originui
+                            - img "Origin UI" [ref=e1811]
+                          - paragraph [ref=e1812]: Avatar
+                          - button "72" [ref=e1813] [cursor=pointer]:
+                            - img [ref=e1814]
+                            - generic [ref=e1817]: "72"
+                    - listitem [ref=e1820]:
+                      - generic [ref=e1821]:
+                        - link "X Gradient Card" [ref=e1822] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/x-gradient-card/default
+                          - img "X Gradient Card" [ref=e1823]
+                        - generic [ref=e1824]:
+                          - link "Kokonut UI" [ref=e1825] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1827]
+                          - paragraph [ref=e1828]: X Gradient Card
+                          - button "63" [ref=e1829] [cursor=pointer]:
+                            - img [ref=e1830]
+                            - generic [ref=e1833]: "63"
+                    - listitem [ref=e1836]:
+                      - generic [ref=e1837]:
+                        - link "Testimonial" [ref=e1838] [cursor=pointer]:
+                          - /url: /community/components/anurag-mishra22/testimonial/default
+                          - img "Testimonial" [ref=e1839]
+                        - generic [ref=e1840]:
+                          - link "Anurag Mishra" [ref=e1841] [cursor=pointer]:
+                            - /url: /community/anurag-mishra22
+                            - img "Anurag Mishra" [ref=e1843]
+                          - paragraph [ref=e1844]: Testimonial
+                          - button "55" [ref=e1845] [cursor=pointer]:
+                            - img [ref=e1846]
+                            - generic [ref=e1849]: "55"
+                  - button:
+                    - img
+                  - button [ref=e1850] [cursor=pointer]:
+                    - img
+              - generic [ref=e1851]:
+                - generic [ref=e1852]:
+                  - heading "Pricing Sections" [level=2] [ref=e1853]
+                  - button "View all" [ref=e1854] [cursor=pointer]:
+                    - generic [ref=e1855]:
+                      - text: View all
+                      - img
+                - generic [ref=e1856]:
+                  - generic [ref=e1860]:
+                    - listitem [ref=e1863]:
+                      - generic [ref=e1864]:
+                        - link "Creative Pricing" [ref=e1865] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/creative-pricing/default
+                          - img "Creative Pricing" [ref=e1866]
+                        - generic [ref=e1867]:
+                          - link "Kokonut UI" [ref=e1868] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e1870]
+                          - paragraph [ref=e1871]: Creative Pricing
+                          - button "110" [ref=e1872] [cursor=pointer]:
+                            - img [ref=e1873]
+                            - generic [ref=e1876]: "110"
+                    - listitem [ref=e1879]:
+                      - generic [ref=e1880]:
+                        - link "Pricing Interaction" [ref=e1881] [cursor=pointer]:
+                          - /url: /community/components/ln-dev7/pricing-interaction/default
+                          - img "Pricing Interaction" [ref=e1882]
+                        - generic [ref=e1883]:
+                          - link "LN" [ref=e1884] [cursor=pointer]:
+                            - /url: /community/ln-dev7
+                            - img "LN" [ref=e1886]
+                          - paragraph [ref=e1887]: Pricing Interaction
+                          - button "109" [ref=e1888] [cursor=pointer]:
+                            - img [ref=e1889]
+                            - generic [ref=e1892]: "109"
+                    - listitem [ref=e1895]:
+                      - generic [ref=e1896]:
+                        - link "Single Pricing Card" [ref=e1897] [cursor=pointer]:
+                          - /url: /community/components/efferd/single-pricing-card-1/default
+                          - img "Single Pricing Card" [ref=e1898]
+                        - generic [ref=e1899]:
+                          - link "Efferd" [ref=e1900] [cursor=pointer]:
+                            - /url: /community/efferd
+                            - img "Efferd" [ref=e1902]
+                          - paragraph [ref=e1903]: Single Pricing Card
+                          - button "80" [ref=e1904] [cursor=pointer]:
+                            - img [ref=e1905]
+                            - generic [ref=e1908]: "80"
+                    - listitem [ref=e1911]:
+                      - generic [ref=e1912]:
+                        - link "Single Pricing Card" [ref=e1913] [cursor=pointer]:
+                          - /url: /community/components/bankkroll/single-pricing-card/single-pricing-card
+                          - img "Single Pricing Card" [ref=e1914]
+                        - generic [ref=e1915]:
+                          - link "Bankk" [ref=e1916] [cursor=pointer]:
+                            - /url: /community/bankkroll
+                            - img "Bankk" [ref=e1918]
+                          - paragraph [ref=e1919]: Single Pricing Card
+                          - button "69" [ref=e1920] [cursor=pointer]:
+                            - img [ref=e1921]
+                            - generic [ref=e1924]: "69"
+                    - listitem [ref=e1927]:
+                      - generic [ref=e1928]:
+                        - link "Animated Glassy Pricing" [ref=e1929] [cursor=pointer]:
+                          - /url: /community/components/easemize/animated-glassy-pricing/default
+                          - img "Animated Glassy Pricing" [ref=e1930]
+                        - generic [ref=e1931]:
+                          - link "Hossain Jahed" [ref=e1932] [cursor=pointer]:
+                            - /url: /community/easemize
+                            - img "Hossain Jahed" [ref=e1934]
+                          - paragraph [ref=e1935]: Animated Glassy Pricing
+                          - button "66" [ref=e1936] [cursor=pointer]:
+                            - img [ref=e1937]
+                            - generic [ref=e1940]: "66"
+                    - listitem [ref=e1943]:
+                      - generic [ref=e1944]:
+                        - link "Pricing Card" [ref=e1945] [cursor=pointer]:
+                          - /url: /community/components/bankkroll/pricing-card/default
+                          - img "Pricing Card" [ref=e1946]
+                        - generic [ref=e1947]:
+                          - link "Bankk" [ref=e1948] [cursor=pointer]:
+                            - /url: /community/bankkroll
+                            - img "Bankk" [ref=e1950]
+                          - paragraph [ref=e1951]: Pricing Card
+                          - button "47" [ref=e1952] [cursor=pointer]:
+                            - img [ref=e1953]
+                            - generic [ref=e1956]: "47"
+                    - listitem [ref=e1959]:
+                      - generic [ref=e1960]:
+                        - link "Hero" [ref=e1961] [cursor=pointer]:
+                          - /url: /community/components/reuno-ui/hero/default
+                          - img "Hero" [ref=e1962]
+                        - generic [ref=e1963]:
+                          - link "R" [ref=e1964] [cursor=pointer]:
+                            - /url: /community/reuno-ui
+                            - generic [ref=e1966]: R
+                          - paragraph [ref=e1967]: Hero
+                          - button "43" [ref=e1968] [cursor=pointer]:
+                            - img [ref=e1969]
+                            - generic [ref=e1972]: "43"
+                    - listitem [ref=e1975]:
+                      - generic [ref=e1976]:
+                        - link "Pricing Container" [ref=e1977] [cursor=pointer]:
+                          - /url: /community/components/anurag-mishra22/pricing-container/default
+                          - img "Pricing Container" [ref=e1978]
+                        - generic [ref=e1979]:
+                          - link "Anurag Mishra" [ref=e1980] [cursor=pointer]:
+                            - /url: /community/anurag-mishra22
+                            - img "Anurag Mishra" [ref=e1982]
+                          - paragraph [ref=e1983]: Pricing Container
+                          - button "36" [ref=e1984] [cursor=pointer]:
+                            - img [ref=e1985]
+                            - generic [ref=e1988]: "36"
+                    - listitem [ref=e1991]:
+                      - generic [ref=e1992]:
+                        - link "Pricing" [ref=e1993] [cursor=pointer]:
+                          - /url: /community/components/hextaui/pricing-1/default
+                          - img "Pricing" [ref=e1994]
+                        - generic [ref=e1995]:
+                          - link "HextaUI" [ref=e1996] [cursor=pointer]:
+                            - /url: /community/hextaui
+                            - img "HextaUI" [ref=e1998]
+                          - paragraph [ref=e1999]: Pricing
+                          - button "26" [ref=e2000] [cursor=pointer]:
+                            - img [ref=e2001]
+                            - generic [ref=e2004]: "26"
+                    - listitem [ref=e2007]:
+                      - generic [ref=e2008]:
+                        - link "Squishy Pricing" [ref=e2009] [cursor=pointer]:
+                          - /url: /community/components/vaib215/squishy-pricing/default
+                          - img "Squishy Pricing" [ref=e2010]
+                        - generic [ref=e2011]:
+                          - link "Vaibhav Kumar Singh" [ref=e2012] [cursor=pointer]:
+                            - /url: /community/vaib215
+                            - img "Vaibhav Kumar Singh" [ref=e2014]
+                          - paragraph [ref=e2015]: Squishy Pricing
+                          - button "26" [ref=e2016] [cursor=pointer]:
+                            - img [ref=e2017]
+                            - generic [ref=e2020]: "26"
+                  - button:
+                    - img
+                  - button [ref=e2021] [cursor=pointer]:
+                    - img
+              - generic [ref=e2022]:
+                - generic [ref=e2023]:
+                  - heading "Text Components" [level=2] [ref=e2024]
+                  - button "View all" [ref=e2025] [cursor=pointer]:
+                    - generic [ref=e2026]:
+                      - text: View all
+                      - img
+                - generic [ref=e2027]:
+                  - generic [ref=e2031]:
+                    - listitem [ref=e2034]:
+                      - generic [ref=e2035]:
+                        - link "Gooey Text Morphing" [ref=e2036] [cursor=pointer]:
+                          - /url: /community/components/victorwelander/gooey-text-morphing/default
+                          - img "Gooey Text Morphing" [ref=e2037]
+                        - generic [ref=e2038]:
+                          - link "Victor Welander" [ref=e2039] [cursor=pointer]:
+                            - /url: /community/victorwelander
+                            - img "Victor Welander" [ref=e2041]
+                          - paragraph [ref=e2042]: Gooey Text Morphing
+                          - button "521" [ref=e2043] [cursor=pointer]:
+                            - img [ref=e2044]
+                            - generic [ref=e2047]: "521"
+                    - listitem [ref=e2050]:
+                      - generic [ref=e2051]:
+                        - link "Typewriter" [ref=e2052] [cursor=pointer]:
+                          - /url: /community/components/danielpetho/typewriter/default
+                          - img "Typewriter" [ref=e2053]
+                        - generic [ref=e2054]:
+                          - link "Daniel Petho" [ref=e2055] [cursor=pointer]:
+                            - /url: /community/danielpetho
+                            - img "Daniel Petho" [ref=e2057]
+                          - paragraph [ref=e2058]: Typewriter
+                          - button "317" [ref=e2059] [cursor=pointer]:
+                            - img [ref=e2060]
+                            - generic [ref=e2063]: "317"
+                    - listitem [ref=e2066]:
+                      - generic [ref=e2067]:
+                        - link "Sparkles Text" [ref=e2068] [cursor=pointer]:
+                          - /url: /community/components/magicui/sparkles-text/default
+                          - img "Sparkles Text" [ref=e2069]
+                        - generic [ref=e2070]:
+                          - link "Magic UI" [ref=e2071] [cursor=pointer]:
+                            - /url: /community/magicui
+                            - img "Magic UI" [ref=e2073]
+                          - paragraph [ref=e2074]: Sparkles Text
+                          - button "261" [ref=e2075] [cursor=pointer]:
+                            - img [ref=e2076]
+                            - generic [ref=e2079]: "261"
+                    - listitem [ref=e2082]:
+                      - generic [ref=e2083]:
+                        - link "Animated Text Cycle" [ref=e2084] [cursor=pointer]:
+                          - /url: /community/components/thimows/animated-text-cycle/animated-text-cycle
+                          - img "Animated Text Cycle" [ref=e2085]
+                        - generic [ref=e2086]:
+                          - link "Thimo Waanders" [ref=e2087] [cursor=pointer]:
+                            - /url: /community/thimows
+                            - img "Thimo Waanders" [ref=e2089]
+                          - paragraph [ref=e2090]: Animated Text Cycle
+                          - button "236" [ref=e2091] [cursor=pointer]:
+                            - img [ref=e2092]
+                            - generic [ref=e2095]: "236"
+                    - listitem [ref=e2098]:
+                      - generic [ref=e2099]:
+                        - link "Link Preview" [ref=e2100] [cursor=pointer]:
+                          - /url: /community/components/aceternity/link-preview/default
+                          - img "Link Preview" [ref=e2101]
+                        - generic [ref=e2102]:
+                          - link "Aceternity UI" [ref=e2103] [cursor=pointer]:
+                            - /url: /community/aceternity
+                            - img "Aceternity UI" [ref=e2105]
+                          - paragraph [ref=e2106]: Link Preview
+                          - button "223" [ref=e2107] [cursor=pointer]:
+                            - img [ref=e2108]
+                            - generic [ref=e2111]: "223"
+                    - listitem [ref=e2114]:
+                      - generic [ref=e2115]:
+                        - link "Vapour Text Effect" [ref=e2116] [cursor=pointer]:
+                          - /url: /community/components/jatin-yadav05/vapour-text-effect/default
+                          - img "Vapour Text Effect" [ref=e2117]
+                        - generic [ref=e2118]:
+                          - link "Jatin Yadav" [ref=e2119] [cursor=pointer]:
+                            - /url: /community/jatin-yadav05
+                            - img "Jatin Yadav" [ref=e2121]
+                          - paragraph [ref=e2122]: Vapour Text Effect
+                          - button "210" [ref=e2123] [cursor=pointer]:
+                            - img [ref=e2124]
+                            - generic [ref=e2127]: "210"
+                    - listitem [ref=e2130]:
+                      - generic [ref=e2131]:
+                        - link "Gradient Text" [ref=e2132] [cursor=pointer]:
+                          - /url: /community/components/aliimam/gradient-text/gradient-text
+                          - img "Gradient Text" [ref=e2133]
+                        - generic [ref=e2134]:
+                          - link "Ali Imam" [ref=e2135] [cursor=pointer]:
+                            - /url: /community/aliimam
+                            - img "Ali Imam" [ref=e2137]
+                          - paragraph [ref=e2138]: Gradient Text
+                          - button "189" [ref=e2139] [cursor=pointer]:
+                            - img [ref=e2140]
+                            - generic [ref=e2143]: "189"
+                    - listitem [ref=e2146]:
+                      - generic [ref=e2147]:
+                        - link "Reveal images" [ref=e2148] [cursor=pointer]:
+                          - /url: /community/components/animata/reveal-images/default
+                          - img "Reveal images" [ref=e2149]
+                        - generic [ref=e2150]:
+                          - link "Animata" [ref=e2151] [cursor=pointer]:
+                            - /url: /community/animata
+                            - img "Animata" [ref=e2153]
+                          - paragraph [ref=e2154]: Reveal images
+                          - button "168" [ref=e2155] [cursor=pointer]:
+                            - img [ref=e2156]
+                            - generic [ref=e2159]: "168"
+                    - listitem [ref=e2162]:
+                      - generic [ref=e2163]:
+                        - link "Hand Writing Text" [ref=e2164] [cursor=pointer]:
+                          - /url: /community/components/kokonutd/hand-writing-text/default
+                          - img "Hand Writing Text" [ref=e2165]
+                        - generic [ref=e2166]:
+                          - link "Kokonut UI" [ref=e2167] [cursor=pointer]:
+                            - /url: /community/kokonutd
+                            - img "Kokonut UI" [ref=e2169]
+                          - paragraph [ref=e2170]: Hand Writing Text
+                          - button "151" [ref=e2171] [cursor=pointer]:
+                            - img [ref=e2172]
+                            - generic [ref=e2175]: "151"
+                    - listitem [ref=e2178]:
+                      - generic [ref=e2179]:
+                        - link "ParticleTextEffect" [ref=e2180] [cursor=pointer]:
+                          - /url: /community/components/Kain0127/particle-text-effect/default
+                          - img "ParticleTextEffect" [ref=e2181]
+                        - generic [ref=e2182]:
+                          - link "KainXu" [ref=e2183] [cursor=pointer]:
+                            - /url: /community/Kain0127
+                            - img "KainXu" [ref=e2185]
+                          - paragraph [ref=e2186]: ParticleTextEffect
+                          - button "143" [ref=e2187] [cursor=pointer]:
+                            - img [ref=e2188]
+                            - generic [ref=e2191]: "143"
+                  - button:
+                    - img
+                  - button [ref=e2192] [cursor=pointer]:
+                    - img
+    - region "Notifications alt+T"
+  - alert [ref=e2193]
+  - generic:
+    - iframe
+    - iframe

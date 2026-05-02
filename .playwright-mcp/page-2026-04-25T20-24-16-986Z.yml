@@ -1,0 +1,387 @@
+- generic [active] [ref=e1]:
+  - link "Zum Inhalt springen" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - link "FlowState — zur Startseite" [ref=e4] [cursor=pointer]:
+      - /url: "#top"
+      - img [ref=e6]
+      - generic [ref=e9]: FlowState
+    - navigation "Hauptnavigation" [ref=e10]:
+      - link "Arbeiten" [ref=e11] [cursor=pointer]:
+        - /url: "#arbeiten"
+      - link "Leistungen" [ref=e12] [cursor=pointer]:
+        - /url: "#leistungen"
+      - link "Prozess" [ref=e13] [cursor=pointer]:
+        - /url: "#prozess"
+      - link "Team" [ref=e14] [cursor=pointer]:
+        - /url: "#team"
+      - link "Kickoff" [ref=e15] [cursor=pointer]:
+        - /url: "#kontakt"
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e21]: FLOWSTATE STUDIO · WIESBADEN · SEIT 2026
+        - heading "Webdesign, das verkauft, im Flow." [level=1] [ref=e22]:
+          - generic [ref=e23]: Webdesign,
+          - generic [ref=e24]:
+            - text: das verkauft,
+            - emphasis [ref=e25]: im
+          - emphasis [ref=e27]: Flow.
+        - paragraph [ref=e28]: Wir bauen Premium-Websites für deutsche Betriebe — Juweliere, Praxen, Gastronomie. Jede Seite handgeschrieben, kein Template, kein Page-Builder. Aus Wiesbaden für Deutschland.
+        - generic [ref=e29]:
+          - link "Kostenfreies Kickoff-Gespräch" [ref=e30] [cursor=pointer]:
+            - /url: "#kontakt"
+            - generic [ref=e31]: Kostenfreies Kickoff-Gespräch
+            - img [ref=e32]
+          - link "11 Arbeiten ansehen" [ref=e34] [cursor=pointer]:
+            - /url: "#arbeiten"
+        - generic [ref=e35]:
+          - generic [ref=e36]:
+            - generic [ref=e37]: "11"
+            - generic [ref=e38]: gebaute Websites
+          - generic [ref=e39]:
+            - generic [ref=e40]: "5"
+            - generic [ref=e41]: Juwelier-Projekte
+          - generic [ref=e42]:
+            - generic [ref=e43]: €5–25k
+            - generic [ref=e44]: Projekt-Range
+      - generic:
+        - img:
+          - generic: FLOWSTATE · PREMIUM WEB · IM FLOW · FLOWSTATE · PREMIUM WEB · IM FLOW ·
+          - generic: F
+      - generic:
+        - generic: im Flow.
+      - generic [ref=e46]: SCROLLEN
+    - region "Manifest" [ref=e48]:
+      - generic [ref=e50]:
+        - generic [ref=e53]: MANIFEST · KAPITEL 01
+        - paragraph [ref=e54]:
+          - generic [ref=e55]: Eine
+          - generic [ref=e56]: Website
+          - generic [ref=e57]: ist
+          - generic [ref=e58]: nicht
+          - generic [ref=e59]: das
+          - emphasis [ref=e61]: Ziel.
+          - generic [ref=e62]: Sie
+          - generic [ref=e63]: ist
+          - generic [ref=e64]: die
+          - generic [ref=e65]: Bühne,
+          - generic [ref=e66]: auf
+          - generic [ref=e67]: der
+          - generic [ref=e68]: Ihr
+          - generic [ref=e69]: Betrieb
+          - emphasis [ref=e71]: verkauft.
+        - paragraph [ref=e72]: — Bennet & Adrian, Founder
+    - region "Arbeiten" [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e77]: ARBEITEN · 11 GEBAUT
+        - heading "Premium-Websites made in Wiesbaden & Umgebung." [level=2] [ref=e78]:
+          - text: Premium-Websites
+          - emphasis [ref=e79]: made in
+          - text: Wiesbaden & Umgebung.
+        - paragraph [ref=e80]: Auswahl aus elf Projekten — Schwerpunkt Juwelier, Gastronomie und Medizin. Jede Seite individuell entworfen, vom Hero bis zum Footer handgeschrieben.
+      - generic [ref=e81]:
+        - article [ref=e82]:
+          - img "Juwelier Roza · Wiesbaden — Editorial Museum" [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86]: JUWELIER · WIESBADEN
+            - heading "Juwelier Roza · Oromark" [level=3] [ref=e87]:
+              - text: Juwelier Roza
+              - emphasis [ref=e88]: · Oromark
+            - generic [ref=e89]: Editorial Museum · 22K-Goldhandwerk
+        - article [ref=e90]:
+          - img "Juwelier Weidmann · Wiesbaden — Editorial Luxury" [ref=e92]
+          - generic [ref=e93]:
+            - generic [ref=e94]: JUWELIER · WIESBADEN
+            - heading "Juwelier Weidmann" [level=3] [ref=e95]:
+              - text: Juwelier
+              - emphasis [ref=e96]: Weidmann
+            - generic [ref=e97]: Editorial Luxury · Saray-Gold-Rotation
+        - article [ref=e98]:
+          - img "Bake & Brew · Wiesbaden-Biebrich — Botanical Café" [ref=e100]
+          - generic [ref=e101]:
+            - generic [ref=e102]: CAFÉ · WIESBADEN
+            - heading "Bake & Brew" [level=3] [ref=e103]:
+              - text: Bake &
+              - emphasis [ref=e104]: Brew
+            - generic [ref=e105]: Garden of Matcha
+        - article [ref=e106]:
+          - generic [ref=e108]: C
+          - generic [ref=e109]:
+            - generic [ref=e110]: SANITÄR · FELLBACH
+            - heading "Capasso Fellbach" [level=3] [ref=e111]:
+              - text: Capasso
+              - emphasis [ref=e112]: Fellbach
+            - generic [ref=e113]: Heizung · Sanitär · Bad
+        - article [ref=e114]:
+          - generic [ref=e116]: H
+          - generic [ref=e117]:
+            - generic [ref=e118]: MEDIZIN · CHEMNITZ
+            - heading "Häusler-Mehlhorn" [level=3] [ref=e119]:
+              - text: Häusler-
+              - emphasis [ref=e120]: Mehlhorn
+            - generic [ref=e121]: Dermatologie & Ästhetische Medizin
+        - article [ref=e122]:
+          - generic [ref=e124]: C
+          - generic [ref=e125]:
+            - generic [ref=e126]: JUWELIER · DILLENBURG
+            - heading "Juwelier Cetin" [level=3] [ref=e127]:
+              - text: Juwelier
+              - emphasis [ref=e128]: Cetin
+            - generic [ref=e129]: Multi-Page · Gold & Silber
+        - article [ref=e130]:
+          - generic [ref=e132]: W
+          - generic [ref=e133]:
+            - generic [ref=e134]: BILDUNG · WIESBADEN
+            - heading "Waldorfschule Wiesbaden" [level=3] [ref=e135]:
+              - text: Waldorfschule
+              - emphasis [ref=e136]: Wiesbaden
+            - generic [ref=e137]: Multi-Page · Freie Schule
+        - article [ref=e138]:
+          - generic [ref=e140]: B
+          - generic [ref=e141]:
+            - generic [ref=e142]: GASTRO · WIESBADEN
+            - heading "Das Burger" [level=3] [ref=e143]:
+              - text: Das
+              - emphasis [ref=e144]: Burger
+            - generic [ref=e145]: Fast-Casual · Bold
+        - article [ref=e146]:
+          - generic [ref=e148]: S
+          - generic [ref=e149]:
+            - generic [ref=e150]: WEINGUT · KIEDRICH · RHEINGAU
+            - heading "Gutausschank Stassen" [level=3] [ref=e151]:
+              - text: Gutausschank
+              - emphasis [ref=e152]: Stassen
+            - generic [ref=e153]: Weingut + Straußwirtschaft
+      - paragraph [ref=e154]:
+        - emphasis [ref=e155]: + zwei weitere Projekte
+        - text: — Juwelier Damla & Juwelier Benjamin. Vollständige Case-Studies auf Anfrage.
+    - region "Leistungen" [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e160]: LEISTUNGEN · KAPITEL 02
+        - heading "Drei Tiers. Eine Sprache. Eine Qualität." [level=2] [ref=e161]:
+          - text: Drei
+          - emphasis [ref=e162]: Tiers.
+          - text: Eine Sprache.
+          - text: Eine Qualität.
+        - paragraph [ref=e163]: "Wir bauen mit Vanilla HTML/CSS/JS — kein WordPress, kein Wix, kein Page-Builder. Das Ergebnis: schneller, sauberer, einzigartiger als jede Template-Lösung."
+      - generic [ref=e164]:
+        - article [ref=e165]:
+          - generic [ref=e166]:
+            - generic [ref=e167]: 01 · BASIS
+            - generic [ref=e168]:
+              - text: €
+              - strong [ref=e169]: "5.000"
+          - heading "Onepage Basis." [level=3] [ref=e170]:
+            - text: Onepage
+            - emphasis [ref=e171]: Basis.
+          - paragraph [ref=e172]: Einsteiger. Für kleinere Betriebe mit fokussiertem Auftritt.
+          - list [ref=e173]:
+            - listitem [ref=e174]: One-Page mit 5–6 Sektionen
+            - listitem [ref=e175]: Mobile-optimiert, Basic-SEO
+            - listitem [ref=e176]: 1 Design-Richtung zur Auswahl
+            - listitem [ref=e177]: 1 Revisionsrunde
+            - listitem [ref=e178]: Hosting + HTTPS, 1. Jahr inkludiert
+          - link "Tier wählen →" [ref=e179] [cursor=pointer]:
+            - /url: "#kontakt"
+        - article [ref=e180]:
+          - generic [ref=e181]: FLOWSTATE STANDARD
+          - generic [ref=e182]:
+            - generic [ref=e183]: 02 · PREMIUM
+            - generic [ref=e184]:
+              - text: €
+              - strong [ref=e185]: 7,5–10k
+          - heading "Onepage Premium." [level=3] [ref=e186]:
+            - text: Onepage
+            - emphasis [ref=e187]: Premium.
+          - paragraph [ref=e188]: Der Sweet Spot. Vollständiger /gehirn-Workflow, drei Design-Richtungen zur Auswahl, echte Fotos.
+          - list [ref=e189]:
+            - listitem [ref=e190]: One-Page mit 7–9 Sektionen
+            - listitem [ref=e191]: "Research: Maps, Instagram, Dribbble, 21st.dev"
+            - listitem [ref=e192]: 3 Design-Richtungen zur Auswahl
+            - listitem [ref=e193]: "Premium-Features: Marmor, Bento, Ken-Burns, rotierende Siegel"
+            - listitem [ref=e194]: Vollständiges Schema.org
+            - listitem [ref=e195]: 2 Revisionsrunden · 60 Tage Support
+          - link "Tier wählen →" [ref=e196] [cursor=pointer]:
+            - /url: "#kontakt"
+        - article [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: 03 · SIGNATURE
+            - generic [ref=e200]:
+              - text: €
+              - strong [ref=e201]: 15–25k
+          - heading "Multi-Page Signature." [level=3] [ref=e202]:
+            - text: Multi-Page
+            - emphasis [ref=e203]: Signature.
+          - paragraph [ref=e204]: Flaggschiff. Für Betriebe, die ein komplettes Digital-Auftritt-Makeover wollen.
+          - list [ref=e205]:
+            - listitem [ref=e206]: Multi-Page (Home + Leistungen + Über + Kontakt + Blog)
+            - listitem [ref=e207]: Foto-Produktion vor Ort organisiert
+            - listitem [ref=e208]: Custom-Signature-Element (Wappen, Custom-SVG)
+            - listitem [ref=e209]: Online-Booking-Integration
+            - listitem [ref=e210]: SEO-Audit · 20 Top-Keywords
+            - listitem [ref=e211]: 3 Revisionsrunden · 90 Tage Support
+          - link "Tier wählen →" [ref=e212] [cursor=pointer]:
+            - /url: "#kontakt"
+    - region "AI-Add-Ons" [ref=e213]:
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - generic [ref=e218]: AI · ADD-ON LAYER
+          - heading "Wenn Sie mehr wollen als eine Website." [level=2] [ref=e219]:
+            - text: Wenn Sie
+            - emphasis [ref=e220]: mehr
+            - text: wollen
+            - text: als eine Website.
+          - paragraph [ref=e221]: Optionale Erweiterung jedes Tiers. Wir bauen die Infrastruktur, die nachts für Sie arbeitet — Kunden beantwortet, Anrufe annimmt, Anfragen sortiert.
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - generic [ref=e224]: "01"
+            - heading "Telefon-AI Assistent" [level=3] [ref=e225]
+            - paragraph [ref=e226]: Nimmt Anrufe an, beantwortet Standardfragen, leitet relevante Anrufe weiter. 24/7 erreichbar.
+          - generic [ref=e227]:
+            - generic [ref=e228]: "02"
+            - heading "Kundenservice-Automation" [level=3] [ref=e229]
+            - paragraph [ref=e230]: E-Mail-Triage, automatische Antworten auf wiederkehrende Anfragen, Termin-Bestätigungen.
+          - generic [ref=e231]:
+            - generic [ref=e232]: "03"
+            - heading "AI-Beratung" [level=3] [ref=e233]
+            - paragraph [ref=e234]: Wir analysieren Ihre Prozesse und identifizieren, wo AI realistisch Zeit spart — keine Buzzword-Show.
+          - generic [ref=e235]:
+            - generic [ref=e236]: "04"
+            - heading "Image-Optimierung" [level=3] [ref=e237]
+            - paragraph [ref=e238]: Produktfotos, Team-Aufnahmen, Logo-Refresh. Konsistente Bildwelt für Web & Social.
+    - region "Prozess" [ref=e239]:
+      - generic [ref=e240]:
+        - generic [ref=e243]: PROZESS · KAPITEL 03
+        - heading "Sieben Phasen vom Interview bis zum Launch." [level=2] [ref=e244]:
+          - text: Sieben Phasen
+          - emphasis [ref=e245]: vom
+          - text: Interview bis zum Launch.
+        - paragraph [ref=e246]:
+          - text: Unser Prozess heißt intern
+          - strong [ref=e247]: „das Gehirn"
+          - text: — ein durchgetakteter Workflow, der jeden Schritt dokumentiert. Sie sehen jederzeit, wo Ihr Projekt steht.
+      - generic [ref=e249]:
+        - list:
+          - listitem [ref=e250]:
+            - generic [ref=e251]: "01"
+            - heading "Interview" [level=3] [ref=e252]
+            - paragraph [ref=e253]: 30-Minuten-Gespräch. Wir lernen Ihren Betrieb, Ihre Zielgruppe, Ihre Stilvorstellung kennen.
+          - listitem:
+            - generic: "02"
+            - heading "Research" [level=3]
+            - paragraph: "Parallel-Scout: Google Maps, Instagram, Dribbble, 21st.dev. Wir lesen, was Ihre Konkurrenz macht — und was sie nicht macht."
+          - listitem:
+            - generic: "03"
+            - heading "Curation" [level=3]
+            - paragraph: Drei fundamental unterschiedliche Design-Richtungen zur Auswahl. Sie wählen die DNA.
+          - listitem:
+            - generic: "04"
+            - heading "Design Brief" [level=3]
+            - paragraph: Farbpalette, Typografie, Spacing, Signature-Element — als JSON dokumentiert. Nichts dem Zufall überlassen.
+          - listitem:
+            - generic: "05"
+            - heading "Build" [level=3]
+            - paragraph: Vanilla HTML/CSS/JS, mobile-first, 4 Breakpoints. Schnell. Stabil. Ohne Build-Step-Abhängigkeiten.
+          - listitem:
+            - generic: "06"
+            - heading "QA-Loop" [level=3]
+            - paragraph: "Iterative Politur: Screenshots Desktop + Mobile, Score von 1–10, drei Iterationen bis Premium-Score > 8."
+          - listitem:
+            - generic: "07"
+            - heading "Launch" [level=3]
+            - paragraph: Domain · HTTPS · Schema.org · Backup. 60 Tage Support nach Live-Gang inklusive.
+    - region "Team" [ref=e255]:
+      - generic [ref=e256]:
+        - generic [ref=e259]: TEAM · KAPITEL 04
+        - heading "Drei Köpfe. Eine Vision." [level=2] [ref=e260]:
+          - text: Drei Köpfe.
+          - emphasis [ref=e261]: Eine
+          - text: Vision.
+        - paragraph [ref=e262]: Wir sind ein kleines Studio mit hoher Frequenz. Sie sprechen direkt mit den Personen, die bauen. Keine Account-Manager-Schicht, keine Outsourcing-Kette.
+      - generic [ref=e263]:
+        - article [ref=e264]:
+          - generic [ref=e266]: B
+          - heading "Bennet Tilinski" [level=3] [ref=e267]:
+            - text: Bennet
+            - emphasis [ref=e268]: Tilinski
+          - generic [ref=e269]: FOUNDER · STRATEGY · 50%
+          - paragraph [ref=e270]: Steuert Akquise, Kundengespräche, Briefings. Übersetzt zwischen Inhaber-Sprache und Designer-Sprache.
+        - article [ref=e271]:
+          - generic [ref=e273]: A
+          - heading "Adrian Pötzinger" [level=3] [ref=e274]:
+            - text: Adrian
+            - emphasis [ref=e275]: Pötzinger
+          - generic [ref=e276]: FOUNDER · DESIGN · 50%
+          - paragraph [ref=e277]: Verantwortet Designrichtung, Typografie, das Signature-Element. Jede Seite verlässt nichts ohne sein OK.
+        - article [ref=e278]:
+          - generic [ref=e280]: D
+          - heading "Damian Braun" [level=3] [ref=e281]:
+            - text: Damian
+            - emphasis [ref=e282]: Braun
+          - generic [ref=e283]: ENGINEERING
+          - paragraph [ref=e284]: IT-Spezialist. Sorgt dafür, dass jede Seite schnell lädt, sicher läuft und sauber deployed wird.
+    - region "Kontakt" [ref=e285]:
+      - text: im Flow.
+      - generic [ref=e286]:
+        - paragraph [ref=e287]:
+          - generic [ref=e289]: KICKOFF · KOSTENFREI · 30 MINUTEN
+        - heading "Lassen Sie uns sprechen." [level=2] [ref=e290]:
+          - text: Lassen Sie uns
+          - emphasis [ref=e291]: sprechen.
+        - paragraph [ref=e292]: Ein Gespräch klärt mehr als zehn E-Mails. Wir hören uns an, was Sie vorhaben — und sagen ehrlich, ob wir der richtige Partner sind.
+        - link "Kickoff anfragen" [ref=e294] [cursor=pointer]:
+          - /url: mailto:flow-state@gmx.de?subject=Kickoff-Gespräch%20FlowState
+          - generic [ref=e295]: Kickoff anfragen
+          - img [ref=e296]
+        - generic [ref=e298]:
+          - link "E-MAIL flow-state@gmx.de" [ref=e299] [cursor=pointer]:
+            - /url: mailto:flow-state@gmx.de
+            - generic [ref=e300]: E-MAIL
+            - generic [ref=e301]: flow-state@gmx.de
+          - link "TELEFON +49 178 1868874" [ref=e302] [cursor=pointer]:
+            - /url: tel:+491781868874
+            - generic [ref=e303]: TELEFON
+            - generic [ref=e304]: +49 178 1868874
+          - generic [ref=e305]:
+            - generic [ref=e306]: STUDIO
+            - generic [ref=e307]: Wiesbaden, DE
+  - contentinfo [ref=e308]:
+    - generic [ref=e309]:
+      - generic [ref=e310]:
+        - emphasis [ref=e312]: FlowState
+        - paragraph [ref=e313]: Webdesign-Studio · Wiesbaden · Seit 2026.
+      - navigation "Footer-Navigation" [ref=e314]:
+        - generic [ref=e315]:
+          - heading "Studio" [level=4] [ref=e316]
+          - link "Arbeiten" [ref=e317] [cursor=pointer]:
+            - /url: "#arbeiten"
+          - link "Leistungen" [ref=e318] [cursor=pointer]:
+            - /url: "#leistungen"
+          - link "Prozess" [ref=e319] [cursor=pointer]:
+            - /url: "#prozess"
+          - link "Team" [ref=e320] [cursor=pointer]:
+            - /url: "#team"
+        - generic [ref=e321]:
+          - heading "Kontakt" [level=4] [ref=e322]
+          - link "flow-state@gmx.de" [ref=e323] [cursor=pointer]:
+            - /url: mailto:flow-state@gmx.de
+          - link "+49 178 1868874" [ref=e324] [cursor=pointer]:
+            - /url: tel:+491781868874
+          - link "Kickoff anfragen" [ref=e325] [cursor=pointer]:
+            - /url: "#kontakt"
+        - generic [ref=e326]:
+          - heading "Rechtliches" [level=4] [ref=e327]
+          - link "Impressum" [ref=e328] [cursor=pointer]:
+            - /url: "#impressum"
+          - link "Datenschutz" [ref=e329] [cursor=pointer]:
+            - /url: "#datenschutz"
+    - generic [ref=e330]:
+      - group [ref=e331]:
+        - generic "Impressum & rechtliche Angaben +" [ref=e332] [cursor=pointer]
+      - paragraph [ref=e333]:
+        - generic [ref=e334]: © 2026 FlowState Studio.
+        - generic [ref=e335]: ·
+        - generic [ref=e336]: Handgeschrieben in Wiesbaden.
+        - generic [ref=e337]: ·
+        - emphasis [ref=e339]: Im Flow.

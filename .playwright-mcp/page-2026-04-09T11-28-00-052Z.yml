@@ -1,0 +1,127 @@
+- generic [ref=e1]:
+  - dialog [ref=e2]:
+    - button "Schließen" [ref=e3] [cursor=pointer]:
+      - img [ref=e4]
+    - paragraph [ref=e6]:
+      - text: Unsplash verwendet Cookies und ähnliche Technologien, um unsere Webseite zu sichern, nützliche Funktionen für gebührenfreie und zahlende Nutzer bereitzustellen und um eine optimale Leistung zu gewährleisten. Wenn Sie auf „Alle Cookies akzeptieren“ klicken oder dieses Prompt schließen, stimmen Sie der Verwendung aller Cookies zu. Durch Klicken auf „Nur Unverzichtbare akzeptieren“ erklären Sie sich mit der Verwendung von Cookies einverstanden, die für die Funktion der Webseite unbedingt erforderlich sind. Weitere Informationen finden Sie in unseren
+      - link "Cookie-Richtlinien" [ref=e7] [cursor=pointer]:
+        - /url: /de/cookies
+      - text: .
+    - link "Cookies verwalten" [ref=e9] [cursor=pointer]:
+      - /url: /de/cookies#manage-consent
+    - generic [ref=e10]:
+      - button "Nur Unverzichtbare akzeptieren" [ref=e11] [cursor=pointer]
+      - button "Alle Cookies akzeptieren" [active] [ref=e12] [cursor=pointer]
+  - generic [ref=e16]:
+    - navigation [ref=e17]:
+      - link "Unsplash-Startseite" [ref=e20] [cursor=pointer]:
+        - /url: /de
+        - img "Unsplash-Startseite" [ref=e21]
+      - generic [ref=e23]:
+        - link "Anmelden / Registrieren" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Ffotos%2Fgrauer-und-schwarzer-motor-xe-e69j6-Ds
+          - img [ref=e25]
+        - button "Sprache" [ref=e27] [cursor=pointer]:
+          - img [ref=e28]
+        - button "Menü" [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - navigation [ref=e35]:
+          - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e37]:
+            - button "Unsplash suchen" [ref=e38] [cursor=pointer]:
+              - img [ref=e39]
+            - combobox [ref=e41]:
+              - searchbox "Unsplash suchen" [ref=e42]
+              - listbox
+            - button "Visuelle Suche" [ref=e43] [cursor=pointer]:
+              - img [ref=e44]
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - banner [ref=e49]:
+              - generic [ref=e51]:
+                - link [ref=e52] [cursor=pointer]:
+                  - /url: /de/@cakirchoff
+                - generic [ref=e55]:
+                  - link "Chad Kirchoff" [ref=e56] [cursor=pointer]:
+                    - /url: /de/@cakirchoff
+                  - link "Für Anfragen verfügbar" [ref=e58] [cursor=pointer]:
+                    - /url: /de/@cakirchoff
+                    - text: Für Anfragen verfügbar
+                    - img [ref=e59]
+              - generic [ref=e61]:
+                - button "Lesezeichen setzen" [ref=e62] [cursor=pointer]:
+                  - img [ref=e63]
+                - button "Zu Kollektion hinzufügen" [ref=e65] [cursor=pointer]:
+                  - img [ref=e66]
+                - link "Bild bearbeiten" [ref=e68] [cursor=pointer]:
+                  - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fgrauer-und-schwarzer-motor-xe-e69j6-Ds
+                  - text: Bild bearbeiten
+                  - img [ref=e69]
+                - generic [ref=e72]:
+                  - link "Kostenlos herunterladen" [ref=e73] [cursor=pointer]:
+                    - /url: https://unsplash.com/photos/xe-e69j6-Ds/download?force=true
+                  - button "Downloadgröße auswählen" [ref=e75] [cursor=pointer]:
+                    - img [ref=e76]
+            - button "Dieses Bild heranzoomen" [disabled] [ref=e81]:
+              - img "grauer und schwarzer Motor" [ref=e82]
+            - generic [ref=e83]:
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: ––– –– ––
+                    - text: ––– –––– ––––
+                  - generic [ref=e88]:
+                    - generic [ref=e89]: ––– –– ––
+                    - text: ––– –––– ––––
+                - generic [ref=e91]:
+                  - heading "Veröffentlicht in" [level=3] [ref=e92]
+                  - link "Fotos" [ref=e94] [cursor=pointer]:
+                    - /url: /de
+                - generic [ref=e95]:
+                  - button "Dieses Bild teilen" [ref=e96] [cursor=pointer]:
+                    - img [ref=e97]
+                    - generic [ref=e99]: Teilen
+                  - button "Statistiken zu diesem Bild" [ref=e100] [cursor=pointer]:
+                    - img [ref=e101]
+                    - generic [ref=e103]: Info
+                  - button "Weitere Aktionen" [ref=e104] [cursor=pointer]:
+                    - img [ref=e105]
+              - generic [ref=e108]:
+                - heading "grauer und schwarzer Motor" [level=1] [ref=e110]
+                - paragraph [ref=e114]: Laden Sie dieses kostenlose HD-Foto zum Thema Auto, auto hintergrundbild, grau und Motor von Chad Kirchoff (@cakirchoff) herunter
+                - generic [ref=e116]:
+                  - generic [ref=e117]:
+                    - img [ref=e118]
+                    - generic [ref=e121]:
+                      - text: Veröffentlicht am
+                      - time [ref=e122]: 5. Februar 2017 (UTC)
+                  - generic [ref=e123]:
+                    - img [ref=e124]
+                    - button "Panasonic, DMC-GH4" [ref=e127] [cursor=pointer]
+                  - generic [ref=e128]:
+                    - img [ref=e129]
+                    - generic [ref=e131]:
+                      - text: Kostenlos zu verwenden im Rahmen der
+                      - link "Unsplash Lizenz" [ref=e132] [cursor=pointer]:
+                        - /url: /de/lizenz
+              - generic [ref=e134]:
+                - link "Auto" [ref=e135] [cursor=pointer]:
+                  - /url: /de/s/fotos/auto
+                - link "auto hintergrundbild" [ref=e136] [cursor=pointer]:
+                  - /url: /de/s/fotos/auto-hintergrundbild
+                - link "grau" [ref=e137] [cursor=pointer]:
+                  - /url: /de/s/fotos/grau
+                - link "Motor" [ref=e138] [cursor=pointer]:
+                  - /url: /de/s/fotos/motor
+                - link "Motor" [ref=e139] [cursor=pointer]:
+                  - /url: /de/s/fotos/motor
+                - link "Gürtel" [ref=e140] [cursor=pointer]:
+                  - /url: /de/s/fotos/g%C3%BCrtel
+                - link "selbstfahrend" [ref=e141] [cursor=pointer]:
+                  - /url: /de/s/fotos/selbstfahrend
+                - link "Auto" [ref=e142] [cursor=pointer]:
+                  - /url: /de/s/fotos/auto
+          - paragraph [ref=e148]: Ähnliche Premium-Bilder auf iStock durchsuchen | 20 % Rabatt mit Aktionscode UNSPLASH20
+      - generic:
+        - region "Notifications"

@@ -1,0 +1,177 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: crystal isolated white
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 6":
+                - /url: /de/s/fotos/crystal-isolated-white
+                - img
+                - text: Fotos
+                - generic: "6"
+            - listitem [ref=e48]:
+              - link "Grafiken 0" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/crystal-isolated-white
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "0"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Crystal isolated white" [level=1] [ref=e62]
+          - generic [ref=e64]:
+            - button "Liste nach rechts verschieben" [ref=e66] [cursor=pointer]:
+              - img [ref=e67]
+            - generic [ref=e70]:
+              - link "weißer hintergrund" [ref=e72] [cursor=pointer]:
+                - /url: /de/s/fotos/wei%C3%9Fer-hintergrund
+              - link "isoliert" [ref=e74] [cursor=pointer]:
+                - /url: /de/s/fotos/isoliert
+              - link "abstrakt" [ref=e76] [cursor=pointer]:
+                - /url: /de/s/fotos/abstrakt
+              - link "Einfach" [ref=e78] [cursor=pointer]:
+                - /url: /de/s/fotos/einfach
+              - link "kristall" [ref=e80] [cursor=pointer]:
+                - /url: /de/s/fotos/kristall
+              - link "Minimalist" [ref=e82] [cursor=pointer]:
+                - /url: /de/s/fotos/minimalist
+              - link "Schön" [ref=e84] [cursor=pointer]:
+                - /url: /de/s/fotos/sch%C3%B6n
+              - link "niedlich" [ref=e86] [cursor=pointer]:
+                - /url: /de/s/fotos/niedlich
+              - link "Weinlese" [ref=e88] [cursor=pointer]:
+                - /url: /de/s/fotos/weinlese
+              - link "schwarz" [ref=e90] [cursor=pointer]:
+                - /url: /de/s/fotos/schwarz
+              - link "bunt" [ref=e92] [cursor=pointer]:
+                - /url: /de/s/fotos/bunt
+              - link "weiß" [ref=e94] [cursor=pointer]:
+                - /url: /de/s/fotos/wei%C3%9F
+        - generic [ref=e96]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e102]:
+                - generic [ref=e104]:
+                  - link "Ein durchsichtiger Würfel enthält einen kleineren orangefarbenen Würfel." [ref=e105]:
+                    - /url: /de/fotos/ein-durchsichtiger-wurfel-enthalt-einen-kleineren-orangefarbenen-wurfel-sRf00OnDFDk
+                    - img "Ein durchsichtiger Würfel enthält einen kleineren orangefarbenen Würfel." [ref=e106]
+                  - link [ref=e107] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-durchsichtiger-wurfel-enthalt-einen-kleineren-orangefarbenen-wurfel-sRf00OnDFDk
+                    - img [ref=e108]
+              - generic [ref=e110]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e111]:
+                  - generic [ref=e112]: Gesponserte Bilder
+                  - link [ref=e113] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Acce1d439-63f6-4de8-9077-a0d5d2e76701&phrase=crystal+isolated+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e114]
+                - generic [ref=e116]:
+                  - link "Kristallglas Schneeflocke Ornament isoliert auf weißem Hintergrund — Transparente Eisdekoration" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/crystal-glass-snowflake-ornament-isolated-on-white-background-transparent-ice-gm2243386110-657559023?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Acd9475d7-26cb-4605-a4d7-32387cfe3783
+                    - img "Kristallglas Schneeflocke Ornament isoliert auf weißem Hintergrund — Transparente Eisdekoration" [ref=e118]
+                  - 'link "Salzbecken in Siwa, Ägypten: kristallklares türkisfarbenes Wasser, umgeben von weißem Salz- und Wüstengelände" [ref=e119] [cursor=pointer]':
+                    - /url: https://www.istockphoto.com/photo/salt-pools-in-siwa-egypt-crystal-clear-turquoise-water-bordered-by-white-salt-and-gm2251883039-665393542?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Afea84960-4213-4ee7-9802-700386510ef7
+                    - 'img "Salzbecken in Siwa, Ägypten: kristallklares türkisfarbenes Wasser, umgeben von weißem Salz- und Wüstengelände" [ref=e120]'
+                  - link "Nahaufnahme eines üppigen Ficus elastica 'Audrey', der in Südflorida im Freien wächst" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/close-up-photo-of-a-lush-ficus-elastica-audrey-growing-outdoors-in-south-florida-gm2237427602-652584127?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Aeef6e91d-5e24-4ce0-b893-7ffd85dd6b87
+                    - img "Nahaufnahme eines üppigen Ficus elastica 'Audrey', der in Südflorida im Freien wächst" [ref=e122]
+                  - link "Elegante Champagnerkristall-verzierte High Heel-Plateausandalen, isoliert auf weißem Hintergrund" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/elegant-champagne-crystal-embellished-high-heel-platform-sandals-isolated-on-white-gm2254822082-668116406?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A5c7cf8ec-3e75-47dc-a391-9503c490cd64
+                    - img "Elegante Champagnerkristall-verzierte High Heel-Plateausandalen, isoliert auf weißem Hintergrund" [ref=e124]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Acce1d439-63f6-4de8-9077-a0d5d2e76701&phrase=crystal+isolated+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+            - generic [ref=e126]:
+              - figure [ref=e127]:
+                - link "weißes und graues Steinfragment" [ref=e130]:
+                  - /url: /de/fotos/weisses-und-graues-steinfragment-lsNdZ1SbBV8
+                  - img "weißes und graues Steinfragment" [ref=e131]
+              - figure [ref=e132]:
+                - link "Grafische Benutzeroberfläche" [ref=e135]:
+                  - /url: /de/fotos/grafische-benutzeroberflache-aRmHDgr_YTg
+                  - img "Grafische Benutzeroberfläche" [ref=e136]
+            - generic [ref=e137]:
+              - figure [ref=e138]:
+                - link "Nahaufnahme einer Blume" [ref=e141]:
+                  - /url: /de/fotos/nahaufnahme-einer-blume-BZcheiyia7E
+                  - img "Nahaufnahme einer Blume" [ref=e142]
+              - figure [ref=e143]:
+                - generic [ref=e145]:
+                  - link "Leere Glaskuppel auf weißem Podium mit Glaskugeln. 3D-Rendering" [ref=e146]:
+                    - /url: /de/fotos/leere-glaskuppel-auf-weissem-podium-mit-glaskugeln-3d-rendering-yLdS_OPELJI
+                    - img "Leere Glaskuppel auf weißem Podium mit Glaskugeln. 3D-Rendering" [ref=e147]
+                  - link [ref=e148] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fleere-glaskuppel-auf-weissem-podium-mit-glaskugeln-3d-rendering-yLdS_OPELJI
+                    - img [ref=e149]
+              - figure [ref=e151]:
+                - generic [ref=e153]:
+                  - link "Eine weiße Farbpalette befindet sich auf einer weißen Oberfläche." [ref=e154]:
+                    - /url: /de/fotos/eine-weisse-farbpalette-befindet-sich-auf-einer-weissen-oberflache-Gz1-gxKjoco
+                    - img "Eine weiße Farbpalette befindet sich auf einer weißen Oberfläche." [ref=e155]
+                  - link [ref=e156] [cursor=pointer]:
+                    - /url: /de/plus?referrer=%2Fde%2Ffotos%2Feine-weisse-farbpalette-befindet-sich-auf-einer-weissen-oberflache-Gz1-gxKjoco
+                    - img [ref=e157]
+          - generic [ref=e161]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e162]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e163]: "| Jetzt Rabatt sichern"
+            - generic [ref=e165]:
+              - link "Kristallstern 3D-Form von Glas transparente Dreiecksplatten auf hellblauem Hintergrund. Klarer Kreisrahmeneffekt. Abstraktes glänzendes geometrisches Figuren-Render-Symbol, isoliertes Designelement" [ref=e166] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/crystal-star-3d-shape-of-glass-transparent-triangle-plates-on-light-blue-background-gm2234255939-649700141?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Ac7d50570-25ab-43ce-b2ec-6fc6a7a360d6
+                - img "Kristallstern 3D-Form von Glas transparente Dreiecksplatten auf hellblauem Hintergrund. Klarer Kreisrahmeneffekt. Abstraktes glänzendes geometrisches Figuren-Render-Symbol, isoliertes Designelement" [ref=e167]
+              - link "3D-Set von holographischen Sternhaufen aus Glas mit Kristalltextur in lila blauen Farbverlaufen. Leuchtender Himmelskörper, abstraktes Weltraumobjekt. Hell leuchtende Sterne isoliert auf weiß" [ref=e168] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/3d-set-of-glass-holographic-star-cluster-with-crystal-texture-in-purple-blue-gm2245948456-659932924?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Ab3038de5-d52c-4ba8-a155-b87201921d51
+                - img "3D-Set von holographischen Sternhaufen aus Glas mit Kristalltextur in lila blauen Farbverlaufen. Leuchtender Himmelskörper, abstraktes Weltraumobjekt. Hell leuchtende Sterne isoliert auf weiß" [ref=e169]
+              - link "Ultra-luxuriöse pinke Kristall-Abendhandtasche mit funkelnder Strass-Oberfläche, isoliert auf weißem Hintergrund" [ref=e170] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/ultra-luxury-pink-crystal-evening-handbag-with-sparkling-rhinestone-surface-isolated-gm2255390732-668631789?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A31ff5143-f37b-4aa4-a383-870df357b702
+                - img "Ultra-luxuriöse pinke Kristall-Abendhandtasche mit funkelnder Strass-Oberfläche, isoliert auf weißem Hintergrund" [ref=e171]
+              - link "Kristallkugel und Zeiger" [ref=e172] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/crystal-ball-and-hands-gm2272227987-684657893?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A8ba23cec-1ea5-4be6-b278-8ba22ace3b7b
+                - img "Kristallkugel und Zeiger" [ref=e173]
+              - link "Ein kristallklarer Eiswürfel isoliert auf Weiß" [ref=e174] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/one-crystal-clear-ice-cube-isolated-on-white-gm2267098964-679730140?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A78f2b5c9-3e10-4d6e-a348-55c9291cd731
+                - img "Ein kristallklarer Eiswürfel isoliert auf Weiß" [ref=e175]
+              - link "Luftdrohnenansicht Gili Kedis Lombok Indonesia mit winzigem, herzförmigem weißen Insel-Sandstrand und türkisfarbenem Kristallwasser" [ref=e176] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/aerial-drone-view-gili-kedis-lombok-indonesia-featuring-tiny-heart-shaped-island-gm2272613768-685021602?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Aa3256edb-c778-4456-8da3-0fbdea8f1b2c
+                - img "Luftdrohnenansicht Gili Kedis Lombok Indonesia mit winzigem, herzförmigem weißen Insel-Sandstrand und türkisfarbenem Kristallwasser" [ref=e177]
+              - link "Holografisches transparentes Karten-Pin-Symbol aus Glas, Rendern des Standort-Tags. GPS-Navigationssymbol, Kristall-Geo-Marker mit lila-rosa Verlaufstextur, Kartenzeiger isoliert auf weißem Hintergrund" [ref=e178] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/glass-holographic-transparent-map-pin-icon-location-tag-render-gps-navigation-symbol-gm2213460228-630340437?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A69cd8617-823f-4c57-8b76-3f32acd79d75
+                - img "Holografisches transparentes Karten-Pin-Symbol aus Glas, Rendern des Standort-Tags. GPS-Navigationssymbol, Kristall-Geo-Marker mit lila-rosa Verlaufstextur, Kartenzeiger isoliert auf weißem Hintergrund" [ref=e179]
+              - generic [ref=e180]:
+                - link "Öffnen Sie ein Vorhängeschloss aus Kristall, isoliert auf weißem Hintergrund. 3D-Illustration." [ref=e181] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/open-padlock-of-crystal-isolated-on-white-background-3d-illustration-gm2265109904-677816626?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3Adc6aa1bd-462d-4639-80e6-3f86dc94358a
+                  - img "Öffnen Sie ein Vorhängeschloss aus Kristall, isoliert auf weißem Hintergrund. 3D-Illustration." [ref=e182]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e183] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcrystal-isolated-white&utm_term=crystal+isolated+white%3A%3Aaffiliate-layout-optim%3Acontrol%3A5c7a53a9-e602-4e10-b1ff-3fccaf95529a&phrase=crystal+isolated+white&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - generic [ref=e185]:
+            - link [ref=e186] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e187]
+            - paragraph [ref=e189]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

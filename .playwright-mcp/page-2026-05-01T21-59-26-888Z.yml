@@ -1,0 +1,221 @@
+- generic [ref=e4]:
+  - navigation [ref=e5]:
+    - link "Unsplash-Startseite" [ref=e8] [cursor=pointer]:
+      - /url: /de
+      - img "Unsplash-Startseite" [ref=e9]
+    - generic [ref=e11]:
+      - link "Anmelden / Registrieren" [ref=e12] [cursor=pointer]:
+        - /url: /de/login?referrer=%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background
+        - img [ref=e13]
+      - button "Sprache" [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+      - button "Menü" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - navigation [ref=e23]:
+        - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e25]:
+          - button "Unsplash suchen" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - combobox [ref=e29]:
+            - searchbox "Unsplash suchen" [ref=e30]: cut gemstones black background
+            - listbox
+          - button "Löschen" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+          - button "Visuelle Suche" [ref=e36] [cursor=pointer]:
+            - img [ref=e37]
+      - generic [ref=e39]:
+        - generic [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Fotos 280":
+                - /url: /de/s/fotos/cut-gemstones-black-background
+                - img
+                - text: Fotos
+                - generic: "280"
+            - listitem [ref=e48]:
+              - link "Grafiken 3" [ref=e49] [cursor=pointer]:
+                - /url: /de/s/grafiken/cut-gemstones-black-background
+                - img [ref=e50]
+                - text: Grafiken
+                - generic [ref=e52]: "3"
+            - listitem [ref=e53]:
+              - button "Mehr" [ref=e54] [cursor=pointer]
+          - button "Filter" [ref=e56] [cursor=pointer]:
+            - img [ref=e58]
+            - text: Filter
+        - generic [ref=e60]:
+          - heading "Cut gemstones black background" [level=1] [ref=e62]
+          - generic [ref=e66]:
+            - link "schwarzer hintergrund" [ref=e68] [cursor=pointer]:
+              - /url: /de/s/fotos/schwarzer-hintergrund
+            - link "Edelstein" [ref=e70] [cursor=pointer]:
+              - /url: /de/s/fotos/edelstein
+            - link "Diamant" [ref=e72] [cursor=pointer]:
+              - /url: /de/s/fotos/diamant
+            - link "abstrakt" [ref=e74] [cursor=pointer]:
+              - /url: /de/s/fotos/abstrakt
+            - link "hintergrund" [ref=e76] [cursor=pointer]:
+              - /url: /de/s/fotos/hintergrund
+            - link ".3d" [ref=e78] [cursor=pointer]:
+              - /url: /de/s/fotos/.3d
+            - link "kristall" [ref=e80] [cursor=pointer]:
+              - /url: /de/s/fotos/kristall
+            - link "Digitale Kunst" [ref=e82] [cursor=pointer]:
+              - /url: /de/s/fotos/digitale-kunst
+            - link "dekorativ" [ref=e84] [cursor=pointer]:
+              - /url: /de/s/fotos/dekorativ
+            - link "glänzend" [ref=e86] [cursor=pointer]:
+              - /url: /de/s/fotos/gl%C3%A4nzend
+            - link "3D-Rendering" [ref=e88] [cursor=pointer]:
+              - /url: /de/s/fotos/3d--rendering
+            - link "blau" [ref=e90] [cursor=pointer]:
+              - /url: /de/s/fotos/blau
+        - generic [ref=e92]:
+          - generic [ref=e96]:
+            - generic [ref=e97]:
+              - figure [ref=e98]:
+                - link "ein Diamant auf schwarzem Hintergrund" [ref=e101]:
+                  - /url: /de/fotos/ein-diamant-auf-schwarzem-hintergrund-3V1KiGA0m0Y
+                  - img "ein Diamant auf schwarzem Hintergrund" [ref=e102]
+              - generic [ref=e103]:
+                - heading "Gesponserte Bilder" [level=4] [ref=e104]:
+                  - generic [ref=e105]: Gesponserte Bilder
+                  - link [ref=e106] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=cut+gemstones+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+                    - img [ref=e107]
+                - generic [ref=e109]:
+                  - link "Onyx (agate) Textur Hintergrund" [ref=e110] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/onyx-texture-background-gm822104036-134459891?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Onyx (agate) Textur Hintergrund" [ref=e111]
+                  - link "Zehn Diamanten der beliebtesten Schnitt Stile mit Titeln auf schwarzem Hintergrund" [ref=e112] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/ten-diamonds-of-the-most-popular-cut-styles-with-titles-on-black-background-gm1127140228-296972311?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Zehn Diamanten der beliebtesten Schnitt Stile mit Titeln auf schwarzem Hintergrund" [ref=e113]
+                  - link "Slice Of Agate Crystal auf schwarzem Hintergrund isoliert" [ref=e114] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/slice-of-agate-crystal-isolated-on-black-background-gm822103568-134459889?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Slice Of Agate Crystal auf schwarzem Hintergrund isoliert" [ref=e115]
+                  - link "Holz Fossil poliert" [ref=e116] [cursor=pointer]:
+                    - /url: https://www.istockphoto.com/photo/wood-fossil-polished-gm1396845677-451464845?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                    - img "Holz Fossil poliert" [ref=e117]
+                - link "20 % Rabatt mit dem Code UNSPLASH20" [ref=e118] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=cut+gemstones+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+              - figure [ref=e119]:
+                - link "Haufen klarer Steine auf schwarzer Oberfläche" [ref=e122]:
+                  - /url: /de/fotos/haufen-klarer-steine-auf-schwarzer-oberflache-HgtVLFq9lQA
+                  - img "Haufen klarer Steine auf schwarzer Oberfläche" [ref=e123]
+              - figure [ref=e124]:
+                - link "Ein Paar lila Diamanten, die auf einem Tisch sitzen" [ref=e127]:
+                  - /url: /de/fotos/ein-paar-lila-diamanten-die-auf-einem-tisch-sitzen-ouxUKNowoMY
+                  - img "Ein Paar lila Diamanten, die auf einem Tisch sitzen" [ref=e128]
+              - figure [ref=e129]:
+                - link "Sammlung funkelnder Diamanten auf dunklem Hintergrund" [ref=e132]:
+                  - /url: /de/fotos/sammlung-funkelnder-diamanten-auf-dunklem-hintergrund-I5UuPHNQDNs
+                  - img "Sammlung funkelnder Diamanten auf dunklem Hintergrund" [ref=e133]
+              - figure [ref=e134]:
+                - link "ein schwarzer Hintergrund mit mehrfarbigen Linien darauf" [ref=e137]:
+                  - /url: /de/fotos/ein-schwarzer-hintergrund-mit-mehrfarbigen-linien-darauf-SzwCvbAu79I
+                  - img "ein schwarzer Hintergrund mit mehrfarbigen Linien darauf" [ref=e138]
+              - figure [ref=e139]:
+                - link "Dreieckige, transparente Formen sind gruppiert." [ref=e142]:
+                  - /url: /de/fotos/dreieckige-transparente-formen-sind-gruppiert-cdp1DAY6HPA
+                  - img "Dreieckige, transparente Formen sind gruppiert." [ref=e143]
+            - generic [ref=e144]:
+              - figure [ref=e145]:
+                - link "verschiedene Farbsteine auf braunem Holztisch" [ref=e148]:
+                  - /url: /de/fotos/verschiedene-farbsteine-auf-braunem-holztisch-DUkDsUErOzQ
+                  - img "verschiedene Farbsteine auf braunem Holztisch" [ref=e149]
+              - figure [ref=e150]:
+                - link "verschiedene Farben herzförmiger Stein" [ref=e153]:
+                  - /url: /de/fotos/verschiedene-farben-herzformiger-stein-_gFWc1J57Z4
+                  - img "verschiedene Farben herzförmiger Stein" [ref=e154]
+              - figure [ref=e155]:
+                - link "Ein einzelner Eiswürfel schwebt vor schwarzem Hintergrund" [ref=e158]:
+                  - /url: /de/fotos/ein-einzelner-eiswurfel-schwebt-vor-schwarzem-hintergrund-QYnGY_aZ-Fg
+                  - img "Ein einzelner Eiswürfel schwebt vor schwarzem Hintergrund" [ref=e159]
+              - figure [ref=e160]:
+                - link "Luftaufnahme eines Gewässers" [ref=e163]:
+                  - /url: /de/fotos/luftaufnahme-eines-gewassers-NbSBVBuwyJo
+                  - img "Luftaufnahme eines Gewässers" [ref=e164]
+              - figure [ref=e165]:
+                - link "eine blaue Kristallskulptur, die auf einem Tisch sitzt" [ref=e168]:
+                  - /url: /de/fotos/eine-blaue-kristallskulptur-die-auf-einem-tisch-sitzt-XO1NNozYYmc
+                  - img "eine blaue Kristallskulptur, die auf einem Tisch sitzt" [ref=e169]
+              - figure [ref=e170]:
+                - link "Eine Gruppe bunter Papierherzen" [ref=e173]:
+                  - /url: /de/fotos/eine-gruppe-bunter-papierherzen-LPawq1Y4oys
+                  - img "Eine Gruppe bunter Papierherzen" [ref=e174]
+              - figure [ref=e175]:
+                - link "blaue und schwarze abstrakte Malerei" [ref=e178]:
+                  - /url: /de/fotos/blaue-und-schwarze-abstrakte-malerei-jJi1bjfBWYo
+                  - img "blaue und schwarze abstrakte Malerei" [ref=e179]
+              - figure [ref=e180]:
+                - link "Klare, dreieckige Formen sind auf einer dunklen Oberfläche verstreut." [ref=e183]:
+                  - /url: /de/fotos/klare-dreieckige-formen-sind-auf-einer-dunklen-oberflache-verstreut-iLygoR5SA78
+                  - img "Klare, dreieckige Formen sind auf einer dunklen Oberfläche verstreut." [ref=e184]
+              - figure [ref=e185]:
+                - link "Blaues und rotes Licht-Bokeh" [ref=e188]:
+                  - /url: /de/fotos/blaues-und-rotes-licht-bokeh-ltYQL4Yj2uA
+                  - img "Blaues und rotes Licht-Bokeh" [ref=e189]
+            - generic [ref=e190]:
+              - contentinfo [ref=e195]:
+                - generic [ref=e201]: –– ––– ––– –– ––– – ––– ––– –––– – – –– ––– – – ––– –– –– –––– ––
+              - figure [ref=e203]:
+                - link "eine Nahaufnahme von Wassertropfen auf schwarzem Hintergrund" [ref=e206]:
+                  - /url: /de/fotos/eine-nahaufnahme-von-wassertropfen-auf-schwarzem-hintergrund-WnM3NUDHZ0k
+                  - img "eine Nahaufnahme von Wassertropfen auf schwarzem Hintergrund" [ref=e207]
+              - figure [ref=e208]:
+                - link "ein großer violetter Diamant auf schwarzem Hintergrund" [ref=e211]:
+                  - /url: /de/fotos/ein-grosser-violetter-diamant-auf-schwarzem-hintergrund-NP7wGviTS64
+                  - img "ein großer violetter Diamant auf schwarzem Hintergrund" [ref=e212]
+              - figure [ref=e213]:
+                - link "Dreieckige, durchscheinende Objekte sind gruppiert." [ref=e216]:
+                  - /url: /de/fotos/dreieckige-durchscheinende-objekte-sind-gruppiert-1nwNDvlLOhE
+                  - img "Dreieckige, durchscheinende Objekte sind gruppiert." [ref=e217]
+              - figure [ref=e218]:
+                - link "ein dunkelblauer abstrakter Hintergrund mit Linien und Punkten" [ref=e221]:
+                  - /url: /de/fotos/ein-dunkelblauer-abstrakter-hintergrund-mit-linien-und-punkten-gJg3oHZJjkc
+                  - img "ein dunkelblauer abstrakter Hintergrund mit Linien und Punkten" [ref=e222]
+              - figure [ref=e223]:
+                - link "Blaue und weiße abstrakte Malerei" [ref=e226]:
+                  - /url: /de/fotos/blaue-und-weisse-abstrakte-malerei-zdaFPS1hAWA
+                  - img "Blaue und weiße abstrakte Malerei" [ref=e227]
+          - generic [ref=e230]:
+            - heading "Premium-Bilder auf iStock durchsuchen | Jetzt Rabatt sichern" [level=2] [ref=e231]:
+              - text: Premium-Bilder auf iStock durchsuchen
+              - generic [ref=e232]: "| Jetzt Rabatt sichern"
+            - generic [ref=e234]:
+              - link "Funkelndes Licht rund brillant geschnitten Diamant mit Schatten. 3D-Rendering-Illustration isoliert auf schwarzem Hintergrund" [ref=e235] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/sparkling-light-round-brilliant-cut-diamond-with-shadow-3d-rendering-illustration-gm1207698975-348792691?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Funkelndes Licht rund brillant geschnitten Diamant mit Schatten. 3D-Rendering-Illustration isoliert auf schwarzem Hintergrund" [ref=e236]
+              - link "Fünfzehn beliebte Diamantschnittsstile mit Titeln auf dunkelgrau glänzenden Hintergrund" [ref=e237] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/fifteen-popular-diamond-cut-styles-with-titles-on-dark-gray-glossy-background-gm1136170461-302503535?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Fünfzehn beliebte Diamantschnittsstile mit Titeln auf dunkelgrau glänzenden Hintergrund" [ref=e238]
+              - link "Diamanten auf Schwarz" [ref=e239] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/diamonds-on-black-gm172850673-5680245?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Diamanten auf Schwarz" [ref=e240]
+              - link "Granatapfel Fruchtstücke Fett liegen Hintergrund" [ref=e241] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/pomegranate-fruit-pieces-fat-lay-background-gm1295999493-389552389?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Granatapfel Fruchtstücke Fett liegen Hintergrund" [ref=e242]
+              - link "Schöne hohle Achat Halbedelstein mit klaren rohen Kristallen in Geode. Mineralogie" [ref=e243] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/beautiful-hollow-agate-semi-precious-stone-with-clear-raw-crystals-inside-geode-gm1199745181-343384566?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Schöne hohle Achat Halbedelstein mit klaren rohen Kristallen in Geode. Mineralogie" [ref=e244]
+              - link "Euomphalus Fossil Marine Gastropod" [ref=e245] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/euomphalus-fossil-marine-gastropod-gm1396849019-451464868?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Euomphalus Fossil Marine Gastropod" [ref=e246]
+              - link "Schillernder Diamant mit Reflexion auf schwarzem Hintergrund" [ref=e247] [cursor=pointer]:
+                - /url: https://www.istockphoto.com/photo/dazzling-diamond-with-reflection-on-black-background-gm2158606576-579240139?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                - img "Schillernder Diamant mit Reflexion auf schwarzem Hintergrund" [ref=e248]
+              - generic [ref=e249]:
+                - link "Schwarze Samttasche mit einer Streuung von mehrfarbigen Steinen auf dunklem Hintergrund. Ausstellung von Edelsteinen. Nahaufnahme. 3D-Rendering." [ref=e250] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/photo/velvet-black-bag-with-a-scattering-of-multi-colored-stones-on-a-dark-background-gm2245561063-659580413?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A
+                  - img "Schwarze Samttasche mit einer Streuung von mehrfarbigen Steinen auf dunklem Hintergrund. Ausstellung von Edelsteinen. Nahaufnahme. 3D-Rendering." [ref=e251]
+                - link "Mehr auf iStock anzeigen ↗" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.istockphoto.com/search/2/image?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fde%2Fs%2Ffotos%2Fcut-gemstones-black-background&utm_term=cut+gemstones+black+background%3A%3Aaffiliate-layout-optim%3Acontrol%3A&phrase=cut+gemstones+black+background&alloweduse=availableforalluses&excludenudity=true&sort=best&mediatype=photography
+          - button "Mehr laden" [ref=e256] [cursor=pointer]
+          - generic [ref=e257]:
+            - link [ref=e258] [cursor=pointer]:
+              - /url: /de
+              - img [ref=e259]
+            - paragraph [ref=e261]: Gestalten Sie etwas Außergewöhnliches
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,297 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "+49 711 340 358-70" [ref=e5] [cursor=pointer]:
+        - /url: tel:+4971134035870
+      - generic [ref=e6]: ·
+      - link "termin@foqus-fellbach.de" [ref=e7] [cursor=pointer]:
+        - /url: mailto:termin@foqus-fellbach.de
+    - generic [ref=e8]:
+      - generic [ref=e9]: Stuttgarter Str. 26, Fellbach
+      - generic [ref=e10]: ·
+      - generic [ref=e11]: Alle Kassen & Privat
+  - banner [ref=e12]:
+    - generic [ref=e13]:
+      - link "FOQUS Fellbach Startseite" [ref=e14] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=e15]:
+          - img [ref=e16]
+          - img [ref=e19]
+        - generic [ref=e22]:
+          - text: FOQUS
+          - generic [ref=e23]: Fellbach · Augen & Haut
+      - navigation "Hauptnavigation" [ref=e24]:
+        - link "Fachbereiche ↓" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+        - link "Ärzte-Team" [ref=e27] [cursor=pointer]:
+          - /url: team.html
+        - link "Praxis" [ref=e28] [cursor=pointer]:
+          - /url: index.html#praxis
+        - link "Kontakt" [ref=e29] [cursor=pointer]:
+          - /url: kontakt.html
+        - link "Termin buchen →" [ref=e30] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin buchen
+          - generic [ref=e31]: →
+  - main [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]: Anfahrt & Kontakt
+      - heading "Wir freuen uns auf Sie." [level=1] [ref=e37]:
+        - text: Wir freuen uns
+        - emphasis [ref=e38]: auf Sie.
+      - paragraph [ref=e39]: Unsere Praxis liegt zentral in Fellbach — gut erreichbar mit Bus, S-Bahn und Auto. Termine vereinbaren Sie online, telefonisch oder per E-Mail.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: Sprechzeiten
+        - heading "Zwei Fachbereiche — zwei Sprechzeiten-Pläne." [level=2] [ref=e44]:
+          - text: Zwei Fachbereiche —
+          - emphasis [ref=e45]: zwei Sprechzeiten-Pläne.
+        - paragraph [ref=e46]: Da Augenheilkunde und Dermatologie unterschiedliche Abläufe haben, sind auch die Sprechzeiten getrennt. Bitte orientieren Sie sich am jeweiligen Fachbereich.
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - heading "Augenheilkunde" [level=3] [ref=e49]
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: Montag
+              - generic [ref=e53]: 8:00–12:00 · 14:00–16:00
+            - generic [ref=e54]:
+              - generic [ref=e55]: Dienstag
+              - generic [ref=e56]: 8:00–12:00 · 14:00–16:00
+            - generic [ref=e57]:
+              - generic [ref=e58]: Mittwoch
+              - generic [ref=e59]: 8:00–12:00 · 14:00–16:00
+            - generic [ref=e60]:
+              - generic [ref=e61]: Donnerstag
+              - generic [ref=e62]: 8:00–12:00 · 14:00–16:00
+            - generic [ref=e63]:
+              - generic [ref=e64]: Freitag
+              - generic [ref=e65]: 8:00–12:00
+            - generic [ref=e66]:
+              - generic [ref=e67]: Samstag / Sonntag
+              - generic [ref=e68]: geschlossen
+          - paragraph [ref=e69]: Offene Sprechstunde für dringende Beschwerden nach verfügbaren Kapazitäten.
+        - generic [ref=e70]:
+          - heading "Dermatologie" [level=3] [ref=e71]
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: Montag
+              - generic [ref=e75]: 8:00–12:00
+            - generic [ref=e76]:
+              - generic [ref=e77]: Dienstag
+              - generic [ref=e78]: 8:00–12:00
+            - generic [ref=e79]:
+              - generic [ref=e80]: Mittwoch
+              - generic [ref=e81]: 8:00–12:00
+            - generic [ref=e82]:
+              - generic [ref=e83]: Donnerstag
+              - generic [ref=e84]: 8:00–12:00
+            - generic [ref=e85]:
+              - generic [ref=e86]: Freitag
+              - generic [ref=e87]: 8:00–12:00
+            - generic [ref=e88]:
+              - generic [ref=e89]: Nachmittags
+              - generic [ref=e90]: nach Vereinbarung
+          - paragraph [ref=e91]: Operative Eingriffe und Laserbehandlungen erfolgen nach individueller Terminvereinbarung.
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]: Telefon
+          - link "+49 711 340 358-70" [ref=e98] [cursor=pointer]:
+            - /url: tel:+4971134035870
+          - paragraph [ref=e99]: Erreichbar während der Sprechzeiten. Bitte bereiten Sie Ihre Versichertenkarte oder Versicherungsdaten vor.
+        - generic [ref=e100]:
+          - generic [ref=e101]: E-Mail
+          - link "termin@foqus-fellbach.de" [ref=e103] [cursor=pointer]:
+            - /url: mailto:termin@foqus-fellbach.de
+          - paragraph [ref=e104]:
+            - text: Für Terminanfragen und organisatorische Fragen.
+            - text: "Absagen bitte an:"
+            - link "terminabsage@foqus-fellbach.de" [ref=e105] [cursor=pointer]:
+              - /url: mailto:terminabsage@foqus-fellbach.de
+        - generic [ref=e106]:
+          - generic [ref=e107]: Online-Terminbuchung
+          - generic [ref=e108]: 24 / 7 — über arzt-direkt.de
+          - paragraph [ref=e109]:
+            - link "Zum Buchungsportal →" [ref=e110] [cursor=pointer]:
+              - /url: https://app.arzt-direkt.de/foqus/booking
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]: Adresse
+          - generic [ref=e114]:
+            - text: FOQUS Fellbach
+            - text: Stuttgarter Str. 26
+            - text: 70736 Fellbach
+          - paragraph [ref=e115]: Baden-Württemberg · Region Stuttgart
+        - generic [ref=e116]:
+          - generic [ref=e117]: Anfahrt ÖPNV
+          - generic [ref=e118]: S-Bahn S2 · S3 — Fellbach
+          - paragraph [ref=e119]: Vom Bahnhof Fellbach ca. 8 Minuten zu Fuß. Buslinien direkt vor der Tür.
+        - generic [ref=e120]:
+          - generic [ref=e121]: Parken
+          - generic [ref=e122]: Parkplätze in der Umgebung
+          - paragraph [ref=e123]: Öffentliche Parkmöglichkeiten in unmittelbarer Nähe der Praxis.
+        - generic [ref=e124]:
+          - generic [ref=e125]: Versicherung
+          - generic [ref=e126]: Privat & alle Kassen
+          - paragraph [ref=e127]: Wir behandeln gesetzlich und privat versicherte Patientinnen und Patienten sowie Selbstzahler.
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - generic [ref=e131]: So finden Sie uns
+        - heading "Zentral in Fellbach — fünf Minuten vom S-Bahnhof." [level=2] [ref=e132]:
+          - text: Zentral in Fellbach —
+          - emphasis [ref=e133]: fünf Minuten vom S-Bahnhof.
+      - generic [ref=e134]:
+        - iframe [ref=e136]:
+          - generic [ref=f1e2]:
+            - img
+            - generic:
+              - region "Karte" [ref=f1e3]
+              - button "[missing \"de-DE.javascripts.map.marker.title\" translation]" [ref=f1e4]:
+                - img [ref=f1e5]
+            - generic:
+              - generic [ref=f1e8]:
+                - button "Vergrößern" [ref=f1e9] [cursor=pointer]
+                - button "Verkleinern" [ref=f1e11] [cursor=pointer]
+              - group [ref=f1e13]:
+                - generic [ref=f1e14]:
+                  - text: ©
+                  - link "OpenStreetMap Mitwirkende" [ref=f1e15] [cursor=pointer]:
+                    - /url: /copyright
+                  - text: ♥️
+                  - link "Spenden" [ref=f1e16] [cursor=pointer]:
+                    - /url: https://supporting.openstreetmap.org
+                  - text: .
+                  - link "Website und API-Bedingungen" [ref=f1e17] [cursor=pointer]:
+                    - /url: https://wiki.osmfoundation.org/wiki/Terms_of_Use
+        - generic [ref=e137]:
+          - generic [ref=e138]:
+            - generic [ref=e139]: FOQUS Fellbach
+            - generic [ref=e140]:
+              - text: Stuttgarter Str. 26
+              - text: 70736 Fellbach
+              - text: Deutschland
+          - generic [ref=e141]:
+            - generic [ref=e142]: Mit öffentlichen Verkehrsmitteln
+            - generic [ref=e143]:
+              - text: S-Bahn Fellbach (S2, S3) — ca. 8 Min. Fußweg.
+              - text: Verschiedene Buslinien halten in unmittelbarer Nähe.
+          - generic [ref=e144]:
+            - generic [ref=e145]: Mit dem Auto
+            - generic [ref=e146]: Über die B14 / B29. Öffentliche Parkmöglichkeiten sind in der Nähe vorhanden.
+          - generic [ref=e147]:
+            - generic [ref=e148]: Barrierefreiheit
+            - generic [ref=e149]: Die Praxis ist barrierefrei erreichbar. Bei Fragen sprechen Sie uns gerne vorab telefonisch an.
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - generic [ref=e154]: Anfrage per Nachricht
+        - heading "Schreiben Sie uns — wir melden uns zeitnah." [level=2] [ref=e155]:
+          - text: Schreiben Sie uns —
+          - emphasis [ref=e156]: wir melden uns zeitnah.
+        - paragraph [ref=e157]:
+          - text: Für allgemeine Fragen, Zuweisungen oder organisatorische Anliegen.
+          - strong [ref=e158]: Bitte senden Sie keine medizinischen Details oder Befunde per E-Mail
+          - text: — diese besprechen wir persönlich in der Sprechstunde.
+        - paragraph [ref=e159]:
+          - text: "Für dringliche medizinische Fragen nutzen Sie bitte unser Telefon:"
+          - link "+49 711 340 358-70" [ref=e160] [cursor=pointer]:
+            - /url: tel:+4971134035870
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - generic [ref=e163]:
+            - generic [ref=e164]: Name
+            - textbox "Name" [ref=e165]
+          - generic [ref=e166]:
+            - generic [ref=e167]: E-Mail
+            - textbox "E-Mail" [ref=e168]
+        - generic [ref=e169]:
+          - generic [ref=e170]: Telefon (optional)
+          - textbox "Telefon (optional)" [ref=e171]
+        - generic [ref=e172]:
+          - generic [ref=e173]: Anliegen
+          - combobox "Anliegen" [ref=e174]:
+            - option "Allgemeine Anfrage" [selected]
+            - option "Termin-Rückruf erbeten"
+            - option "Organisatorische Frage"
+            - option "Zuweisung durch Facharzt"
+        - generic [ref=e175]:
+          - generic [ref=e176]: Nachricht
+          - textbox "Nachricht" [ref=e177]
+        - button "Nachricht senden →" [ref=e179] [cursor=pointer]:
+          - text: Nachricht senden
+          - generic [ref=e180]: →
+        - paragraph [ref=e181]: Mit dem Absenden erklären Sie sich mit der Verarbeitung Ihrer Daten gemäß unserer Datenschutzerklärung einverstanden.
+    - generic [ref=e183]:
+      - heading "Online-Termin. Rund um die Uhr." [level=2] [ref=e184]:
+        - text: Online-Termin.
+        - emphasis [ref=e185]: Rund um die Uhr.
+      - paragraph [ref=e186]: Buchen Sie Ihren Wunschtermin über unser Online-Portal — mit wenigen Klicks, ohne Wartezeit am Telefon.
+      - generic [ref=e187]:
+        - link "Termin online buchen →" [ref=e188] [cursor=pointer]:
+          - /url: https://app.arzt-direkt.de/foqus/booking
+          - text: Termin online buchen
+          - generic [ref=e189]: →
+        - link "+49 711 340 358-70" [ref=e190] [cursor=pointer]:
+          - /url: tel:+4971134035870
+  - contentinfo [ref=e191]:
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e195]: FOQUS
+          - paragraph [ref=e196]: Medizinisches Zentrum für Augen und Haut in Fellbach. Fachärztliche Versorgung in Augenheilkunde und Dermatologie.
+        - generic [ref=e197]:
+          - heading "Fachbereiche" [level=4] [ref=e198]
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - link "Augenheilkunde" [ref=e201] [cursor=pointer]:
+                - /url: augenheilkunde.html
+            - listitem [ref=e202]:
+              - link "Dermatologie" [ref=e203] [cursor=pointer]:
+                - /url: dermatologie.html
+            - listitem [ref=e204]:
+              - link "Ästhetik & Kosmetik" [ref=e205] [cursor=pointer]:
+                - /url: aesthetik.html
+            - listitem [ref=e206]:
+              - link "Dermatochirurgie" [ref=e207] [cursor=pointer]:
+                - /url: dermatochirurgie.html
+            - listitem [ref=e208]:
+              - link "Lasermedizin" [ref=e209] [cursor=pointer]:
+                - /url: lasermedizin.html
+        - generic [ref=e210]:
+          - heading "Praxis" [level=4] [ref=e211]
+          - list [ref=e212]:
+            - listitem [ref=e213]:
+              - link "Ärzte-Team" [ref=e214] [cursor=pointer]:
+                - /url: team.html
+            - listitem [ref=e215]:
+              - link "Anfahrt & Kontakt" [ref=e216] [cursor=pointer]:
+                - /url: kontakt.html
+            - listitem [ref=e217]:
+              - link "Termin buchen" [ref=e218] [cursor=pointer]:
+                - /url: https://app.arzt-direkt.de/foqus/booking
+        - generic [ref=e219]:
+          - heading "Kontakt" [level=4] [ref=e220]
+          - generic [ref=e221]:
+            - strong [ref=e222]: FOQUS Fellbach
+            - text: Stuttgarter Str. 26
+            - text: 70736 Fellbach
+            - link "+49 711 340 358-70" [ref=e223] [cursor=pointer]:
+              - /url: tel:+4971134035870
+            - link "termin@foqus-fellbach.de" [ref=e224] [cursor=pointer]:
+              - /url: mailto:termin@foqus-fellbach.de
+      - separator [ref=e225]
+      - generic [ref=e226]:
+        - generic [ref=e227]: © 2026 FOQUS Fellbach · Medizinisches Zentrum für Augen und Haut
+        - generic [ref=e228]:
+          - link "Impressum" [ref=e229] [cursor=pointer]:
+            - /url: "#"
+          - link "Datenschutz" [ref=e230] [cursor=pointer]:
+            - /url: "#"
+          - link "Barrierefreiheit" [ref=e231] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e232]:
+          - link "Instagram" [ref=e233] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e234]
+          - link "Facebook" [ref=e238] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e239]

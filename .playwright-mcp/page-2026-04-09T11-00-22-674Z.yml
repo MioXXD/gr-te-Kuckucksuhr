@@ -1,0 +1,256 @@
+- generic [ref=e1]:
+  - dialog [ref=e2]:
+    - button "Schließen" [ref=e3] [cursor=pointer]:
+      - img [ref=e4]
+    - paragraph [ref=e6]:
+      - text: Unsplash verwendet Cookies und ähnliche Technologien, um unsere Webseite zu sichern, nützliche Funktionen für gebührenfreie und zahlende Nutzer bereitzustellen und um eine optimale Leistung zu gewährleisten. Wenn Sie auf „Alle Cookies akzeptieren“ klicken oder dieses Prompt schließen, stimmen Sie der Verwendung aller Cookies zu. Durch Klicken auf „Nur Unverzichtbare akzeptieren“ erklären Sie sich mit der Verwendung von Cookies einverstanden, die für die Funktion der Webseite unbedingt erforderlich sind. Weitere Informationen finden Sie in unseren
+      - link "Cookie-Richtlinien" [ref=e7] [cursor=pointer]:
+        - /url: /de/cookies
+      - text: .
+    - link "Cookies verwalten" [ref=e9] [cursor=pointer]:
+      - /url: /de/cookies#manage-consent
+    - generic [ref=e10]:
+      - button "Nur Unverzichtbare akzeptieren" [ref=e11] [cursor=pointer]
+      - button "Alle Cookies akzeptieren" [active] [ref=e12] [cursor=pointer]
+  - generic [ref=e16]:
+    - navigation [ref=e17]:
+      - link "Unsplash-Startseite" [ref=e20] [cursor=pointer]:
+        - /url: /de
+        - img "Unsplash-Startseite" [ref=e21]
+      - generic [ref=e23]:
+        - link "Anmelden / Registrieren" [ref=e24] [cursor=pointer]:
+          - /url: /de/login?referrer=%2Fde%2Ffotos%2Fein-roter-sportwagen-fahrt-auf-einer-rennstrecke-b47GUsarTrQ
+          - img [ref=e25]
+        - button "Sprache" [ref=e27] [cursor=pointer]:
+          - img [ref=e28]
+        - button "Menü" [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - navigation [ref=e35]:
+          - search "Finden Sie Bildmaterial auf der ganzen Webseite" [ref=e37]:
+            - button "Unsplash suchen" [ref=e38] [cursor=pointer]:
+              - img [ref=e39]
+            - combobox [ref=e41]:
+              - searchbox "Unsplash suchen" [ref=e42]
+              - listbox
+            - button "Visuelle Suche" [ref=e43] [cursor=pointer]:
+              - img [ref=e44]
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - banner [ref=e49]:
+              - generic [ref=e51]:
+                - link [ref=e52] [cursor=pointer]:
+                  - /url: /de/@anthonyjames_f8
+                - generic [ref=e55]:
+                  - link "James Smith" [ref=e56] [cursor=pointer]:
+                    - /url: /de/@anthonyjames_f8
+                  - link "anthonyjames_f8" [ref=e58] [cursor=pointer]:
+                    - /url: /de/@anthonyjames_f8
+              - generic [ref=e59]:
+                - button "Lesezeichen setzen" [ref=e60] [cursor=pointer]:
+                  - img [ref=e61]
+                - button "Zu Kollektion hinzufügen" [ref=e63] [cursor=pointer]:
+                  - img [ref=e64]
+                - button "Bild bearbeiten" [ref=e66] [cursor=pointer]:
+                  - text: Bild bearbeiten
+                  - img [ref=e67]
+                - generic [ref=e70]:
+                  - link "Kostenlos herunterladen" [ref=e71] [cursor=pointer]:
+                    - /url: https://unsplash.com/photos/b47GUsarTrQ/download?force=true
+                  - button "Downloadgröße auswählen" [ref=e73] [cursor=pointer]:
+                    - img [ref=e74]
+            - button "Dieses Bild heranzoomen" [ref=e79]:
+              - img "Ein roter Sportwagen fährt auf einer Rennstrecke" [ref=e80]
+              - generic:
+                - generic:
+                  - img
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - generic [ref=e84]:
+                    - heading "Aufrufe" [level=3] [ref=e85]
+                    - text: "32.100"
+                  - generic [ref=e86]:
+                    - heading "Downloads" [level=3] [ref=e87]
+                    - text: "237"
+                - generic [ref=e88]:
+                  - button "Dieses Bild teilen" [ref=e89] [cursor=pointer]:
+                    - img [ref=e90]
+                    - generic [ref=e92]: Teilen
+                  - button "Statistiken zu diesem Bild" [ref=e93] [cursor=pointer]:
+                    - img [ref=e94]
+                    - generic [ref=e96]: Info
+                  - button "Weitere Aktionen" [ref=e97] [cursor=pointer]:
+                    - img [ref=e98]
+              - generic [ref=e101]:
+                - heading "Ein roter Sportwagen fährt auf einer Rennstrecke" [level=1] [ref=e103]
+                - paragraph [ref=e107]: Laden Sie dieses kostenlose HD-Foto zum Thema Auto, rot, Ferrari und Supersportwagen von James Smith (@anthonyjames_f8) herunter
+                - generic [ref=e109]:
+                  - generic [ref=e110]:
+                    - img [ref=e111]
+                    - generic [ref=e114]:
+                      - text: Veröffentlicht am
+                      - time [ref=e115]: 4. März 2024
+                  - generic [ref=e116]:
+                    - img [ref=e117]
+                    - button "Canon, EOS R6m2" [ref=e120] [cursor=pointer]
+                  - generic [ref=e121]:
+                    - img [ref=e122]
+                    - generic [ref=e124]:
+                      - text: Kostenlos zu verwenden im Rahmen der
+                      - link "Unsplash Lizenz" [ref=e125] [cursor=pointer]:
+                        - /url: /de/lizenz
+              - generic [ref=e127]:
+                - link "Auto" [ref=e128] [cursor=pointer]:
+                  - /url: /de/s/fotos/auto
+                - link "rot" [ref=e129] [cursor=pointer]:
+                  - /url: /de/s/fotos/rot
+                - link "Ferrari" [ref=e130] [cursor=pointer]:
+                  - /url: /de/s/fotos/ferrari
+                - link "Supersportwagen" [ref=e131] [cursor=pointer]:
+                  - /url: /de/s/fotos/supersportwagen
+                - link "fahrend" [ref=e132] [cursor=pointer]:
+                  - /url: /de/s/fotos/fahrend
+                - link "Rennen" [ref=e133] [cursor=pointer]:
+                  - /url: /de/s/fotos/rennen
+                - link "Rennen" [ref=e134] [cursor=pointer]:
+                  - /url: /de/s/fotos/rennen
+                - link "Spur" [ref=e135] [cursor=pointer]:
+                  - /url: /de/s/fotos/spur
+                - link "Motorsport" [ref=e136] [cursor=pointer]:
+                  - /url: /de/s/fotos/motorsport
+                - link "Mensch" [ref=e137] [cursor=pointer]:
+                  - /url: /de/s/fotos/mensch
+                - link "Sportwagen" [ref=e138] [cursor=pointer]:
+                  - /url: /de/s/fotos/sportwagen
+                - link "Fahrzeug" [ref=e139] [cursor=pointer]:
+                  - /url: /de/s/fotos/fahrzeug
+                - link "Maschine" [ref=e140] [cursor=pointer]:
+                  - /url: /de/s/fotos/maschine
+                - link "Automobil" [ref=e141] [cursor=pointer]:
+                  - /url: /de/s/fotos/automobil
+                - link "Rad" [ref=e142] [cursor=pointer]:
+                  - /url: /de/s/fotos/rad
+                - link "ermüden" [ref=e143] [cursor=pointer]:
+                  - /url: /de/s/fotos/erm%C3%BCden
+                - link "Autorad" [ref=e144] [cursor=pointer]:
+                  - /url: /de/s/fotos/autorad
+                - link "Coupé" [ref=e145] [cursor=pointer]:
+                  - /url: /de/s/fotos/coup%C3%A9
+                - link "Leichtmetallfelgen" [ref=e146] [cursor=pointer]:
+                  - /url: /de/s/fotos/leichtmetallfelgen
+                - link "Speiche" [ref=e147] [cursor=pointer]:
+                  - /url: /de/s/fotos/speiche
+                - link "HDR-Bilder" [ref=e148] [cursor=pointer]:
+                  - /url: /de/images/stock/hdr
+          - generic [ref=e151]:
+            - paragraph [ref=e154]: Ähnliche Premium-Bilder auf iStock durchsuchen | 20 % Rabatt mit Aktionscode UNSPLASH20
+            - generic [ref=e165]:
+              - heading "Ähnliche Bilder" [level=4] [ref=e167]
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - figure [ref=e173]:
+                    - link "Ein roter Sportwagen auf einem Parkplatz geparkt" [ref=e176]:
+                      - /url: /de/fotos/ein-roter-sportwagen-auf-einem-parkplatz-geparkt-YFhEYKPjGOA
+                      - img "Ein roter Sportwagen auf einem Parkplatz geparkt" [ref=e177]
+                  - figure [ref=e178]:
+                    - link "Ein roter Sportwagen parkt vor einer Garage" [ref=e181]:
+                      - /url: /de/fotos/ein-roter-sportwagen-parkt-vor-einer-garage-PDmy_f5IShc
+                      - img "Ein roter Sportwagen parkt vor einer Garage" [ref=e182]
+                  - figure [ref=e183]:
+                    - link "Ein schwarzer Sportwagen parkt vor einem Holzzaun" [ref=e186]:
+                      - /url: /de/fotos/ein-schwarzer-sportwagen-parkt-vor-einem-holzzaun-hhLQqe44WDw
+                      - img "Ein schwarzer Sportwagen parkt vor einem Holzzaun" [ref=e187]
+                  - figure [ref=e188]:
+                    - generic [ref=e190]:
+                      - link "Ein rotes Auto mit einer gelben Linie, die herauskommt" [ref=e191]:
+                        - /url: /de/fotos/ein-rotes-auto-mit-einer-gelben-linie-die-herauskommt-lf7kOwG-uzU
+                        - img "Ein rotes Auto mit einer gelben Linie, die herauskommt" [ref=e192]
+                      - link [ref=e193] [cursor=pointer]:
+                        - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-rotes-auto-mit-einer-gelben-linie-die-herauskommt-lf7kOwG-uzU
+                        - img [ref=e194]
+                  - figure [ref=e196]:
+                    - link "ein roter sportwagen, der eine rennstrecke hinunterfährt" [ref=e199]:
+                      - /url: /de/fotos/ein-roter-sportwagen-der-eine-rennstrecke-hinunterfahrt-k4IrKtZ89FE
+                      - img "ein roter sportwagen, der eine rennstrecke hinunterfährt" [ref=e200]
+                  - figure [ref=e201]:
+                    - generic [ref=e203]:
+                      - 'link "HINWEIS AN DEN INSPEKTOR: Diese Autos sind unsere eigenen 3D-Generik-Designs. Sie verletzen keine urheberrechtlich geschützten Designs.***" [ref=e204]':
+                        - /url: /de/fotos/hinweis-an-den-inspektor-diese-autos-sind-unsere-eigenen-3d-generik-designs-sie-verletzen-keine-urheberrechtlich-geschutzten-designs-ymd7hXfUkL8
+                        - 'img "HINWEIS AN DEN INSPEKTOR: Diese Autos sind unsere eigenen 3D-Generik-Designs. Sie verletzen keine urheberrechtlich geschützten Designs.***" [ref=e205]'
+                      - link [ref=e206] [cursor=pointer]:
+                        - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fhinweis-an-den-inspektor-diese-autos-sind-unsere-eigenen-3d-generik-designs-sie-verletzen-keine-urheberrechtlich-geschutzten-designs-ymd7hXfUkL8
+                        - img [ref=e207]
+                - generic [ref=e209]:
+                  - figure [ref=e210]:
+                    - link "Roter Ferrari 458 Italia auf grauem Pflaster" [ref=e213]:
+                      - /url: /de/fotos/roter-ferrari-458-italia-auf-grauem-pflaster-uPrFF1Qat2s
+                      - img "Roter Ferrari 458 Italia auf grauem Pflaster" [ref=e214]
+                  - figure [ref=e215]:
+                    - generic [ref=e217]:
+                      - link "Ein roter Sportwagen fährt eine Straße hinunter" [ref=e218]:
+                        - /url: /de/fotos/ein-roter-sportwagen-fahrt-eine-strasse-hinunter-JwG82HRGG3U
+                        - img "Ein roter Sportwagen fährt eine Straße hinunter" [ref=e219]
+                      - link [ref=e220] [cursor=pointer]:
+                        - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-roter-sportwagen-fahrt-eine-strasse-hinunter-JwG82HRGG3U
+                        - img [ref=e221]
+                  - figure [ref=e223]:
+                    - link "ein weißer sportwagen, der eine straße entlang fährt" [ref=e226]:
+                      - /url: /de/fotos/ein-weisser-sportwagen-der-eine-strasse-entlang-fahrt-nRwqsuLetHY
+                      - img "ein weißer sportwagen, der eine straße entlang fährt" [ref=e227]
+                  - figure [ref=e228]:
+                    - link "roter Ferrari F430 Scuderia auf der Straße" [ref=e231]:
+                      - /url: /de/fotos/roter-ferrari-f430-scuderia-auf-der-strasse-LX0pplSjE2g
+                      - img "roter Ferrari F430 Scuderia auf der Straße" [ref=e232]
+                  - figure [ref=e233]:
+                    - link "Ein roter Sportwagen parkt neben einem schwarzen Sportwagen" [ref=e236]:
+                      - /url: /de/fotos/ein-roter-sportwagen-parkt-neben-einem-schwarzen-sportwagen-6CGo8YCue2I
+                      - img "Ein roter Sportwagen parkt neben einem schwarzen Sportwagen" [ref=e237]
+                  - figure [ref=e238]:
+                    - link "Ein roter Ferrari fährt auf einer kurvigen Straße." [ref=e241]:
+                      - /url: /de/fotos/ein-roter-ferrari-fahrt-auf-einer-kurvigen-strasse-1Hq7N9ZzEbE
+                      - img "Ein roter Ferrari fährt auf einer kurvigen Straße." [ref=e242]
+                  - figure [ref=e243]:
+                    - link "Ein roter Sportwagen parkt vor einem Gebäude" [ref=e246]:
+                      - /url: /de/fotos/ein-roter-sportwagen-parkt-vor-einem-gebaude-gcihFCZWVwo
+                      - img "Ein roter Sportwagen parkt vor einem Gebäude" [ref=e247]
+                - generic [ref=e248]:
+                  - figure [ref=e249]:
+                    - link "Roter Ferrari 458 Italia tagsüber in der Nähe von Brown House" [ref=e252]:
+                      - /url: /de/fotos/roter-ferrari-458-italia-tagsuber-in-der-nahe-von-brown-house-me70xmK9IyQ
+                      - img "Roter Ferrari 458 Italia tagsüber in der Nähe von Brown House" [ref=e253]
+                  - figure [ref=e254]:
+                    - link "Ein roter Ferrari fährt eine kurvenreiche Straße entlang." [ref=e257]:
+                      - /url: /de/fotos/ein-roter-ferrari-fahrt-eine-kurvenreiche-strasse-entlang-VFY_YtPJpGk
+                      - img "Ein roter Ferrari fährt eine kurvenreiche Straße entlang." [ref=e258]
+                  - figure [ref=e259]:
+                    - generic [ref=e261]:
+                      - link "Ein Schwarz-Weiß-Foto eines Sportwagens" [ref=e262]:
+                        - /url: /de/fotos/ein-schwarz-weiss-foto-eines-sportwagens-Y59a1-HvbDk
+                        - img "Ein Schwarz-Weiß-Foto eines Sportwagens" [ref=e263]
+                      - link [ref=e264] [cursor=pointer]:
+                        - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-schwarz-weiss-foto-eines-sportwagens-Y59a1-HvbDk
+                        - img [ref=e265]
+                  - figure [ref=e267]:
+                    - link "Roter Ferrari 458 Italia parkt in der Nähe des grauen Gebäudes" [ref=e270]:
+                      - /url: /de/fotos/roter-ferrari-458-italia-parkt-in-der-nahe-des-grauen-gebaudes-Wl6OeSGyOf4
+                      - img "Roter Ferrari 458 Italia parkt in der Nähe des grauen Gebäudes" [ref=e271]
+                  - figure [ref=e272]:
+                    - link "Ein roter Sportwagen" [ref=e275]:
+                      - /url: /de/fotos/ein-roter-sportwagen-xDVuBAshR7g
+                      - img "Ein roter Sportwagen" [ref=e276]
+                  - figure [ref=e277]:
+                    - generic [ref=e279]:
+                      - link "Ein roter Sportwagen fährt durch einen dunklen Raum" [ref=e280]:
+                        - /url: /de/fotos/ein-roter-sportwagen-fahrt-durch-einen-dunklen-raum-Scn3jNtP6eE
+                        - img "Ein roter Sportwagen fährt durch einen dunklen Raum" [ref=e281]
+                      - link [ref=e282] [cursor=pointer]:
+                        - /url: /de/plus?referrer=%2Fde%2Ffotos%2Fein-roter-sportwagen-fahrt-durch-einen-dunklen-raum-Scn3jNtP6eE
+                        - img [ref=e283]
+                  - figure [ref=e285]:
+                    - link "Ein roter Sportwagen, der über eine nasse Straße fährt" [ref=e288]:
+                      - /url: /de/fotos/ein-roter-sportwagen-der-uber-eine-nasse-strasse-fahrt-CGaEkNvICLo
+                      - img "Ein roter Sportwagen, der über eine nasse Straße fährt" [ref=e289]
+      - generic:
+        - region "Notifications"
